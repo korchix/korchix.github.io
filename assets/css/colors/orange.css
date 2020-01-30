@@ -1,0 +1,270 @@
+/* 
+    main-color : @main-color;
+    btn hover color : #6227e7;
+*/
+.btn {
+  color: #fff;
+  background: #ff4b1f;
+  background: -webkit-linear-gradient(bottom left, #ff4b1f, #1fddff);
+  background: -o-linear-gradient(bottom left, #ff4b1f, #1fddff);
+  background: -moz-linear-gradient(bottom left, #ff4b1f, #1fddff);
+  background: linear-gradient(bottom left, #ff4b1f, #1fddff);
+}
+.btn:hover {
+  background: #ff4b1f;
+  background: -webkit-linear-gradient(bottom left, #1fddff, #ff4b1f);
+  background: -o-linear-gradient(bottom left, #1fddff, #ff4b1f);
+  background: -moz-linear-gradient(bottom left, #1fddff, #ff4b1f);
+  background: linear-gradient(bottom left, #1fddff, #ff4b1f);
+}
+.btn-fill {
+  border-color: #ff4b1f;
+}
+.color-bg {
+  background-color: #ff4b1f;
+  color: #fff;
+}
+.color {
+  color: #ff4b1f;
+}
+.white-bg {
+  background-color: #fff;
+  color: #333;
+}
+.black-bg {
+  background-color: #333;
+  color: #fff;
+}
+.footer-bg {
+  background-color: #2a2f36;
+  color: #fff;
+}
+.main-color-bg {
+  background-color: #ff4b1f;
+  color: #fff;
+}
+.main-color {
+  color: #ff4b1f;
+}
+.form-control:focus {
+  color: #ff4b1f;
+}
+.ldx-overlay {
+  background: #ff4b1f;
+  background: -webkit-linear-gradient(bottom left, #ff4b1f, #1fddff);
+  background: -o-linear-gradient(bottom left, #ff4b1f, #1fddff);
+  background: -moz-linear-gradient(bottom left, #ff4b1f, #1fddff);
+  background: linear-gradient(bottom left, #ff4b1f, #1fddff);
+  background-repeat: no-repeat;
+}
+.ldx-color-bg {
+  background: #ff4b1f;
+  background: -webkit-linear-gradient(bottom left, #1fddff, #ff4b1f);
+  background: -o-linear-gradient(bottom left, #1fddff, #ff4b1f);
+  background: -moz-linear-gradient(bottom left, #1fddff, #ff4b1f);
+  background: linear-gradient(bottom left, #1fddff, #ff4b1f);
+  background-repeat: no-repeat;
+}
+.strict {
+  background: #ff4b1f;
+  background: -webkit-linear-gradient(bottom left, #ff4b1f, #1fddff);
+  background: -o-linear-gradient(bottom left, #ff4b1f, #1fddff);
+  background: -moz-linear-gradient(bottom left, #ff4b1f, #1fddff);
+  background: linear-gradient(bottom left, #ff4b1f, #1fddff);
+}
+.color-overlay {
+  background: rgba(51, 51, 51, 0.2);
+}
+.ldx-home-overlay {
+  background-color: #ff4b1f;
+}
+.ldx-home-overlay.gradeint-bg {
+  background-image: #ff4b1f;
+  background-image: -webkit-linear-gradient(bottom left, #ff4b1f, #1fddff);
+  background-image: -o-linear-gradient(bottom left, #ff4b1f, #1fddff);
+  background-image: -moz-linear-gradient(bottom left, #ff4b1f, #1fddff);
+  background-image: linear-gradient(bottom left, #ff4b1f, #1fddff);
+  opacity: 0.95;
+}
+.ldex-extra-overlay {
+  background-image: #ff4b1f;
+  background-image: -webkit-linear-gradient(bottom left, #ff4b1f, #1fddff);
+  background-image: -o-linear-gradient(bottom left, #ff4b1f, #1fddff);
+  background-image: -moz-linear-gradient(bottom left, #ff4b1f, #1fddff);
+  background-image: linear-gradient(bottom left, #ff4b1f, #1fddff);
+}
+.ldex-extra-overlay.gradient-bg {
+  background-image: #ff4b1f;
+  background-image: -webkit-linear-gradient(bottom left, #ff4b1f, #1fddff);
+  background-image: -o-linear-gradient(bottom left, #ff4b1f, #1fddff);
+  background-image: -moz-linear-gradient(bottom left, #ff4b1f, #1fddff);
+  background-image: linear-gradient(bottom left, #ff4b1f, #1fddff);
+  opacity: 0.9;
+}
+.navbar-nav > li {
+  color: #fff;
+}
+.navbar-nav > li a {
+  color: #fff;
+}
+.ldx-home-content {
+  color: #fff;
+}
+.ldx-home-content p {
+  color: #fff;
+}
+.ldx-extra-feature .ldx-section-title h2 {
+  color: #fff;
+}
+.ldx-extra-feature .ldx-extra-inner {
+  color: #fff;
+}
+.ldx-extra-feature .ldx-extra-inner p {
+  color: #fff;
+}
+.ldx-pricing .ldx-each-pricing .ldx-pricing-top {
+  color: #fff;
+}
+.ldx-app-review .section-separator {
+  padding-top: 0;
+}
+.ldx-app-review .ldx-overview-inner {
+  padding: 30px;
+  margin: 10px;
+  background-color: #fff;
+}
+.ldx-app-review .ldx-overview-inner .ldx-reviewer-info {
+  position: relative;
+  margin-bottom: 20px;
+}
+.ldx-app-review .ldx-overview-inner .ldx-reviewer-info .ldx-reviewer-img {
+  width: 120px;
+  height: 120px;
+}
+.ldx-app-review .ldx-overview-inner .ldx-reviewer-info .ldx-reviewer-img img {
+  width: 120px;
+  height: 120px;
+  border: 3px solid #ff4b1f;
+  border-radius: 50%;
+}
+.ldx-app-review .ldx-overview-inner .ldx-reviewer-info .ldx-reviewer-each-info h4 {
+  font-size: 24px;
+  line-height: 34px;
+  margin-bottom: 0;
+  margin-top: 20px;
+  font-weight: normal;
+  color: #757575;
+}
+.ldx-app-review .owl-controls .owl-dots .owl-dot {
+  border: 1px solid #ff4b1f;
+}
+.ldx-app-review .owl-controls .owl-dots .owl-dot.active {
+  background-color: #ff4b1f;
+}
+.ldx-smart-watch {
+  background: #ff4b1f;
+  background: -webkit-linear-gradient(bottom left, #ff4b1f, #1fddff);
+  background: -o-linear-gradient(bottom left, #ff4b1f, #1fddff);
+  background: -moz-linear-gradient(bottom left, #ff4b1f, #1fddff);
+  background: linear-gradient(bottom left, #ff4b1f, #1fddff);
+}
+.ldx-smart-watch h2 {
+  color: #fff;
+}
+.ldx-footer .ldx-social ul li a .fa {
+  border: 1px solid #eee;
+  color: #ff4b1f;
+  background-color: #fff;
+}
+.ldx-footer .ldx-social ul li a .fa:hover {
+  background-color: #ff4b1f;
+  color: #fff;
+}
+.ldx-footer .ldx-hr {
+  border-color: #ededed;
+}
+.ldx-footer-info p a:hover {
+  color: #ff4b1f;
+}
+.ldx-footer-nav ul li a {
+  color: #999999;
+}
+.ldx-footer-nav ul li a:hover {
+  color: #ff4b1f;
+}
+.ldx-sub-page-heading h2 {
+  color: #fff;
+}
+.ldx-blog .ldx-blog-item .ldx-blog-content {
+  border-bottom: 1px dashed #999999;
+}
+.ldx-blog .ldx-blog-item .ldx-blog-content .ldx-post-category {
+  color: #999999;
+}
+.ldx-blog .ldx-blog-item .ldx-blog-content .ldx-blog-post-info a:hover {
+  color: #ff4b1f;
+}
+.ldx-blog .ldx-blog-item .ldx-blog-content p a:hover {
+  color: #ff4b1f;
+}
+.ldx-blog .ldx-blog-item .ldx-blog-post-share ul li a {
+  color: #999999;
+}
+.ldx-blog .ldx-blog-item .ldx-blog-post-share ul li a:hover {
+  color: #ff4b1f;
+}
+.ldx-blog .ldx-sidebar .ldx-blog-widget.ldx-sidebar-category ul li {
+  background-color: #fff;
+}
+.old-post-btn a {
+  color: #ff4b1f;
+}
+.old-post-btn a:hover {
+  color: #ff4b1f;
+}
+.ldx-blog-comment .ldx-single-comment {
+  background: #f7f7f7;
+}
+.ldx-blog-comment .ldx-single-comment a {
+  color: #ff4b1f;
+}
+@media only screen and (max-width: 767px) {
+  .navbar-toggle .icon,
+  .navbar-toggle .icon::after,
+  .navbar-toggle .icon::before {
+    background-color: #fff;
+  }
+  .navbar-toggle .icon::after,
+  .navbar-toggle .icon::before {
+    background-color: #fff;
+  }
+  .navbar-toggle.active .icon::after,
+  .navbar-toggle.active .icon::before {
+    background-color: #fff;
+  }
+  .navbar-collapse .nav li a:hover {
+    color: #ff4b1f;
+  }
+  .navbar-collapse {
+    background-color: #ff4b1f;
+  }
+  .navbar-collapse.gradient-bg {
+    background: #ff4b1f;
+    background: -webkit-linear-gradient(bottom left, #1fddff, #ff4b1f);
+    background: -o-linear-gradient(bottom left, #1fddff, #ff4b1f);
+    background: -moz-linear-gradient(bottom left, #1fddff, #ff4b1f);
+    background: linear-gradient(bottom left, #1fddff, #ff4b1f);
+  }
+  .navbar-collapse.black-nav {
+    background-color: #333;
+  }
+}
+.ldx-footer .ldx-form-inner .form-group .fa {
+  color: #ff4b1f;
+}
+.ldx-home-black-bg {
+  background-image: url(../../images/black-home-bg.jpg);
+}
+.ldx-home-black-bg .ldx-home-overlay {
+  background: rgba(51, 51, 51, 0.5);
+}

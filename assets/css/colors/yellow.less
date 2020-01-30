@@ -1,0 +1,434 @@
+/* 
+    main-color : @main-color;
+    btn hover color : #6227e7;
+*/
+@import "../../less/less-function.less";
+
+@black: #333;
+@bdb: #bdbdbd;
+@black-bg: #202026;
+@footer-bg: #2a2f36;
+@white: #fff;
+@main-color-1: #6D40e3;
+@bg-2: #fafafa;
+@bg-3: #f9f9f9;
+@f-icon-bg: #383c43;
+@main-color: #0bceaf;
+@body-bg: #f6f6f6;
+@circle-bg: #4c555b;
+@form-bg: #313137;
+@form-border: #494949;
+@btn-color-2: #6227e7;
+@paragraph-color: #999999;
+@sub-header-black: #757575;
+@gradient-1: #85d9d2;
+
+
+
+@main-color: #ff0084;
+// @gradient-1: fade(#fe8992, 50%);
+@gradient-1: #33001b;
+
+.btn {
+    color: @white;
+    background: @main-color;
+    background: -webkit-linear-gradient(bottom left, @main-color, @gradient-1);
+    background: -o-linear-gradient(bottom left, @main-color, @gradient-1);
+    background: -moz-linear-gradient(bottom left, @main-color, @gradient-1);
+    background: linear-gradient(bottom left, @main-color, @gradient-1);
+    &:hover {
+        background: @main-color;
+        background: -webkit-linear-gradient(bottom left, @gradient-1, @main-color);
+        background: -o-linear-gradient(bottom left, @gradient-1, @main-color);
+        background: -moz-linear-gradient(bottom left, @gradient-1, @main-color);
+        background: linear-gradient(bottom left, @gradient-1, @main-color);
+    }
+}
+.btn-fill {
+    border-color: @main-color;
+}
+
+.color-bg {
+    background-color: @main-color;  
+    color: @white;
+}
+.color {
+    color: @main-color;
+}
+.white-bg {
+    background-color: @white;
+    color: @black;
+}
+.black-bg {
+    background-color: @black;
+    color: @white;
+}
+.footer-bg {
+    background-color: @footer-bg;
+    color: @white;
+}
+
+.main-color-bg {
+    background-color: @main-color;
+    color: @white;
+}
+.main-color {
+    color: @main-color;
+}
+.form-control {
+    &:focus {
+        color: @main-color;
+    }
+}
+.ldx-overlay {
+    background: @main-color;
+    background: -webkit-linear-gradient(bottom left, @main-color, @gradient-1);
+    background: -o-linear-gradient(bottom left, @main-color, @gradient-1);
+    background: -moz-linear-gradient(bottom left, @main-color, @gradient-1);
+    background: linear-gradient(bottom left, @main-color, @gradient-1);
+    background-repeat: no-repeat;
+}
+
+.ldx-color-bg {
+    background: @main-color;
+    background: -webkit-linear-gradient(bottom left, @gradient-1, @main-color);
+    background: -o-linear-gradient(bottom left, @gradient-1, @main-color);
+    background: -moz-linear-gradient(bottom left, @gradient-1, @main-color);
+    background: linear-gradient(bottom left, @gradient-1, @main-color);
+    background-repeat: no-repeat;
+}
+.strict {
+    background: @main-color;
+    background: -webkit-linear-gradient(bottom left, @main-color, @gradient-1);
+    background: -o-linear-gradient(bottom left, @main-color, @gradient-1);
+    background: -moz-linear-gradient(bottom left, @main-color, @gradient-1);
+    background: linear-gradient(bottom left, @main-color, @gradient-1);
+}
+.color-overlay {
+    background: fade(@black, 20%);
+}
+
+.ldx-home-overlay {
+    background-color: @main-color;
+    &.gradeint-bg {
+        background-image: @main-color;
+        background-image: -webkit-linear-gradient(bottom left, @main-color, @gradient-1);
+        background-image: -o-linear-gradient(bottom left, @main-color, @gradient-1);
+        background-image: -moz-linear-gradient(bottom left, @main-color, @gradient-1);
+        background-image: linear-gradient(bottom left, @main-color, @gradient-1);
+        opacity: 0.95;
+    }
+}
+.ldex-extra-overlay {
+    background-image: @main-color;
+    background-image: -webkit-linear-gradient(bottom left, @main-color, @gradient-1);
+    background-image: -o-linear-gradient(bottom left, @main-color, @gradient-1);
+    background-image: -moz-linear-gradient(bottom left, @main-color, @gradient-1);
+    background-image: linear-gradient(bottom left, @main-color, @gradient-1);
+    &.gradient-bg {
+        background-image: @main-color;
+        background-image: -webkit-linear-gradient(bottom left, @main-color, @gradient-1);
+        background-image: -o-linear-gradient(bottom left, @main-color, @gradient-1);
+        background-image: -moz-linear-gradient(bottom left, @main-color, @gradient-1);
+        background-image: linear-gradient(bottom left, @main-color, @gradient-1);
+        opacity: 0.9;
+    }
+}
+
+.ldx-home .ldx-overlay {
+  
+}
+.navbar-nav {
+    > li {
+        color: @white;
+        a {
+            color: @white;
+        }
+    }
+}
+.ldx-home-content {
+    color: @white;
+    .about-content {
+        h1{
+
+        }
+    }
+    p {
+        color: @white;
+    }
+    .button {
+        a {
+          
+        }
+    }
+}
+.ldx-extra-feature {
+    .ldx-section-title {
+        h2 {
+            color: @white;
+        }
+    }
+    .ldx-extra-inner {
+        color: @white;
+        .fa {
+
+        }
+        h4 {
+        }
+        p {
+            color: @white;
+        }
+    }
+}
+
+.ldx-pricing {
+    .ldx-each-pricing {
+        .ldx-pricing-top {
+            color: @white;
+        }
+
+    }
+}
+
+
+.ldx-app-review {
+    .section-separator {
+        padding-top: 0;
+    }
+    .ldx-overview-inner {
+        padding: 30px;
+        margin: 10px;
+        background-color: #fff;
+        .ldx-reviewer-info {
+            position: relative;
+            margin-bottom: 20px;
+            .ldx-reviewer-img {
+                width: 120px;
+                height: 120px;
+                img {
+                    width: 120px;
+                    height: 120px;
+                    border: 3px solid @main-color;
+                    border-radius: 50%;
+                }
+            }
+            .ldx-reviewer-each-info {
+                h4 {
+                    font-size: 24px;
+                    line-height: 34px;
+                    margin-bottom: 0;
+                    margin-top: 20px;
+                    font-weight: normal;
+                    color: @sub-header-black;
+                }
+            }
+        }
+    }
+    .owl-controls {
+        .owl-dots {
+            .owl-dot {
+                border: 1px solid @main-color;
+                &.active {
+                    background-color: @main-color;
+                }
+            }
+        }
+    }
+}
+
+
+
+.ldx-smart-watch {
+    background: @main-color;
+    background: -webkit-linear-gradient(bottom left, @main-color, @gradient-1);
+    background: -o-linear-gradient(bottom left, @main-color, @gradient-1);
+    background: -moz-linear-gradient(bottom left, @main-color, @gradient-1);
+    background: linear-gradient(bottom left, @main-color, @gradient-1);
+    h2 {
+        color: @white;
+    }
+}
+
+.ldx-footer {
+    .ldx-social {
+        ul {
+            li {
+                a {
+                    .fa {
+                        border: 1px solid #eee;
+                        color: @main-color;
+                        background-color: @white;
+
+                        &:hover {
+                            background-color: @main-color;
+                            color: @white;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    .ldx-hr {
+        border-color: #ededed;
+    }
+}
+.ldx-footer-info {
+    p {
+        a {
+            &:hover {
+                color: @main-color;
+            }
+        }
+    }
+}
+
+.ldx-footer-nav {
+    ul {
+        li {
+            a {
+                color: @paragraph-color;
+                &:hover {
+                    color: @main-color;
+                }
+            }
+        }
+    }
+}
+
+.ldx-sub-page-heading {
+    h2 {
+        color: @white;
+    }
+}
+.ldx-blog {
+    .ldx-blog-item {
+        .ldx-blog-content {
+            border-bottom: 1px dashed @paragraph-color;
+            .ldx-post-category {
+                 color: @paragraph-color;
+            }
+            h2 {
+                
+            }
+            .ldx-blog-post-info {
+                a {
+                    &:hover {
+                        color: @main-color;
+                    }
+                }
+            }
+            p {
+                a {
+                    &:hover {
+                        color: @main-color;
+                    }
+                }
+            }
+        }
+        .ldx-blog-post-share {
+            ul {
+                li {
+                    a {
+                        color: @paragraph-color;
+                        &:hover {
+                            color: @main-color;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    
+    .ldx-sidebar {
+        .ldx-blog-widget {
+            &.ldx-sidebar-category {
+                ul {
+                    li {
+                        background-color: @white;
+                    }
+                }
+            }
+        }
+    }
+}
+
+.old-post-btn {
+    a {
+        color: @main-color;
+        &:hover {
+            color: @main-color;
+        }
+    }
+}
+.ldx-blog-comment {
+    .ldx-single-comment {
+        background: #f7f7f7;
+        a {
+            color: @main-color;
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 992px) {
+
+
+
+}
+@media only screen and (max-width: 767px) {
+ .navbar-toggle .icon,
+    .navbar-toggle .icon::after,
+    .navbar-toggle .icon::before {
+        background-color: @white;
+    }
+    
+  .navbar-toggle .icon::after,
+  .navbar-toggle .icon::before {
+      background-color: @white;
+  }
+  .navbar-toggle.active .icon::after,
+  .navbar-toggle.active .icon::before {
+      background-color: @white;
+  }
+  .navbar-collapse .nav li a:hover {
+    color: @main-color;
+  }
+  .navbar-collapse {
+      background-color: @main-color;
+      &.gradient-bg {
+        background: @main-color;
+        background: -webkit-linear-gradient(bottom left, @gradient-1, @main-color);
+        background: -o-linear-gradient(bottom left, @gradient-1, @main-color);
+        background: -moz-linear-gradient(bottom left, @gradient-1, @main-color);
+        background: linear-gradient(bottom left, @gradient-1, @main-color);
+      }
+      &.black-nav {
+          background-color: @black;
+      }
+  }
+}
+
+.ldx-footer .ldx-form-inner .form-group .fa {
+    color: @main-color;
+}
+.ldx-home-black-bg {
+    background-image: url(../../images/black-home-bg.jpg);
+    .ldx-home-overlay {
+        background: fade(@black, 50%);
+    }
+}

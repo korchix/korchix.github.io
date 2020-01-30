@@ -1,0 +1,270 @@
+/* 
+    main-color : @main-color;
+    btn hover color : #6227e7;
+*/
+.btn {
+  color: #fff;
+  background: #43cea2;
+  background: -webkit-linear-gradient(bottom left, #43cea2, #185a9d);
+  background: -o-linear-gradient(bottom left, #43cea2, #185a9d);
+  background: -moz-linear-gradient(bottom left, #43cea2, #185a9d);
+  background: linear-gradient(bottom left, #43cea2, #185a9d);
+}
+.btn:hover {
+  background: #43cea2;
+  background: -webkit-linear-gradient(bottom left, #185a9d, #43cea2);
+  background: -o-linear-gradient(bottom left, #185a9d, #43cea2);
+  background: -moz-linear-gradient(bottom left, #185a9d, #43cea2);
+  background: linear-gradient(bottom left, #185a9d, #43cea2);
+}
+.btn-fill {
+  border-color: #43cea2;
+}
+.color-bg {
+  background-color: #43cea2;
+  color: #fff;
+}
+.color {
+  color: #43cea2;
+}
+.white-bg {
+  background-color: #fff;
+  color: #333;
+}
+.black-bg {
+  background-color: #333;
+  color: #fff;
+}
+.footer-bg {
+  background-color: #2a2f36;
+  color: #fff;
+}
+.main-color-bg {
+  background-color: #43cea2;
+  color: #fff;
+}
+.main-color {
+  color: #43cea2;
+}
+.form-control:focus {
+  color: #43cea2;
+}
+.ldx-overlay {
+  background: #43cea2;
+  background: -webkit-linear-gradient(bottom left, #43cea2, #185a9d);
+  background: -o-linear-gradient(bottom left, #43cea2, #185a9d);
+  background: -moz-linear-gradient(bottom left, #43cea2, #185a9d);
+  background: linear-gradient(bottom left, #43cea2, #185a9d);
+  background-repeat: no-repeat;
+}
+.ldx-color-bg {
+  background: #43cea2;
+  background: -webkit-linear-gradient(bottom left, #185a9d, #43cea2);
+  background: -o-linear-gradient(bottom left, #185a9d, #43cea2);
+  background: -moz-linear-gradient(bottom left, #185a9d, #43cea2);
+  background: linear-gradient(bottom left, #185a9d, #43cea2);
+  background-repeat: no-repeat;
+}
+.strict {
+  background: #43cea2;
+  background: -webkit-linear-gradient(bottom left, #43cea2, #185a9d);
+  background: -o-linear-gradient(bottom left, #43cea2, #185a9d);
+  background: -moz-linear-gradient(bottom left, #43cea2, #185a9d);
+  background: linear-gradient(bottom left, #43cea2, #185a9d);
+}
+.color-overlay {
+  background: rgba(51, 51, 51, 0.2);
+}
+.ldx-home-overlay {
+  background-color: #43cea2;
+}
+.ldx-home-overlay.gradeint-bg {
+  background-image: #43cea2;
+  background-image: -webkit-linear-gradient(bottom left, #43cea2, #185a9d);
+  background-image: -o-linear-gradient(bottom left, #43cea2, #185a9d);
+  background-image: -moz-linear-gradient(bottom left, #43cea2, #185a9d);
+  background-image: linear-gradient(bottom left, #43cea2, #185a9d);
+  opacity: 0.95;
+}
+.ldex-extra-overlay {
+  background-image: #43cea2;
+  background-image: -webkit-linear-gradient(bottom left, #43cea2, #185a9d);
+  background-image: -o-linear-gradient(bottom left, #43cea2, #185a9d);
+  background-image: -moz-linear-gradient(bottom left, #43cea2, #185a9d);
+  background-image: linear-gradient(bottom left, #43cea2, #185a9d);
+}
+.ldex-extra-overlay.gradient-bg {
+  background-image: #43cea2;
+  background-image: -webkit-linear-gradient(bottom left, #43cea2, #185a9d);
+  background-image: -o-linear-gradient(bottom left, #43cea2, #185a9d);
+  background-image: -moz-linear-gradient(bottom left, #43cea2, #185a9d);
+  background-image: linear-gradient(bottom left, #43cea2, #185a9d);
+  opacity: 0.9;
+}
+.navbar-nav > li {
+  color: #fff;
+}
+.navbar-nav > li a {
+  color: #fff;
+}
+.ldx-home-content {
+  color: #fff;
+}
+.ldx-home-content p {
+  color: #fff;
+}
+.ldx-extra-feature .ldx-section-title h2 {
+  color: #fff;
+}
+.ldx-extra-feature .ldx-extra-inner {
+  color: #fff;
+}
+.ldx-extra-feature .ldx-extra-inner p {
+  color: #fff;
+}
+.ldx-pricing .ldx-each-pricing .ldx-pricing-top {
+  color: #fff;
+}
+.ldx-app-review .section-separator {
+  padding-top: 0;
+}
+.ldx-app-review .ldx-overview-inner {
+  padding: 30px;
+  margin: 10px;
+  background-color: #fff;
+}
+.ldx-app-review .ldx-overview-inner .ldx-reviewer-info {
+  position: relative;
+  margin-bottom: 20px;
+}
+.ldx-app-review .ldx-overview-inner .ldx-reviewer-info .ldx-reviewer-img {
+  width: 120px;
+  height: 120px;
+}
+.ldx-app-review .ldx-overview-inner .ldx-reviewer-info .ldx-reviewer-img img {
+  width: 120px;
+  height: 120px;
+  border: 3px solid #43cea2;
+  border-radius: 50%;
+}
+.ldx-app-review .ldx-overview-inner .ldx-reviewer-info .ldx-reviewer-each-info h4 {
+  font-size: 24px;
+  line-height: 34px;
+  margin-bottom: 0;
+  margin-top: 20px;
+  font-weight: normal;
+  color: #757575;
+}
+.ldx-app-review .owl-controls .owl-dots .owl-dot {
+  border: 1px solid #43cea2;
+}
+.ldx-app-review .owl-controls .owl-dots .owl-dot.active {
+  background-color: #43cea2;
+}
+.ldx-smart-watch {
+  background: #43cea2;
+  background: -webkit-linear-gradient(bottom left, #43cea2, #185a9d);
+  background: -o-linear-gradient(bottom left, #43cea2, #185a9d);
+  background: -moz-linear-gradient(bottom left, #43cea2, #185a9d);
+  background: linear-gradient(bottom left, #43cea2, #185a9d);
+}
+.ldx-smart-watch h2 {
+  color: #fff;
+}
+.ldx-footer .ldx-social ul li a .fa {
+  border: 1px solid #eee;
+  color: #43cea2;
+  background-color: #fff;
+}
+.ldx-footer .ldx-social ul li a .fa:hover {
+  background-color: #43cea2;
+  color: #fff;
+}
+.ldx-footer .ldx-hr {
+  border-color: #ededed;
+}
+.ldx-footer-info p a:hover {
+  color: #43cea2;
+}
+.ldx-footer-nav ul li a {
+  color: #999999;
+}
+.ldx-footer-nav ul li a:hover {
+  color: #43cea2;
+}
+.ldx-sub-page-heading h2 {
+  color: #fff;
+}
+.ldx-blog .ldx-blog-item .ldx-blog-content {
+  border-bottom: 1px dashed #999999;
+}
+.ldx-blog .ldx-blog-item .ldx-blog-content .ldx-post-category {
+  color: #999999;
+}
+.ldx-blog .ldx-blog-item .ldx-blog-content .ldx-blog-post-info a:hover {
+  color: #43cea2;
+}
+.ldx-blog .ldx-blog-item .ldx-blog-content p a:hover {
+  color: #43cea2;
+}
+.ldx-blog .ldx-blog-item .ldx-blog-post-share ul li a {
+  color: #999999;
+}
+.ldx-blog .ldx-blog-item .ldx-blog-post-share ul li a:hover {
+  color: #43cea2;
+}
+.ldx-blog .ldx-sidebar .ldx-blog-widget.ldx-sidebar-category ul li {
+  background-color: #fff;
+}
+.old-post-btn a {
+  color: #43cea2;
+}
+.old-post-btn a:hover {
+  color: #43cea2;
+}
+.ldx-blog-comment .ldx-single-comment {
+  background: #f7f7f7;
+}
+.ldx-blog-comment .ldx-single-comment a {
+  color: #43cea2;
+}
+@media only screen and (max-width: 767px) {
+  .navbar-toggle .icon,
+  .navbar-toggle .icon::after,
+  .navbar-toggle .icon::before {
+    background-color: #fff;
+  }
+  .navbar-toggle .icon::after,
+  .navbar-toggle .icon::before {
+    background-color: #fff;
+  }
+  .navbar-toggle.active .icon::after,
+  .navbar-toggle.active .icon::before {
+    background-color: #fff;
+  }
+  .navbar-collapse .nav li a:hover {
+    color: #43cea2;
+  }
+  .navbar-collapse {
+    background-color: #43cea2;
+  }
+  .navbar-collapse.gradient-bg {
+    background: #43cea2;
+    background: -webkit-linear-gradient(bottom left, #185a9d, #43cea2);
+    background: -o-linear-gradient(bottom left, #185a9d, #43cea2);
+    background: -moz-linear-gradient(bottom left, #185a9d, #43cea2);
+    background: linear-gradient(bottom left, #185a9d, #43cea2);
+  }
+  .navbar-collapse.black-nav {
+    background-color: #333;
+  }
+}
+.ldx-footer .ldx-form-inner .form-group .fa {
+  color: #43cea2;
+}
+.ldx-home-black-bg {
+  background-image: url(../../images/black-home-bg.jpg);
+}
+.ldx-home-black-bg .ldx-home-overlay {
+  background: rgba(51, 51, 51, 0.5);
+}
