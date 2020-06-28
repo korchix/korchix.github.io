@@ -1,63 +1,60 @@
-{	
-	"PhonesAndTelecommunication" : {
-		"CategoryName" : "Phones & Telecommunication",
-		"subCategories" : [
-			{
-				"CategoryName" : "Mobile Phone Accessories",
-				"CategoryURL" : "url.csv",
-			},
-			{
-				"CategoryName" : "Communication Equipment",
-				"CategoryURL" : "https://raw.githubusercontent.com/korchix/korchix.github.io/master/assets/css/bootstrap/js/files/PhonesAndTelecommunication/hotProduct_CommunicationEquipment.csv",
-			},
-			{
-				"CategoryName" : "Mobile Phones",
-				"CategoryURL" : "https://raw.githubusercontent.com/korchix/korchix.github.io/master/assets/css/bootstrap/js/files/PhonesAndTelecommunication/hotProduct_MobilePhones.csv",
-			},
-			{
-				"CategoryName" : "Walkie Talkie",
-				"CategoryURL" : "https://raw.githubusercontent.com/korchix/korchix.github.io/master/assets/css/bootstrap/js/files/PhonesAndTelecommunication/hotProduct_WalkieTalkie.csv",
-			},
-			{
-				"CategoryName" : "Walkie Talkie Parts & Accessories",
-				"CategoryURL" : "https://raw.githubusercontent.com/korchix/korchix.github.io/master/assets/css/bootstrap/js/files/PhonesAndTelecommunication/hotProduct_WalkieTalkieParts.csv",
-			},
-			{
-				"CategoryName" : "Mobile Phone Parts",
-				"CategoryURL" : "https://raw.githubusercontent.com/korchix/korchix.github.io/master/assets/css/bootstrap/js/files/PhonesAndTelecommunication/hotProduct_MobilePhoneParts.csv",
-			}
-			]
-	},
-	"Watches" : {
-		"CategoryName" : "Watches",
-		"subCategories" : [
-			{
-				"CategoryName" : "Women's Watches",
-				"CategoryURL" : "https://raw.githubusercontent.com/korchix/korchix.github.io/master/assets/css/bootstrap/js/files/Watches/hotProduct_WomenWatches.csv",
-			},
-			{
-				"CategoryName" : "Men's Watches",
-				"CategoryURL" : "https://raw.githubusercontent.com/korchix/korchix.github.io/master/assets/css/bootstrap/js/files/Watches/hotProduct_MenWatches.csv",
-			},
-			{
-				"CategoryName" : "Children's Watches",
-				"CategoryURL" : "https://raw.githubusercontent.com/korchix/korchix.github.io/master/assets/css/bootstrap/js/files/Watches/hotProduct_ChildrenWatches.csv",
-			},
-			{
-				"CategoryName" : "Couple Watches",
-				"CategoryURL" : "https://raw.githubusercontent.com/korchix/korchix.github.io/master/assets/css/bootstrap/js/files/Watches/hotProduct_CoupleWatches.csv",
-			},
-			
-			{
-				"CategoryName" : "Pocket & Fob Watches",
-				"CategoryURL" : "https://raw.githubusercontent.com/korchix/korchix.github.io/master/assets/css/bootstrap/js/files/Watches/hotProduct_Pocket.csv",
-			},
-			{
-				"CategoryName" : "Watches Accessories",
-				"CategoryURL" : "https://raw.githubusercontent.com/korchix/korchix.github.io/master/assets/css/bootstrap/js/files/Watches/hotProduct_WatchesAccessories.csv",
-			},
-			
-			]
-	}
-	
+{
+   "PhonesAndTelecommunication":{
+      "CategoryName":"Phones & Telecommunication",
+      "subCategories":[
+         {
+            "CategoryName":"Mobile Phone Accessories",
+            "CategoryURL":"url.csv"
+         },
+         {
+            "CategoryName":"Communication Equipment",
+            "CategoryURL":"https://raw.githubusercontent.com/korchix/korchix.github.io/master/assets/css/bootstrap/js/files/PhonesAndTelecommunication/hotProduct_CommunicationEquipment.csv"
+         },
+         {
+            "CategoryName":"Mobile Phones",
+            "CategoryURL":"https://raw.githubusercontent.com/korchix/korchix.github.io/master/assets/css/bootstrap/js/files/PhonesAndTelecommunication/hotProduct_MobilePhones.csv"
+         },
+         {
+            "CategoryName":"Walkie Talkie",
+            "CategoryURL":"https://raw.githubusercontent.com/korchix/korchix.github.io/master/assets/css/bootstrap/js/files/PhonesAndTelecommunication/hotProduct_WalkieTalkie.csv"
+         },
+         {
+            "CategoryName":"Walkie Talkie Parts & Accessories",
+            "CategoryURL":"https://raw.githubusercontent.com/korchix/korchix.github.io/master/assets/css/bootstrap/js/files/PhonesAndTelecommunication/hotProduct_WalkieTalkieParts.csv"
+         },
+         {
+            "CategoryName":"Mobile Phone Parts",
+            "CategoryURL":"https://raw.githubusercontent.com/korchix/korchix.github.io/master/assets/css/bootstrap/js/files/PhonesAndTelecommunication/hotProduct_MobilePhoneParts.csv"
+         }
+      ]
+   },
+   "Watches":{
+      "CategoryName":"Watches",
+      "subCategories":[
+         {
+            "CategoryName":"Women's Watches",
+            "CategoryURL":"https://raw.githubusercontent.com/korchix/korchix.github.io/master/assets/css/bootstrap/js/files/Watches/hotProduct_WomenWatches.csv"
+         },
+         {
+            "CategoryName":"Men's Watches",
+            "CategoryURL":"https://raw.githubusercontent.com/korchix/korchix.github.io/master/assets/css/bootstrap/js/files/Watches/hotProduct_MenWatches.csv"
+         },
+         {
+            "CategoryName":"Children's Watches",
+            "CategoryURL":"https://raw.githubusercontent.com/korchix/korchix.github.io/master/assets/css/bootstrap/js/files/Watches/hotProduct_ChildrenWatches.csv"
+         },
+         {
+            "CategoryName":"Couple Watches",
+            "CategoryURL":"https://raw.githubusercontent.com/korchix/korchix.github.io/master/assets/css/bootstrap/js/files/Watches/hotProduct_CoupleWatches.csv"
+         },
+         {
+            "CategoryName":"Pocket & Fob Watches",
+            "CategoryURL":"https://raw.githubusercontent.com/korchix/korchix.github.io/master/assets/css/bootstrap/js/files/Watches/hotProduct_Pocket.csv"
+         },
+         {
+            "CategoryName":"Watches Accessories",
+            "CategoryURL":"https://raw.githubusercontent.com/korchix/korchix.github.io/master/assets/css/bootstrap/js/files/Watches/hotProduct_WatchesAccessories.csv"
+         }
+      ]
+   }
 }
