@@ -4,7 +4,7 @@
       "subCategories":[
          {
             "CategoryName":"Mobile Phone Accessories",
-            "CategoryURL":"url.csv"
+            "CategoryURL":"https://raw.githubusercontent.com/korchix/korchix.github.io/master/assets/css/bootstrap/js/files/PhonesAndTelecommunication/hotProduct_MobilePhoneAccessories.csv"
          },
          {
             "CategoryName":"Communication Equipment",
