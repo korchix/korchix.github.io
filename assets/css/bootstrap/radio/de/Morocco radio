@@ -1,0 +1,677 @@
+Morocco radio 
+{
+  "status": "ok",
+  "limit": 100,
+  "pages": 1,
+  "order": "ASC",
+  "total_radios": "66",
+  "country_details": [
+    {
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    }
+  ],
+  "stations": [
+    {
+      "radio_id": "113836",
+      "radio_name": "Al Idaa Al Watania",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/85313361-2022-11-05.png",
+      "radio_url": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_idaa_watanya/hls_snrt_radio/radio_idaa_watanya-avc1_100000=2.m3u8",
+      "genre": "Talk",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "58423",
+      "radio_name": "Chada FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/99861191-2022-03-16.png",
+      "radio_url": "http://chadafm.ice.infomaniak.ch/chadafm-high.mp3",
+      "genre": "Language",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "116572",
+      "radio_name": "Chaîne inter Maroc",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/05642933-2022-11-16.png",
+      "radio_url": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_chaine_inter/hls_snrt_radio/index.m3u8",
+      "genre": "Community",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "113282",
+      "radio_name": "DJ Tekness Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/46193257-2022-11-05.png",
+      "radio_url": "http://stream.zeno.fm/xcmv558wquhvv",
+      "genre": "Electronic",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "93063",
+      "radio_name": "Hexagone FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/75711140-2022-03-20.png",
+      "radio_url": "http://radio.ready2play.fr:1700/stream",
+      "genre": "Pop",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "57483",
+      "radio_name": "Hit Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/60525327-2022-03-16.png",
+      "radio_url": "http://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3",
+      "genre": "Pop",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "87353",
+      "radio_name": "Hit Radio - 100% Buzz",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/97358124-2022-03-19.png",
+      "radio_url": "http://buzz.ice.infomaniak.ch/buzz-128.mp3",
+      "genre": "Pop",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "92165",
+      "radio_name": "Hit Radio - 100% Cover",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/97497353-2022-03-20.png",
+      "radio_url": "http://cover2.ice.infomaniak.ch/cover2-128.mp3",
+      "genre": "Pop",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "92166",
+      "radio_name": "Hit Radio - 100% Dancefloor",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/41369189-2022-03-20.png",
+      "radio_url": "http://dancefloor.ice.infomaniak.ch/dancefloor-128.mp3",
+      "genre": "Dance",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "56733",
+      "radio_name": "Hit Radio - 100% French",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/24275742-2022-03-16.png",
+      "radio_url": "http://french.ice.infomaniak.ch/french-128.mp3",
+      "genre": "Language",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "92167",
+      "radio_name": "Hit Radio - 100% Gold",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/15163063-2022-03-20.png",
+      "radio_url": "http://gold.ice.infomaniak.ch/gold-128.mp3",
+      "genre": "Pop",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "101645",
+      "radio_name": "Hit Radio - 100% Latino",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/26705060-2022-03-20.png",
+      "radio_url": "http://latino.ice.infomaniak.ch/latino-128.mp3",
+      "genre": "Latin",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "92169",
+      "radio_name": "Hit Radio - 100% Mgharba",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/06682830-2022-03-20.png",
+      "radio_url": "http://cover2.ice.infomaniak.ch/cover2-128.mp3",
+      "genre": "Language",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "92168",
+      "radio_name": "Hit Radio - 100% Pop/Rock",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/28145478-2022-03-20.png",
+      "radio_url": "http://poprock.ice.infomaniak.ch/poprock-128.mp3",
+      "genre": "Pop",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "91932",
+      "radio_name": "Hit Radio - 100% R&B",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/35390591-2022-03-20.png",
+      "radio_url": "http://rnb.ice.infomaniak.ch/rnb-128.mp3",
+      "genre": "Blues",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "101646",
+      "radio_name": "Hit Radio - 100% Rock/Metal",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/33763651-2022-03-20.png",
+      "radio_url": "http://rockmetal.ice.infomaniak.ch/rockmetal-128.mp3",
+      "genre": "Rock",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "96386",
+      "radio_name": "La Confiserie Sonore",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/51571379-2022-03-20.png",
+      "radio_url": "http://listen.radioking.com/radio/115108/stream/154390",
+      "genre": "Electronic",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "94120",
+      "radio_name": "Med Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/86427483-2022-03-20.png",
+      "radio_url": "http://streamer-002.eagrpservices.com:8001/medradio.mp3",
+      "genre": "Community",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "58461",
+      "radio_name": "Medi 1 Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/11652317-2022-03-16.png",
+      "radio_url": "http://51.222.88.199:80/medi1",
+      "genre": "Talk",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "113014",
+      "radio_name": "Medi 1 Radio - Acoustic",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/44094525-2022-11-05.png",
+      "radio_url": "http://live.medi1.com/Acoustic",
+      "genre": "Other",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "113013",
+      "radio_name": "Medi 1 Radio - Classique",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/27228470-2022-11-05.png",
+      "radio_url": "http://live.medi1.com/Classique",
+      "genre": "Classical",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "113016",
+      "radio_name": "Medi 1 Radio - DJ",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/09539484-2022-11-05.png",
+      "radio_url": "http://live.medi1.com/Dj",
+      "genre": "Electronic",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "113015",
+      "radio_name": "Medi 1 Radio - Française",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/62774883-2022-11-05.png",
+      "radio_url": "http://live.medi1.com/Francaise",
+      "genre": "Language",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "113017",
+      "radio_name": "Medi 1 Radio - Hits",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/43206970-2022-11-05.png",
+      "radio_url": "http://live.medi1.com/Hits",
+      "genre": "Pop",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "113018",
+      "radio_name": "Medi 1 Radio - Jazz",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/71939363-2022-11-05.png",
+      "radio_url": "http://live.medi1.com/Jazz",
+      "genre": "Jazz",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "113019",
+      "radio_name": "Medi 1 Radio - Latino",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/51374711-2022-11-05.png",
+      "radio_url": "http://live.medi1.com/Latino",
+      "genre": "Latin",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "113020",
+      "radio_name": "Medi 1 Radio - Lounge",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/50447943-2022-11-05.png",
+      "radio_url": "http://live.medi1.com/Lounge",
+      "genre": "Easy Listening",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "113811",
+      "radio_name": "Morocco English Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/31657560-2022-11-05.png",
+      "radio_url": "http://streamer.radio.co/s6cba51492/listen",
+      "genre": "Talk",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "101746",
+      "radio_name": "Nota Magharibia",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/83569123-2022-03-20.png",
+      "radio_url": "http://109.169.23.22:10912/live",
+      "genre": "Language",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "96187",
+      "radio_name": "NRJ Maroc",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/40244502-2022-03-20.png",
+      "radio_url": "http://cdn.nrjaudio.fm/adwz1/ma/55820/aac_64.mp3",
+      "genre": "Pop",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "87562",
+      "radio_name": "Radio 2M",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/27797387-2022-03-19.png",
+      "radio_url": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_2m/radio_hls_ts/index.m3u8",
+      "genre": "Pop",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "56622",
+      "radio_name": "Radio 2M",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/58780734-2022-03-16.png",
+      "radio_url": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_2m/radio_hls_ts/index.m3u8",
+      "genre": "Other",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "119801",
+      "radio_name": "Radio Al Watania",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/12926982-2023-04-09.png",
+      "radio_url": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_idaa_watanya/hls_snrt_radio/index.m3u8",
+      "genre": "Community",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "99704",
+      "radio_name": "Radio Aljalia",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/18163264-2022-03-20.png",
+      "radio_url": "http://stream.zenolive.com/tr9cahm7z5quv.aac",
+      "genre": "Language",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "68151",
+      "radio_name": "Radio Aswat",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/97865464-2022-03-17.png",
+      "radio_url": "http://broadcast.ice.infomaniak.ch/aswat-high.mp3",
+      "genre": "Theme",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "74394",
+      "radio_name": "Radio Atbir",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/45413202-2022-03-18.png",
+      "radio_url": "http://stream.zenolive.com/bqdbb6hd0neuv",
+      "genre": "African",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "91734",
+      "radio_name": "Radio Coran",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/22419384-2022-03-19.png",
+      "radio_url": "http://92.222.103.13:8005/;;",
+      "genre": "Language",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "114080",
+      "radio_name": "Radio Gnaoua - السماوي ، إذاعة كناوة",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/52386552-2022-11-07.png",
+      "radio_url": "http://streaming2.rimradio.ma:8000/livegnaoua",
+      "genre": "Other",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "79115",
+      "radio_name": "Radio Mars",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/86605410-2022-03-18.png",
+      "radio_url": "http://radiomars.ice.infomaniak.ch/radiomars-128.mp3",
+      "genre": "Language",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "108044",
+      "radio_name": "Radio Rayhan",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/82660678-2022-03-21.png",
+      "radio_url": "http://radio.rayhan.eu:8000/radio.mp3",
+      "genre": "Language",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "99705",
+      "radio_name": "Radio Santé Maroc",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/17387395-2022-03-20.png",
+      "radio_url": "http://stream.zenolive.com/vtxcmp6cgkeuv.aac",
+      "genre": "Talk",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "91650",
+      "radio_name": "Radio Star Maroc",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/09769512-2022-03-19.png",
+      "radio_url": "http://manager2.creativradio.com:3820/stream",
+      "genre": "Language",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "67621",
+      "radio_name": "Radio Yabiladi",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/77310546-2022-03-17.png",
+      "radio_url": "http://37.187.146.76:8000/;;",
+      "genre": "African",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "105946",
+      "radio_name": "Radio Yan Plus",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/79695583-2022-03-21.png",
+      "radio_url": "http://stream.zeno.fm/7nqu31p6xg0uv",
+      "genre": "Language",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "86731",
+      "radio_name": "RadioPlus Casablanca",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/21863815-2022-03-19.png",
+      "radio_url": "http://laradioplus.ice.infomaniak.ch/laradioplus-high.mp3",
+      "genre": "Pop",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "102026",
+      "radio_name": "RIM Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/76438583-2022-03-20.png",
+      "radio_url": "http://streaming.rimradio.ma:8000/live/;",
+      "genre": "Language",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "116639",
+      "radio_name": "SNRT Radio Casablanca",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/09840476-2022-11-19.png",
+      "radio_url": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_casa/hls_snrt_radio/index.m3u8",
+      "genre": "Language",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "116658",
+      "radio_name": "U Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/84915549-2022-11-19.png",
+      "radio_url": "http://uradio-aac.ice.infomaniak.ch/uradio.aac",
+      "genre": "null",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "75860",
+      "radio_name": "Yabiladi Radio - Amazigh Azawan",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/41511850-2022-03-18.png",
+      "radio_url": "http://37.187.146.76:9000/;;",
+      "genre": "Language",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "75859",
+      "radio_name": "Yabiladi Radio - Chaabi Maroc",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/90145756-2022-03-18.png",
+      "radio_url": "http://37.187.146.76:8100/;;",
+      "genre": "Language",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "75861",
+      "radio_name": "Yabiladi Radio - Nayda Urban Music",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/64214540-2022-03-18.png",
+      "radio_url": "http://37.187.146.76:9100/;;",
+      "genre": "Language",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "105511",
+      "radio_name": "أضواء إف إم - أضواء إف إم1",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/44347508-2022-03-20.png",
+      "radio_url": "http://stream.zeno.fm/5bxh2nh0x1zuv",
+      "genre": "Decades",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "105512",
+      "radio_name": "أضواء إف إم - أضواء إف إم2",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/17624345-2022-03-20.png",
+      "radio_url": "http://stream.zeno.fm/vrrtqsh0x1zuv",
+      "genre": "Language",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "105513",
+      "radio_name": "أضواء إف إم - أضواء إف إم3",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/12156028-2022-03-20.png",
+      "radio_url": "http://stream.zeno.fm/x4451xh0x1zuv",
+      "genre": "African",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "105514",
+      "radio_name": "أضواء إف إم - أضواء إف إم4",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/22922004-2022-03-20.png",
+      "radio_url": "http://stream.zeno.fm/8wrs2bh0x1zuv",
+      "genre": "African",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "105515",
+      "radio_name": "أضواء إف إم - أضواء إف إم5",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/72232929-2022-03-20.png",
+      "radio_url": "http://stream.zeno.fm/ezxx195gq2zuv",
+      "genre": "African",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "99707",
+      "radio_name": "إذاعة طنجة المتوسط",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/65951710-2022-03-20.png",
+      "radio_url": "http://radiotangermed-22.ice.infomaniak.ch/radiotangermed-22-128.mp3",
+      "genre": "Community",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "81585",
+      "radio_name": "إذاعة مدينة إف إم المغرب",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/98355456-2022-03-19.png",
+      "radio_url": "http://medinafm.ice.infomaniak.ch/medinafm-64.mp3",
+      "genre": "Language",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "108959",
+      "radio_name": "إذاعــة الأندلسيات",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/83476894-2022-03-21.png",
+      "radio_url": "http://streaming2.rimradio.ma:8000/liveandalousies",
+      "genre": "Language",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "108960",
+      "radio_name": "إذاعــة الطرب الأمازيغي",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/00498048-2022-03-21.png",
+      "radio_url": "http://streaming2.rimradio.ma:8000/liveamazighe",
+      "genre": "Other",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "108956",
+      "radio_name": "إذاعــة الطرب العربي",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/91935533-2022-03-21.png",
+      "radio_url": "http://streaming2.rimradio.ma:8000/livetarab",
+      "genre": "Language",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "108957",
+      "radio_name": "إذاعــة الطرب المغربي",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/84295123-2022-03-21.png",
+      "radio_url": "http://streaming2.rimradio.ma:8000/livemaloulou",
+      "genre": "Language",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "97505",
+      "radio_name": "راديو مراكش بلوس",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/45289793-2022-03-20.png",
+      "radio_url": "http://stream.maxi45.net:8016/stream",
+      "genre": "Decades",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "108958",
+      "radio_name": "عالم العيطة",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/92777738-2022-03-21.png",
+      "radio_url": "http://streaming2.rimradio.ma:8000/liveworldofaita",
+      "genre": "Language",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "108961",
+      "radio_name": "​ديب راديو",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/35034900-2022-03-21.png",
+      "radio_url": "http://streaming2.rimradio.ma:8000/dibradio",
+      "genre": "Language",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    },
+    {
+      "radio_id": "108962",
+      "radio_name": "​راديو السماع",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/33015152-2022-03-21.png",
+      "radio_url": "http://streaming2.rimradio.ma:8000/samaa",
+      "genre": "Other",
+      "country_id": "102",
+      "country_name": "Morocco",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9632-2022-01-20.gif"
+    }
+  ]
+}
