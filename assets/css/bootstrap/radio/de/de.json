@@ -511,16 +511,6 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "hr4",
-        "radio_image": "Failed to fetch webpage",
-        "radio_url": "Failed to fetch webpage",
-        "genre": "Karlsruhe",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
         "radio_name": "Radio Regenbogen",
         "radio_image": "https://radiomap.eu/de/images/regenbogen.gif",
         "radio_url": "http://streams.regenbogen.de/rr-mannheim-128-mp3",
