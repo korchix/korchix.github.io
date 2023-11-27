@@ -31,29 +31,9 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "DR P4 Sjælland",
-        "radio_image": "https://radiomap.eu/dk/images/dr_p4.svg",
-        "radio_url": "Audio source not found",
-        "genre": "Rostock",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
         "radio_name": "NDR 1 Radio MV (SN)",
         "radio_image": "https://radiomap.eu/de/images/ndr1-mv.gif",
         "radio_url": "https://icecast.ndr.de/ndr/ndr1radiomv/schwerin/mp3/128/stream.mp3",
-        "genre": "Rostock",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "DR P3",
-        "radio_image": "https://radiomap.eu/dk/images/dr_p3.svg",
-        "radio_url": "Audio source not found",
         "genre": "Rostock",
         "country_id": "162",
         "country_name": "Germany",
@@ -181,26 +161,6 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "Polskie Radio Jedynka",
-        "radio_image": "https://radiomap.eu/pl/images/pr-jedynka.svg",
-        "radio_url": "Audio source not found",
-        "genre": "Rostock",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "DR Langbølge",
-        "radio_image": "https://radiomap.eutp:age source not found",
-        "radio_url": "Audio source not found",
-        "genre": "Rostock",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
         "radio_name": "MDR Sachsen-Anhalt (DE)",
         "radio_image": "https://radiomap.eu/de/images/mdr-sachsenanhalt.svg",
         "radio_url": "https://mdr-284290-0.sslcast.mdr.de/mdr/284290/0/mp3/high/stream.mp3",
@@ -231,16 +191,6 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "NDR Kultur",
-        "radio_image": "https://radiomap.eu/de/images/ndr-kultur.gif",
-        "radio_url": "https://icecast.ndr.de/ndr/ndrkultur/live/mp3/128/stream.mp3",
-        "genre": "Magdeburg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
         "radio_name": "MDR Jump",
         "radio_image": "https://radiomap.eu/de/images/mdr-jump.svg",
         "radio_url": "https://mdr-284320-0.sslcast.mdr.de/mdr/284320/0/mp3/high/stream.mp3",
@@ -264,26 +214,6 @@
         "radio_name": "NDR 2 (NI)",
         "radio_image": "https://radiomap.eu/de/images/ndr2.gif",
         "radio_url": "https://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3",
-        "genre": "Magdeburg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "N-JOY",
-        "radio_image": "https://radiomap.eu/de/images/ndr-njoy.gif",
-        "radio_url": "https://icecast.ndr.de/ndr/njoy/live/mp3/128/stream.mp3",
-        "genre": "Magdeburg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Deutschlandfunk Kultur",
-        "radio_image": "https://radiomap.eu/de/images/deutschlandfunk-kultur.svg",
-        "radio_url": "https://st02.sslstream.dlf.de/dlf/02/128/mp3/stream.mp3",
         "genre": "Magdeburg",
         "country_id": "162",
         "country_name": "Germany",
@@ -341,16 +271,6 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "Deutschlandfunk",
-        "radio_image": "https://radiomap.eu/de/images/deutschlandfunk.svg",
-        "radio_url": "https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3",
-        "genre": "Magdeburg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
         "radio_name": "MDR Kultur",
         "radio_image": "https://radiomap.eu/de/images/mdr-kultur.svg",
         "radio_url": "https://mdr-284310-0.sslcast.mdr.de/mdr/284310/0/mp3/high/stream.mp3",
@@ -391,39 +311,9 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "Polskie Radio Jedynka",
-        "radio_image": "https://radiomap.eu/pl/images/pr-jedynka.svg",
-        "radio_url": "Audio source not found",
-        "genre": "Magdeburg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "DR Langbølge",
-        "radio_image": "https://radiomap.eutp:age source not found",
-        "radio_url": "Audio source not found",
-        "genre": "Magdeburg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
         "radio_name": "NDR Info (SH)",
         "radio_image": "https://radiomap.eu/de/images/ndr-info.gif",
         "radio_url": "https://icecast.ndr.de/ndr/ndrinfo/schleswigholstein/mp3/128/stream.mp3",
-        "genre": "Kiel",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "DR P1 DR P2",
-        "radio_image": "https://radiomap.eu/dk/images/dr_p1.svg",
-        "radio_url": "Audio source not found",
         "genre": "Kiel",
         "country_id": "162",
         "country_name": "Germany",
@@ -451,119 +341,9 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "DR P3",
-        "radio_image": "https://radiomap.eu/dk/images/dr_p3.svg",
-        "radio_url": "Audio source not found",
-        "genre": "Kiel",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "NDR 2 (SH)",
-        "radio_image": "https://radiomap.eu/de/images/ndr2.gif",
-        "radio_url": "https://icecast.ndr.de/ndr/ndr2/schleswigholstein/mp3/128/stream.mp3",
-        "genre": "Kiel",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "NDR Kultur",
-        "radio_image": "https://radiomap.eu/de/images/ndr-kultur.gif",
-        "radio_url": "https://icecast.ndr.de/ndr/ndrkultur/live/mp3/128/stream.mp3",
-        "genre": "Kiel",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "DR P4 Fyn",
-        "radio_image": "https://radiomap.eu/dk/images/dr_p4.svg",
-        "radio_url": "Audio source not found",
-        "genre": "Kiel",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "N-JOY",
-        "radio_image": "https://radiomap.eu/de/images/ndr-njoy.gif",
-        "radio_url": "https://icecast.ndr.de/ndr/njoy/live/mp3/128/stream.mp3",
-        "genre": "Kiel",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "delta radio",
-        "radio_image": "https://radiomap.eu/de/images/delta.gif",
-        "radio_url": "http://streams.deltaradio.de/delta-live/mp3-128/og-audio-tag",
-        "genre": "Kiel",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Radio4",
-        "radio_image": "https://radiomap.eu/dk/images/radio4.svg",
-        "radio_url": "http://netradio.radio4.dk/radio4",
-        "genre": "Kiel",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "R.SH",
-        "radio_image": "https://radiomap.eu/de/images/rsh.gif",
-        "radio_url": "https://rsh.hoerradar.de/rsh-live-mp3-hq",
-        "genre": "Kiel",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Deutschlandfunk Kultur",
-        "radio_image": "https://radiomap.eu/de/images/deutschlandfunk-kultur.svg",
-        "radio_url": "https://st02.sslstream.dlf.de/dlf/02/128/mp3/stream.mp3",
-        "genre": "Kiel",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
         "radio_name": "NDR 1 Welle Nord (NMS)",
         "radio_image": "https://radiomap.eu/de/images/ndr1-wellenord.gif",
         "radio_url": "https://icecast.ndr.de/ndr/ndr1wellenord/norderstedt/mp3/128/stream.mp3",
-        "genre": "Kiel",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Polskie Radio Jedynka",
-        "radio_image": "https://radiomap.eu/pl/images/pr-jedynka.svg",
-        "radio_url": "Audio source not found",
-        "genre": "Kiel",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "DR Langbølge",
-        "radio_image": "https://radiomap.eutp:age source not found",
-        "radio_url": "Audio source not found",
         "genre": "Kiel",
         "country_id": "162",
         "country_name": "Germany",
@@ -601,7 +381,7 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "hr1 (Südhessen)",
+        "radio_name": "hr1",
         "radio_image": "https://radiomap.eu/de/images/hr1.svg",
         "radio_url": "https://dispatcher.rndfnk.com/hr/hr1/suedhessen/high",
         "genre": "Karlsruhe",
@@ -791,36 +571,6 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "Deutschlandfunk Kultur",
-        "radio_image": "https://radiomap.eu/de/images/deutschlandfunk-kultur.svg",
-        "radio_url": "https://st02.sslstream.dlf.de/dlf/02/128/mp3/stream.mp3",
-        "genre": "Karlsruhe",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Polskie Radio Jedynka",
-        "radio_image": "https://radiomap.eu/pl/images/pr-jedynka.svg",
-        "radio_url": "Audio source not found",
-        "genre": "Karlsruhe",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "89.0 RTL",
-        "radio_image": "https://radiomap.eu/de/../lu/images/rtl_de89.svg",
-        "radio_url": "http://stream.89.0rtl.de/live/mp3-128/radioplayerhp",
-        "genre": "Erfurt",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
         "radio_name": "LandesWelle Thüringen",
         "radio_image": "https://radiomap.eu/de/images/landeswelle.gif",
         "radio_url": "http://stream.landeswelle.de/lwt/mp3-192/web/",
@@ -841,16 +591,6 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "NDR Kultur",
-        "radio_image": "https://radiomap.eu/de/images/ndr-kultur.gif",
-        "radio_url": "https://icecast.ndr.de/ndr/ndrkultur/live/mp3/128/stream.mp3",
-        "genre": "Erfurt",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
         "radio_name": "Radio Top 40",
         "radio_image": "https://radiomap.eu/de/images/top40.gif",
         "radio_url": "https://antenne-th.divicon-stream.net/antth_top40live_SeJx-mp3-192",
@@ -861,59 +601,9 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "MDR Jump",
-        "radio_image": "https://radiomap.eu/de/images/mdr-jump.svg",
-        "radio_url": "https://mdr-284320-0.sslcast.mdr.de/mdr/284320/0/mp3/high/stream.mp3",
-        "genre": "Erfurt",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
         "radio_name": "MDR Thüringen (Süd)",
         "radio_image": "https://radiomap.eu/de/images/mdr-thueringen.svg",
         "radio_url": "https://mdr-284300-0.sslcast.mdr.de/mdr/284300/0/mp3/high/stream.mp3",
-        "genre": "Erfurt",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "NDR 2 (NI)",
-        "radio_image": "https://radiomap.eu/de/images/ndr2.gif",
-        "radio_url": "https://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3",
-        "genre": "Erfurt",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Deutschlandfunk Kultur",
-        "radio_image": "https://radiomap.eu/de/images/deutschlandfunk-kultur.svg",
-        "radio_url": "https://st02.sslstream.dlf.de/dlf/02/128/mp3/stream.mp3",
-        "genre": "Erfurt",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "MDR Sachsen-Anhalt (MD)",
-        "radio_image": "https://radiomap.eu/de/images/mdr-sachsenanhalt.svg",
-        "radio_url": "https://mdr-284290-0.sslcast.mdr.de/mdr/284290/0/mp3/high/stream.mp3",
-        "genre": "Erfurt",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "MDR Kultur",
-        "radio_image": "https://radiomap.eu/de/images/mdr-kultur.svg",
-        "radio_url": "https://mdr-284310-0.sslcast.mdr.de/mdr/284310/0/mp3/high/stream.mp3",
         "genre": "Erfurt",
         "country_id": "162",
         "country_name": "Germany",
@@ -941,49 +631,9 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "NDR 1 Niedersachsen (BS)",
-        "radio_image": "https://radiomap.eu/de/images/ndr1-niedersachsen.gif",
-        "radio_url": "https://icecast.ndr.de/ndr/ndr1niedersachsen/braunschweig/mp3/128/stream.mp3",
-        "genre": "Erfurt",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
         "radio_name": "hr1 (Nordhessen)",
         "radio_image": "https://radiomap.eu/de/images/hr1.svg",
         "radio_url": "https://dispatcher.rndfnk.com/hr/hr1/nordhessen/high",
-        "genre": "Erfurt",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Radio SAW (HZ)",
-        "radio_image": "https://radiomap.eu/de/images/saw.gif",
-        "radio_url": "https://saw-stream05.radiohost.de/saw-harz-niedersachsen_mp3-192",
-        "genre": "Erfurt",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "hr4 (Nordosthessen)",
-        "radio_image": "Failed to fetch webpage",
-        "radio_url": "Failed to fetch webpage",
-        "genre": "Erfurt",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Radio FFN (Braunschweig)",
-        "radio_image": "https://radiomap.eu/de/images/ffn.gif",
-        "radio_url": "http://player.ffn.de/ffnbraunschweig.mp3",
         "genre": "Erfurt",
         "country_id": "162",
         "country_name": "Germany",
@@ -1011,46 +661,6 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "MDR Aktuell",
-        "radio_image": "https://radiomap.eu/de/images/mdr-aktuell.svg",
-        "radio_url": "https://mdr-284340-0.sslcast.mdr.de/mdr/284340/0/mp3/high/stream.mp3",
-        "genre": "Erfurt",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Antenne Niedersachsen (BS)",
-        "radio_image": "https://radiomap.eu/de/images/antenne-niedersachsen.gif",
-        "radio_url": "https://antnds.streamabc.net/ands-antndsregion5-mp3-192-8809389",
-        "genre": "Erfurt",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Polskie Radio Jedynka",
-        "radio_image": "https://radiomap.eu/pl/images/pr-jedynka.svg",
-        "radio_url": "Audio source not found",
-        "genre": "Erfurt",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "DR Langbølge",
-        "radio_image": "https://radiomap.eutp:age source not found",
-        "radio_url": "Audio source not found",
-        "genre": "Erfurt",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
         "radio_name": "WDR 1LIVE",
         "radio_image": "https://radiomap.eu/de/images/wdr1live.gif",
         "radio_url": "https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3",
@@ -1064,16 +674,6 @@
         "radio_name": "WDR 5",
         "radio_image": "https://radiomap.eu/de/images/wdr5.gif",
         "radio_url": "https://wdr-wdr5-live.icecastssl.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3",
-        "genre": "Bonn",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "SWR1 Rheinland-Pfalz",
-        "radio_image": "https://radiomap.eu/de/images/swr1.gif",
-        "radio_url": "https://liveradio.swr.de/sw282p3/swr1rp/",
         "genre": "Bonn",
         "country_id": "162",
         "country_name": "Germany",
@@ -1101,39 +701,9 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "SWR3",
-        "radio_image": "https://radiomap.eu/de/images/swr3.gif",
-        "radio_url": "https://liveradio.swr.de/sw282p3/swr3/",
-        "genre": "Bonn",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "SWR2",
-        "radio_image": "https://radiomap.eu/de/images/swr2.gif",
-        "radio_url": "https://liveradio.swr.de/sw282p3/swr2/",
-        "genre": "Bonn",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
         "radio_name": "WDR 3",
         "radio_image": "https://radiomap.eu/de/images/wdr3.gif",
         "radio_url": "https://wdr-wdr3-live.icecastssl.wdr.de/wdr/wdr3/live/mp3/128/stream.mp3",
-        "genre": "Bonn",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Deutschlandfunk Kultur",
-        "radio_image": "https://radiomap.eu/de/images/deutschlandfunk-kultur.svg",
-        "radio_url": "https://st02.sslstream.dlf.de/dlf/02/128/mp3/stream.mp3",
         "genre": "Bonn",
         "country_id": "162",
         "country_name": "Germany",
@@ -1261,16 +831,6 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "WDR 5",
-        "radio_image": "https://radiomap.eu/de/images/wdr5.gif",
-        "radio_url": "https://wdr-wdr5-live.icecastssl.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3",
-        "genre": "Aachen",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
         "radio_name": "RTV Parkstad",
         "radio_image": "https://radiomap.eu/nl/images/parkstad.gif",
         "radio_url": "https://stream.rtvparkstad.nl/rtvparkstad.mp3",
@@ -1381,39 +941,9 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "WDR 3",
-        "radio_image": "https://radiomap.eu/de/images/wdr3.gif",
-        "radio_url": "https://wdr-wdr3-live.icecastssl.wdr.de/wdr/wdr3/live/mp3/128/stream.mp3",
-        "genre": "Aachen",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "L1 Radio",
-        "radio_image": "https://radiomap.eu/nl/images/l1.gif",
-        "radio_url": "Audio source not found",
-        "genre": "Aachen",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
         "radio_name": "RTBF Classic 21",
         "radio_image": "https://radiomap.eu/be/images/rtbf_classic21.svg",
         "radio_url": "http://radios.rtbf.be/classic21-128.mp3",
-        "genre": "Aachen",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Deutschlandfunk Kultur",
-        "radio_image": "https://radiomap.eu/de/images/deutschlandfunk-kultur.svg",
-        "radio_url": "https://st02.sslstream.dlf.de/dlf/02/128/mp3/stream.mp3",
         "genre": "Aachen",
         "country_id": "162",
         "country_name": "Germany",
@@ -1511,39 +1041,9 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "100'5 Das Hitradio",
+        "radio_name": "Das Hitradio",
         "radio_image": "https://radiomap.eu/be/images/1005dashitradio.gif",
         "radio_url": "https://dashitradio-de-hz-fal-stream10-cluster01.radiohost.de/dashitradio_128",
-        "genre": "Aachen",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "WDR 2 (Aachen)",
-        "radio_image": "https://radiomap.eu/de/images/wdr2.gif",
-        "radio_url": "https://wdr-wdr2-aachenundregion.icecastssl.wdr.de/wdr/wdr2/aachenundregion/mp3/128/stream.mp3",
-        "genre": "Aachen",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Radio 700",
-        "radio_image": "https://radiomap.eu/be/images/radio700.gif",
-        "radio_url": "Audio source not found",
-        "genre": "Aachen",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "WDR 4",
-        "radio_image": "https://radiomap.eu/de/images/wdr4.gif",
-        "radio_url": "https://wdr-wdr4-live.icecastssl.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3",
         "genre": "Aachen",
         "country_id": "162",
         "country_name": "Germany",
@@ -1564,16 +1064,6 @@
         "radio_name": "Qmusic",
         "radio_image": "https://radiomap.eu/be/images/qmusic.svg",
         "radio_url": "https://streams.radio.dpgmedia.cloud/redirect/qmusic_be/mp3?source=radiomapeu&player=rp_external",
-        "genre": "Aachen",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "WDR COSMO",
-        "radio_image": "https://radiomap.eu/de/images/wdr-cosmo.gif",
-        "radio_url": "https://wdr-cosmo-live.icecastssl.wdr.de/wdr/cosmo/live/mp3/128/stream.mp3",
         "genre": "Aachen",
         "country_id": "162",
         "country_name": "Germany",
@@ -1631,29 +1121,9 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "WDR 1LIVE",
-        "radio_image": "https://radiomap.eu/de/images/wdr1live.gif",
-        "radio_url": "https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3",
-        "genre": "Aachen",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
         "radio_name": "Radio Contact (Ostbelgien)",
         "radio_image": "https://radiomap.eu/be/images/contact.gif",
         "radio_url": "https://s1.dh-media.net:17000/stream/2/",
-        "genre": "Aachen",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "BBC Radio 4 (LW)",
-        "radio_image": "https://radiomap.eu/uk/images/bbc_radio4lw.svg",
-        "radio_url": "Audio source not found",
         "genre": "Aachen",
         "country_id": "162",
         "country_name": "Germany",
@@ -1701,39 +1171,9 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "N-JOY",
-        "radio_image": "https://radiomap.eu/de/images/ndr-njoy.gif",
-        "radio_url": "https://icecast.ndr.de/ndr/njoy/live/mp3/128/stream.mp3",
-        "genre": "Bremen",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
         "radio_name": "RB Bremen Zwei",
         "radio_image": "https://radiomap.eu/de/images/rb-bremenzwei.gif",
         "radio_url": "https://icecast.radiobremen.de/rb/bremenzwei/live/mp3/128/stream.mp3",
-        "genre": "Bremen",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "NDR Info (NI)",
-        "radio_image": "https://radiomap.eu/de/images/ndr-info.gif",
-        "radio_url": "https://icecast.ndr.de/ndr/ndrinfo/niedersachsen/mp3/128/stream.mp3",
-        "genre": "Bremen",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "NDR Kultur",
-        "radio_image": "https://radiomap.eu/de/images/ndr-kultur.gif",
-        "radio_url": "https://icecast.ndr.de/ndr/ndrkultur/live/mp3/128/stream.mp3",
         "genre": "Bremen",
         "country_id": "162",
         "country_name": "Germany",
@@ -1791,36 +1231,6 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "Deutschlandfunk Kultur",
-        "radio_image": "https://radiomap.eu/de/images/deutschlandfunk-kultur.svg",
-        "radio_url": "https://st02.sslstream.dlf.de/dlf/02/128/mp3/stream.mp3",
-        "genre": "Bremen",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Polskie Radio Jedynka",
-        "radio_image": "https://radiomap.eu/pl/images/pr-jedynka.svg",
-        "radio_url": "Audio source not found",
-        "genre": "Bremen",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "DR Langbølge",
-        "radio_image": "https://radiomap.eutp:age source not found",
-        "radio_url": "Audio source not found",
-        "genre": "Bremen",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
         "radio_name": "hr3 (Mittelhessen)",
         "radio_image": "https://radiomap.eu/de/images/hr3.svg",
         "radio_url": "https://dispatcher.rndfnk.com/hr/hr3/mittelhessen/high",
@@ -1831,39 +1241,9 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "Deutschlandfunk Kultur",
-        "radio_image": "https://radiomap.eu/de/images/deutschlandfunk-kultur.svg",
-        "radio_url": "https://st02.sslstream.dlf.de/dlf/02/128/mp3/stream.mp3",
-        "genre": "Dortmund",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "WDR 3",
-        "radio_image": "https://radiomap.eu/de/images/wdr3.gif",
-        "radio_url": "https://wdr-wdr3-live.icecastssl.wdr.de/wdr/wdr3/live/mp3/128/stream.mp3",
-        "genre": "Dortmund",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
         "radio_name": "CT das radio",
         "radio_image": "https://radiomap.eu/de/images/ct.gif",
         "radio_url": "https://live.ctdasradio.de/web",
-        "genre": "Dortmund",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "WDR 5",
-        "radio_image": "https://radiomap.eu/de/images/wdr5.gif",
-        "radio_url": "https://wdr-wdr5-live.icecastssl.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3",
         "genre": "Dortmund",
         "country_id": "162",
         "country_name": "Germany",
@@ -1991,59 +1371,9 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "WDR 4",
-        "radio_image": "https://radiomap.eu/de/images/wdr4.gif",
-        "radio_url": "https://wdr-wdr4-live.icecastssl.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3",
-        "genre": "Dortmund",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "BFBS Germany",
-        "radio_image": "https://radiomap.eu/uk/images/bfbs.gif",
-        "radio_url": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs5.aac",
-        "genre": "Dortmund",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
         "radio_name": "Radio Essen",
         "radio_image": "https://radiomap.eu/de/images/nrw_essen.gif",
         "radio_url": "http://radioessen.cast.addradio.de/radioessen/simulcast/high/stream.mp3",
-        "genre": "Dortmund",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Deutschlandfunk",
-        "radio_image": "https://radiomap.eu/de/images/deutschlandfunk.svg",
-        "radio_url": "https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3",
-        "genre": "Dortmund",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "WDR 1LIVE",
-        "radio_image": "https://radiomap.eu/de/images/wdr1live.gif",
-        "radio_url": "https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3",
-        "genre": "Dortmund",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "NRW1",
-        "radio_image": "https://radiomap.eu/de/images/nrw1.gif",
-        "radio_url": "https://stream.nrw1.de/nrw1",
         "genre": "Dortmund",
         "country_id": "162",
         "country_name": "Germany",
@@ -2071,49 +1401,9 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "Polskie Radio Jedynka",
-        "radio_image": "https://radiomap.eu/pl/images/pr-jedynka.svg",
-        "radio_url": "Audio source not found",
-        "genre": "Dortmund",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "DR Langbølge",
-        "radio_image": "https://radiomap.eutp:age source not found",
-        "radio_url": "Audio source not found",
-        "genre": "Dortmund",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
         "radio_name": "Hamburg Zwei",
         "radio_image": "https://radiomap.eu/de/images/hamburg-zwei.gif",
         "radio_url": "https://frontend.streamonkey.net/hh2-950",
-        "genre": "Hamburg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "RB Bremen Zwei",
-        "radio_image": "https://radiomap.eu/de/images/rb-bremenzwei.gif",
-        "radio_url": "https://icecast.radiobremen.de/rb/bremenzwei/live/mp3/128/stream.mp3",
-        "genre": "Hamburg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "N-JOY",
-        "radio_image": "https://radiomap.eu/de/images/ndr-njoy.gif",
-        "radio_url": "https://icecast.ndr.de/ndr/njoy/live/mp3/128/stream.mp3",
         "genre": "Hamburg",
         "country_id": "162",
         "country_name": "Germany",
@@ -2151,56 +1441,6 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "RB Bremen Eins",
-        "radio_image": "https://radiomap.eu/de/images/rb-bremeneins.gif",
-        "radio_url": "https://icecast.radiobremen.de/rb/bremeneins/live/mp3/128/stream.mp3",
-        "genre": "Hamburg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Deutschlandfunk Kultur",
-        "radio_image": "https://radiomap.eu/de/images/deutschlandfunk-kultur.svg",
-        "radio_url": "https://st02.sslstream.dlf.de/dlf/02/128/mp3/stream.mp3",
-        "genre": "Hamburg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "NDR 2 (NI)",
-        "radio_image": "https://radiomap.eu/de/images/ndr2.gif",
-        "radio_url": "https://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3",
-        "genre": "Hamburg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "delta radio",
-        "radio_image": "https://radiomap.eu/de/images/delta.gif",
-        "radio_url": "http://streams.deltaradio.de/delta-live/mp3-128/og-audio-tag",
-        "genre": "Hamburg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "NDR 2 (MV)",
-        "radio_image": "https://radiomap.eu/de/images/ndr2.gif",
-        "radio_url": "https://icecast.ndr.de/ndr/ndr2/mecklenburgvorpommern/mp3/128/stream.mp3",
-        "genre": "Hamburg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
         "radio_name": "Energy Hamburg",
         "radio_image": "https://radiomap.eu/de/../fr/images/nrj.svg",
         "radio_url": "https://scdn.nrjaudio.fm/adwz1/de/33009/aac_64.mp3",
@@ -2211,99 +1451,9 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "80s80s Radio (MV)",
-        "radio_image": "https://radiomap.eu/de/images/80s80s.svg",
-        "radio_url": "https://80s80s.hoerradar.de/80s80s-mv-mp3-hq",
-        "genre": "Hamburg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "R.SH",
-        "radio_image": "https://radiomap.eu/de/images/rsh.gif",
-        "radio_url": "https://rsh.hoerradar.de/rsh-live-mp3-hq",
-        "genre": "Hamburg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Radio FFN (Heide)",
-        "radio_image": "https://radiomap.eu/de/images/ffn.gif",
-        "radio_url": "http://player.ffn.de/ffnheide.mp3",
-        "genre": "Hamburg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Antenne Niedersachsen",
-        "radio_image": "https://radiomap.eu/de/images/antenne-niedersachsen.gif",
-        "radio_url": "https://antnds.streamabc.net/ands-antndsregion3-mp3-192-3635313",
-        "genre": "Hamburg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "NDR 1 Welle Nord (LH)",
-        "radio_image": "https://radiomap.eu/de/images/ndr1-wellenord.gif",
-        "radio_url": "https://icecast.ndr.de/ndr/ndr1wellenord/luebeck/mp3/128/stream.mp3",
-        "genre": "Hamburg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
         "radio_name": "Antenne Niedersachsen (Heide)",
         "radio_image": "https://radiomap.eu/de/images/antenne-niedersachsen.gif",
         "radio_url": "https://antnds.streamabc.net/ands-antndsregion2-mp3-192-9181762",
-        "genre": "Hamburg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "NDR 1 Welle Nord (NMS)",
-        "radio_image": "https://radiomap.eu/de/images/ndr1-wellenord.gif",
-        "radio_url": "https://icecast.ndr.de/ndr/ndr1wellenord/norderstedt/mp3/128/stream.mp3",
-        "genre": "Hamburg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Deutschlandfunk",
-        "radio_image": "https://radiomap.eu/de/images/deutschlandfunk.svg",
-        "radio_url": "https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3",
-        "genre": "Hamburg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Polskie Radio Jedynka",
-        "radio_image": "https://radiomap.eu/pl/images/pr-jedynka.svg",
-        "radio_url": "Audio source not found",
-        "genre": "Hamburg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "DR Langbølge",
-        "radio_image": "https://radiomap.eutp:age source not found",
-        "radio_url": "Audio source not found",
         "genre": "Hamburg",
         "country_id": "162",
         "country_name": "Germany",
@@ -2331,79 +1481,9 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "WDR 5",
-        "radio_image": "https://radiomap.eu/de/images/wdr5.gif",
-        "radio_url": "https://wdr-wdr5-live.icecastssl.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3",
-        "genre": "Duisburg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Deutschlandfunk",
-        "radio_image": "https://radiomap.eu/de/images/deutschlandfunk.svg",
-        "radio_url": "https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3",
-        "genre": "Duisburg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
         "radio_name": "Radio K.W.",
         "radio_image": "https://radiomap.eu/de/images/nrw_kreis-wessel.gif",
         "radio_url": "https://radiokw.cast.addradio.de/radiokw/simulcast/high/stream.mp3",
-        "genre": "Duisburg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "WDR 2 (Siegen)",
-        "radio_image": "https://radiomap.eu/de/images/wdr2.gif",
-        "radio_url": "https://wdr-wdr2-suedwestfalen.icecastssl.wdr.de/wdr/wdr2/suedwestfalen/mp3/128/stream.mp3",
-        "genre": "Duisburg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "NRW1",
-        "radio_image": "https://radiomap.eu/de/images/nrw1.gif",
-        "radio_url": "https://stream.nrw1.de/nrw1",
-        "genre": "Duisburg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "WDR 2 (Wuppertal)",
-        "radio_image": "https://radiomap.eu/de/images/wdr2.gif",
-        "radio_url": "https://wdr-wdr2-bergischesland.icecastssl.wdr.de/wdr/wdr2/bergischesland/mp3/128/stream.mp3",
-        "genre": "Duisburg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Radio Neandertal",
-        "radio_image": "https://radiomap.eu/de/images/neandertal.gif",
-        "radio_url": "https://neandertal-live.cast.addradio.de/neandertal/live/mp3/high",
-        "genre": "Duisburg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "WDR 3",
-        "radio_image": "https://radiomap.eu/de/images/wdr3.gif",
-        "radio_url": "https://wdr-wdr3-live.icecastssl.wdr.de/wdr/wdr3/live/mp3/128/stream.mp3",
         "genre": "Duisburg",
         "country_id": "162",
         "country_name": "Germany",
@@ -2421,49 +1501,9 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "BFBS Germany",
-        "radio_image": "https://radiomap.eu/uk/images/bfbs.gif",
-        "radio_url": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs5.aac",
-        "genre": "Duisburg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Radio Essen",
-        "radio_image": "https://radiomap.eu/de/images/nrw_essen.gif",
-        "radio_url": "http://radioessen.cast.addradio.de/radioessen/simulcast/high/stream.mp3",
-        "genre": "Duisburg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "WDR 4",
-        "radio_image": "https://radiomap.eu/de/images/wdr4.gif",
-        "radio_url": "https://wdr-wdr4-live.icecastssl.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3",
-        "genre": "Duisburg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
         "radio_name": "Antenne Düsseldorf",
         "radio_image": "https://radiomap.eu/de/images/nrw_antenne-duesseldorf.gif",
         "radio_url": "https://antennedus-live.cast.addradio.de/antennedus/live/mp3/high",
-        "genre": "Duisburg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "WDR 1LIVE",
-        "radio_image": "https://radiomap.eu/de/images/wdr1live.gif",
-        "radio_url": "https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3",
         "genre": "Duisburg",
         "country_id": "162",
         "country_name": "Germany",
@@ -2475,46 +1515,6 @@
         "radio_image": "https://radiomap.eu/de/images/nrw_oberhausen.gif",
         "radio_url": "https://radiooberhausen.cast.addradio.de/radiooberhausen/simulcast/high/stream.mp3",
         "genre": "Duisburg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Radio Wuppertal",
-        "radio_image": "https://radiomap.eu/de/images/nrw_wuppertal.gif",
-        "radio_url": "https://radiowuppertal-live.cast.addradio.de/radiowuppertal/live/mp3/high",
-        "genre": "Duisburg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Polskie Radio Jedynka",
-        "radio_image": "https://radiomap.eu/pl/images/pr-jedynka.svg",
-        "radio_url": "Audio source not found",
-        "genre": "Duisburg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "DR Langbølge",
-        "radio_image": "https://radiomap.eutp:age source not found",
-        "radio_url": "Audio source not found",
-        "genre": "Duisburg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "MDR Kultur",
-        "radio_image": "https://radiomap.eu/de/images/mdr-kultur.svg",
-        "radio_url": "https://mdr-284310-0.sslcast.mdr.de/mdr/284310/0/mp3/high/stream.mp3",
-        "genre": "Dresden",
         "country_id": "162",
         "country_name": "Germany",
         "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
@@ -2551,29 +1551,9 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "MDR Jump",
-        "radio_image": "https://radiomap.eu/de/images/mdr-jump.svg",
-        "radio_url": "https://mdr-284320-0.sslcast.mdr.de/mdr/284320/0/mp3/high/stream.mp3",
-        "genre": "Dresden",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
         "radio_name": "ČRo Radiožurnál",
         "radio_image": "https://radiomap.eu/cz/images/cro_radiozurnal.svg",
         "radio_url": "https://rozhlas.stream/radiozurnal_aac_128.aac",
-        "genre": "Dresden",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Polskie Radio Trójka",
-        "radio_image": "https://radiomap.eu/pl/images/pr-trojka.svg",
-        "radio_url": "Audio source not found",
         "genre": "Dresden",
         "country_id": "162",
         "country_name": "Germany",
@@ -2611,46 +1591,6 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "MDR Aktuell",
-        "radio_image": "https://radiomap.eu/de/images/mdr-aktuell.svg",
-        "radio_url": "https://mdr-284340-0.sslcast.mdr.de/mdr/284340/0/mp3/high/stream.mp3",
-        "genre": "Dresden",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "rbb radioeins",
-        "radio_image": "https://radiomap.eu/de/images/rbb-eins.svg",
-        "radio_url": "http://radioeins.de/livemp3",
-        "genre": "Dresden",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Deutschlandfunk",
-        "radio_image": "https://radiomap.eu/de/images/deutschlandfunk.svg",
-        "radio_url": "https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3",
-        "genre": "Dresden",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "rbb Antenne Brandenburg (CB)",
-        "radio_image": "https://radiomap.eu/de/images/rbb-antennebrandenburg.svg",
-        "radio_url": "http://antennebrandenburg.de/livemp3",
-        "genre": "Dresden",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
         "radio_name": "apollo radio (Dresden) coloRadio",
         "radio_image": "https://radiomap.eu/de/images/apollo.gif",
         "radio_url": "https://streams.bcs-systems.de/apollo/live/dresden/mp3/radioplayer/web",
@@ -2681,29 +1621,9 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "Deutschlandfunk Kultur",
-        "radio_image": "https://radiomap.eu/de/images/deutschlandfunk-kultur.svg",
-        "radio_url": "https://st02.sslstream.dlf.de/dlf/02/128/mp3/stream.mp3",
-        "genre": "Dresden",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
         "radio_name": "Rádio Impuls",
         "radio_image": "https://radiomap.eu/cz/images/impuls.svg",
         "radio_url": "http://icecast1.play.cz/impuls128.mp3",
-        "genre": "Dresden",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "rbb Fritz",
-        "radio_image": "https://radiomap.eu/de/images/rbb-fritz.svg",
-        "radio_url": "http://fritz.de/livemp3",
         "genre": "Dresden",
         "country_id": "162",
         "country_name": "Germany",
@@ -2781,36 +1701,6 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "Polskie Radio Jedynka",
-        "radio_image": "https://radiomap.eu/pl/images/pr-jedynka.svg",
-        "radio_url": "Audio source not found",
-        "genre": "Dresden",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "DR Langbølge",
-        "radio_image": "https://radiomap.eutp:age source not found",
-        "radio_url": "Audio source not found",
-        "genre": "Dresden",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "bigFM (BW)",
-        "radio_image": "https://radiomap.eu/de/images/bigfm.gif",
-        "radio_url": "http://streams.bigfm.de/bigfm-bw-128-mp3",
-        "genre": "Heidelberg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
         "radio_name": "Metropol FM (Südwest)",
         "radio_image": "https://radiomap.eu/de/images/metropol.gif",
         "radio_url": "https://stream2.mfm.plexpark.com/radio/8000/simulcast-suedwest-sd-64.aac",
@@ -2841,49 +1731,9 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "hr1 (Südhessen)",
-        "radio_image": "https://radiomap.eu/de/images/hr1.svg",
-        "radio_url": "https://dispatcher.rndfnk.com/hr/hr1/suedhessen/high",
-        "genre": "Heidelberg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "SWR2",
-        "radio_image": "https://radiomap.eu/de/images/swr2.gif",
-        "radio_url": "https://liveradio.swr.de/sw282p3/swr2/",
-        "genre": "Heidelberg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "hr3 (Südhessen)",
-        "radio_image": "https://radiomap.eu/de/images/hr3.svg",
-        "radio_url": "https://dispatcher.rndfnk.com/hr/hr3/suedhessen/high",
-        "genre": "Heidelberg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
         "radio_name": "Rockland Radio",
         "radio_image": "https://radiomap.eu/de/images/rockland-mainz.gif",
         "radio_url": "http://188.94.97.90/rockland.mp3",
-        "genre": "Heidelberg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "SWR1 Baden-Württemberg",
-        "radio_image": "https://radiomap.eu/de/images/swr1.gif",
-        "radio_url": "https://liveradio.swr.de/sw282p3/swr1bw/",
         "genre": "Heidelberg",
         "country_id": "162",
         "country_name": "Germany",
@@ -2901,99 +1751,9 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "YOU FM",
-        "radio_image": "https://radiomap.eu/de/images/hr-youfm.svg",
-        "radio_url": "https://dispatcher.rndfnk.com/hr/youfm/live/mp3/high",
-        "genre": "Heidelberg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "hr2-kultur",
-        "radio_image": "https://radiomap.eu/de/images/hr2.svg",
-        "radio_url": "https://dispatcher.rndfnk.com/hr/hr2/live/mp3/medium",
-        "genre": "Heidelberg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Deutschlandfunk Kultur",
-        "radio_image": "https://radiomap.eu/de/images/deutschlandfunk-kultur.svg",
-        "radio_url": "https://st02.sslstream.dlf.de/dlf/02/128/mp3/stream.mp3",
-        "genre": "Heidelberg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "SWR3",
-        "radio_image": "https://radiomap.eu/de/images/swr3.gif",
-        "radio_url": "https://liveradio.swr.de/sw282p3/swr3/",
-        "genre": "Heidelberg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Deutschlandfunk",
-        "radio_image": "https://radiomap.eu/de/images/deutschlandfunk.svg",
-        "radio_url": "https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3",
-        "genre": "Heidelberg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "SWR1 Rheinland-Pfalz",
-        "radio_image": "https://radiomap.eu/de/images/swr1.gif",
-        "radio_url": "https://liveradio.swr.de/sw282p3/swr1rp/",
-        "genre": "Heidelberg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Radio Regenbogen",
-        "radio_image": "https://radiomap.eu/de/images/regenbogen.gif",
-        "radio_url": "http://streams.regenbogen.de/rr-mannheim-128-mp3",
-        "genre": "Heidelberg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
         "radio_name": "Energy Stuttgart",
         "radio_image": "https://radiomap.eu/de/../fr/images/nrj.svg",
         "radio_url": "https://scdn.nrjaudio.fm/adwz1/de/33005/aac_64.mp3",
-        "genre": "Heidelberg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "hr4 (Rhein-Main)",
-        "radio_image": "Failed to fetch webpage",
-        "radio_url": "Failed to fetch webpage",
-        "genre": "Heidelberg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "RPR1.",
-        "radio_image": "https://radiomap.eu/de/images/rpr1.gif",
-        "radio_url": "https://streams.rpr1.de/rpr-simulcast-128-mp3",
         "genre": "Heidelberg",
         "country_id": "162",
         "country_name": "Germany",
@@ -3011,26 +1771,6 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "SWR4 (Kaiserslautern)",
-        "radio_image": "https://radiomap.eu/de/images/swr4.gif",
-        "radio_url": "https://liveradio.swr.de/sw282p3/swr4kl/",
-        "genre": "Heidelberg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "bigFM (RP)",
-        "radio_image": "https://radiomap.eu/de/images/bigfm.gif",
-        "radio_url": "http://streams.bigfm.de/bigfm-rlp-128-mp3",
-        "genre": "Heidelberg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
         "radio_name": "Radio Regenbogen Zwei",
         "radio_image": "https://radiomap.eu/de/images/regenbogen2.gif",
         "radio_url": "http://streams.regenbogen.de/rr2-bw-128-mp3",
@@ -3041,109 +1781,9 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "Polskie Radio Jedynka",
-        "radio_image": "https://radiomap.eu/pl/images/pr-jedynka.svg",
-        "radio_url": "Audio source not found",
-        "genre": "Heidelberg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "MDR Kultur",
-        "radio_image": "https://radiomap.eu/de/images/mdr-kultur.svg",
-        "radio_url": "https://mdr-284310-0.sslcast.mdr.de/mdr/284310/0/mp3/high/stream.mp3",
-        "genre": "Leipzig",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "89.0 RTL",
-        "radio_image": "https://radiomap.eu/de/../lu/images/rtl_de89.svg",
-        "radio_url": "http://stream.89.0rtl.de/live/mp3-128/radioplayerhp",
-        "genre": "Leipzig",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "MDR Jump",
-        "radio_image": "https://radiomap.eu/de/images/mdr-jump.svg",
-        "radio_url": "https://mdr-284320-0.sslcast.mdr.de/mdr/284320/0/mp3/high/stream.mp3",
-        "genre": "Leipzig",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "MDR Sachsen (C)",
-        "radio_image": "https://radiomap.eu/de/images/mdr-sachsen.svg",
-        "radio_url": "https://mdr-284280-0.sslcast.mdr.de/mdr/284280/0/mp3/high/stream.mp3",
-        "genre": "Leipzig",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
         "radio_name": "Radio Brocken (HAL)",
         "radio_image": "https://radiomap.eu/de/images/brocken.gif",
         "radio_url": "https://fhhalle.streamabc.net/fhhal-rbhall-mp3-128-3225039",
-        "genre": "Leipzig",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "MDR Aktuell",
-        "radio_image": "https://radiomap.eu/de/images/mdr-aktuell.svg",
-        "radio_url": "https://mdr-284340-0.sslcast.mdr.de/mdr/284340/0/mp3/high/stream.mp3",
-        "genre": "Leipzig",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Deutschlandfunk",
-        "radio_image": "https://radiomap.eu/de/images/deutschlandfunk.svg",
-        "radio_url": "https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3",
-        "genre": "Leipzig",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "MDR Thüringen (Ost)",
-        "radio_image": "https://radiomap.eu/de/images/mdr-thueringen.svg",
-        "radio_url": "https://mdr-284300-0.sslcast.mdr.de/mdr/284300/0/mp3/high/stream.mp3",
-        "genre": "Leipzig",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Radio PSR",
-        "radio_image": "https://radiomap.eu/de/images/psr.gif",
-        "radio_url": "https://psr.hoerradar.de/psr-live-mp3-hq",
-        "genre": "Leipzig",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "MDR Sachsen-Anhalt (HAL)",
-        "radio_image": "https://radiomap.eu/de/images/mdr-sachsenanhalt.svg",
-        "radio_url": "https://mdr-284290-0.sslcast.mdr.de/mdr/284290/0/mp3/high/stream.mp3",
         "genre": "Leipzig",
         "country_id": "162",
         "country_name": "Germany",
@@ -3191,59 +1831,9 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "Hitradio RTL Sachsen (Che)",
-        "radio_image": "https://radiomap.eu/de/../lu/images/rtl_de-sachsen.svg",
-        "radio_url": "https://web.radio.hitradio-rtl.de/hrrtl-chemnitz",
-        "genre": "Leipzig",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "R.SA",
-        "radio_image": "https://radiomap.eu/de/images/rsa-sachsen.gif",
-        "radio_url": "https://rsa.hoerradar.de/rsasachsen-live-mp3-hq",
-        "genre": "Leipzig",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Polskie Radio Jedynka",
-        "radio_image": "https://radiomap.eu/pl/images/pr-jedynka.svg",
-        "radio_url": "Audio source not found",
-        "genre": "Leipzig",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "DR Langbølge",
-        "radio_image": "https://radiomap.eutp:age source not found",
-        "radio_url": "Audio source not found",
-        "genre": "Leipzig",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
         "radio_name": "80er-Radio harmony",
         "radio_image": "https://radiomap.eu/de/images/80er-harmony.svg",
         "radio_url": "https://mp3.harmonyfm.de/harmonyfm/hqlivestream.aac",
-        "genre": "Mainz",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "SWR2",
-        "radio_image": "https://radiomap.eu/de/images/swr2.gif",
-        "radio_url": "https://liveradio.swr.de/sw282p3/swr2/",
         "genre": "Mainz",
         "country_id": "162",
         "country_name": "Germany",
@@ -3261,310 +1851,10 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "hr1 (Südhessen)",
-        "radio_image": "https://radiomap.eu/de/images/hr1.svg",
-        "radio_url": "https://dispatcher.rndfnk.com/hr/hr1/suedhessen/high",
-        "genre": "Mainz",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "radio x",
-        "radio_image": "https://radiomap.eu/de/images/x.gif",
-        "radio_url": "Audio source not found",
-        "genre": "Mainz",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "hr3 (Südhessen)",
-        "radio_image": "https://radiomap.eu/de/images/hr3.svg",
-        "radio_url": "https://dispatcher.rndfnk.com/hr/hr3/suedhessen/high",
-        "genre": "Mainz",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "hr2-kultur",
-        "radio_image": "https://radiomap.eu/de/images/hr2.svg",
-        "radio_url": "https://dispatcher.rndfnk.com/hr/hr2/live/mp3/medium",
-        "genre": "Mainz",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "SWR3",
-        "radio_image": "https://radiomap.eu/de/images/swr3.gif",
-        "radio_url": "https://liveradio.swr.de/sw282p3/swr3/",
-        "genre": "Mainz",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
         "radio_name": "SWR4 (Mainz)",
         "radio_image": "https://radiomap.eu/de/images/swr4.gif",
         "radio_url": "https://liveradio.swr.de/sw282p3/swr4rp/",
         "genre": "Mainz",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "YOU FM",
-        "radio_image": "https://radiomap.eu/de/images/hr-youfm.svg",
-        "radio_url": "https://dispatcher.rndfnk.com/hr/youfm/live/mp3/high",
-        "genre": "Mainz",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "SWR1 Rheinland-Pfalz",
-        "radio_image": "https://radiomap.eu/de/images/swr1.gif",
-        "radio_url": "https://liveradio.swr.de/sw282p3/swr1rp/",
-        "genre": "Mainz",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "hr-iNFO",
-        "radio_image": "https://radiomap.eu/de/images/hr-info.svg",
-        "radio_url": "https://dispatcher.rndfnk.com/hr/hrinfo/live/mp3/high",
-        "genre": "Mainz",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "SWR1 Baden-Württemberg",
-        "radio_image": "https://radiomap.eu/de/images/swr1.gif",
-        "radio_url": "https://liveradio.swr.de/sw282p3/swr1bw/",
-        "genre": "Mainz",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "hr1 (Rhein-Main)",
-        "radio_image": "https://radiomap.eu/de/images/hr1.svg",
-        "radio_url": "https://dispatcher.rndfnk.com/hr/hr1/rheinmain/high",
-        "genre": "Mainz",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "hr4 (Rhein-Main)",
-        "radio_image": "Failed to fetch webpage",
-        "radio_url": "Failed to fetch webpage",
-        "genre": "Mainz",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "SWR4 (Mannheim)",
-        "radio_image": "https://radiomap.eu/de/images/swr4.gif",
-        "radio_url": "https://liveradio.swr.de/sw282p3/swr4ma/",
-        "genre": "Mainz",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Hit Radio FFH (DA)",
-        "radio_image": "https://radiomap.eu/de/images/ffh.svg",
-        "radio_url": "https://mp3.ffh.de/radioffh/hqlivestream-suedhessen.aac",
-        "genre": "Mainz",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "SWR4 (Kaiserslautern)",
-        "radio_image": "https://radiomap.eu/de/images/swr4.gif",
-        "radio_url": "https://liveradio.swr.de/sw282p3/swr4kl/",
-        "genre": "Mainz",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Polskie Radio Jedynka",
-        "radio_image": "https://radiomap.eu/pl/images/pr-jedynka.svg",
-        "radio_url": "Audio source not found",
-        "genre": "Mainz",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-{
-        "radio_id": "109087",
-        "radio_name": "hr3 (Rhein-Main)",
-        "radio_image": "https://radiomap.eu/de/images/hr3.svg",
-        "radio_url": "https://dispatcher.rndfnk.com/hr/hr3/rheinmain/high",
-        "genre": "Mannheim",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "bigFM (BW)",
-        "radio_image": "https://radiomap.eu/de/images/bigfm.gif",
-        "radio_url": "http://streams.bigfm.de/bigfm-bw-128-mp3",
-        "genre": "Mannheim",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "SWR2",
-        "radio_image": "https://radiomap.eu/de/images/swr2.gif",
-        "radio_url": "https://liveradio.swr.de/sw282p3/swr2/",
-        "genre": "Mannheim",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "SWR1 Baden-Württemberg",
-        "radio_image": "https://radiomap.eu/de/images/swr1.gif",
-        "radio_url": "https://liveradio.swr.de/sw282p3/swr1bw/",
-        "genre": "Mannheim",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "hr1 (Rhein-Main)",
-        "radio_image": "https://radiomap.eu/de/images/hr1.svg",
-        "radio_url": "https://dispatcher.rndfnk.com/hr/hr1/rheinmain/high",
-        "genre": "Mannheim",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "hr2-kultur",
-        "radio_image": "https://radiomap.eu/de/images/hr2.svg",
-        "radio_url": "https://dispatcher.rndfnk.com/hr/hr2/live/mp3/medium",
-        "genre": "Mannheim",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "SWR3",
-        "radio_image": "https://radiomap.eu/de/images/swr3.gif",
-        "radio_url": "https://liveradio.swr.de/sw282p3/swr3/",
-        "genre": "Mannheim",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Deutschlandfunk",
-        "radio_image": "https://radiomap.eu/de/images/deutschlandfunk.svg",
-        "radio_url": "https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3",
-        "genre": "Mannheim",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "SWR1 Rheinland-Pfalz",
-        "radio_image": "https://radiomap.eu/de/images/swr1.gif",
-        "radio_url": "https://liveradio.swr.de/sw282p3/swr1rp/",
-        "genre": "Mannheim",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Radio Regenbogen",
-        "radio_image": "https://radiomap.eu/de/images/regenbogen.gif",
-        "radio_url": "http://streams.regenbogen.de/rr-mannheim-128-mp3",
-        "genre": "Mannheim",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "RPR1.",
-        "radio_image": "https://radiomap.eu/de/images/rpr1.gif",
-        "radio_url": "https://streams.rpr1.de/rpr-simulcast-128-mp3",
-        "genre": "Mannheim",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "hr4 (Rhein-Main)",
-        "radio_image": "Failed to fetch webpage",
-        "radio_url": "Failed to fetch webpage",
-        "genre": "Mannheim",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "bigFM (RP)",
-        "radio_image": "https://radiomap.eu/de/images/bigfm.gif",
-        "radio_url": "http://streams.bigfm.de/bigfm-rlp-128-mp3",
-        "genre": "Mannheim",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Bermudafunk Radioaktiv",
-        "radio_image": "https://radiomap.eu/de/images/bermudafunk.gif",
-        "radio_url": "https://streaming.fueralle.org/bermudafunk_high",
-        "genre": "Mannheim",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "SWR4 (Kaiserslautern)",
-        "radio_image": "https://radiomap.eu/de/images/swr4.gif",
-        "radio_url": "https://liveradio.swr.de/sw282p3/swr4kl/",
-        "genre": "Mannheim",
         "country_id": "162",
         "country_name": "Germany",
         "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
@@ -3581,69 +1871,9 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "hr-iNFO",
-        "radio_image": "https://radiomap.eu/de/images/hr-info.svg",
-        "radio_url": "https://dispatcher.rndfnk.com/hr/hrinfo/live/mp3/high",
-        "genre": "Mannheim",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Rockland Radio",
-        "radio_image": "https://radiomap.eu/de/images/rockland-mainz.gif",
-        "radio_url": "http://188.94.97.90/rockland.mp3",
-        "genre": "Mannheim",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Polskie Radio Jedynka",
-        "radio_image": "https://radiomap.eu/pl/images/pr-jedynka.svg",
-        "radio_url": "Audio source not found",
-        "genre": "Mannheim",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-{
-        "radio_id": "109087",
         "radio_name": "Radio Kiepenkerl (Süd)",
         "radio_image": "https://radiomap.eu/de/images/kiepenkerl.gif",
         "radio_url": "https://radiokiepenkerl-sued.cast.addradio.de/radiokiepenkerl/sued/mp3/high",
-        "genre": "Münster",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "NDR 2 (NI)",
-        "radio_image": "https://radiomap.eu/de/images/ndr2.gif",
-        "radio_url": "https://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3",
-        "genre": "Münster",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "NDR Kultur",
-        "radio_image": "https://radiomap.eu/de/images/ndr-kultur.gif",
-        "radio_url": "https://icecast.ndr.de/ndr/ndrkultur/live/mp3/128/stream.mp3",
-        "genre": "Münster",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "WDR 5",
-        "radio_image": "https://radiomap.eu/de/images/wdr5.gif",
-        "radio_url": "https://wdr-wdr5-live.icecastssl.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3",
         "genre": "Münster",
         "country_id": "162",
         "country_name": "Germany",
@@ -3661,26 +1891,6 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "BFBS Germany",
-        "radio_image": "https://radiomap.eu/uk/images/bfbs.gif",
-        "radio_url": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs5.aac",
-        "genre": "Münster",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "WDR 2 (Bielefeld)",
-        "radio_image": "https://radiomap.eu/de/images/wdr2.gif",
-        "radio_url": "https://wdr-wdr2-ostwestfalenlippe.icecastssl.wdr.de/wdr/wdr2/ostwestfalenlippe/mp3/128/stream.mp3",
-        "genre": "Münster",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
         "radio_name": "Radio WAF",
         "radio_image": "https://radiomap.eu/de/images/waf.gif",
         "radio_url": "https://radiowaf-live.cast.addradio.de/radiowaf/live/mp3/high",
@@ -3691,49 +1901,9 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "WDR 3",
-        "radio_image": "https://radiomap.eu/de/images/wdr3.gif",
-        "radio_url": "https://wdr-wdr3-live.icecastssl.wdr.de/wdr/wdr3/live/mp3/128/stream.mp3",
-        "genre": "Münster",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "WDR 4",
-        "radio_image": "https://radiomap.eu/de/images/wdr4.gif",
-        "radio_url": "https://wdr-wdr4-live.icecastssl.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3",
-        "genre": "Münster",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
         "radio_name": "Radio FFN (Emsland)",
         "radio_image": "https://radiomap.eu/de/images/ffn.gif",
         "radio_url": "http://player.ffn.de/ffnemsland.mp3",
-        "genre": "Münster",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Deutschlandfunk",
-        "radio_image": "https://radiomap.eu/de/images/deutschlandfunk.svg",
-        "radio_url": "https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3",
-        "genre": "Münster",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "WDR COSMO",
-        "radio_image": "https://radiomap.eu/de/images/wdr-cosmo.gif",
-        "radio_url": "https://wdr-cosmo-live.icecastssl.wdr.de/wdr/cosmo/live/mp3/128/stream.mp3",
         "genre": "Münster",
         "country_id": "162",
         "country_name": "Germany",
@@ -3781,29 +1951,9 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "WDR 1LIVE",
-        "radio_image": "https://radiomap.eu/de/images/wdr1live.gif",
-        "radio_url": "https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3",
-        "genre": "Münster",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
         "radio_name": "Radio Kiepenkerl (Nord)",
         "radio_image": "https://radiomap.eu/de/images/kiepenkerl.gif",
         "radio_url": "https://radiokiepenkerl-nord.cast.addradio.de/radiokiepenkerl/nord/mp3/high",
-        "genre": "Münster",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Polskie Radio Jedynka",
-        "radio_image": "https://radiomap.eu/pl/images/pr-jedynka.svg",
-        "radio_url": "Audio source not found",
         "genre": "Münster",
         "country_id": "162",
         "country_name": "Germany",
@@ -3821,360 +1971,10 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "Deutschlandfunk Kultur",
-        "radio_image": "https://radiomap.eu/de/images/deutschlandfunk-kultur.svg",
-        "radio_url": "https://st02.sslstream.dlf.de/dlf/02/128/mp3/stream.mp3",
-        "genre": "Essen",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "WDR 3",
-        "radio_image": "https://radiomap.eu/de/images/wdr3.gif",
-        "radio_url": "https://wdr-wdr3-live.icecastssl.wdr.de/wdr/wdr3/live/mp3/128/stream.mp3",
-        "genre": "Essen",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "CT das radio",
-        "radio_image": "https://radiomap.eu/de/images/ct.gif",
-        "radio_url": "https://live.ctdasradio.de/web",
-        "genre": "Essen",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "WDR 5",
-        "radio_image": "https://radiomap.eu/de/images/wdr5.gif",
-        "radio_url": "https://wdr-wdr5-live.icecastssl.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3",
-        "genre": "Essen",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Deutschlandfunk",
-        "radio_image": "https://radiomap.eu/de/images/deutschlandfunk.svg",
-        "radio_url": "https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3",
-        "genre": "Essen",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Radio Ennepe Ruhr",
-        "radio_image": "https://radiomap.eu/de/images/nrw_ennepe-ruhr.gif",
-        "radio_url": "https://radioen.cast.addradio.de/radioen/simulcast/high/stream.mp3",
-        "genre": "Essen",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
         "radio_name": "Radio Duisburg",
         "radio_image": "https://radiomap.eu/de/images/nrw_duisburg.gif",
         "radio_url": "https://radioduisburg.cast.addradio.de/radioduisburg/simulcast/high/stream.mp3",
         "genre": "Essen",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "WDR 2 (Siegen)",
-        "radio_image": "https://radiomap.eu/de/images/wdr2.gif",
-        "radio_url": "https://wdr-wdr2-suedwestfalen.icecastssl.wdr.de/wdr/wdr2/suedwestfalen/mp3/128/stream.mp3",
-        "genre": "Essen",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "NRW1",
-        "radio_image": "https://radiomap.eu/de/images/nrw1.gif",
-        "radio_url": "https://stream.nrw1.de/nrw1",
-        "genre": "Essen",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "WDR 2 (Münster)",
-        "radio_image": "https://radiomap.eu/de/images/wdr2.gif",
-        "radio_url": "https://wdr-wdr2-muensterland.icecastssl.wdr.de/wdr/wdr2/muensterland/mp3/128/stream.mp3",
-        "genre": "Essen",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "WDR 2 (Wuppertal)",
-        "radio_image": "https://radiomap.eu/de/images/wdr2.gif",
-        "radio_url": "https://wdr-wdr2-bergischesland.icecastssl.wdr.de/wdr/wdr2/bergischesland/mp3/128/stream.mp3",
-        "genre": "Essen",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Radio Neandertal",
-        "radio_image": "https://radiomap.eu/de/images/neandertal.gif",
-        "radio_url": "https://neandertal-live.cast.addradio.de/neandertal/live/mp3/high",
-        "genre": "Essen",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Radio Bochum",
-        "radio_image": "https://radiomap.eu/de/images/nrw_bochum.gif",
-        "radio_url": "https://radiobochum.cast.addradio.de/radiobochum/simulcast/high/stream.mp3",
-        "genre": "Essen",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "WDR 4",
-        "radio_image": "https://radiomap.eu/de/images/wdr4.gif",
-        "radio_url": "https://wdr-wdr4-live.icecastssl.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3",
-        "genre": "Essen",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "BFBS Germany",
-        "radio_image": "https://radiomap.eu/uk/images/bfbs.gif",
-        "radio_url": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs5.aac",
-        "genre": "Essen",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "WDR 1LIVE",
-        "radio_image": "https://radiomap.eu/de/images/wdr1live.gif",
-        "radio_url": "https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3",
-        "genre": "Essen",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Radio Oberhausen",
-        "radio_image": "https://radiomap.eu/de/images/nrw_oberhausen.gif",
-        "radio_url": "https://radiooberhausen.cast.addradio.de/radiooberhausen/simulcast/high/stream.mp3",
-        "genre": "Essen",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Radio Wuppertal",
-        "radio_image": "https://radiomap.eu/de/images/nrw_wuppertal.gif",
-        "radio_url": "https://radiowuppertal-live.cast.addradio.de/radiowuppertal/live/mp3/high",
-        "genre": "Essen",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Polskie Radio Jedynka",
-        "radio_image": "https://radiomap.eu/pl/images/pr-jedynka.svg",
-        "radio_url": "Audio source not found",
-        "genre": "Essen",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "DR Langbølge",
-        "radio_image": "https://radiomap.eutp:age source not found",
-        "radio_url": "Audio source not found",
-        "genre": "Essen",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-{
-        "radio_id": "109087",
-        "radio_name": "89.0 RTL",
-        "radio_image": "https://radiomap.eu/de/../lu/images/rtl_de89.svg",
-        "radio_url": "http://stream.89.0rtl.de/live/mp3-128/radioplayerhp",
-        "genre": "Hannover",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "hr3 (Nordhessen)",
-        "radio_image": "https://radiomap.eu/de/images/hr3.svg",
-        "radio_url": "https://dispatcher.rndfnk.com/hr/hr3/nordhessen/high",
-        "genre": "Hannover",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "NDR Kultur",
-        "radio_image": "https://radiomap.eu/de/images/ndr-kultur.gif",
-        "radio_url": "https://icecast.ndr.de/ndr/ndrkultur/live/mp3/128/stream.mp3",
-        "genre": "Hannover",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "WDR 5",
-        "radio_image": "https://radiomap.eu/de/images/wdr5.gif",
-        "radio_url": "https://wdr-wdr5-live.icecastssl.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3",
-        "genre": "Hannover",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "N-JOY",
-        "radio_image": "https://radiomap.eu/de/images/ndr-njoy.gif",
-        "radio_url": "https://icecast.ndr.de/ndr/njoy/live/mp3/128/stream.mp3",
-        "genre": "Hannover",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "MDR Jump",
-        "radio_image": "https://radiomap.eu/de/images/mdr-jump.svg",
-        "radio_url": "https://mdr-284320-0.sslcast.mdr.de/mdr/284320/0/mp3/high/stream.mp3",
-        "genre": "Hannover",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "NDR 2 (NI)",
-        "radio_image": "https://radiomap.eu/de/images/ndr2.gif",
-        "radio_url": "https://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3",
-        "genre": "Hannover",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "WDR 2 (Bielefeld)",
-        "radio_image": "https://radiomap.eu/de/images/wdr2.gif",
-        "radio_url": "https://wdr-wdr2-ostwestfalenlippe.icecastssl.wdr.de/wdr/wdr2/ostwestfalenlippe/mp3/128/stream.mp3",
-        "genre": "Hannover",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "MDR Sachsen-Anhalt (MD)",
-        "radio_image": "https://radiomap.eu/de/images/mdr-sachsenanhalt.svg",
-        "radio_url": "https://mdr-284290-0.sslcast.mdr.de/mdr/284290/0/mp3/high/stream.mp3",
-        "genre": "Hannover",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "hr2-kultur",
-        "radio_image": "https://radiomap.eu/de/images/hr2.svg",
-        "radio_url": "https://dispatcher.rndfnk.com/hr/hr2/live/mp3/medium",
-        "genre": "Hannover",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "WDR 3",
-        "radio_image": "https://radiomap.eu/de/images/wdr3.gif",
-        "radio_url": "https://wdr-wdr3-live.icecastssl.wdr.de/wdr/wdr3/live/mp3/128/stream.mp3",
-        "genre": "Hannover",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Deutschlandfunk Kultur",
-        "radio_image": "https://radiomap.eu/de/images/deutschlandfunk-kultur.svg",
-        "radio_url": "https://st02.sslstream.dlf.de/dlf/02/128/mp3/stream.mp3",
-        "genre": "Hannover",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "NDR 1 Niedersachsen (BS)",
-        "radio_image": "https://radiomap.eu/de/images/ndr1-niedersachsen.gif",
-        "radio_url": "https://icecast.ndr.de/ndr/ndr1niedersachsen/braunschweig/mp3/128/stream.mp3",
-        "genre": "Hannover",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "NDR Info (NI)",
-        "radio_image": "https://radiomap.eu/de/images/ndr-info.gif",
-        "radio_url": "https://icecast.ndr.de/ndr/ndrinfo/niedersachsen/mp3/128/stream.mp3",
-        "genre": "Hannover",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "hr1 (Nordhessen)",
-        "radio_image": "https://radiomap.eu/de/images/hr1.svg",
-        "radio_url": "https://dispatcher.rndfnk.com/hr/hr1/nordhessen/high",
-        "genre": "Hannover",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "WDR 4",
-        "radio_image": "https://radiomap.eu/de/images/wdr4.gif",
-        "radio_url": "https://wdr-wdr4-live.icecastssl.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3",
-        "genre": "Hannover",
         "country_id": "162",
         "country_name": "Germany",
         "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
@@ -4191,66 +1991,6 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "Radio SAW (HZ)",
-        "radio_image": "https://radiomap.eu/de/images/saw.gif",
-        "radio_url": "https://saw-stream05.radiohost.de/saw-harz-niedersachsen_mp3-192",
-        "genre": "Hannover",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Radio FFN (Heide)",
-        "radio_image": "https://radiomap.eu/de/images/ffn.gif",
-        "radio_url": "http://player.ffn.de/ffnheide.mp3",
-        "genre": "Hannover",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Radio FFN (Braunschweig)",
-        "radio_image": "https://radiomap.eu/de/images/ffn.gif",
-        "radio_url": "http://player.ffn.de/ffnbraunschweig.mp3",
-        "genre": "Hannover",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Deutschlandfunk",
-        "radio_image": "https://radiomap.eu/de/images/deutschlandfunk.svg",
-        "radio_url": "https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3",
-        "genre": "Hannover",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Antenne Niedersachsen",
-        "radio_image": "https://radiomap.eu/de/images/antenne-niedersachsen.gif",
-        "radio_url": "https://antnds.streamabc.net/ands-antndsregion3-mp3-192-3635313",
-        "genre": "Hannover",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "WDR 1LIVE",
-        "radio_image": "https://radiomap.eu/de/images/wdr1live.gif",
-        "radio_url": "https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3",
-        "genre": "Hannover",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
         "radio_name": "Radio 21 (Hildesheim)",
         "radio_image": "https://radiomap.eu/de/images/radio21.svg",
         "radio_url": "https://streams.radio21.de/hildesheim/mp3-192/web",
@@ -4260,46 +2000,6 @@
         "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
     },
     {
-        "radio_id": "109087",
-        "radio_name": "Antenne Niedersachsen (BS)",
-        "radio_image": "https://radiomap.eu/de/images/antenne-niedersachsen.gif",
-        "radio_url": "https://antnds.streamabc.net/ands-antndsregion5-mp3-192-8809389",
-        "genre": "Hannover",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "MDR Kultur",
-        "radio_image": "https://radiomap.eu/de/images/mdr-kultur.svg",
-        "radio_url": "https://mdr-284310-0.sslcast.mdr.de/mdr/284310/0/mp3/high/stream.mp3",
-        "genre": "Hannover",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Polskie Radio Jedynka",
-        "radio_image": "https://radiomap.eu/pl/images/pr-jedynka.svg",
-        "radio_url": "Audio source not found",
-        "genre": "Hannover",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "DR Langbølge",
-        "radio_image": "https://radiomap.eutp:age source not found",
-        "radio_url": "Audio source not found",
-        "genre": "Hannover",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
- {
         "radio_id": "109087",
         "radio_name": "BR Klassik",
         "radio_image": "https://radiomap.eu/de/images/br-klassik.gif",
@@ -4411,469 +2111,9 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "Polskie Radio Jedynka",
-        "radio_image": "https://radiomap.eu/pl/images/pr-jedynka.svg",
-        "radio_url": "Audio source not found",
-        "genre": "Nürnberg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Welle Niederrhein",
-        "radio_image": "https://radiomap.eu/de/images/nrw_welle-niederrhein.gif",
-        "radio_url": "https://wellenr-live.cast.addradio.de/wellenr/live/mp3/high",
-        "genre": "Düsseldorf",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "WDR 5",
-        "radio_image": "https://radiomap.eu/de/images/wdr5.gif",
-        "radio_url": "https://wdr-wdr5-live.icecastssl.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3",
-        "genre": "Düsseldorf",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "NPO Radio 2",
-        "radio_image": "https://radiomap.eu/nl/images/npo_radio2.svg",
-        "radio_url": "http://icecast.omroep.nl/radio2-bb-mp3",
-        "genre": "Düsseldorf",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "NRW1",
-        "radio_image": "https://radiomap.eu/de/images/nrw1.gif",
-        "radio_url": "https://stream.nrw1.de/nrw1",
-        "genre": "Düsseldorf",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "WDR 4",
-        "radio_image": "https://radiomap.eu/de/images/wdr4.gif",
-        "radio_url": "https://wdr-wdr4-live.icecastssl.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3",
-        "genre": "Düsseldorf",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "NPO 3FM",
-        "radio_image": "https://radiomap.eu/nl/images/npo_3fm.svg",
-        "radio_url": "http://icecast.omroep.nl/3fm-bb-mp3",
-        "genre": "Düsseldorf",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Radio Duisburg",
-        "radio_image": "https://radiomap.eu/de/images/nrw_duisburg.gif",
-        "radio_url": "https://radioduisburg.cast.addradio.de/radioduisburg/simulcast/high/stream.mp3",
-        "genre": "Düsseldorf",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "SWR1 Rheinland-Pfalz",
-        "radio_image": "https://radiomap.eu/de/images/swr1.gif",
-        "radio_url": "https://liveradio.swr.de/sw282p3/swr1rp/",
-        "genre": "Düsseldorf",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "WDR 3",
-        "radio_image": "https://radiomap.eu/de/images/wdr3.gif",
-        "radio_url": "https://wdr-wdr3-live.icecastssl.wdr.de/wdr/wdr3/live/mp3/128/stream.mp3",
-        "genre": "Düsseldorf",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "WDR 2 (Siegen)",
-        "radio_image": "https://radiomap.eu/de/images/wdr2.gif",
-        "radio_url": "https://wdr-wdr2-suedwestfalen.icecastssl.wdr.de/wdr/wdr2/suedwestfalen/mp3/128/stream.mp3",
-        "genre": "Düsseldorf",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "NPO Klassiek",
-        "radio_image": "https://radiomap.eu/nl/images/npo_klassiek.svg",
-        "radio_url": "http://icecast.omroep.nl/radio4-bb-mp3",
-        "genre": "Düsseldorf",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "SWR3",
-        "radio_image": "https://radiomap.eu/de/images/swr3.gif",
-        "radio_url": "https://liveradio.swr.de/sw282p3/swr3/",
-        "genre": "Düsseldorf",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "WDR 2 (Wuppertal)",
-        "radio_image": "https://radiomap.eu/de/images/wdr2.gif",
-        "radio_url": "https://wdr-wdr2-bergischesland.icecastssl.wdr.de/wdr/wdr2/bergischesland/mp3/128/stream.mp3",
-        "genre": "Düsseldorf",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "SWR4 (Koblenz)",
-        "radio_image": "https://radiomap.eu/de/images/swr4.gif",
-        "radio_url": "https://liveradio.swr.de/sw282p3/swr4ko/",
-        "genre": "Düsseldorf",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Radio Neandertal",
-        "radio_image": "https://radiomap.eu/de/images/neandertal.gif",
-        "radio_url": "https://neandertal-live.cast.addradio.de/neandertal/live/mp3/high",
-        "genre": "Düsseldorf",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "L1 Radio",
-        "radio_image": "https://radiomap.eu/nl/images/l1.gif",
-        "radio_url": "Audio source not found",
-        "genre": "Düsseldorf",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "WDR 2 (Köln)",
-        "radio_image": "https://radiomap.eu/de/images/wdr2.gif",
-        "radio_url": "https://wdr-wdr2-rheinland.icecastssl.wdr.de/wdr/wdr2/rheinland/mp3/128/stream.mp3",
-        "genre": "Düsseldorf",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "WDR 2 (Aachen)",
-        "radio_image": "https://radiomap.eu/de/images/wdr2.gif",
-        "radio_url": "https://wdr-wdr2-aachenundregion.icecastssl.wdr.de/wdr/wdr2/aachenundregion/mp3/128/stream.mp3",
-        "genre": "Düsseldorf",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "NE-WS 89.4",
-        "radio_image": "https://radiomap.eu/de/images/nrw_ne-ws894.gif",
-        "radio_url": "https://news894-live.cast.addradio.de/news894/live/mp3/high",
-        "genre": "Düsseldorf",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "WDR 1LIVE",
-        "radio_image": "https://radiomap.eu/de/images/wdr1live.gif",
-        "radio_url": "https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3",
-        "genre": "Düsseldorf",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Deutschlandfunk",
-        "radio_image": "https://radiomap.eu/de/images/deutschlandfunk.svg",
-        "radio_url": "https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3",
-        "genre": "Düsseldorf",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "NPO Radio 1",
-        "radio_image": "https://radiomap.eu/nl/images/npo_radio1.svg",
-        "radio_url": "http://icecast.omroep.nl/radio1-bb-mp3",
-        "genre": "Düsseldorf",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Radio Berg",
-        "radio_image": "https://radiomap.eu/de/images/nrw_berg.gif",
-        "radio_url": "https://radioberg-live.cast.addradio.de/radioberg/live/mp3/high",
-        "genre": "Düsseldorf",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Radio Wuppertal",
-        "radio_image": "https://radiomap.eu/de/images/nrw_wuppertal.gif",
-        "radio_url": "https://radiowuppertal-live.cast.addradio.de/radiowuppertal/live/mp3/high",
-        "genre": "Düsseldorf",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Polskie Radio Jedynka",
-        "radio_image": "https://radiomap.eu/pl/images/pr-jedynka.svg",
-        "radio_url": "Audio source not found",
-        "genre": "Düsseldorf",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "DR Langbølge",
-        "radio_image": "https://radiomap.eutp:age source not found",
-        "radio_url": "Audio source not found",
-        "genre": "Düsseldorf",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-{
-        "radio_id": "109087",
-        "radio_name": "WDR 5",
-        "radio_image": "https://radiomap.eu/de/images/wdr5.gif",
-        "radio_url": "https://wdr-wdr5-live.icecastssl.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3",
-        "genre": "Köln",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "WDR 2 (Wuppertal)",
-        "radio_image": "https://radiomap.eu/de/images/wdr2.gif",
-        "radio_url": "https://wdr-wdr2-bergischesland.icecastssl.wdr.de/wdr/wdr2/bergischesland/mp3/128/stream.mp3",
-        "genre": "Köln",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "NRW1",
-        "radio_image": "https://radiomap.eu/de/images/nrw1.gif",
-        "radio_url": "https://stream.nrw1.de/nrw1",
-        "genre": "Köln",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "SWR1 Rheinland-Pfalz",
-        "radio_image": "https://radiomap.eu/de/images/swr1.gif",
-        "radio_url": "https://liveradio.swr.de/sw282p3/swr1rp/",
-        "genre": "Köln",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "WDR 2 (Siegen)",
-        "radio_image": "https://radiomap.eu/de/images/wdr2.gif",
-        "radio_url": "https://wdr-wdr2-suedwestfalen.icecastssl.wdr.de/wdr/wdr2/suedwestfalen/mp3/128/stream.mp3",
-        "genre": "Köln",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "WDR 4",
-        "radio_image": "https://radiomap.eu/de/images/wdr4.gif",
-        "radio_url": "https://wdr-wdr4-live.icecastssl.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3",
-        "genre": "Köln",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Radio Bonn/Rhein-Sieg",
-        "radio_image": "https://radiomap.eu/de/images/nrw_bonn-ghein-sieg.gif",
-        "radio_url": "https://rbrs-live.cast.addradio.de/rbrs/live/mp3/high",
-        "genre": "Köln",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "SWR3",
-        "radio_image": "https://radiomap.eu/de/images/swr3.gif",
-        "radio_url": "https://liveradio.swr.de/sw282p3/swr3/",
-        "genre": "Köln",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "WDR 3",
-        "radio_image": "https://radiomap.eu/de/images/wdr3.gif",
-        "radio_url": "https://wdr-wdr3-live.icecastssl.wdr.de/wdr/wdr3/live/mp3/128/stream.mp3",
-        "genre": "Köln",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
         "radio_name": "bonnFM",
         "radio_image": "https://radiomap.eu/de/images/bonnfm.gif",
         "radio_url": "https://stream.bonn.fm/live_high?nocache=1",
-        "genre": "Köln",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "RTL Radio",
-        "radio_image": "https://radiomap.eu/lu/images/rtl-ukw-deu.svg",
-        "radio_url": "https://rtlberlin.streamabc.net/rtlb-rtldeukw-mp3-128-2318218",
-        "genre": "Köln",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "SWR4 (Koblenz)",
-        "radio_image": "https://radiomap.eu/de/images/swr4.gif",
-        "radio_url": "https://liveradio.swr.de/sw282p3/swr4ko/",
-        "genre": "Köln",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Radio Neandertal",
-        "radio_image": "https://radiomap.eu/de/images/neandertal.gif",
-        "radio_url": "https://neandertal-live.cast.addradio.de/neandertal/live/mp3/high",
-        "genre": "Köln",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Deutschlandfunk Kultur",
-        "radio_image": "https://radiomap.eu/de/images/deutschlandfunk-kultur.svg",
-        "radio_url": "https://st02.sslstream.dlf.de/dlf/02/128/mp3/stream.mp3",
-        "genre": "Köln",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "WDR 2 (Aachen)",
-        "radio_image": "https://radiomap.eu/de/images/wdr2.gif",
-        "radio_url": "https://wdr-wdr2-aachenundregion.icecastssl.wdr.de/wdr/wdr2/aachenundregion/mp3/128/stream.mp3",
-        "genre": "Köln",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Deutschlandfunk",
-        "radio_image": "https://radiomap.eu/de/images/deutschlandfunk.svg",
-        "radio_url": "https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3",
-        "genre": "Köln",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "RPR1.",
-        "radio_image": "https://radiomap.eu/de/images/rpr1.gif",
-        "radio_url": "https://streams.rpr1.de/rpr-simulcast-128-mp3",
-        "genre": "Köln",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "WDR 1LIVE",
-        "radio_image": "https://radiomap.eu/de/images/wdr1live.gif",
-        "radio_url": "https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3",
-        "genre": "Köln",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "bigFM (RP)",
-        "radio_image": "https://radiomap.eu/de/images/bigfm.gif",
-        "radio_url": "http://streams.bigfm.de/bigfm-rlp-128-mp3",
-        "genre": "Köln",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Radio Berg",
-        "radio_image": "https://radiomap.eu/de/images/nrw_berg.gif",
-        "radio_url": "https://radioberg-live.cast.addradio.de/radioberg/live/mp3/high",
         "genre": "Köln",
         "country_id": "162",
         "country_name": "Germany",
@@ -4885,16 +2125,6 @@
         "radio_image": "https://radiomap.eu/de/images/nrw_leverkusen.gif",
         "radio_url": "https://radioleverkusen-live.cast.addradio.de/radioleverkusen/live/mp3/high",
         "genre": "Köln",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-{
-        "radio_id": "109087",
-        "radio_name": "BR Bayern 2 (Süd)",
-        "radio_image": "https://radiomap.eu/de/images/br-bayern2.gif",
-        "radio_url": "https://dispatcher.rndfnk.com/br/br2/sued/mp3/mid",
-        "genre": "München",
         "country_id": "162",
         "country_name": "Germany",
         "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
@@ -4941,39 +2171,9 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "BR Bayern 3",
-        "radio_image": "https://radiomap.eu/de/images/br-bayern3.gif",
-        "radio_url": "https://dispatcher.rndfnk.com/br/br3/live/mp3/mid",
-        "genre": "München",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
         "radio_name": "Hitradio Ö3",
         "radio_image": "https://radiomap.eu/at/images/orf_oe3.svg",
         "radio_url": "https://ors-sn03.ors-shoutcast.at/oe3-q1a",
-        "genre": "München",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "BR Klassik",
-        "radio_image": "https://radiomap.eu/de/images/br-klassik.gif",
-        "radio_url": "https://dispatcher.rndfnk.com/br/brklassik/live/mp3/mid",
-        "genre": "München",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Antenne Bayern",
-        "radio_image": "https://radiomap.eu/de/images/antenne-bayern.svg",
-        "radio_url": "http://mp3channels.webradio.antenne.de:80/antenne",
         "genre": "München",
         "country_id": "162",
         "country_name": "Germany",
@@ -4991,139 +2191,9 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "BR24",
-        "radio_image": "https://radiomap.eu/de/images/br-24.gif",
-        "radio_url": "https://dispatcher.rndfnk.com/br/br24/live/mp3/mid",
-        "genre": "München",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Polskie Radio Jedynka",
-        "radio_image": "https://radiomap.eu/pl/images/pr-jedynka.svg",
-        "radio_url": "Audio source not found",
-        "genre": "München",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-{
-        "radio_id": "109087",
-        "radio_name": "SWR1 Rheinland-Pfalz",
-        "radio_image": "https://radiomap.eu/de/images/swr1.gif",
-        "radio_url": "https://liveradio.swr.de/sw282p3/swr1rp/",
-        "genre": "Frankfurt am Main",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "BR Bayern 2 (Nord)",
-        "radio_image": "https://radiomap.eu/de/images/br-bayern2.gif",
-        "radio_url": "https://dispatcher.rndfnk.com/br/br2/nord/mp3/mid",
-        "genre": "Frankfurt am Main",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "hr1 (Südhessen)",
-        "radio_image": "https://radiomap.eu/de/images/hr1.svg",
-        "radio_url": "https://dispatcher.rndfnk.com/hr/hr1/suedhessen/high",
-        "genre": "Frankfurt am Main",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
         "radio_name": "Radio Primavera",
         "radio_image": "https://radiomap.eu/de/images/primavera.gif",
         "radio_url": "https://edge14.stream.primavera24.de/primavera24-radioprimavera/stream/mp3",
-        "genre": "Frankfurt am Main",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "SWR4 (Mainz)",
-        "radio_image": "https://radiomap.eu/de/images/swr4.gif",
-        "radio_url": "https://liveradio.swr.de/sw282p3/swr4rp/",
-        "genre": "Frankfurt am Main",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "SWR2",
-        "radio_image": "https://radiomap.eu/de/images/swr2.gif",
-        "radio_url": "https://liveradio.swr.de/sw282p3/swr2/",
-        "genre": "Frankfurt am Main",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Deutschlandfunk",
-        "radio_image": "https://radiomap.eu/de/images/deutschlandfunk.svg",
-        "radio_url": "https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3",
-        "genre": "Frankfurt am Main",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "hr3 (Südhessen)",
-        "radio_image": "https://radiomap.eu/de/images/hr3.svg",
-        "radio_url": "https://dispatcher.rndfnk.com/hr/hr3/suedhessen/high",
-        "genre": "Frankfurt am Main",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "80er-Radio harmony",
-        "radio_image": "https://radiomap.eu/de/images/80er-harmony.svg",
-        "radio_url": "https://mp3.harmonyfm.de/harmonyfm/hqlivestream.aac",
-        "genre": "Frankfurt am Main",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "BR Bayern 3",
-        "radio_image": "https://radiomap.eu/de/images/br-bayern3.gif",
-        "radio_url": "https://dispatcher.rndfnk.com/br/br3/live/mp3/mid",
-        "genre": "Frankfurt am Main",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "SWR3",
-        "radio_image": "https://radiomap.eu/de/images/swr3.gif",
-        "radio_url": "https://liveradio.swr.de/sw282p3/swr3/",
-        "genre": "Frankfurt am Main",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "YOU FM",
-        "radio_image": "https://radiomap.eu/de/images/hr-youfm.svg",
-        "radio_url": "https://dispatcher.rndfnk.com/hr/youfm/live/mp3/high",
         "genre": "Frankfurt am Main",
         "country_id": "162",
         "country_name": "Germany",
@@ -5161,56 +2231,6 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "BR Klassik",
-        "radio_image": "https://radiomap.eu/de/images/br-klassik.gif",
-        "radio_url": "https://dispatcher.rndfnk.com/br/brklassik/live/mp3/mid",
-        "genre": "Frankfurt am Main",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "RPR1.",
-        "radio_image": "https://radiomap.eu/de/images/rpr1.gif",
-        "radio_url": "https://streams.rpr1.de/rpr-simulcast-128-mp3",
-        "genre": "Frankfurt am Main",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Deutschlandfunk Kultur",
-        "radio_image": "https://radiomap.eu/de/images/deutschlandfunk-kultur.svg",
-        "radio_url": "https://st02.sslstream.dlf.de/dlf/02/128/mp3/stream.mp3",
-        "genre": "Frankfurt am Main",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "hr4 (Rhein-Main)",
-        "radio_image": "Failed to fetch webpage",
-        "radio_url": "Failed to fetch webpage",
-        "genre": "Frankfurt am Main",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Antenne Bayern",
-        "radio_image": "https://radiomap.eu/de/images/antenne-bayern.svg",
-        "radio_url": "http://mp3channels.webradio.antenne.de:80/antenne",
-        "genre": "Frankfurt am Main",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
         "radio_name": "Radio Galaxy (Aschaffenburg)",
         "radio_image": "https://radiomap.eu/de/images/galaxy.gif",
         "radio_url": "http://edge59.stream.primavera24.de/primavera24-radiogalaxy",
@@ -5231,160 +2251,10 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "bigFM (RP)",
-        "radio_image": "https://radiomap.eu/de/images/bigfm.gif",
-        "radio_url": "http://streams.bigfm.de/bigfm-rlp-128-mp3",
-        "genre": "Frankfurt am Main",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Hit Radio FFH (DA)",
-        "radio_image": "https://radiomap.eu/de/images/ffh.svg",
-        "radio_url": "https://mp3.ffh.de/radioffh/hqlivestream-suedhessen.aac",
-        "genre": "Frankfurt am Main",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "DASDING",
-        "radio_image": "https://radiomap.eu/de/images/swr-dasding.gif",
-        "radio_url": "https://liveradio.swr.de/sw282p3/dasding/",
-        "genre": "Frankfurt am Main",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "SWR4 (Kaiserslautern)",
-        "radio_image": "https://radiomap.eu/de/images/swr4.gif",
-        "radio_url": "https://liveradio.swr.de/sw282p3/swr4kl/",
-        "genre": "Frankfurt am Main",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "BR24",
-        "radio_image": "https://radiomap.eu/de/images/br-24.gif",
-        "radio_url": "https://dispatcher.rndfnk.com/br/br24/live/mp3/mid",
-        "genre": "Frankfurt am Main",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
         "radio_name": "Antenne Mainz",
         "radio_image": "https://radiomap.eu/de/images/antenne-mainz.gif",
         "radio_url": "https://antennemainz-live.cast.addradio.de/antennemainz/live/mp3/high",
         "genre": "Frankfurt am Main",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "hr-iNFO",
-        "radio_image": "https://radiomap.eu/de/images/hr-info.svg",
-        "radio_url": "https://dispatcher.rndfnk.com/hr/hrinfo/live/mp3/high",
-        "genre": "Frankfurt am Main",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Rockland Radio",
-        "radio_image": "https://radiomap.eu/de/images/rockland-mainz.gif",
-        "radio_url": "http://188.94.97.90/rockland.mp3",
-        "genre": "Frankfurt am Main",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Polskie Radio Jedynka",
-        "radio_image": "https://radiomap.eu/pl/images/pr-jedynka.svg",
-        "radio_url": "Audio source not found",
-        "genre": "Frankfurt am Main",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-{
-        "radio_id": "109087",
-        "radio_name": "SWR1 Baden-Württemberg",
-        "radio_image": "https://radiomap.eu/de/images/swr1.gif",
-        "radio_url": "https://liveradio.swr.de/sw282p3/swr1bw/",
-        "genre": "Stuttgart",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "hr1 (Südhessen)",
-        "radio_image": "https://radiomap.eu/de/images/hr1.svg",
-        "radio_url": "https://dispatcher.rndfnk.com/hr/hr1/suedhessen/high",
-        "genre": "Stuttgart",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "SWR2",
-        "radio_image": "https://radiomap.eu/de/images/swr2.gif",
-        "radio_url": "https://liveradio.swr.de/sw282p3/swr2/",
-        "genre": "Stuttgart",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "hr3 (Südhessen)",
-        "radio_image": "https://radiomap.eu/de/images/hr3.svg",
-        "radio_url": "https://dispatcher.rndfnk.com/hr/hr3/suedhessen/high",
-        "genre": "Stuttgart",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "SWR3",
-        "radio_image": "https://radiomap.eu/de/images/swr3.gif",
-        "radio_url": "https://liveradio.swr.de/sw282p3/swr3/",
-        "genre": "Stuttgart",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Radio Regenbogen",
-        "radio_image": "https://radiomap.eu/de/images/regenbogen.gif",
-        "radio_url": "http://streams.regenbogen.de/rr-mannheim-128-mp3",
-        "genre": "Stuttgart",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "hr4 (Rhein-Main)",
-        "radio_image": "Failed to fetch webpage",
-        "radio_url": "Failed to fetch webpage",
-        "genre": "Stuttgart",
         "country_id": "162",
         "country_name": "Germany",
         "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
@@ -5424,36 +2294,6 @@
         "radio_name": "Radio 7 (Aalen)",
         "radio_image": "https://radiomap.eu/de/images/radio7.gif",
         "radio_url": "https://frontend.streamonkey.net/radio7-aalen",
-        "genre": "Stuttgart",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Energy Stuttgart",
-        "radio_image": "https://radiomap.eu/de/../fr/images/nrj.svg",
-        "radio_url": "https://scdn.nrjaudio.fm/adwz1/de/33005/aac_64.mp3",
-        "genre": "Stuttgart",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Deutschlandfunk",
-        "radio_image": "https://radiomap.eu/de/images/deutschlandfunk.svg",
-        "radio_url": "https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3",
-        "genre": "Stuttgart",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Polskie Radio Jedynka",
-        "radio_image": "https://radiomap.eu/pl/images/pr-jedynka.svg",
-        "radio_url": "Audio source not found",
         "genre": "Stuttgart",
         "country_id": "162",
         "country_name": "Germany",
