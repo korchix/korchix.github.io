@@ -831,16 +831,6 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "VRT Klara",
-        "radio_image": "https://radiomap.eu/be/images/vrt_klara.svg",
-        "radio_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KLARA_128.mp3",
-        "genre": "Aachen",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
         "radio_name": "BFBS Germany",
         "radio_image": "https://radiomap.eu/uk/images/bfbs.gif",
         "radio_url": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs5.aac",
