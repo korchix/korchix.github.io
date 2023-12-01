@@ -451,16 +451,6 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "YOU FM",
-        "radio_image": "https://radiomap.eu/de/images/hr-youfm.svg",
-        "radio_url": "https://dispatcher.rndfnk.com/hr/youfm/live/mp3/high",
-        "genre": "Karlsruhe",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
         "radio_name": "France Inter",
         "radio_image": "https://radiomap.eu/fr/images/rf_inter.svg",
         "radio_url": "http://icecast.radiofrance.fr/franceinter-midfi.mp3",
