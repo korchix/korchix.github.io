@@ -384,7 +384,7 @@
         "radio_name": "hr1",
         "radio_image": "https://radiomap.eu/de/images/hr1.svg",
         "radio_url": "https://dispatcher.rndfnk.com/hr/hr1/suedhessen/high",
-        "genre": "Karlsruhe",
+        "genre": "Deutschland",
         "country_id": "162",
         "country_name": "Germany",
         "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
@@ -609,16 +609,7 @@
         "country_name": "Germany",
         "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
     },
-    {
-        "radio_id": "109087",
-        "radio_name": "hr1",
-        "radio_image": "https://radiomap.eu/de/images/hr1.svg",
-        "radio_url": "https://dispatcher.rndfnk.com/hr/hr1/nordhessen/high",
-        "genre": "Erfurt",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
+
     {
         "radio_id": "109087",
         "radio_name": "Antenne Th\u00fcringen",
@@ -1219,16 +1210,7 @@
         "country_name": "Germany",
         "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
     },
-    {
-        "radio_id": "109087",
-        "radio_name": "hr1",
-        "radio_image": "https://radiomap.eu/de/images/hr1.svg",
-        "radio_url": "https://dispatcher.rndfnk.com/hr/hr1/mittelhessen/high",
-        "genre": "Dortmund",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
+
     {
         "radio_id": "109087",
         "radio_name": "Radio MK",
@@ -1709,16 +1691,7 @@
         "country_name": "Germany",
         "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
     },
-    {
-        "radio_id": "109087",
-        "radio_name": "hr1",
-        "radio_image": "https://radiomap.eu/de/images/hr1.svg",
-        "radio_url": "https://dispatcher.rndfnk.com/hr/hr1/rheinmain/high",
-        "genre": "Heidelberg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
+   
     {
         "radio_id": "109087",
         "radio_name": "Energy Stuttgart",
@@ -1981,36 +1954,6 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "BR Bayern 2",
-        "radio_image": "https://radiomap.eu/de/images/br-bayern2.gif",
-        "radio_url": "https://dispatcher.rndfnk.com/br/br2/nord/mp3/mid",
-        "genre": "N\u00fcrnberg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "BR Bayern 2",
-        "radio_image": "https://radiomap.eu/de/images/br-bayern2.gif",
-        "radio_url": "https://dispatcher.rndfnk.com/br/br2/sued/mp3/mid",
-        "genre": "N\u00fcrnberg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "BR Bayern 1",
-        "radio_image": "https://radiomap.eu/de/images/br-bayern1.gif",
-        "radio_url": "https://dispatcher.rndfnk.com/br/br1/franken/mp3/mid",
-        "genre": "N\u00fcrnberg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
         "radio_name": "Energy N\u00fcrnberg",
         "radio_image": "https://radiomap.eu/de/../fr/images/nrj.svg",
         "radio_url": "https://scdn.nrjaudio.fm/adwz1/de/33011/aac_64.mp3",
@@ -2071,16 +2014,6 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "AFN The Eagle",
-        "radio_image": "https://worldradiomap.com/us/images/afn-theeagle.gif",
-        "radio_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BAVAAC.aac",
-        "genre": "N\u00fcrnberg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
         "radio_name": "bonnFM",
         "radio_image": "https://radiomap.eu/de/images/bonnfm.gif",
         "radio_url": "https://stream.bonn.fm/live_high?nocache=1",
@@ -2104,16 +2037,6 @@
         "radio_name": "Radio \u00d6sterreich 1",
         "radio_image": "https://radiomap.eu/at/images/orf_oe1.svg",
         "radio_url": "https://ors-sn03.ors-shoutcast.at/oe1-q1a",
-        "genre": "M\u00fcnchen",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "BR Bayern 1",
-        "radio_image": "https://radiomap.eu/de/images/br-bayern1.gif",
-        "radio_url": "https://dispatcher.rndfnk.com/br/br1/obb/mp3/mid",
         "genre": "M\u00fcnchen",
         "country_id": "162",
         "country_name": "Germany",
@@ -2164,16 +2087,6 @@
         "radio_name": "Radio Primavera",
         "radio_image": "https://radiomap.eu/de/images/primavera.gif",
         "radio_url": "https://edge14.stream.primavera24.de/primavera24-radioprimavera/stream/mp3",
-        "genre": "Frankfurt am Main",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "BR Bayern 1",
-        "radio_image": "https://radiomap.eu/de/images/br-bayern1.gif",
-        "radio_url": "https://dispatcher.rndfnk.com/br/br1/mainfranken/mp3/mid",
         "genre": "Frankfurt am Main",
         "country_id": "162",
         "country_name": "Germany",
@@ -6900,28 +6813,8 @@
         "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
     },
     {
-        "radio_id": "117271",
-        "radio_name": "Bayern 1 Franken",
-        "radio_image": "https://visitdpstudio.net/radio_world/upload/02718999-2022-12-23.png",
-        "radio_url": "http://dispatcher.rndfnk.com/br/br1/franken/mp3/mid",
-        "genre": "null",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "57069",
-        "radio_name": "Bayern 2 Nord",
-        "radio_image": "https://visitdpstudio.net/radio_world/upload/29702808-2022-03-16.png",
-        "radio_url": "http://dispatcher.rndfnk.com/br/br2/nord/mp3/mid",
-        "genre": "Community",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
         "radio_id": "103296",
-        "radio_name": "Bayern 2 S\u00fcd",
+        "radio_name": "Bayern 2",
         "radio_image": "https://visitdpstudio.net/radio_world/upload/44149471-2022-03-20.png",
         "radio_url": "http://dispatcher.rndfnk.com/br/br2/sued/mp3/mid",
         "genre": "Community",
