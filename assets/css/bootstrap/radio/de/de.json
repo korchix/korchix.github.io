@@ -622,16 +622,6 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "Hit Radio FFH",
-        "radio_image": "https://radiomap.eu/de/images/ffh.svg",
-        "radio_url": "https://mp3.ffh.de/radioffh/hqlivestream-nordhessen.aac",
-        "genre": "Erfurt",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
         "radio_name": "WDR 1LIVE",
         "radio_image": "https://radiomap.eu/de/images/wdr1live.gif",
         "radio_url": "https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3",
@@ -1697,16 +1687,6 @@
         "radio_name": "Energy Stuttgart",
         "radio_image": "https://radiomap.eu/de/../fr/images/nrj.svg",
         "radio_url": "https://scdn.nrjaudio.fm/adwz1/de/33005/aac_64.mp3",
-        "genre": "Heidelberg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Hit Radio FFH",
-        "radio_image": "https://radiomap.eu/de/images/ffh.svg",
-        "radio_url": "https://mp3.ffh.de/radioffh/hqlivestream-suedhessen.aac",
         "genre": "Heidelberg",
         "country_id": "162",
         "country_name": "Germany",
