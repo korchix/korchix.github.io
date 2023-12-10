@@ -424,7 +424,7 @@
         "radio_name": "hr3",
         "radio_image": "https://radiomap.eu/de/images/hr3.svg",
         "radio_url": "https://dispatcher.rndfnk.com/hr/hr3/suedhessen/high",
-        "genre": "Karlsruhe",
+        "genre": "Deutschland",
         "country_id": "162",
         "country_name": "Germany",
         "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
@@ -554,16 +554,6 @@
         "radio_name": "LandesWelle Th\u00fcringen",
         "radio_image": "https://radiomap.eu/de/images/landeswelle.gif",
         "radio_url": "http://stream.landeswelle.de/lwt/mp3-192/web/",
-        "genre": "Erfurt",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "hr3",
-        "radio_image": "https://radiomap.eu/de/images/hr3.svg",
-        "radio_url": "https://dispatcher.rndfnk.com/hr/hr3/nordhessen/high",
         "genre": "Erfurt",
         "country_id": "162",
         "country_name": "Germany",
@@ -1172,16 +1162,6 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "hr3",
-        "radio_image": "https://radiomap.eu/de/images/hr3.svg",
-        "radio_url": "https://dispatcher.rndfnk.com/hr/hr3/mittelhessen/high",
-        "genre": "Dortmund",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
         "radio_name": "CT das radio",
         "radio_image": "https://radiomap.eu/de/images/ct.gif",
         "radio_url": "https://live.ctdasradio.de/web",
@@ -1365,18 +1345,8 @@
         "radio_id": "109087",
         "radio_name": "Radio BOB!",
         "radio_image": "https://radiomap.eu/de/images/bob.gif",
-        "radio_url": "https://bob.hoerradar.de/radiobob-shlive-mp3-hq",
-        "genre": "Hamburg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Energy Hamburg",
-        "radio_image": "https://radiomap.eu/de/../fr/images/nrj.svg",
-        "radio_url": "https://scdn.nrjaudio.fm/adwz1/de/33009/aac_64.mp3",
-        "genre": "Hamburg",
+        "radio_url": "https://regiocast.streamabc.net/regc-radiobobnational5043365-mp3-192-2943705",
+        "genre": "Deutschland",
         "country_id": "162",
         "country_name": "Germany",
         "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
@@ -1643,16 +1613,6 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "hr3",
-        "radio_image": "https://radiomap.eu/de/images/hr3.svg",
-        "radio_url": "https://dispatcher.rndfnk.com/hr/hr3/rheinmain/high",
-        "genre": "Heidelberg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
         "radio_name": "Bermudafunk Radioaktiv",
         "radio_image": "https://radiomap.eu/de/images/bermudafunk.gif",
         "radio_url": "https://streaming.fueralle.org/bermudafunk_high",
@@ -1666,17 +1626,6 @@
         "radio_name": "Rockland Radio",
         "radio_image": "https://radiomap.eu/de/images/rockland-mainz.gif",
         "radio_url": "http://188.94.97.90/rockland.mp3",
-        "genre": "Heidelberg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-   
-    {
-        "radio_id": "109087",
-        "radio_name": "Energy Stuttgart",
-        "radio_image": "https://radiomap.eu/de/../fr/images/nrj.svg",
-        "radio_url": "https://scdn.nrjaudio.fm/adwz1/de/33005/aac_64.mp3",
         "genre": "Heidelberg",
         "country_id": "162",
         "country_name": "Germany",
@@ -1917,16 +1866,6 @@
         "radio_name": "BR Klassik",
         "radio_image": "https://radiomap.eu/de/images/br-klassik.gif",
         "radio_url": "https://dispatcher.rndfnk.com/br/brklassik/live/mp3/mid",
-        "genre": "N\u00fcrnberg",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
-        "radio_name": "Energy N\u00fcrnberg",
-        "radio_image": "https://radiomap.eu/de/../fr/images/nrj.svg",
-        "radio_url": "https://scdn.nrjaudio.fm/adwz1/de/33011/aac_64.mp3",
         "genre": "N\u00fcrnberg",
         "country_id": "162",
         "country_name": "Germany",
