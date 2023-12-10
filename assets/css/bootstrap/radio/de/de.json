@@ -972,16 +972,6 @@
     },
     {
         "radio_id": "109087",
-        "radio_name": "AFN The Eagle",
-        "radio_image": "https://worldradiomap.com/us/images/afn-theeagle.gif",
-        "radio_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BLXAAC.aac",
-        "genre": "Aachen",
-        "country_id": "162",
-        "country_name": "Germany",
-        "country_flag": "https://visitdpstudio.net/radio_world/upload/category/7066-2022-01-22.gif"
-    },
-    {
-        "radio_id": "109087",
         "radio_name": "VRT Radio 1",
         "radio_image": "https://radiomap.eu/be/images/vrt_radio1.svg",
         "radio_url": "https://icecast.vrtcdn.be/radio1-high.mp3",
