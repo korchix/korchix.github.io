@@ -1,0 +1,2016 @@
+{
+  "status": "ok",
+  "limit": 200,
+  "pages": 1,
+  "order": "ASC",
+  "total_radios": "253",
+  "country_details": [
+    {
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    }
+  ],
+  "stations": [
+    {
+      "radio_id": "112882",
+      "radio_name": "4400 IRONCITY",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/87225849-2022-05-29.png",
+      "radio_url": "http://4400-ironcity.stream.laut.fm/4400-ironcity",
+      "genre": "Alternative",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "121736",
+      "radio_name": "48ap",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/75646105-2023-12-29.png",
+      "radio_url": "http://stream.laut.fm/48ap",
+      "genre": "Decades",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "121737",
+      "radio_name": "48ap",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/73150133-2023-12-29.png",
+      "radio_url": "http://stream.laut.fm/48ap",
+      "genre": "Decades",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "121738",
+      "radio_name": "48ap",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/67698756-2023-12-29.png",
+      "radio_url": "http://stream.laut.fm/48ap",
+      "genre": "Decades",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "121739",
+      "radio_name": "48ap",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/00885496-2023-12-29.png",
+      "radio_url": "http://stream.laut.fm/48ap",
+      "genre": "Decades",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "121740",
+      "radio_name": "48ap",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/21267505-2023-12-29.png",
+      "radio_url": "http://stream.laut.fm/48ap",
+      "genre": "Decades",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "94409",
+      "radio_name": "80er Zone",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/22163187-2022-03-20.png",
+      "radio_url": "http://stream.laut.fm/80er-zone",
+      "genre": "Decades",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "95579",
+      "radio_name": "AA Fresh Hits",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/66768132-2022-03-20.png",
+      "radio_url": "http://stream.laut.fm/fresh-hits",
+      "genre": "Dance",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "109110",
+      "radio_name": "ACW",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/17999662-2022-03-21.png",
+      "radio_url": "http://stream.laut.fm/acw",
+      "genre": "Community",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "68764",
+      "radio_name": "Antenne Kaernten",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/83763531-2022-03-17.png",
+      "radio_url": "http://www.antennestream.at/;",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "82986",
+      "radio_name": "Antenne Salzburg",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/30854636-2022-03-19.png",
+      "radio_url": "http://85.195.88.149:24950/;;",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "84425",
+      "radio_name": "Antenne Salzburg",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/48182443-2022-03-19.png",
+      "radio_url": "http://streamplus22.leonex.de:24950/;;",
+      "genre": "Language",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "123167",
+      "radio_name": "Antenne Steiermark - 80s Pop",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/56651062-2023-12-29.png",
+      "radio_url": "http://live.antenne.at/80s/;",
+      "genre": "Decades",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "123168",
+      "radio_name": "Antenne Steiermark - Austro Pop",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/73947294-2023-12-29.png",
+      "radio_url": "http://live.antenne.at/auh/;",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "123171",
+      "radio_name": "Antenne Steiermark - Classic Rock",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/03880030-2023-12-29.png",
+      "radio_url": "http://live.antenne.at/clr/;",
+      "genre": "Rock",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "123172",
+      "radio_name": "Antenne Steiermark - Fitness Hits",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/48153092-2023-12-29.png",
+      "radio_url": "http://live.antenne.at/fnh/;",
+      "genre": "Theme",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "123173",
+      "radio_name": "Antenne Steiermark - Greatest Hits",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/42463917-2023-12-29.png",
+      "radio_url": "http://live.antenne.at/ghs/;",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "123174",
+      "radio_name": "Antenne Steiermark - Party Hitmix",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/75288020-2023-12-29.png",
+      "radio_url": "http://live.antenne.at/ost/;",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "71335",
+      "radio_name": "Antenne Tirol Livestream",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/61089660-2022-03-17.png",
+      "radio_url": "http://streamplus30.leonex.de:14840/;;",
+      "genre": "Rock",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "61034",
+      "radio_name": "Antenne Vorarlberg",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/73957740-2022-03-16.png",
+      "radio_url": "http://webradio.antennevorarlberg.at:80/live",
+      "genre": "Decades",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "87483",
+      "radio_name": "Antenne Vorarlberg - Die 70er",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/72136540-2022-03-19.png",
+      "radio_url": "http://webradio.antennevorarlberg.at/70er",
+      "genre": "Decades",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "85519",
+      "radio_name": "Antenne Wien",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/96399032-2022-03-19.png",
+      "radio_url": "http://streamplus20.leonex.de:24954/;;",
+      "genre": "Talk",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "83228",
+      "radio_name": "AntenneFM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/38175816-2022-03-19.png",
+      "radio_url": "http://antennefm.stream.laut.fm/antennefm",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "123166",
+      "radio_name": "Austrian Rock Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/37012375-2023-12-29.png",
+      "radio_url": "http://live.antenne.at/arr/;",
+      "genre": "Rock",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "111283",
+      "radio_name": "Caseradio Dancefloor",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/52654496-2022-03-25.png",
+      "radio_url": "http://stream.laut.fm/caseradiodancefloor",
+      "genre": "Dance",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "111284",
+      "radio_name": "Caseradio Main",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/78508972-2022-03-25.png",
+      "radio_url": "http://stream.laut.fm/caseradiomain",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "111285",
+      "radio_name": "Caseradio Rap",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/46403225-2022-03-25.png",
+      "radio_url": "http://stream.laut.fm/caseradio-rap",
+      "genre": "Hip Hop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "111286",
+      "radio_name": "Caseradio Top 100",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/20536272-2022-03-25.png",
+      "radio_url": "http://stream.laut.fm/caseradio-top100",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "94399",
+      "radio_name": "Darksynth-Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/75568412-2022-03-20.png",
+      "radio_url": "http://stream.laut.fm/darksynthradio",
+      "genre": "Decades",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "66807",
+      "radio_name": "Das Live Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/78687640-2022-03-17.png",
+      "radio_url": "http://stream.laut.fm/dasliveradio",
+      "genre": "Decades",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "65405",
+      "radio_name": "Das Soundportal Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/59468001-2022-03-17.png",
+      "radio_url": "http://rs8.stream24.net/radio-soundportal.mp3",
+      "genre": "Alternative",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "108926",
+      "radio_name": "DMusic Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/75521700-2022-03-21.png",
+      "radio_url": "http://stream.zeno.fm/mphk12g0kc9uv",
+      "genre": "Decades",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "74021",
+      "radio_name": "DrumandBass.FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/68116524-2022-03-18.png",
+      "radio_url": "http://stream.drumandbass.fm:9004/;",
+      "genre": "Dance",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "59635",
+      "radio_name": "Dubbase.FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/34248983-2022-03-17.png",
+      "radio_url": "http://stream.dubbase.fm:7004/;",
+      "genre": "Electronic",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "107485",
+      "radio_name": "EasySound",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/92775202-2022-03-21.png",
+      "radio_url": "http://easysoundradio.com:8037/stream.mp3",
+      "genre": "Other",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "107486",
+      "radio_name": "EasySound - EasyClub Nonstop",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/03622896-2022-03-21.png",
+      "radio_url": "http://easysoundradio.com:8160/stream",
+      "genre": "Dance",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "107487",
+      "radio_name": "EasySound - EasyTanz Nonstop",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/73305874-2022-03-21.png",
+      "radio_url": "http://easysoundradio.com:8091/autodj",
+      "genre": "Dance",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "104933",
+      "radio_name": "Energy Österreich - Acoustic Hits",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/08350584-2022-03-20.png",
+      "radio_url": "http://cdn.nrjaudio.fm/adwz1/at/36027/mp3_128.mp3",
+      "genre": "Other",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "104932",
+      "radio_name": "Energy Österreich - Dance",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/53675098-2022-03-20.png",
+      "radio_url": "http://cdn.nrjaudio.fm/adwz1/at/36041/mp3_128.mp3",
+      "genre": "Dance",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "104936",
+      "radio_name": "Energy Österreich - Fitness",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/97955384-2022-03-20.png",
+      "radio_url": "http://cdn.nrjaudio.fm/adwz1/at/36021/mp3_128.mp3",
+      "genre": "Talk",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "104928",
+      "radio_name": "Energy Österreich - Hits",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/05063543-2022-03-20.png",
+      "radio_url": "http://cdn.nrjaudio.fm/adwz1/at/36045/mp3_128.mp3",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "104934",
+      "radio_name": "Energy Österreich - Latino",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/33905795-2022-03-20.png",
+      "radio_url": "http://cdn.nrjaudio.fm/adwz1/at/55502/mp3_128.mp3",
+      "genre": "Latin",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "104930",
+      "radio_name": "Energy Österreich - Lounge",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/68045033-2022-03-20.png",
+      "radio_url": "http://cdn.nrjaudio.fm/adwz1/at/36015/mp3_128.mp3",
+      "genre": "Easy Listening",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "104935",
+      "radio_name": "Energy Österreich - Love",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/09680781-2022-03-20.png",
+      "radio_url": "http://cdn.nrjaudio.fm/adwz1/at/36027/mp3_128.mp3",
+      "genre": "Theme",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "104937",
+      "radio_name": "Energy Österreich - Mastermix",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/63086219-2022-03-20.png",
+      "radio_url": "http://cdn.nrjaudio.fm/adwz1/at/36035/mp3_128.mp3",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "104929",
+      "radio_name": "Energy Österreich - Pop",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/73223288-2022-03-20.png",
+      "radio_url": "http://cdn.nrjaudio.fm/adwz1/at/36063/mp3_128.mp3",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "104927",
+      "radio_name": "Energy Österreich - RnB",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/91502543-2022-03-20.png",
+      "radio_url": "http://cdn.nrjaudio.fm/adwz1/at/36019/mp3_128.mp3",
+      "genre": "RnB",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "104931",
+      "radio_name": "Energy Österreich - Rock",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/96022242-2022-03-20.png",
+      "radio_url": "http://cdn.nrjaudio.fm/adwz1/at/36029/mp3_128.mp3",
+      "genre": "Rock",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "62143",
+      "radio_name": "Energy Österreich - Salzburg",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/67123441-2022-03-17.png",
+      "radio_url": "http://cdn.nrjaudio.fm/adwz1/at/36005/mp3_128.mp3",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "104926",
+      "radio_name": "Energy Österreich - Tirol",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/91801443-2022-03-20.png",
+      "radio_url": "http://cdn.nrjaudio.fm/adwz1/at/36003/mp3_128.mp3",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "56782",
+      "radio_name": "Energy Österreich - Wien",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/41793636-2022-03-16.png",
+      "radio_url": "http://cdn.nrjaudio.fm/adwz1/at/36001/mp3_128.mp3",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "111402",
+      "radio_name": "Fallout",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/06201354-2022-03-28.png",
+      "radio_url": "http://stream.laut.fm/fallout",
+      "genre": "Electronic",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "111418",
+      "radio_name": "Feemusikradio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/58060388-2022-03-28.png",
+      "radio_url": "http://stream.laut.fm/feemusik",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "61820",
+      "radio_name": "Freies Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/43476696-2022-03-17.png",
+      "radio_url": "http://stream.freirad.at:8002/live.mp3",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "81547",
+      "radio_name": "Freies Radio Freistadt",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/47061674-2022-03-19.png",
+      "radio_url": "http://develop.servus.at:8000/frf",
+      "genre": "Community",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "95647",
+      "radio_name": "Freies Radio Salzkammergut ",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/92221374-2022-03-20.png",
+      "radio_url": "http://stream.xaok.org:8000/frs.mp3",
+      "genre": "Community",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "111727",
+      "radio_name": "Gamerecke",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/71810498-2022-04-24.png",
+      "radio_url": "http://stream.laut.fm/gamerecke",
+      "genre": "null",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "68435",
+      "radio_name": "Gipsy Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/01101980-2022-03-17.png",
+      "radio_url": "http://62.178.16.231:8000/gipsyradio",
+      "genre": "Community",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "96445",
+      "radio_name": "GL5Funk",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/66529597-2022-03-20.png",
+      "radio_url": "http://stream.laut.fm/gl5funk",
+      "genre": "Decades",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "121043",
+      "radio_name": "Happy Fieberbrunn",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/78468079-2023-12-29.png",
+      "radio_url": "http://stream.laut.fm/happy-fieberbrunn",
+      "genre": "Dance",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "114607",
+      "radio_name": "Hitradiointernational",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/28458988-2022-11-07.png",
+      "radio_url": "http://studio26.radiolize.com:8000/radio.mp3",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "120929",
+      "radio_name": "Iboys",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/88943456-2023-12-29.png",
+      "radio_url": "http://stream.laut.fm/iboys",
+      "genre": "Other",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "120942",
+      "radio_name": "Icys Radio City",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/22346770-2023-12-29.png",
+      "radio_url": "http://stream.laut.fm/icys-radio-city",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "112836",
+      "radio_name": "JazzW3.at",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/41323888-2022-05-25.png",
+      "radio_url": "http://air.jazz.w3.at/jazzw3.mp3",
+      "genre": "Jazz",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "94712",
+      "radio_name": "KARO Graz",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/92252492-2022-03-20.png",
+      "radio_url": "http://stream.laut.fm/karograz",
+      "genre": "Other",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "111883",
+      "radio_name": "Keikobad Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/41474122-2022-04-25.png",
+      "radio_url": "http://stream.radio.co/sef3f56e56/listen",
+      "genre": "Theme",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "121236",
+      "radio_name": "Kes Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/53395831-2023-12-29.png",
+      "radio_url": "http://stream.laut.fm/kesradio",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "98000",
+      "radio_name": "Korna FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/89105613-2022-03-20.png",
+      "radio_url": "http://stream.laut.fm/korna-rocks",
+      "genre": "Alternative",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "104868",
+      "radio_name": "Kronehit - Fresh",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/92386756-2022-03-20.png",
+      "radio_url": "http://onair.krone.at/kronehit-fresh.mp3",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "88055",
+      "radio_name": "Kronehit - Greatest Hits",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/96857902-2022-03-19.png",
+      "radio_url": "http://secureonair.krone.at/kronehit-greatesthits.mp3",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "88057",
+      "radio_name": "Kronehit - Vollgas",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/02237279-2022-03-19.png",
+      "radio_url": "http://onair-ha1.krone.at/kronehit-vollgas.mp3",
+      "genre": "Dance",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "88053",
+      "radio_name": "Kronehit Balkanbeats",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/91053699-2022-03-19.png",
+      "radio_url": "http://raj.krone.at:80/kronehit-balkan.mp3",
+      "genre": "Dance",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "88610",
+      "radio_name": "Kronehit Black",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/37214422-2022-03-19.png",
+      "radio_url": "http://onair.krone.at/kronehit-black.mp3",
+      "genre": "Hip Hop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "88608",
+      "radio_name": "KRONEHIT Love",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/08665945-2022-03-19.png",
+      "radio_url": "http://onair-ha1.krone.at/kronehit-love.mp3",
+      "genre": "Easy Listening",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "88606",
+      "radio_name": "KRONEHIT Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/59940304-2022-03-19.png",
+      "radio_url": "http://secureonair.krone.at/kronehit-hp.mp3",
+      "genre": "Dance",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "88208",
+      "radio_name": "KRONEHIT Radio - Clubland",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/77772898-2022-03-19.png",
+      "radio_url": "http://onair-ha1.krone.at/kronehit-clubland.mp3",
+      "genre": "Dance",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "121417",
+      "radio_name": "LEAK",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/19745687-2023-12-29.png",
+      "radio_url": "http://stream.laut.fm/leak",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "121418",
+      "radio_name": "LEAK",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/94207567-2023-12-29.png",
+      "radio_url": "http://stream.laut.fm/leak",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "121419",
+      "radio_name": "LEAK",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/38037193-2023-12-29.png",
+      "radio_url": "http://stream.laut.fm/leak",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "61986",
+      "radio_name": "Life Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/14316177-2022-03-17.png",
+      "radio_url": "http://stream.liferadio.at/liferadio/mp3-192/webseite",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "123162",
+      "radio_name": "Life Radio - 2000er",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/91675846-2023-12-29.png",
+      "radio_url": "http://liferadio.streamabc.net/lfr-2000er-mp3-320-7899588",
+      "genre": "null",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "123157",
+      "radio_name": "Life Radio - 2010er",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/89705141-2023-12-29.png",
+      "radio_url": "http://liferadio.streamabc.net/lfr-2010er-mp3-320-8982533",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "48364",
+      "radio_name": "Life Radio - 80er",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/59060984-2022-03-19.png",
+      "radio_url": "http://liferadio.streamabc.net/lfr-80er-mp3-128-8299306",
+      "genre": "Decades",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "123164",
+      "radio_name": "Life Radio - 90er",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/55713549-2023-12-29.png",
+      "radio_url": "http://liferadio.streamabc.net/lfr-90er-mp3-192-2243944",
+      "genre": "Decades",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "123165",
+      "radio_name": "Life Radio - Chill Out Hits",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/26158379-2023-12-29.png",
+      "radio_url": "http://liferadio.streamabc.net/lfr-chillout-mp3-192-3102923",
+      "genre": "Electronic",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "123160",
+      "radio_name": "Life Radio - Classic Rock Hits",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/83709374-2023-12-29.png",
+      "radio_url": "http://liferadio.streamabc.net/lfr-crock-mp3-192-6797911",
+      "genre": "Rock",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "123159",
+      "radio_name": "Life Radio - Dance Hits",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/53557166-2023-12-29.png",
+      "radio_url": "http://liferadio.streamabc.net/lfr-party-mp3-320-5226512",
+      "genre": "Dance",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "123158",
+      "radio_name": "Life Radio - Greatest Hits",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/11917604-2023-12-29.png",
+      "radio_url": "http://liferadio.streamabc.net/lfr-greatesthits-mp3-320-6871950",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "123156",
+      "radio_name": "Life Radio - Hits von Hier",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/74246167-2023-12-29.png",
+      "radio_url": "http://liferadio.streamabc.net/lfr-hitsvonhier-mp3-320-7213698",
+      "genre": "null",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "123154",
+      "radio_name": "Life Radio - Nonstop Music",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/38006816-2023-12-29.png",
+      "radio_url": "http://liferadio.streamabc.net/lfr-homeoffice-mp3-192-8939815",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "123161",
+      "radio_name": "Life Radio - Party Hits",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/65560840-2023-12-29.png",
+      "radio_url": "http://liferadio.streamabc.net/lfr-partyhits-mp3-320-3137971",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "123155",
+      "radio_name": "Life Radio - Sommer Songs",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/76503912-2023-12-29.png",
+      "radio_url": "http://liferadio.streamabc.net/lfr-sommersongs-mp3-320-9332172",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "123163",
+      "radio_name": "Life Radio - Top 500",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/34119059-2023-12-29.png",
+      "radio_url": "http://liferadio.streamabc.net/lfr-top500-mp3-192-6687866",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "93832",
+      "radio_name": "Life Radio Tirol",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/69023405-2022-03-20.png",
+      "radio_url": "http://194.232.200.164:8000/",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "106892",
+      "radio_name": "Linedance & Country Radio (LCR)",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/39617413-2022-03-21.png",
+      "radio_url": "http://streaming.radio.co/sba5c95896/listen",
+      "genre": "Country",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "119248",
+      "radio_name": "lulu.fm Wien",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/52580535-2023-03-29.png",
+      "radio_url": "http://s38.derstream.net/lulufm-stream-wien.mp3",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "67007",
+      "radio_name": "Macjingle Classic Hits",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/13431552-2022-03-17.png",
+      "radio_url": "http://www.cartwall.at:7210/;",
+      "genre": "Decades",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "68586",
+      "radio_name": "Macjingle Heartbeat",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/97948701-2022-03-17.png",
+      "radio_url": "http://www.cartwall.at:7200/;",
+      "genre": "Rock",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "66583",
+      "radio_name": "Macjingle Todays Best",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/13122491-2022-03-17.png",
+      "radio_url": "http://fc.macjingle.at:8000/;;",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "74384",
+      "radio_name": "Mass-Home Webradio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/31660350-2022-03-18.png",
+      "radio_url": "http://5.175.25.238:8000/live",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "95697",
+      "radio_name": "Mein Kinderradio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/00328422-2022-03-20.png",
+      "radio_url": "http://stream01.zogl.net:8906/stream",
+      "genre": "Community",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100084",
+      "radio_name": "MeinsFM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/04522827-2022-03-20.png",
+      "radio_url": "http://stream.laut.fm/meinsfm",
+      "genre": "Dance",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "94677",
+      "radio_name": "Melodie Exklusiv",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/86120645-2022-03-20.png",
+      "radio_url": "http://stream.laut.fm/melodie-exklusiv",
+      "genre": "Language",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "126400",
+      "radio_name": "Moj Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/55219192-2023-12-29.png",
+      "radio_url": "http://eu4.fastcast4u.com:5692/stream",
+      "genre": "Community",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "102167",
+      "radio_name": "Musikwelle",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/56188590-2022-03-20.png",
+      "radio_url": "http://musikwelle.com:8000/ukw",
+      "genre": "Decades",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "119924",
+      "radio_name": "NJOY Radio 88.2 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/25948307-2023-12-29.png",
+      "radio_url": "http://livestream.freequenns.at/njoy",
+      "genre": "Language",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "121917",
+      "radio_name": "Oesterreichradioyoung",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/84223320-2023-12-29.png",
+      "radio_url": "http://oesterreichradioyoung.stream.laut.fm/oesterreichradioyoung",
+      "genre": "Language",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "59021",
+      "radio_name": "Orange 94.0",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/91042528-2022-03-16.png",
+      "radio_url": "http://stream01.kapper.net:8001/live.mp3",
+      "genre": "Community",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "71475",
+      "radio_name": "ORF - Hitradio Ö3",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/11399809-2022-03-17.png",
+      "radio_url": "http://orf-live.ors-shoutcast.at/oe3-q1a",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "85455",
+      "radio_name": "ORF - Hitradio Ö3",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/43096886-2022-03-19.png",
+      "radio_url": "http://orf-live.ors-shoutcast.at/oe3-q1a",
+      "genre": "Theme",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "85577",
+      "radio_name": "ORF - Ö1",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/50474189-2022-03-19.png",
+      "radio_url": "http://orf-live.ors-shoutcast.at/oe1-q2a",
+      "genre": "Language",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "85850",
+      "radio_name": "ORF - Ö1",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/90123522-2022-03-19.png",
+      "radio_url": "http://orf-live.ors-shoutcast.at/oe1-q1a",
+      "genre": "Community",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "85387",
+      "radio_name": "ORF - Ö1",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/19333415-2022-03-19.png",
+      "radio_url": "http://orf-live.ors-shoutcast.at/oe1-q1a",
+      "genre": "Language",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "71400",
+      "radio_name": "ORF - Ö1",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/37751910-2022-03-17.png",
+      "radio_url": "http://orf-live.ors-shoutcast.at/oe1-q1a",
+      "genre": "Classical",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "86254",
+      "radio_name": "ORF - Ö1",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/06072757-2022-03-19.png",
+      "radio_url": "http://orf-live.ors-shoutcast.at/oe1-q2a",
+      "genre": "Language",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "57081",
+      "radio_name": "ORF - Ö1",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/09401415-2022-03-16.png",
+      "radio_url": "http://orf-live.ors-shoutcast.at/oe1-q1a",
+      "genre": "Classical",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "57082",
+      "radio_name": "ORF - Ö1",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/22761701-2022-03-16.png",
+      "radio_url": "http://mp3stream4.apasf.apa.at:8000/;",
+      "genre": "Talk",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "66371",
+      "radio_name": "ORF - Radio Wien",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/89755014-2022-03-17.png",
+      "radio_url": "http://orf-live.ors-shoutcast.at/wie-q1a",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "62511",
+      "radio_name": "ORF Radio Burgenland",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/90975172-2022-03-17.png",
+      "radio_url": "http://orf-live.ors-shoutcast.at/bgl-q1a",
+      "genre": "Decades",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "62057",
+      "radio_name": "ORF Radio Kärnten",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/22812797-2022-03-17.png",
+      "radio_url": "http://orf-live.ors-shoutcast.at/ktn-q1a",
+      "genre": "Community",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "64952",
+      "radio_name": "ORF Radio Niederösterreich",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/56580133-2022-03-17.png",
+      "radio_url": "http://orf-live.ors-shoutcast.at/noe-q1a",
+      "genre": "Community",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "83472",
+      "radio_name": "ORF Radio Oberösterreich",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/36580818-2022-03-19.png",
+      "radio_url": "http://orf-live.ors-shoutcast.at/ooe-q1a",
+      "genre": "Language",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "83092",
+      "radio_name": "ORF Radio Oberösterreich",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/22465458-2022-03-19.png",
+      "radio_url": "http://orf-live.ors-shoutcast.at/ooe-q1a",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "61817",
+      "radio_name": "ORF Radio Vorarlberg",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/56677048-2022-03-17.png",
+      "radio_url": "http://orf-live.ors-shoutcast.at/vbg-q1a",
+      "genre": "Language",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100109",
+      "radio_name": "Österreich Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/45128780-2022-03-20.png",
+      "radio_url": "http://stream.laut.fm/oesterreichradio",
+      "genre": "Decades",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "68162",
+      "radio_name": "Passion Plastique Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/98980197-2022-03-17.png",
+      "radio_url": "http://stream.laut.fm/passion-plastique",
+      "genre": "Dance",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "92946",
+      "radio_name": "Pur Radio - Volksmusik Pur",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/02812180-2022-03-20.png",
+      "radio_url": "http://stream.laut.fm/volksmusikpur",
+      "genre": "Community",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "120291",
+      "radio_name": "Purzelradio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/65175247-2023-12-29.png",
+      "radio_url": "http://s5.radio.co/sa760ba7af/listen",
+      "genre": "null",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "91525",
+      "radio_name": "Q Radio - Gay Hit Station",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/19271535-2022-03-19.png",
+      "radio_url": "http://host6.cartwall.at:8954/;",
+      "genre": "Decades",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "121577",
+      "radio_name": "QCR",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/27159028-2023-12-29.png",
+      "radio_url": "http://stream.laut.fm/qcr",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "121580",
+      "radio_name": "Quack FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/29255182-2023-12-29.png",
+      "radio_url": "http://stream.laut.fm/quackfm",
+      "genre": "Hip Hop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "121581",
+      "radio_name": "Quack FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/22686228-2023-12-29.png",
+      "radio_url": "http://stream.laut.fm/quackfm",
+      "genre": "Hip Hop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "121582",
+      "radio_name": "Quack FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/31945850-2023-12-29.png",
+      "radio_url": "http://stream.laut.fm/quackfm",
+      "genre": "Hip Hop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "121583",
+      "radio_name": "Quack FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/06691114-2023-12-29.png",
+      "radio_url": "http://stream.laut.fm/quackfm",
+      "genre": "Hip Hop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "121584",
+      "radio_name": "Quack FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/52156202-2023-12-29.png",
+      "radio_url": "http://stream.laut.fm/quackfm",
+      "genre": "Hip Hop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "59292",
+      "radio_name": "R Helsinki - Radio Helsinki",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/28357754-2022-03-16.png",
+      "radio_url": "http://live.helsinki.at:8088/live160.mp3",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "63422",
+      "radio_name": "Radio 88.6",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/65811946-2022-03-17.png",
+      "radio_url": "http://radio886.at/streams/88.6_On_Air",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "101599",
+      "radio_name": "Radio 88.6 - Hard Rock",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/31611304-2022-03-20.png",
+      "radio_url": "http://radio886.at/streams/88.6_Hard_Rock/mp3",
+      "genre": "Rock",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "96485",
+      "radio_name": "Radio 88.6 - New Rock",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/22546376-2022-03-20.png",
+      "radio_url": "http://radio886.at/streams/88.6_New_Rock",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "105335",
+      "radio_name": "Radio 88.6 - Rot-Weiss-Rock",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/14985039-2022-03-20.png",
+      "radio_url": "http://radio886.at/streams/88.6_rot-weiss-rot/mp3",
+      "genre": "Language",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "95465",
+      "radio_name": "Radio 886 - Classic Rock",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/47208820-2022-03-20.png",
+      "radio_url": "http://radio886.at/streams/88.6_Classic_Rock",
+      "genre": "Rock",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "62324",
+      "radio_name": "Radio Agora",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/21471085-2022-03-17.png",
+      "radio_url": "http://livestream.agora.at/agora",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "84952",
+      "radio_name": "radio AGORA 105,5",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/34140568-2022-03-19.png",
+      "radio_url": "http://livestream.agora.at/agora",
+      "genre": "Language",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "78494",
+      "radio_name": "Radio AlpenStar",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/19310773-2022-03-18.png",
+      "radio_url": "http://85.195.88.149:22674/;;",
+      "genre": "Country",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "59315",
+      "radio_name": "Radio Alpina",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/64293858-2022-03-16.png",
+      "radio_url": "http://streamplus51.leonex.de:25708/;",
+      "genre": "Other",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "108458",
+      "radio_name": "Radio Arabella - 70er",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/25460794-2022-03-21.png",
+      "radio_url": "http://frontend.streams.arabella.at/arabella-70er",
+      "genre": "Decades",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "108460",
+      "radio_name": "Radio Arabella - 80er",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/14987789-2022-03-21.png",
+      "radio_url": "http://frontend.streams.arabella.at/arabella-80er",
+      "genre": "Decades",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "108461",
+      "radio_name": "Radio Arabella - 90er",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/58771480-2022-03-21.png",
+      "radio_url": "http://frontend.streams.arabella.at/arabella-90er",
+      "genre": "Decades",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "66799",
+      "radio_name": "Radio Arabella - Austropop",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/17029401-2022-03-17.png",
+      "radio_url": "http://frontend.streams.arabella.at/arabella-austropop/stream/mp3",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "108469",
+      "radio_name": "Radio Arabella - Christmas",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/34526864-2022-03-21.png",
+      "radio_url": "http://frontend.streams.arabella.at/arabella-christmas/stream/mp3",
+      "genre": "Theme",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "108457",
+      "radio_name": "Radio Arabella - GOLD",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/60948502-2022-03-21.png",
+      "radio_url": "http://frontend.streams.arabella.at/arabella-gold/stream/mp3",
+      "genre": "Other",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "108464",
+      "radio_name": "Radio Arabella - Golden Oldies",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/74480005-2022-03-21.png",
+      "radio_url": "http://arabella.stream.kapper.net:8020/arabellagoldenoldies",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "108467",
+      "radio_name": "Radio Arabella - Holiday",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/68676188-2022-03-21.png",
+      "radio_url": "http://frontend.streams.arabella.at/arabella-holiday/stream/mp3",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "108455",
+      "radio_name": "Radio Arabella - HOT",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/16973325-2022-03-21.png",
+      "radio_url": "http://arabella.stream.kapper.net:8011/hot",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "108463",
+      "radio_name": "Radio Arabella - Lovesongs",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/81007338-2022-03-21.png",
+      "radio_url": "http://frontend.streams.arabella.at/arabella-lovesongs/stream/mp3",
+      "genre": "Theme",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "108454",
+      "radio_name": "Radio Arabella - RELAX",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/94816145-2022-03-21.png",
+      "radio_url": "http://frontend.streams.arabella.at/arabella-relax",
+      "genre": "Electronic",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "108466",
+      "radio_name": "Radio Arabella - Rock",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/90014532-2022-03-21.png",
+      "radio_url": "http://frontend.streams.arabella.at/arabella-rock",
+      "genre": "Rock",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "108465",
+      "radio_name": "Radio Arabella - Schlager",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/07687691-2022-03-21.png",
+      "radio_url": "http://frontend.streams.arabella.at/arabella-schlager/stream/mp3",
+      "genre": "Other",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "84527",
+      "radio_name": "Radio Arabella - Ti Amo",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/73094927-2022-03-19.png",
+      "radio_url": "http://arabella.stream.kapper.net:8007/arabellatiamo",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "67208",
+      "radio_name": "Radio Arabella - Wiener Schmaeh",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/20041273-2022-03-17.png",
+      "radio_url": "http://frontend.streams.arabella.at/arabella-wienerschmaeh/stream/mp3",
+      "genre": "Talk",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "108451",
+      "radio_name": "Radio Arabella Niederösterreich",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/06810338-2022-03-21.png",
+      "radio_url": "http://frontend.streams.arabella.at/arabella-niederoesterreich",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "108452",
+      "radio_name": "Radio Arabella Oberösterreich",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/71318666-2022-03-21.png",
+      "radio_url": "http://edge03.streams.arabella.at/arabella-oberoesterreich",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "61902",
+      "radio_name": "Radio Arabella Wien",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/55048430-2022-03-17.png",
+      "radio_url": "http://frontend.streams.arabella.at/arabella-wien",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "106077",
+      "radio_name": "Radio Austria",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/66912759-2022-03-21.png",
+      "radio_url": "http://radioaustria.stream.kapper.net:8000/radioaustria",
+      "genre": "Other",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "106087",
+      "radio_name": "Radio Austria - Best of 2000",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/87387216-2022-03-21.png",
+      "radio_url": "http://radioaustria.stream.kapper.net:8020/2000",
+      "genre": "Other",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "106088",
+      "radio_name": "Radio Austria - Best of 2010",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/20547815-2022-03-21.png",
+      "radio_url": "http://radioaustria.stream.kapper.net:8021/2010",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "106083",
+      "radio_name": "Radio Austria - Best of 60s",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/45524166-2022-03-21.png",
+      "radio_url": "http://radioaustria.stream.kapper.net:8016/60",
+      "genre": "Decades",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "106084",
+      "radio_name": "Radio Austria - Best of 70s",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/56988533-2022-03-21.png",
+      "radio_url": "http://radioaustria.stream.kapper.net:8017/70",
+      "genre": "Decades",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "106085",
+      "radio_name": "Radio Austria - Best of 80s",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/93738014-2022-03-21.png",
+      "radio_url": "http://radioaustria.stream.kapper.net:8018/80",
+      "genre": "Decades",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "106086",
+      "radio_name": "Radio Austria - Best of 90s",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/34539552-2022-03-21.png",
+      "radio_url": "http://radioaustria.stream.kapper.net:8019/90",
+      "genre": "Decades",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "106079",
+      "radio_name": "Radio Austria - Best of Austria",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/82044318-2022-03-21.png",
+      "radio_url": "http://radioaustria.stream.kapper.net:8014/austro",
+      "genre": "Other",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "106082",
+      "radio_name": "Radio Austria - Best of Hütten Gaudi",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/81489514-2022-03-21.png",
+      "radio_url": "http://radioaustria.stream.kapper.net:8028/event",
+      "genre": "Electronic",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "106089",
+      "radio_name": "Radio Austria - Best of Relax",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/76438727-2022-03-21.png",
+      "radio_url": "http://radioaustria.stream.kapper.net:8025/relax",
+      "genre": "Easy Listening",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "106081",
+      "radio_name": "Radio Austria - Best of Rock",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/45705374-2022-03-21.png",
+      "radio_url": "http://radioaustria.stream.kapper.net:8029/rock",
+      "genre": "Rock",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "106080",
+      "radio_name": "Radio Austria - Best of Slager",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/37794057-2022-03-21.png",
+      "radio_url": "http://radioaustria.stream.kapper.net:8023/schlager",
+      "genre": "Other",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "106090",
+      "radio_name": "Radio Austria - Love Music",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/28445327-2022-03-21.png",
+      "radio_url": "http://radioaustria.stream.kapper.net:8024/love",
+      "genre": "Other",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "106078",
+      "radio_name": "Radio Austria - Top 40",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/20173992-2022-03-21.png",
+      "radio_url": "http://radioaustria.stream.kapper.net:8003/top40",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "59322",
+      "radio_name": "Radio Fabrik",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/50035435-2022-03-16.png",
+      "radio_url": "http://stream.radiofabrik.at:8000/rf_low.mp3",
+      "genre": "Community",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "59032",
+      "radio_name": "Radio Freequenns",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/70369345-2022-03-16.png",
+      "radio_url": "http://livestream.freequenns.at/live",
+      "genre": "Other",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "87394",
+      "radio_name": "Radio FREEQUENS",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/49876105-2022-03-19.png",
+      "radio_url": "http://livestream.freequenns.at/live",
+      "genre": "Electronic",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "60273",
+      "radio_name": "Radio FRO",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/50027784-2022-03-16.png",
+      "radio_url": "http://www.fro.at:8008/fro64.mp3",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "61270",
+      "radio_name": "Radio Grun-Weiss",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/94506760-2022-03-16.png",
+      "radio_url": "http://live.gruen-weiss.at/rgw.mp3/;",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "89714",
+      "radio_name": "Radio Habibi",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/46584062-2022-03-19.png",
+      "radio_url": "http://85.195.72.226:10396/;;",
+      "genre": "Country",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "61080",
+      "radio_name": "Radio Harmonie",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/34091126-2022-03-16.png",
+      "radio_url": "http://stream.radioharmonie.at:9630/;",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "67317",
+      "radio_name": "Radio Jugoton",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/91161303-2022-03-17.png",
+      "radio_url": "http://s8.iqstreaming.com:8060/stream/;",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "59827",
+      "radio_name": "Radio Klassik Stephansdom",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/01570380-2022-03-16.png",
+      "radio_url": "http://radioklassikstephansdom.ice.infomaniak.ch/radioklassikstephansdom.mp3",
+      "genre": "Religion",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "88065",
+      "radio_name": "Radio Lammertal",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/99261586-2022-03-19.png",
+      "radio_url": "http://server4.streamserver24.com:26311/stream/;",
+      "genre": "Country",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "65982",
+      "radio_name": "Radio Maria Österreich",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/40053645-2022-03-17.png",
+      "radio_url": "http://live.radiomaria.at:8000/rma",
+      "genre": "Religion",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "66647",
+      "radio_name": "RADIO MAX - Billa",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/05727712-2022-03-17.png",
+      "radio_url": "http://listen.radiomax.technology/billa",
+      "genre": "Electronic",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "67156",
+      "radio_name": "Radio Max - Bipa",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/55426573-2022-03-17.png",
+      "radio_url": "http://listen.radiomax.technology/billa",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "77955",
+      "radio_name": "Radio NJOY 91.3",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/05215255-2022-03-18.png",
+      "radio_url": "http://94.136.28.9:8005/njoyradio-hd",
+      "genre": "Rock",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "88082",
+      "radio_name": "Radio Okitalk - 1",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/29397729-2022-03-19.png",
+      "radio_url": "http://5.189.164.243:8000/studio1.ogg",
+      "genre": "Other",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "89547",
+      "radio_name": "Radio Okitalk - 3",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/61997062-2022-03-19.png",
+      "radio_url": "http://5.189.164.243:8003/studio3.ogg",
+      "genre": "Other",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "95453",
+      "radio_name": "Radio OP",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/52415791-2022-03-20.png",
+      "radio_url": "http://server4.streamserver24.com:26250/stream",
+      "genre": "Alternative",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "59947",
+      "radio_name": "Radio Osttirol",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/53502092-2022-03-17.png",
+      "radio_url": "http://85.195.88.149:28768/;;",
+      "genre": "Language",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "86156",
+      "radio_name": "Radio Osttirol",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/41277566-2022-03-19.png",
+      "radio_url": "http://85.195.88.149:28768/;;",
+      "genre": "Language",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "60847",
+      "radio_name": "Radio Proton",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/29532014-2022-03-16.png",
+      "radio_url": "http://www.radioproton.at:8000/proton",
+      "genre": "Pop",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "94422",
+      "radio_name": "Radio Pur - Radio Volksmusikpur-Tradition",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/94878391-2022-03-20.png",
+      "radio_url": "http://stream.laut.fm/volksmusikpur",
+      "genre": "Community",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "89775",
+      "radio_name": "Radio RF1",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/70059839-2022-03-19.png",
+      "radio_url": "http://rs2.stream24.org:8120/stream",
+      "genre": "Electronic",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    },
+    {
+      "radio_id": "117955",
+      "radio_name": "Radio Stardust",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/52336471-2023-02-07.png",
+      "radio_url": "http://93.95.229.189:8000/stream",
+      "genre": "Talk",
+      "country_id": "218",
+      "country_name": "Austria",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/0613-2022-01-22.gif"
+    }
+  ]
+}

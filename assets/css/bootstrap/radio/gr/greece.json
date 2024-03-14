@@ -1,0 +1,3526 @@
+{
+  "status": "ok",
+  "limit": 500,
+  "pages": 2,
+  "order": "ASC",
+  "total_radios": "851",
+  "country_details": [
+    {
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    }
+  ],
+  "stations": [
+    {
+      "radio_id": "81868",
+      "radio_name": "Radio Art - Solo Harp",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/41942282-2022-03-19.png",
+      "radio_url": "http://live.radioart.com/fSolo_harp.mp3",
+      "genre": "Region",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "124740",
+      "radio_name": "Radio Art - Solo Instruments",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/16388999-2023-12-29.png",
+      "radio_url": "http://live.radioart.com/fSolo_instruments.mp3",
+      "genre": "Other",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "81869",
+      "radio_name": "Radio Art - Solo Piano",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/76699799-2022-03-19.png",
+      "radio_url": "http://live.radioart.com/fSolo_piano.mp3",
+      "genre": "Classical",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "124715",
+      "radio_name": "Radio Art - Spa",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/04118023-2023-12-29.png",
+      "radio_url": "http://live.radioart.com/fSpa.mp3",
+      "genre": "Easy Listening",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "92731",
+      "radio_name": "Radio Art - Storm",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/22613862-2022-03-20.png",
+      "radio_url": "http://live.radioart.com/fStress_relief.mp3",
+      "genre": "Easy Listening",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "81859",
+      "radio_name": "Radio Art - Stress Relief",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/40821725-2022-03-19.png",
+      "radio_url": "http://live.radioart.com/fStress_relief.mp3",
+      "genre": "Easy Listening",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "124726",
+      "radio_name": "Radio Art - Study",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/11714807-2023-12-29.png",
+      "radio_url": "http://live.radioart.com/fFor_study.mp3",
+      "genre": "Talk",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "124829",
+      "radio_name": "Radio Art - Swing",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/10750152-2023-12-29.png",
+      "radio_url": "http://live.radioart.com/fSwing.mp3",
+      "genre": "Jazz",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "124827",
+      "radio_name": "Radio Art - Tango",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/34124794-2023-12-29.png",
+      "radio_url": "http://live.radioart.com/fTango.mp3",
+      "genre": "Other",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "124862",
+      "radio_name": "Radio Art - Timeless Classics",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/34968757-2023-12-29.png",
+      "radio_url": "http://live.radioart.com/fTimeless_classics.mp3",
+      "genre": "Pop",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "124750",
+      "radio_name": "Radio Art - Violin",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/12509264-2023-12-29.png",
+      "radio_url": "http://live.radioart.com/fViolin_works.mp3",
+      "genre": "Other",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "124711",
+      "radio_name": "Radio Art - Vocal Chillout",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/47007063-2023-12-29.png",
+      "radio_url": "http://live.radioart.com/fVocal_chillout.mp3",
+      "genre": "Electronic",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "81870",
+      "radio_name": "Radio Art - Vocal Jazz",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/90502836-2022-03-19.png",
+      "radio_url": "http://live.radioart.com/fVocal_jazz.mp3",
+      "genre": "Jazz",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "124816",
+      "radio_name": "Radio Art - Vocal Lounge",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/00926263-2023-12-29.png",
+      "radio_url": "http://live.radioart.com/fVocal_lounge.mp3",
+      "genre": "Easy Listening",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "124701",
+      "radio_name": "Radio Art - Vocal New Age",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/29867817-2023-12-29.png",
+      "radio_url": "http://live.radioart.com/fVocal_new_age.mp3",
+      "genre": "Easy Listening",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "81871",
+      "radio_name": "Radio Art - Wolfgang A. Mozart",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/56734267-2022-03-19.png",
+      "radio_url": "http://live.radioart.com/fMozart.mp3",
+      "genre": "Classical",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "124719",
+      "radio_name": "Radio Art - Workout Grooves",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/64115476-2023-12-29.png",
+      "radio_url": "http://live.radioart.com/fUp_tempo_grooves.mp3",
+      "genre": "RnB",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "124721",
+      "radio_name": "Radio Art - Workout Rock & Indie",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/98037389-2023-12-29.png",
+      "radio_url": "http://live.radioart.com/fRock_and_indie.mp3",
+      "genre": "Rock",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "124714",
+      "radio_name": "Radio Art - Yoga",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/41730711-2023-12-29.png",
+      "radio_url": "http://live.radioart.com/fYoga.mp3",
+      "genre": "Easy Listening",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "124842",
+      "radio_name": "Radio Art - Zen",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/02172345-2023-12-29.png",
+      "radio_url": "http://live.radioart.com/fZen.mp3",
+      "genre": "Easy Listening",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "60783",
+      "radio_name": "Radio Astro",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/67814137-2022-03-16.png",
+      "radio_url": "http://eco.onestreaming.com:8099/stream",
+      "genre": "Alternative",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "78296",
+      "radio_name": "Radio Astro Music",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/53491703-2022-03-18.png",
+      "radio_url": "http://live.astromusic.gr:9041/stream",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "106536",
+      "radio_name": "Radio Cafe 102.4",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/20478446-2022-03-21.png",
+      "radio_url": "http://s6.onweb.gr:8046/stream/;",
+      "genre": "Pop",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "66233",
+      "radio_name": "Radio City93",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/89685681-2022-03-17.png",
+      "radio_url": "http://93.174.121.193:9996/stream/;",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "64144",
+      "radio_name": "Radio Cosmos 93.0 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/21382342-2022-03-17.png",
+      "radio_url": "http://cast5.magicstreams.gr:8132/stream",
+      "genre": "Other",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "63878",
+      "radio_name": "Radio Dee Jay",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/76487917-2022-03-17.png",
+      "radio_url": "http://usa2-vn.webcast-server.net:8018/;;",
+      "genre": "Decades",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "118724",
+      "radio_name": "Radio Del Vino",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/97586787-2023-03-29.png",
+      "radio_url": "http://stream.zeno.fm/okduzf5rounuv",
+      "genre": "Region",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "78625",
+      "radio_name": "Radio Distomo",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/67516470-2022-03-18.png",
+      "radio_url": "http://radio.icehosting.com:8091/live.mp3",
+      "genre": "Classical",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "120626",
+      "radio_name": "Radio DJ 105",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/45058695-2023-12-29.png",
+      "radio_url": "http://stream.zeno.fm/d9zzyf0iomcuv",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "64769",
+      "radio_name": "Radio Drama 99.1",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/34030509-2022-03-17.png",
+      "radio_url": "http://freeuk4.listen2myradio.com:27813/;",
+      "genre": "Pop",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "65013",
+      "radio_name": "Radio Egio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/73401394-2022-03-17.png",
+      "radio_url": "http://eu7.fastcast4u.com:6130/stream/;",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "110717",
+      "radio_name": "Radio Enostalgia",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/10077647-2022-03-21.png",
+      "radio_url": "http://s54.radiolize.com:8020/radio.mp3",
+      "genre": "Electronic",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "78788",
+      "radio_name": "Radio Family",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/29078470-2022-03-18.png",
+      "radio_url": "http://193.227.111.111:8002/;",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "110500",
+      "radio_name": "Radio Gem Rock",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/90783218-2022-03-21.png",
+      "radio_url": "http://radiogemrock.com:4001/radiogemrock",
+      "genre": "Rock",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "90616",
+      "radio_name": "Radio Halkidiki 98.8",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/55589064-2022-03-19.png",
+      "radio_url": "http://eco.onestreaming.com:8406/stream",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "91733",
+      "radio_name": "Radio Kalavryta",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/90240261-2022-03-19.png",
+      "radio_url": "http://rdst.win:8030/live",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "65624",
+      "radio_name": "Radio Karpenisi",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/02676365-2022-03-17.png",
+      "radio_url": "http://sc2.streamwithq.com:8046/stream/;",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "109253",
+      "radio_name": "Radio KlikTv",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/37911332-2022-03-21.png",
+      "radio_url": "http://everest.streams.ovh:1170/stream",
+      "genre": "Other",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "67788",
+      "radio_name": "Radio Kyklos",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/15194724-2022-03-17.png",
+      "radio_url": "http://c30.radioboss.fm:8299/stream",
+      "genre": "Blues",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "64422",
+      "radio_name": "Radio Kymata",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/69861461-2022-03-17.png",
+      "radio_url": "http://s1.onweb.gr:8812/stream/;",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "61888",
+      "radio_name": "Radio Kyparissia",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/39270738-2022-03-17.png",
+      "radio_url": "http://radiokyp.radioca.st:8604/stream/;",
+      "genre": "Theme",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "65093",
+      "radio_name": "Radio Lasithi",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/99300076-2022-03-17.png",
+      "radio_url": "http://s7.onweb.gr:8802/stream/;",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "65635",
+      "radio_name": "Radio Lehovo",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/19501020-2022-03-17.png",
+      "radio_url": "http://s4.onweb.gr:8468/stream/;",
+      "genre": "Theme",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "62514",
+      "radio_name": "Radio Lesxi",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/14605926-2022-03-17.png",
+      "radio_url": "http://s3.onweb.gr:8438/;",
+      "genre": "Rock",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "58374",
+      "radio_name": "Radio Life 92.1 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/56268430-2022-03-16.png",
+      "radio_url": "http://freeuk29.listen2myradio.com:25444/;",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "112064",
+      "radio_name": "Radio Lite Station",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/77821562-2022-05-11.png",
+      "radio_url": "http://s12.ssl-stream.com:8036/stream",
+      "genre": "Dance",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "60319",
+      "radio_name": "Radio Mastixa 107.7",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/56824395-2022-03-16.png",
+      "radio_url": "http://46.4.98.200:8000/Radiomastixa",
+      "genre": "Pop",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "79124",
+      "radio_name": "Radio Megalonisos",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/24595814-2022-03-18.png",
+      "radio_url": "http://157.90.133.87:8540/stream/;",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "60741",
+      "radio_name": "Radio Melody 88",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/34274847-2022-03-16.png",
+      "radio_url": "http://s4.onweb.gr:8466/;",
+      "genre": "Other",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "84903",
+      "radio_name": "Radio Methorios",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/70039583-2022-03-19.png",
+      "radio_url": "http://eco.onestreaming.com:8505/stream",
+      "genre": "Rock",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "61042",
+      "radio_name": "Radio Mires 97.1 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/79532646-2022-03-16.png",
+      "radio_url": "http://s6.onweb.gr:8034/stream/;",
+      "genre": "Other",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "67088",
+      "radio_name": "Radio Monaco Web Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/32119230-2022-03-17.png",
+      "radio_url": "http://www.gointernet.gr:8012/stream/;",
+      "genre": "Rock",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "63941",
+      "radio_name": "Radio More",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/34841263-2022-03-17.png",
+      "radio_url": "http://85.25.214.240:8140/;",
+      "genre": "Talk",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "126148",
+      "radio_name": "Radio Must Athens - Must Cafe",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/15118957-2023-12-29.png",
+      "radio_url": "http://stream.radiomustathens.com:8000/must-cafe-mpeg",
+      "genre": "Electronic",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "126146",
+      "radio_name": "Radio Must Athens - Must HERO",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/62747739-2023-12-29.png",
+      "radio_url": "http://stream.radiomustathens.com:8000/must-hero-mpeg",
+      "genre": "Pop",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "81936",
+      "radio_name": "Radio Net 101.9",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/57059181-2022-03-19.png",
+      "radio_url": "http://eco.onestreaming.com:8490/stream",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "91663",
+      "radio_name": "Radio Nikita 89.9",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/55441994-2022-03-19.png",
+      "radio_url": "http://solid55.streamupsolutions.com:30122/stream",
+      "genre": "Rock",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "81535",
+      "radio_name": "Radio North 98.0",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/87327489-2022-03-19.png",
+      "radio_url": "http://netradio.live24.gr/north98thess",
+      "genre": "Pop",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "79259",
+      "radio_name": "Radio Nowhere",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/84903158-2022-03-18.png",
+      "radio_url": "http://i.streams.ovh:9364/autodj",
+      "genre": "Other",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "72394",
+      "radio_name": "Radio Peirasmos",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/89587511-2022-03-17.png",
+      "radio_url": "http://cast.radiohost.ovh:9020/stream",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "91269",
+      "radio_name": "Radio Play 91.5 FM Xanthi",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/56227918-2022-03-19.png",
+      "radio_url": "http://s6.onweb.gr:8058/;",
+      "genre": "Pop",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "60587",
+      "radio_name": "Radio Politia",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/02975017-2022-03-16.png",
+      "radio_url": "http://eco.onestreaming.com:8604",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "64694",
+      "radio_name": "Radio Preveza",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/59707993-2022-03-17.png",
+      "radio_url": "http://sc2.streamwithq.com:8072/stream/;",
+      "genre": "Region",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100442",
+      "radio_name": "Radio Q37",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/19656688-2022-03-20.png",
+      "radio_url": "http://radioq.radioca.st/stream",
+      "genre": "Electronic",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "59974",
+      "radio_name": "Radio Retro",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/08826472-2022-03-16.png",
+      "radio_url": "http://sc2.streamwithq.com:8050/stream/;",
+      "genre": "Theme",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "62661",
+      "radio_name": "Radio Romeos 94",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/63594264-2022-03-17.png",
+      "radio_url": "http://rdst.win:9400/stream",
+      "genre": "Pop",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "91300",
+      "radio_name": "Radio Silver Greece",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/65038512-2022-03-19.png",
+      "radio_url": "http://stream.zenolive.com/fv3zse163hhvv",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "80747",
+      "radio_name": "Radio Star Classic",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/30579542-2022-03-19.png",
+      "radio_url": "http://starclassicserver2021.radioca.st/stream",
+      "genre": "Other",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "73144",
+      "radio_name": "Radio Stournareika 92.5 FM Stereo",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/05297437-2022-03-18.png",
+      "radio_url": "http://i8.streams.ovh:18051/stream/;",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "106799",
+      "radio_name": "Radio Thanasouleika",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/13911374-2022-03-21.png",
+      "radio_url": "http://stream.zeno.fm/zth2xyytqg8uv",
+      "genre": "Decades",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "62917",
+      "radio_name": "Radio Tyrnavos",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/39526994-2022-03-17.png",
+      "radio_url": "http://s3.onweb.gr:8528/stream/;",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "91326",
+      "radio_name": "Radio Uno 99.1",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/83421414-2022-03-19.png",
+      "radio_url": "http://server1.dainusradio.com:9884/stream/;",
+      "genre": "Pop",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "62371",
+      "radio_name": "Radio Veronica",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/12147126-2022-03-17.png",
+      "radio_url": "http://radioveronica.live24.gr/veronicaweb",
+      "genre": "Theme",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "90539",
+      "radio_name": "Radio Void",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/04318603-2022-03-19.png",
+      "radio_url": "http://stream.radiojar.com/rsb3fuz6u2n",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "66386",
+      "radio_name": "Radio Zhmia",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/40501919-2022-03-17.png",
+      "radio_url": "http://www.gointernet.gr:8012/stream",
+      "genre": "Region",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "72435",
+      "radio_name": "Radio Χριστιανισμός 90 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/55690216-2022-03-17.png",
+      "radio_url": "http://8.38.78.173:8156/stream",
+      "genre": "Religion",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "61597",
+      "radio_name": "Radio1",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/36578201-2022-03-16.png",
+      "radio_url": "http://111.gr:8000/stream",
+      "genre": "Dance",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "92494",
+      "radio_name": "Radio1 - Golden 80s",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/34605986-2022-03-20.png",
+      "radio_url": "http://111.gr:8000/stream",
+      "genre": "Decades",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "86675",
+      "radio_name": "Radio1d.gr",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/80371241-2022-03-19.png",
+      "radio_url": "http://176.9.79.235:8001/winamp",
+      "genre": "Theme",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "64750",
+      "radio_name": "RadioActive 91.3",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/41474222-2022-03-17.png",
+      "radio_url": "http://streamyourdream.org:18050/radioactive",
+      "genre": "Pop",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "105852",
+      "radio_name": "Radiobird",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/51776129-2022-03-21.png",
+      "radio_url": "http://stream.radiojar.com/6uqfysrasm0uv",
+      "genre": "Other",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "102420",
+      "radio_name": "RadioClub",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/20686898-2022-03-20.png",
+      "radio_url": "http://igor.torontocast.com:1410/stream",
+      "genre": "Dance",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "60679",
+      "radio_name": "Radioenergeia",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/88024106-2022-03-16.png",
+      "radio_url": "http://s1.onweb.gr:8828/;",
+      "genre": "Pop",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "66374",
+      "radio_name": "Radiofonia Kissabou 97.8 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/17158872-2022-03-17.png",
+      "radio_url": "http://eco.onestreaming.com:8103/stream",
+      "genre": "Other",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "91587",
+      "radio_name": "RadioGR.gr",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/56117676-2022-03-19.png",
+      "radio_url": "http://rdst.win:9178/stream",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "109786",
+      "radio_name": "RadioHits",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/68269222-2022-03-21.png",
+      "radio_url": "http://stream.zenolive.com/yww9fsb9sd0uv",
+      "genre": "Decades",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "82362",
+      "radio_name": "RadiOi",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/39017984-2022-03-19.png",
+      "radio_url": "http://178.32.146.184:6128/stream/;",
+      "genre": "Rock",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "66747",
+      "radio_name": "RadioIn - Greek Music",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/15917871-2022-03-17.png",
+      "radio_url": "http://213.239.206.179:7002/stream/;",
+      "genre": "Other",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "67943",
+      "radio_name": "RadioIn.gr",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/10343713-2022-03-17.png",
+      "radio_url": "http://rdst.win:8383/",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "66496",
+      "radio_name": "Radiophone.gr - Radiophone",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/79427200-2022-03-17.png",
+      "radio_url": "http://s1.onweb.gr:8400/;",
+      "genre": "Theme",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "68706",
+      "radio_name": "RadioPoint",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/05786711-2022-03-17.png",
+      "radio_url": "http://5.9.17.142:8072/stream/;",
+      "genre": "Jazz",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "78228",
+      "radio_name": "Radiozones of Subversive Expression",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/25115400-2022-03-18.png",
+      "radio_url": "http://live.servers.radiozones.org:8000/high",
+      "genre": "Decades",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "66515",
+      "radio_name": "RadIQ",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/79232195-2022-03-17.png",
+      "radio_url": "http://213.136.81.181:8000/aac",
+      "genre": "Dance",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "92815",
+      "radio_name": "Radyo City 107.6",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/89091669-2022-03-20.png",
+      "radio_url": "http://anadolu.liderhost.com.tr:9998/stream",
+      "genre": "Theme",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "114108",
+      "radio_name": "Radyo Terapi",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/33845469-2022-11-07.png",
+      "radio_url": "http://live2.radyo.in:8030/stream",
+      "genre": "Pop",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "126941",
+      "radio_name": "Real Christmas",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/76836142-2023-12-29.png",
+      "radio_url": "http://stream.zeno.fm/x74976tmdc9uv",
+      "genre": "Theme",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "65021",
+      "radio_name": "Real FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/69082336-2022-03-17.png",
+      "radio_url": "http://realfm.live24.gr/realfm?b6b3701431e99709e7a6a505f7d04d06",
+      "genre": "Talk",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "58918",
+      "radio_name": "Real FM 107.1",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/77861317-2022-03-16.png",
+      "radio_url": "http://realfmthess.live24.gr/realthess",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "72825",
+      "radio_name": "Rempetiko Gia Ligous-Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/56551854-2022-03-18.png",
+      "radio_url": "http://162.13.25.174/k55d9sumb",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "64934",
+      "radio_name": "Republic Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/34443668-2022-03-17.png",
+      "radio_url": "http://173.249.6.18:1030/;;",
+      "genre": "Pop",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "72772",
+      "radio_name": "RnB Hits Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/60640518-2022-03-18.png",
+      "radio_url": "http://streamingv2.shoutcast.com/rnb-hits-radio",
+      "genre": "Hip Hop",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "86736",
+      "radio_name": "Rock Aces Online Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/97185729-2022-03-19.png",
+      "radio_url": "http://cast.radiohost.ovh:9203/stream",
+      "genre": "Rock",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "98422",
+      "radio_name": "Rock Club.gr Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/93282341-2022-03-20.png",
+      "radio_url": "http://fra-pioneer01.dedicateware.com:1370/;",
+      "genre": "Rock",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "113625",
+      "radio_name": "Rock FM Chania",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/85886672-2022-11-05.png",
+      "radio_url": "http://solid33.streamupsolutions.com:32010/live",
+      "genre": "Dance",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "106830",
+      "radio_name": "Rock Hard Greece Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/78968948-2022-03-21.png",
+      "radio_url": "http://noc.ezhellas.com:44440/autodj",
+      "genre": "Rock",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "102191",
+      "radio_name": "Rock Infection Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/33148452-2022-03-20.png",
+      "radio_url": "http://studio.rockinfection.com:8000/radio.mp3",
+      "genre": "Alternative",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "115104",
+      "radio_name": "Rock Radio Station",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/83164456-2022-11-05.png",
+      "radio_url": "http://i8.streams.ovh:18075/stream",
+      "genre": "Blues",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "95575",
+      "radio_name": "Rock Station",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/26732903-2022-03-20.png",
+      "radio_url": "http://89.163.217.252:9898/stream",
+      "genre": "Decades",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "105400",
+      "radio_name": "Rock Velvet Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/63137227-2022-03-20.png",
+      "radio_url": "http://88.198.10.229:8060/stream",
+      "genre": "Rock",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "125482",
+      "radio_name": "Rock2Drop",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/58686503-2023-12-29.png",
+      "radio_url": "http://www.radioking.com/play/rock2drop",
+      "genre": "null",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "106826",
+      "radio_name": "Rockberry",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/35134019-2022-03-21.png",
+      "radio_url": "http://stream.zenolive.com/nzzzc6eefq8uv",
+      "genre": "Alternative",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "106144",
+      "radio_name": "Rockstone",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/62732475-2022-03-21.png",
+      "radio_url": "http://neos.win:9810/live",
+      "genre": "Decades",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "64137",
+      "radio_name": "Rodos FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/85576436-2022-03-17.png",
+      "radio_url": "http://i.streams.ovh:9327/stream",
+      "genre": "Theme",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "83192",
+      "radio_name": "Rodos FM 90.7",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/80127816-2022-03-19.png",
+      "radio_url": "http://i.streams.ovh:9327/stream",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "110143",
+      "radio_name": "ROKKEA web radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/82086531-2022-03-21.png",
+      "radio_url": "http://185.78.220.57:9222/stream/;",
+      "genre": "Other",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "64695",
+      "radio_name": "RSO 91.7",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/99427727-2022-03-17.png",
+      "radio_url": "http://tachyon.shoutca.st:8594/;;",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "72409",
+      "radio_name": "RThess",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/35203743-2022-03-17.png",
+      "radio_url": "http://37.59.32.115:6156/stream/;",
+      "genre": "Dance",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "66399",
+      "radio_name": "Rythmos 89.2",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/36016366-2022-03-17.png",
+      "radio_url": "http://157.90.133.87:8892/stream/;",
+      "genre": "Pop",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "65035",
+      "radio_name": "Rythmos FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/58122547-2022-03-17.png",
+      "radio_url": "http://sc2.streamwithq.com:8098/stream/;",
+      "genre": "Pop",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "106339",
+      "radio_name": "SailMagic Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/61602436-2022-03-21.png",
+      "radio_url": "http://radio.sailmagicradio.com:8000/radio.mp3",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "82027",
+      "radio_name": "Salamisol Web Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/40642901-2022-03-19.png",
+      "radio_url": "http://i4.streams.ovh:7000/stream",
+      "genre": "Other",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "62040",
+      "radio_name": "Santorini FM 106.4",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/98088217-2022-03-17.png",
+      "radio_url": "mms://eco.onestreaming.com:8316",
+      "genre": "Other",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "58687",
+      "radio_name": "Scanner FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/06693071-2022-03-16.png",
+      "radio_url": "http://s1.onweb.gr:8074/stream/;",
+      "genre": "Region",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "89546",
+      "radio_name": "Scorp!os Athens R@dio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/73047755-2022-03-19.png",
+      "radio_url": "http://cast.streams.ovh:12116/stream",
+      "genre": "Country",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "91564",
+      "radio_name": "Seduction Dance Tunes Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/61113004-2022-03-19.png",
+      "radio_url": "http://24streams.me/8057/stream",
+      "genre": "Electronic",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "59481",
+      "radio_name": "Sfera 98.9",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/91060443-2022-03-16.png",
+      "radio_url": "http://stream-mp3aac.live24.gr/sfera989",
+      "genre": "Other",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "64909",
+      "radio_name": "Sferikos.gr",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/76383643-2022-03-17.png",
+      "radio_url": "http://live3.onestreaming.com:8012/stream",
+      "genre": "Theme",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "62680",
+      "radio_name": "Siera FM 105.3",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/40481248-2022-03-17.png",
+      "radio_url": "http://89.163.214.50:51588/Sierafm",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "102856",
+      "radio_name": "Simple Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/67348009-2022-03-20.png",
+      "radio_url": "http://everestcast.streams.ovh:1060/stream",
+      "genre": "Other",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "92992",
+      "radio_name": "Sin Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/93451800-2022-03-20.png",
+      "radio_url": "http://solid67.streamupsolutions.com:15538/1",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "58622",
+      "radio_name": "Sirios FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/35012503-2022-03-16.png",
+      "radio_url": "http://proradio.gr:8004/siriosfm",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "57902",
+      "radio_name": "Skai 100.3",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/07457012-2022-03-16.png",
+      "radio_url": "http://netradio.live24.gr/skai1003",
+      "genre": "Theme",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "61886",
+      "radio_name": "SKAI 92.6",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/66872074-2022-03-17.png",
+      "radio_url": "http://s1.onweb.gr:8866/;",
+      "genre": "Other",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "66462",
+      "radio_name": "SKGLOBE.NET - CH1: Mixed Emotions!",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/10208393-2022-03-17.png",
+      "radio_url": "http://listen2edm.skglobe.net:80/;",
+      "genre": "Electronic",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "78655",
+      "radio_name": "SKGLOBE.NET - CH2: Powershots!",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/31403751-2022-03-18.png",
+      "radio_url": "http://powershots.skglobe.net:80/;",
+      "genre": "Electronic",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "87272",
+      "radio_name": "SKGLOBE.NET - CH3: Senses!",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/10996704-2022-03-19.png",
+      "radio_url": "http://senses.skglobe.net:80/;",
+      "genre": "Dance",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "65882",
+      "radio_name": "Sky Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/14413016-2022-03-17.png",
+      "radio_url": "http://live.skyradio.gr:9920",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "90246",
+      "radio_name": "Skyline Thessaloniki",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/83791648-2022-03-19.png",
+      "radio_url": "http://whsh4u-panel.com:14143/stream",
+      "genre": "Dance",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "60682",
+      "radio_name": "Slam 101.5",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/49909846-2022-03-16.png",
+      "radio_url": "http://eco.onestreaming.com:8550/stream",
+      "genre": "Pop",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "80256",
+      "radio_name": "SLAM 101.5",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/94413278-2022-03-19.png",
+      "radio_url": "http://eco.onestreaming.com:8550/stream",
+      "genre": "Theme",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "75922",
+      "radio_name": "Smooth Ράδιο Θεσσαλονίκη",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/61492121-2022-03-18.png",
+      "radio_url": "http://solid9.streamupsolutions.com:8008/autodj",
+      "genre": "Decades",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "63803",
+      "radio_name": "Sohos FM 88.7",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/78557655-2022-03-17.png",
+      "radio_url": "http://157.90.133.87:8418/;",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "64007",
+      "radio_name": "Sok FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/97418438-2024-01-05.png",
+      "radio_url": "http://n03.radiojar.com/zeqcyyvu48hvv",
+      "genre": "Pop",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "80633",
+      "radio_name": "Sok Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/10069930-2022-03-19.png",
+      "radio_url": "http://24streams.me:8071/stream",
+      "genre": "Electronic",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "98866",
+      "radio_name": "Sound of Pluto Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/02873943-2022-03-20.png",
+      "radio_url": "http://cast.magicstreams.gr:9037/stream",
+      "genre": "Rock",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "107725",
+      "radio_name": "Sound Thess",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/11318853-2022-03-21.png",
+      "radio_url": "http://mpc.mediacp.eu:8792/stream",
+      "genre": "Easy Listening",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "86827",
+      "radio_name": "Split Infinity Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/02772345-2022-03-19.png",
+      "radio_url": "http://listen.siradio.fm:80/;",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "107863",
+      "radio_name": "SpRadio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/04556963-2022-03-21.png",
+      "radio_url": "http://sounder.ovh:8000/live",
+      "genre": "Pop",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "107864",
+      "radio_name": "SpRadio - Old Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/20263013-2022-03-21.png",
+      "radio_url": "http://sounder.ovh:8270/live",
+      "genre": "Other",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "112091",
+      "radio_name": "Stambak Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/50864524-2022-05-15.png",
+      "radio_url": "http://streaming.stamatissevenup.com:8000/radio.mp3",
+      "genre": "Rock",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "61736",
+      "radio_name": "Star FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/41208533-2022-03-17.png",
+      "radio_url": "http://stream2.proradio.gr:8004/star933",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "64173",
+      "radio_name": "Star FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/54655177-2022-03-17.png",
+      "radio_url": "http://eco.onestreaming.com:8434/stream",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "85012",
+      "radio_name": "Star FM 88.8",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/73740212-2022-03-19.png",
+      "radio_url": "http://onairmediagroup.live24.gr/star888xanthi",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "64090",
+      "radio_name": "STAR Βορείου Ελλάδος",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/72463056-2024-01-05.png",
+      "radio_url": "http://jammy.youmix.gr:8001/starfm935",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "73774",
+      "radio_name": "Status Internet Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/21425475-2022-03-18.png",
+      "radio_url": "http://cast5.magicstreams.gr:8250/stream",
+      "genre": "Pop",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "56452",
+      "radio_name": "Stigma Radio 97,6",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/98778765-2023-12-30.png",
+      "radio_url": "http://sp3.streams.ovh:8062/stream/;",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "90640",
+      "radio_name": "Stigma Radio 97.6",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/95721398-2022-03-19.png",
+      "radio_url": "http://sp3.streams.ovh:8062/stream/;",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "61467",
+      "radio_name": "Sto Kokkino FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/23906470-2022-03-16.png",
+      "radio_url": "http://stream.radiojar.com/s5sa2z0mtceuv",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "63709",
+      "radio_name": "Sto Kokkino FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/89667441-2022-03-17.png",
+      "radio_url": "http://stream.radiojar.com/kokkino-ath.mp3?1427321427095.mp3",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "63710",
+      "radio_name": "Sto Kokkino FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/13957566-2022-03-17.png",
+      "radio_url": "http://stream.radiojar.com/kokkino-ath.mp3?1427321427095.mp3",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "63711",
+      "radio_name": "Sto Kokkino FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/17075266-2022-03-17.png",
+      "radio_url": "http://stream.radiojar.com/kokkino-ath.mp3?1427321427095.mp3",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "101105",
+      "radio_name": "Sto Kokkino FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/75751132-2022-03-20.png",
+      "radio_url": "http://neos.win:8840/stream",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "84536",
+      "radio_name": "Stoxos FM 98.9",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/51397434-2022-03-19.png",
+      "radio_url": "http://s3.onweb.gr:8016/stream/;",
+      "genre": "Rock",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "64846",
+      "radio_name": "Studio 19",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/54322613-2022-03-17.png",
+      "radio_url": "http://stream.crete.ovh:8000/1",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "62216",
+      "radio_name": "Studio 3",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/92093086-2022-03-17.png",
+      "radio_url": "http://stream1.468.gr:9994/stream/;",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "113621",
+      "radio_name": "Studio A13",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/24227426-2022-11-05.png",
+      "radio_url": "http://stream.zeno.fm/8vrcykumdc9uv",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "67388",
+      "radio_name": "Studio Grigoris 306",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/86172823-2022-03-17.png",
+      "radio_url": "http://rdst.win:8140",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "80811",
+      "radio_name": "Studio Thessaloniki",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/51649958-2022-03-19.png",
+      "radio_url": "http://148.251.179.119:8032/;",
+      "genre": "Pop",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "90641",
+      "radio_name": "Styl FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/63557076-2022-03-19.png",
+      "radio_url": "http://s3.onweb.gr:8530/;",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "63752",
+      "radio_name": "Stylida FM 94.1",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/89637062-2022-03-17.png",
+      "radio_url": "http://213.136.89.176:1610/;;",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "92884",
+      "radio_name": "Super 88 Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/37716306-2022-03-20.png",
+      "radio_url": "http://eco.onestreaming.com:8354/stream",
+      "genre": "Other",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "64522",
+      "radio_name": "Super 904 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/85288679-2022-03-17.png",
+      "radio_url": "http://dione.shoutca.st:8530/stream/;",
+      "genre": "Region",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "62616",
+      "radio_name": "Super FM 108",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/75659691-2022-03-17.png",
+      "radio_url": "http://ice.greekstream.net:80/superfm",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "109410",
+      "radio_name": "Super Music Box",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/86535952-2022-03-21.png",
+      "radio_url": "http://stream.zeno.fm/ar67n7k2yp8uv",
+      "genre": "Rock",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "82049",
+      "radio_name": "SWY  Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/99536058-2022-03-19.png",
+      "radio_url": "http://stream.radiojar.com/k40bfby6gzq.mp3",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "67636",
+      "radio_name": "Synora FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/43819505-2022-03-17.png",
+      "radio_url": "http://s2.onweb.gr:8816/stream/;",
+      "genre": "Pop",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "60697",
+      "radio_name": "Team FM 102",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/42899325-2022-03-16.png",
+      "radio_url": "http://185.78.220.57:9200/stream/;",
+      "genre": "Talk",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "75040",
+      "radio_name": "The Ark - Pops",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/91362947-2022-03-18.png",
+      "radio_url": "http://listen.shoutcast.com/theark-pops?type=.mp3",
+      "genre": "Pop",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "117405",
+      "radio_name": "THE ROCKFELLAS",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/12386297-2022-12-31.png",
+      "radio_url": "http://stream.zeno.fm/mrcfyxcr3lvuv",
+      "genre": "Rock",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "117561",
+      "radio_name": "The Tune Sanctuary",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/30520963-2023-01-13.png",
+      "radio_url": "http://stream.zeno.fm/qbax0zhct0hvv",
+      "genre": "Pop",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100228",
+      "radio_name": "TheDotRadio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/05656380-2022-03-20.png",
+      "radio_url": "http://c16.radioboss.fm:8026/autodj",
+      "genre": "Other",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "98463",
+      "radio_name": "ThessRadio.net",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/21808605-2022-03-20.png",
+      "radio_url": "http://radio.thessradio.net:30570/thessradio",
+      "genre": "Rock",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "94853",
+      "radio_name": "TheWebRadio.gr - Aυθεντικό",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/75199451-2022-03-20.png",
+      "radio_url": "http://82.192.2.132:8045/stream/;",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "94851",
+      "radio_name": "TheWebRadio.gr - Coffee",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/83726953-2022-03-20.png",
+      "radio_url": "http://greeksonic.alphaserver.gr:8122/stream",
+      "genre": "Pop",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "94852",
+      "radio_name": "TheWebRadio.gr - Fresh",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/18519634-2022-03-20.png",
+      "radio_url": "http://greeksonic.alphaserver.gr:8042/stream",
+      "genre": "Pop",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "94854",
+      "radio_name": "TheWebRadio.gr - Γκρικς",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/67894868-2022-03-20.png",
+      "radio_url": "http://greeksonic.alphaserver.gr:8030/stream",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "60483",
+      "radio_name": "Thraki FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/72053232-2022-03-16.png",
+      "radio_url": "http://eco.onestreaming.com:8010/stream",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "71784",
+      "radio_name": "TOP FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/72427159-2022-03-17.png",
+      "radio_url": "http://s6.onweb.gr:8012/;",
+      "genre": "Pop",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "59094",
+      "radio_name": "Top FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/62025500-2022-03-16.png",
+      "radio_url": "http://mp3.topfm.c.nmdn.net/ps-topfm/livestream.mp3",
+      "genre": "Electronic",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "61206",
+      "radio_name": "Top FM Δωδεκανήσου",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/10747771-2022-03-16.png",
+      "radio_url": "http://live3.istoikona.com:8376/stream",
+      "genre": "Talk",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "66202",
+      "radio_name": "TopMelodyFM Santorini Islands",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/94692643-2022-03-17.png",
+      "radio_url": "http://radio.streamings.gr:8042/stream",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "89670",
+      "radio_name": "Trance Athena Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/23634349-2022-03-19.png",
+      "radio_url": "http://cast.streams.ovh:8008/stream",
+      "genre": "Electronic",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "64635",
+      "radio_name": "Trikala 103.5 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/05754292-2022-03-17.png",
+      "radio_url": "http://s6.onweb.gr:8004/stream/;",
+      "genre": "Talk",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "81011",
+      "radio_name": "Troll Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/06436761-2022-03-19.png",
+      "radio_url": "http://162.13.25.174/trollradio-gr.mp3",
+      "genre": "Alternative",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "83100",
+      "radio_name": "True Life In God Radio Greek",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/25974407-2022-03-19.png",
+      "radio_url": "http://stream80.tligradio.org/proxy/tligradio_el/",
+      "genre": "Religion",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "81021",
+      "radio_name": "Trust Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/90868061-2022-03-19.png",
+      "radio_url": "http://radio.trust-radio.gr:8000/;",
+      "genre": "Theme",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "67956",
+      "radio_name": "Tuning Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/40935689-2022-03-17.png",
+      "radio_url": "http://listen.shoutcast.com/tuningradiogr",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "65932",
+      "radio_name": "UOC Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/58479104-2022-03-17.png",
+      "radio_url": "http://rs.radio.uoc.gr:8000/uoc_64.mp3",
+      "genre": "Region",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "80320",
+      "radio_name": "V FM 91.1",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/45940775-2022-03-19.png",
+      "radio_url": "http://cast5.magicstreams.gr/sc/vfm/stream",
+      "genre": "Pop",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "93703",
+      "radio_name": "Vanilla Radio - Deep House Flavors",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/82503589-2022-03-20.png",
+      "radio_url": "http://stream.vanillaradio.com:8012/live",
+      "genre": "Dance",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "95634",
+      "radio_name": "Vanilla Radio - Fresh Flavors",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/79367561-2022-03-20.png",
+      "radio_url": "http://i7.streams.ovh:17074/stream",
+      "genre": "Other",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "83256",
+      "radio_name": "Vanilla Radio - Smooth Flavor",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/28722523-2022-03-19.png",
+      "radio_url": "http://smooth.vanillaradio.com:8032/stream",
+      "genre": "Pop",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "92921",
+      "radio_name": "Velvet 96.8 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/58597301-2022-03-20.png",
+      "radio_url": "http://metromedia.live24.gr/velvet968thess",
+      "genre": "Pop",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "103687",
+      "radio_name": "Venus 91 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/62520386-2022-03-20.png",
+      "radio_url": "http://dos.venus91.gr:9100/stream",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "62597",
+      "radio_name": "Venus FM 105.1",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/62814509-2022-03-17.png",
+      "radio_url": "http://157.90.133.87:8808/stream/;",
+      "genre": "Pop",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "56784",
+      "radio_name": "Venus Radio 99.3",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/26411688-2022-03-16.png",
+      "radio_url": "http://s7.onweb.gr:8410/stream/;",
+      "genre": "Dance",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "81089",
+      "radio_name": "Viva 88.3 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/27332989-2022-03-19.png",
+      "radio_url": "http://157.90.133.87:8030/stream/;",
+      "genre": "Theme",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "58503",
+      "radio_name": "Viva FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/82401719-2022-03-16.png",
+      "radio_url": "http://176.31.120.166:8742/;;",
+      "genre": "Electronic",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "106560",
+      "radio_name": "Volume Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/81598656-2022-03-21.png",
+      "radio_url": "http://148.251.179.119:8124/stream/;",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "107772",
+      "radio_name": "VolumeRadio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/17033451-2022-03-21.png",
+      "radio_url": "http://stream.zeno.fm/n2ubg2zgxy8uv",
+      "genre": "Other",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "67295",
+      "radio_name": "Wave Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/58193481-2022-03-17.png",
+      "radio_url": "http://stream.radiojar.com/0v28fr3rp7zuv",
+      "genre": "Alternative",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "83201",
+      "radio_name": "We Radio 89,4",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/42540537-2022-03-19.png",
+      "radio_url": "http://85.10.249.132:45060/;",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "62140",
+      "radio_name": "X FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/76527018-2022-03-17.png",
+      "radio_url": "http://solid1.streamupsolutions.com:55009/stream",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "58980",
+      "radio_name": "Xanthi Radio Deejay",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/64758529-2022-03-16.png",
+      "radio_url": "http://onairmediagroup.live24.gr/radiodeejay946xanthi",
+      "genre": "Region",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "95360",
+      "radio_name": "XRadio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/42077254-2022-03-20.png",
+      "radio_url": "http://cast.radiohost.ovh:8850/stream",
+      "genre": "Decades",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "81222",
+      "radio_name": "XRadio 91.3",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/04021035-2022-03-19.png",
+      "radio_url": "http://live.xradiofm.gr:8010/913.mp3/;",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "67469",
+      "radio_name": "Xristos A1000",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/13501018-2022-03-17.png",
+      "radio_url": "http://cast.streams.ovh:8474/stream",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "102536",
+      "radio_name": "XWave Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/54585391-2022-03-20.png",
+      "radio_url": "http://91.121.67.202:8000/;;",
+      "genre": "Decades",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "120018",
+      "radio_name": "Yes 91.2 Πάτρα",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/88174152-2023-12-29.png",
+      "radio_url": "http://ams-pioneer02.dedicateware.com:1060/;",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "71809",
+      "radio_name": "Yes! PLUS",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/62962815-2022-03-17.png",
+      "radio_url": "http://5.9.17.142:8024/stream/;",
+      "genre": "Pop",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "65366",
+      "radio_name": "You FM 100.1",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/90528166-2022-03-17.png",
+      "radio_url": "http://www.youfmradio.gr:8880/stream",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "105617",
+      "radio_name": "Zarpa Radio 89.6",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/10390468-2022-03-21.png",
+      "radio_url": "http://s3.onweb.gr:8454/stream/;",
+      "genre": "Other",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "96346",
+      "radio_name": "Zbutsam Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/01442150-2022-03-20.png",
+      "radio_url": "http://radio.ezhellas.com:30570/zbutsam",
+      "genre": "Decades",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "64376",
+      "radio_name": "Αγιας 94.2",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/68275267-2022-03-17.png",
+      "radio_url": "http://netradio.live24.gr/agia",
+      "genre": "Pop",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "93561",
+      "radio_name": "Άγιοι Ισίδωροι",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/78533205-2022-03-20.png",
+      "radio_url": "http://176.9.226.18:9998/",
+      "genre": "Religion",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "66755",
+      "radio_name": "Αθήνα 9,84",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/46804376-2022-03-17.png",
+      "radio_url": "http://athina984.live24.gr/athina984",
+      "genre": "Theme",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "64894",
+      "radio_name": "ΑΘΗΝΑ 9.84",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/49922737-2022-03-17.png",
+      "radio_url": "http://athina984.live24.gr/athina984",
+      "genre": "Pop",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "83078",
+      "radio_name": "Αιγαίο Live",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/33334345-2022-03-19.png",
+      "radio_url": "http://stream.radiojar.com/nkqh9th47vzuv",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "87754",
+      "radio_name": "Ακμή Ράδιο",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/66043784-2022-03-19.png",
+      "radio_url": "http://eco.onestreaming.com:8697/stream",
+      "genre": "Talk",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "56783",
+      "radio_name": "Ακτίνα Ράδιο 95.0",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/00824715-2022-03-16.png",
+      "radio_url": "http://live.e-streaming.eu:8110/stream/;",
+      "genre": "Region",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "96044",
+      "radio_name": "Αλήθειας Φάρος Ραδιόφωνο",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/80646486-2022-03-20.png",
+      "radio_url": "http://streams.radio.co/s3ca17f0ae/listen",
+      "genre": "Religion",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "71587",
+      "radio_name": "Ανεμος 92",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/15014789-2022-03-17.png",
+      "radio_url": "http://s4.onweb.gr:8842/stream/;",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "60407",
+      "radio_name": "Αρκαδία 93.8",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/30437845-2022-03-16.png",
+      "radio_url": "http://stream.radiojar.com/g34k4f92n74tv",
+      "genre": "Pop",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "74434",
+      "radio_name": "Άρκτος FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/67808634-2022-03-18.png",
+      "radio_url": "http://stream.zeno.fm/aqp69p25e4duv",
+      "genre": "Dance",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "106538",
+      "radio_name": "Αρμονία 103.2",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/07364416-2022-03-21.png",
+      "radio_url": "http://s3.onweb.gr:8500/;",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "60184",
+      "radio_name": "Γαλαξίας FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/21909299-2022-03-16.png",
+      "radio_url": "http://sonic.serverps.gr:8018/stream",
+      "genre": "Theme",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "63937",
+      "radio_name": "Γαύδος FM 88.8",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/53602549-2022-03-17.png",
+      "radio_url": "http://sc2.streamwithq.com:8050/stream/;",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "62480",
+      "radio_name": "ΓΛΕΝΤΙ 101.1",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/63229117-2022-03-17.png",
+      "radio_url": "http://onairmediagroup.live24.gr/glenti1011xanthi",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "97902",
+      "radio_name": "Δάκρυα Μετανοίας",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/94502434-2022-03-20.png",
+      "radio_url": "http://cast.iplayradio.net:9000/stream/;",
+      "genre": "Religion",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "107345",
+      "radio_name": "Δημοτική Ανθολογία 88.8",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/84169984-2022-03-21.png",
+      "radio_url": "http://shoutcast.24radio.gr:8070/;",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "62566",
+      "radio_name": "Δημοτικό Ραδιόφωνο Ξάνθης",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/93461873-2022-03-17.png",
+      "radio_url": "http://radio.streamings.gr:8103/live",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "93056",
+      "radio_name": "ΔΙΑΥΛΟΣ FM 99.2",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/74040478-2022-03-20.png",
+      "radio_url": "http://el1.info:7060/stream",
+      "genre": "Region",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "65495",
+      "radio_name": "ΕΛΛΗΝΑΔΙΚΟ FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/79700517-2022-03-17.png",
+      "radio_url": "http://ellinadikofm.gr:8020/stream",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "65936",
+      "radio_name": "Επικοινωνία 89.1 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/51721947-2022-03-17.png",
+      "radio_url": "http://s2.onweb.gr:8608/;",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "62532",
+      "radio_name": "Επιλογές FM 101 ",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/64379725-2022-03-17.png",
+      "radio_url": "http://ice.streamcloud.mediacdn.com/epiloges1028",
+      "genre": "Pop",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "114964",
+      "radio_name": "ΕΡΑ Zeppelin ",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/93658543-2022-11-07.png",
+      "radio_url": "http://radiostreaming.ert.gr/ert-zeppelin",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "60446",
+      "radio_name": "ΕΡΤ - Δεύτερο Πρόγραμμα",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/71958823-2022-03-16.png",
+      "radio_url": "http://radiostreaming.ert.gr/ert-deftero",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "60985",
+      "radio_name": "Ερωτικός FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/10118343-2022-03-16.png",
+      "radio_url": "http://eu1.fastcast4u.com:21624/stream",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "61329",
+      "radio_name": "Ηλέκτρα FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/07917605-2022-03-16.png",
+      "radio_url": "http://161.97.106.122:9304/live/;",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "72353",
+      "radio_name": "Ηλιδα 91.1",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/80258132-2022-03-17.png",
+      "radio_url": "http://eco.onestreaming.com:8532/stream",
+      "genre": "Other",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "61027",
+      "radio_name": "Ήχος FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/15490084-2022-03-16.png",
+      "radio_url": "http://shoutcast.24radio.gr:8010/;",
+      "genre": "Decades",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "59412",
+      "radio_name": "Ηχώ FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/09495905-2022-03-16.png",
+      "radio_url": "http://eco.onestreaming.com:8520/stream",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "62073",
+      "radio_name": "Ηχώ FM 102.1",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/71140099-2022-03-17.png",
+      "radio_url": "http://eco.onestreaming.com:8280/stream",
+      "genre": "Talk",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "59876",
+      "radio_name": "Ιερά Αρχιεπισκοπή Κρήτης",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/84773682-2022-03-17.png",
+      "radio_url": "http://i7.streams.ovh:17074/stream",
+      "genre": "Religion",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "106540",
+      "radio_name": "Ιωνία Radio Plus 89,4",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/73712026-2022-03-21.png",
+      "radio_url": "http://89.163.217.252:9314/stream",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "86760",
+      "radio_name": "Καλαμαριά FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/58748164-2022-03-19.png",
+      "radio_url": "http://sc.greekstream.net:80/;",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "64830",
+      "radio_name": "Καναλι 20",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/58680526-2022-03-17.png",
+      "radio_url": "http://el1.info:7086/stream",
+      "genre": "Other",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "72039",
+      "radio_name": "Κανάλι 5 97.3",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/50727222-2022-03-17.png",
+      "radio_url": "http://solid1.streamupsolutions.com:14456/stream",
+      "genre": "Decades",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "75967",
+      "radio_name": "Κίμωλος FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/62208801-2022-03-18.png",
+      "radio_url": "http://46.4.81.216:8000/;",
+      "genre": "Pop",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "59998",
+      "radio_name": "Κνωσός Fm",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/89870035-2022-03-16.png",
+      "radio_url": "http://6182bfa7cd933.streamlock.net:1935/Knossosfm/Knossosfm/playlist.m3u8",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "63029",
+      "radio_name": "Κοσμοράδιο 95,1",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/39436533-2022-03-17.png",
+      "radio_url": "http://eco.onestreaming.com:8689/stream",
+      "genre": "Pop",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "64260",
+      "radio_name": "Κρήτη FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/20969990-2022-03-17.png",
+      "radio_url": "http://s3.onweb.gr:8878/;;",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "62488",
+      "radio_name": "ΚΡΗΤΗ FM 100.3",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/79971867-2022-03-17.png",
+      "radio_url": "http://i9.streams.ovh:19068/stream",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "64827",
+      "radio_name": "Λαϊκό FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/48332845-2022-03-17.png",
+      "radio_url": "http://netradio.live24.gr/laikos876",
+      "genre": "Other",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "114648",
+      "radio_name": "Λαϊκό Ραδιόφωνο",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/07006530-2022-11-07.png",
+      "radio_url": "http://stream.zeno.fm/58uqx820dnzuv",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "91576",
+      "radio_name": "Λαϊκός 106.3",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/39827521-2022-03-19.png",
+      "radio_url": "http://sp2.streams.ovh:8102/stream/;",
+      "genre": "Rock",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "60134",
+      "radio_name": "Λαϊκός fm 105,7",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/65965169-2022-03-17.png",
+      "radio_url": "http://sp2.streams.ovh:8106/stream/;",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "65995",
+      "radio_name": "Λυδία FM 94.2",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/80456670-2022-03-17.png",
+      "radio_url": "http://81.171.10.41:1086/;;",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "65972",
+      "radio_name": "Λύρα FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/85802754-2022-03-17.png",
+      "radio_url": "http://i4.streams.ovh:8130/stream",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "88642",
+      "radio_name": "Μελωδία  Άρτας",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/54089836-2022-03-19.png",
+      "radio_url": "http://176.31.118.194:11840/;;",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "58244",
+      "radio_name": "Μελωδία 106,6 fm",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/09021074-2022-03-18.png",
+      "radio_url": "http://rdst.win:9316/live",
+      "genre": "Pop",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "73454",
+      "radio_name": "Μεντα 88 fm",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/60442439-2022-03-18.png",
+      "radio_url": "http://netradio.live24.gr:80/menta-trans",
+      "genre": "Other",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "64844",
+      "radio_name": "Μεσόγειος FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/42926733-2022-03-17.png",
+      "radio_url": "http://stream.radiojar.com/g6eg7gpa6k5tv",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "63288",
+      "radio_name": "Μετρό 90.3",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/42203357-2022-03-17.png",
+      "radio_url": "http://metro903.live24.gr:80/metro903",
+      "genre": "Pop",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "107173",
+      "radio_name": "Μουσικός 98,6",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/49092302-2022-03-21.png",
+      "radio_url": "http://netradio.live24.gr/mousikos986",
+      "genre": "Region",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "64959",
+      "radio_name": "Νέο Ραδιόφωνο 97.9",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/95139675-2022-03-17.png",
+      "radio_url": "http://s1.onweb.gr:8820/stream/;",
+      "genre": "Other",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "98673",
+      "radio_name": "Νότιο Ημισφαίριο",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/87670569-2022-03-20.png",
+      "radio_url": "http://solid55.streamupsolutions.com:30038/stream",
+      "genre": "Decades",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "126025",
+      "radio_name": "Παιδάκι 97.5",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/32232424-2023-12-29.png",
+      "radio_url": "http://paidaki975.radioca.st:8012/stream",
+      "genre": "Talk",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "61060",
+      "radio_name": "Παλμός 99.5",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/87554163-2022-03-16.png",
+      "radio_url": "http://netradio.live24.gr/palmos995-rho",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "58755",
+      "radio_name": "Παλμός Πάτρας 103.7",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/27853649-2022-03-16.png",
+      "radio_url": "http://i.streams.ovh:9521/stream",
+      "genre": "Pop",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "63090",
+      "radio_name": "Πανόραμα 984 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/18092401-2022-03-17.png",
+      "radio_url": "http://netradio.live24.gr/panorama984",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "64943",
+      "radio_name": "Πανόραμα FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/88772569-2022-03-17.png",
+      "radio_url": "http://radio.streamings.gr:8015/live",
+      "genre": "Region",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "71752",
+      "radio_name": "Παραδοσιακός 106.6",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/21006013-2022-03-17.png",
+      "radio_url": "http://sp2.streams.ovh:8104/stream/;",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "76170",
+      "radio_name": "Παραπολιτικά 90,1 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/82256696-2022-03-18.png",
+      "radio_url": "http://netradio.live24.gr/athinaradio",
+      "genre": "Talk",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "71328",
+      "radio_name": "Πειραϊκή Εκκλησία",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/69548269-2022-03-17.png",
+      "radio_url": "http://impradio2.bytemasters.gr:8002/stream",
+      "genre": "Religion",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "117023",
+      "radio_name": "Πειρατικός FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/09684675-2022-12-20.png",
+      "radio_url": "http://shoutcast.k-planet.eu:9800/stream",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "89672",
+      "radio_name": "Πρώτο Κανάλι Ιωαννίνων",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/32251679-2022-03-19.png",
+      "radio_url": "http://i2.streams.ovh:7117/stream",
+      "genre": "Pop",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "79533",
+      "radio_name": "Ράδιο - Στο περιθώριο",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/74423353-2022-03-18.png",
+      "radio_url": "http://sound.argaleios.net:8012/;",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "64330",
+      "radio_name": "Ράδιο Energy 96.6 Fm",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/78417663-2022-03-17.png",
+      "radio_url": "http://i8.streams.ovh:18118/stream",
+      "genre": "Theme",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "75921",
+      "radio_name": "Ράδιο FM8",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/87864444-2022-03-18.png",
+      "radio_url": "http://solid2.streamupsolutions.com:8000/live",
+      "genre": "Decades",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "101831",
+      "radio_name": "Ράδιο Ακρόαμα",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/16711472-2022-03-20.png",
+      "radio_url": "http://s1.onweb.gr:8066/;",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "71306",
+      "radio_name": "Ράδιο Αμόρε",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/72359974-2022-03-17.png",
+      "radio_url": "http://s4.onweb.gr:8442/;",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "59832",
+      "radio_name": "Ράδιο Αμφιλοχία",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/35648464-2022-03-16.png",
+      "radio_url": "http://s3.onweb.gr:8474/;",
+      "genre": "Theme",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "60478",
+      "radio_name": "Ράδιο Άμφισσα 104,4",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/75780631-2022-03-16.png",
+      "radio_url": "http://stream3.468.gr:8104/stream/;",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "61228",
+      "radio_name": "Ράδιο Ανάμνηση 91",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/10143840-2022-03-16.png",
+      "radio_url": "http://radioanamnisi.live24.gr/radioanamnisi910",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "65153",
+      "radio_name": "Ράδιο Βερενίκη",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/59117184-2022-03-17.png",
+      "radio_url": "http://everest.streams.ovh:1780/stream",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "60341",
+      "radio_name": "Ραδιο Γάμμα",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/50097154-2022-03-16.png",
+      "radio_url": "http://radiogamma.live24.gr/radiogamma",
+      "genre": "Other",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "96418",
+      "radio_name": "Ραδιο Έβρος 97.1",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/46559443-2022-03-20.png",
+      "radio_url": "http://live.radioevros.gr:8000/live",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "61237",
+      "radio_name": "Ράδιο Έκρηξη",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/31347078-2022-03-16.png",
+      "radio_url": "http://ice.greekstream.net/ekrixifm",
+      "genre": "Theme",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "114877",
+      "radio_name": "Ραδιο Εκφραση",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/51729416-2022-11-07.png",
+      "radio_url": "http://46.4.48.7:9340/autodj",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "61699",
+      "radio_name": "Ράδιο Ελασσόνα 88.4",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/88641628-2022-03-17.png",
+      "radio_url": "http://solid33.streamupsolutions.com:30012/live",
+      "genre": "Theme",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "81433",
+      "radio_name": "Ράδιο Ενημέρωση 92.2",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/97900444-2022-03-19.png",
+      "radio_url": "http://eco.onestreaming.com:8075/stream",
+      "genre": "Theme",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "95210",
+      "radio_name": "Ράδιο Εντεχνος",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/56826470-2022-03-20.png",
+      "radio_url": "http://eu7.fastcast4u.com:5174/stream/;",
+      "genre": "Other",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "59251",
+      "radio_name": "Ράδιο Επτάνησα 98.8",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/91828747-2022-03-16.png",
+      "radio_url": "http://eco.onestreaming.com:8017/stream",
+      "genre": "Talk",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "81337",
+      "radio_name": "Ράδιο ΗΜ Χαλκίδας",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/95603747-2022-03-19.png",
+      "radio_url": "http://85.10.206.222:8010/stream",
+      "genre": "Religion",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "63393",
+      "radio_name": "Ράδιο Ήπειρος 94,5 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/36662048-2022-03-17.png",
+      "radio_url": "http://neos.win:9454/stream",
+      "genre": "Other",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "66591",
+      "radio_name": "ραδιο θαλασσα",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/08956040-2022-03-17.png",
+      "radio_url": "http://rs2.stream24.org:8320/stream",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "106295",
+      "radio_name": "Ραδιό Θανάσουλακα",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/17366654-2022-03-21.png",
+      "radio_url": "http://stream.zeno.fm/autdsyytqg8uv",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "57410",
+      "radio_name": "Ράδιο Θεσσαλονίκη",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/04254608-2022-03-16.png",
+      "radio_url": "http://178.32.146.187:6156/stream/;",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "71280",
+      "radio_name": "Ράδιο Θεσσαλονίκη ",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/29662922-2022-03-17.png",
+      "radio_url": "http://178.32.146.187:6156/stream/;",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "106542",
+      "radio_name": "Ράδιο Ικαρία 87.6",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/88707009-2022-03-21.png",
+      "radio_url": "http://stream.radio-ikaria.gr:8000/;;",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "61845",
+      "radio_name": "Ράδιο Κρήτη",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/07123928-2022-03-17.png",
+      "radio_url": "http://6182bfa7cd933.streamlock.net:1935/Radiokriti/Radiokriti/playlist.m3u8",
+      "genre": "Theme",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "75972",
+      "radio_name": "Ράδιο λαϊκά 78-45",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/60684905-2022-03-18.png",
+      "radio_url": "http://rdst.win:7845/stream",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "60324",
+      "radio_name": "Ράδιο Λευκίμμη",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/34914562-2022-03-16.png",
+      "radio_url": "http://i3.streams.ovh:12006/live",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "117766",
+      "radio_name": "Ράδιο Μαρτίνο",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/15817165-2023-01-21.png",
+      "radio_url": "http://eu1.fastcast4u.com:22896/stream",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "106486",
+      "radio_name": "Ράδιο ΜέΡΑ",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/27875397-2022-03-21.png",
+      "radio_url": "http://uk1.streamingpulse.com:7067/stream",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "60798",
+      "radio_name": "Ράδιο Μεσσάτιδα",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/05187462-2022-03-16.png",
+      "radio_url": "http://cast4.magicstreams.gr:10115/stream",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "63269",
+      "radio_name": "Ράδιο Μετέωρα 90.3",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/04104248-2022-03-17.png",
+      "radio_url": "http://s1.onweb.gr:8834/stream/;",
+      "genre": "Theme",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "108101",
+      "radio_name": "Ραδιο Ξενύχτης",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/78363389-2022-03-21.png",
+      "radio_url": "http://sp3.streams.ovh:8018/stream/;",
+      "genre": "Decades",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "91588",
+      "radio_name": "ΡΑΔΙΟ ΟΔΥΣΣΕΙΑ",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/46752839-2022-03-19.png",
+      "radio_url": "http://stream.webmonster.gr/odysseia-laika-hi",
+      "genre": "Theme",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "63517",
+      "radio_name": "Ράδιο Παρατηρητής",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/23759031-2022-03-17.png",
+      "radio_url": "http://s6.onweb.gr:8020/stream/;",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "64898",
+      "radio_name": "Ράδιο Πόντος Λελεβωσε",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/53168060-2022-03-17.png",
+      "radio_url": "http://46.4.48.7:9652/stream",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "59033",
+      "radio_name": "Ράδιο Πρωινή 93.7",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/00483050-2022-03-16.png",
+      "radio_url": "http://62.103.31.151:8000/stream",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "59165",
+      "radio_name": "Ράδιο Ριζίτες 92.4",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/36506705-2022-03-16.png",
+      "radio_url": "http://s1.onweb.gr:8040/stream/;",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "102560",
+      "radio_name": "Ράδιο Ρούμελη News",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/94593972-2022-03-20.png",
+      "radio_url": "http://live.webhosting4u.gr:1560/;;",
+      "genre": "RnB",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "64872",
+      "radio_name": "Ράδιο Σάμος 102 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/42260625-2022-03-17.png",
+      "radio_url": "http://everest.streams.ovh:1850/stream",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "113802",
+      "radio_name": "ράδιο σαμποτάζ",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/03989945-2022-11-05.png",
+      "radio_url": "http://eu10.fastcast4u.com:7410/stream",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "93211",
+      "radio_name": "Ράδιο Σύμη",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/05752531-2022-03-20.png",
+      "radio_url": "http://stream.zenolive.com/c6rc20e6ag0uv.aac",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "64978",
+      "radio_name": "ΡΑΔΙΟ ΧΕΡΣΟΝΗΣΣΟΣ 97.2",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/87266558-2022-03-17.png",
+      "radio_url": "http://193.227.111.111:8008/;",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "58742",
+      "radio_name": "Ράδιο Χρόνος 87.5",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/08586406-2022-03-16.png",
+      "radio_url": "http://s6.onweb.gr:8006/stream/;",
+      "genre": "Pop",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "59536",
+      "radio_name": "Ραδιόφωνα Χριστιανισμός",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/34033669-2022-03-16.png",
+      "radio_url": "http://eu1.fastcast4u.com:9326/stream",
+      "genre": "Religion",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "61132",
+      "radio_name": "Ραδιόφωνο 108",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/89142557-2022-03-16.png",
+      "radio_url": "http://s5.onweb.gr:8498/;",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "99858",
+      "radio_name": "Ραδιόφωνο Άγγελοι",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/56310457-2022-03-20.png",
+      "radio_url": "http://i9.streams.ovh:19092/autodj",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "112110",
+      "radio_name": "Ραδιόφωνο Αλληλέγγυοι",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/84293492-2022-05-15.png",
+      "radio_url": "http://streamyourdream.org:8114/stream",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "120242",
+      "radio_name": "ΡΥΘΜΟΣ",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/98373568-2023-12-29.png",
+      "radio_url": "http://24streams.gr:8888/stream",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "69947",
+      "radio_name": "ΣΚΑΙ Αργολίδας 102.3",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/56669677-2022-03-17.png",
+      "radio_url": "http://skycomnet.gr/radio/8010/argolida?",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "59370",
+      "radio_name": "Σκύλος 90 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/10098680-2022-03-16.png",
+      "radio_url": "http://stream.radiojar.com/819r8wupdrruv",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "61688",
+      "radio_name": "Σοκολάτα 102.4",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/88893152-2022-03-16.png",
+      "radio_url": "http://radio.streamings.gr:8043/stream",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "80715",
+      "radio_name": "ΣΠΟΡ FM 89.5",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/14841450-2022-03-19.png",
+      "radio_url": "http://www.gointernet.gr:8005/stream/;",
+      "genre": "Talk",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "76245",
+      "radio_name": "Στόχος FM 104.9",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/50601096-2022-03-18.png",
+      "radio_url": "http://rdst.win:7777/",
+      "genre": "Pop",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "98544",
+      "radio_name": "Ταμυναϊκή Ραδιοφωνία",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/35837039-2022-03-20.png",
+      "radio_url": "http://cast.iplayradio.net/radio/8028/stream",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "61618",
+      "radio_name": "Τοξότης 96,3 Fm",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/73922652-2022-03-16.png",
+      "radio_url": "http://eco.onestreaming.com:8240/stream",
+      "genre": "Pop",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "58459",
+      "radio_name": "Τρανζίστορ 100.3",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/30069031-2022-03-16.png",
+      "radio_url": "http://metromedia.live24.gr/tranzistor1003thess",
+      "genre": "Pop",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "61554",
+      "radio_name": "ΥΔΡΟΓΕΙΟΣ FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/83155882-2022-03-16.png",
+      "radio_url": "http://netradio.live24.gr/ydrogeios1069her",
+      "genre": "Theme",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "86250",
+      "radio_name": "Υπάρχω FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/34839456-2022-03-19.png",
+      "radio_url": "http://cast4.magicstreams.gr:10186/stream",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "60291",
+      "radio_name": "Φάρος 104",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/26219979-2022-03-16.png",
+      "radio_url": "http://s41.myradiostream.com:28554/;;",
+      "genre": "Community",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "98435",
+      "radio_name": "Φολέγανδρος Ράδιο",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/51797586-2022-03-20.png",
+      "radio_url": "http://s2.free-shoutcast.com:18144/;",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "61448",
+      "radio_name": "Χρώμα FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/17116132-2022-03-16.png",
+      "radio_url": "http://hroma1058thess.live24.gr/hroma1058thess",
+      "genre": "Other",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "101833",
+      "radio_name": "Χρώμα FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/58613960-2022-03-20.png",
+      "radio_url": "http://metrovolos882.live24.gr/metrovolos882",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "101834",
+      "radio_name": "Χρώμα FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/55386002-2022-03-20.png",
+      "radio_url": "http://xroma985.live24.gr/xroma985",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    },
+    {
+      "radio_id": "101835",
+      "radio_name": "Χρώμα FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/15703423-2022-03-20.png",
+      "radio_url": "http://netradio.live24.gr/hroma918",
+      "genre": "Language",
+      "country_id": "160",
+      "country_name": "Greece",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3923-2022-01-22.gif"
+    }
+  ]
+}

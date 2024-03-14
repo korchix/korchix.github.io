@@ -1,0 +1,2016 @@
+{
+  "status": "ok",
+  "limit": 200,
+  "pages": 3,
+  "order": "ASC",
+  "total_radios": "910",
+  "country_details": [
+    {
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    }
+  ],
+  "stations": [
+    {
+      "radio_id": "92037",
+      "radio_name": "Hope 103.2",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/99032792-2022-03-20.png",
+      "radio_url": "http://stream.hopemedia.com.au/hope-mp3",
+      "genre": "Theme",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "64495",
+      "radio_name": "Hope 103.2 - 2CBA",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/96767475-2022-03-17.png",
+      "radio_url": "http://stream.hopemedia.com.au/hope",
+      "genre": "Religion",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "74895",
+      "radio_name": "Hope 103.2 - Christmas Hope",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/55908391-2022-03-18.png",
+      "radio_url": "http://stream.hopemedia.com.au/christmashope",
+      "genre": "Theme",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "92036",
+      "radio_name": "Hope 103.2 - Fresh Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/45362883-2022-03-20.png",
+      "radio_url": "http://stream.hopemedia.com.au/fresh",
+      "genre": "Theme",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "92038",
+      "radio_name": "Hope 103.2 - Inspire Digital Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/18245702-2022-03-20.png",
+      "radio_url": "http://stream.hopemedia.com.au/inspire",
+      "genre": "Pop",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "66452",
+      "radio_name": "Hot 100 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/77381466-2022-03-17.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/DAR_HOT100.flv",
+      "genre": "Pop",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "60558",
+      "radio_name": "Hot 91.1 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/42556332-2022-03-16.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/MAR_HOT91.flv",
+      "genre": "Pop",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "63239",
+      "radio_name": "Hot FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/18067206-2022-03-17.png",
+      "radio_url": "http://freeuk4.listen2myradio.com:25714/;",
+      "genre": "Decades",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "108229",
+      "radio_name": "Hot FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/75178390-2022-03-21.png",
+      "radio_url": "http://stream.bullantmedia.com:9090/hottfm",
+      "genre": "Decades",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "94128",
+      "radio_name": "Hot Tomato",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/12010933-2022-03-20.png",
+      "radio_url": "http://16693.live.streamtheworld.com:80/GOL_HOTTOMATOAAC_SC",
+      "genre": "Pop",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "84205",
+      "radio_name": "Huon FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/28743474-2022-03-19.png",
+      "radio_url": "http://59.167.200.215:88/broadwave.mp3",
+      "genre": "Pop",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "98190",
+      "radio_name": "HVDR Classic Hits",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/65493170-2022-03-20.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2777189.flv",
+      "genre": "Decades",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "97504",
+      "radio_name": "HVDR Country",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/74742297-2022-03-20.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SAM04AAC30.flv",
+      "genre": "Country",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "63081",
+      "radio_name": "i98 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/78115194-2022-03-17.png",
+      "radio_url": "http://ice10.securenetsystems.net/I98FM",
+      "genre": "Pop",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "72128",
+      "radio_name": "iHeartRadio - The 80s iHeartRadio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/95404340-2022-03-17.png",
+      "radio_url": "http://pls-ihrhls.akamaized.net/au_026/playlist.m3u8",
+      "genre": "Decades",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "102263",
+      "radio_name": "Indian Link Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/52254918-2022-03-20.png",
+      "radio_url": "http://indianlink.radioca.st/streams/128kbps.mp3",
+      "genre": "Indian",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "66686",
+      "radio_name": "Inner FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/46005089-2022-03-17.png",
+      "radio_url": "http://streamer2.rightclickitservices.com:8899/stream/;",
+      "genre": "Community",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "71723",
+      "radio_name": "Islam2Day Radio - Ch.1 Quran Recitation",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/00504217-2022-03-17.png",
+      "radio_url": "http://www.islam2day.tv:3000/;",
+      "genre": "Language",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "81270",
+      "radio_name": "Islamic Voice Radio Melbourne",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/08686012-2022-03-19.png",
+      "radio_url": "http://streamer5.rightclickitservices.com:9755/stream/;",
+      "genre": "Talk",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100112",
+      "radio_name": "Island FM Whitsundays",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/79761917-2022-03-20.png",
+      "radio_url": "http://live.audiospace.co/islandfm880",
+      "genre": "Theme",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "94116",
+      "radio_name": "Italia FM - ItaliaFm1",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/21404715-2022-03-20.png",
+      "radio_url": "http://37.187.79.93:8634/stream/;",
+      "genre": "Pop",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "104403",
+      "radio_name": "Italia FM - ItaliaFm2",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/23612891-2022-03-20.png",
+      "radio_url": "http://37.187.79.93:8634/stream/;",
+      "genre": "Decades",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "75945",
+      "radio_name": "iYaliSai Bhakti Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/84878074-2022-03-18.png",
+      "radio_url": "http://curiosity.shoutca.st:9655/stream/;",
+      "genre": "Indian",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "93114",
+      "radio_name": "Iyalisai RADIO",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/95288335-2022-03-20.png",
+      "radio_url": "http://andromeda.shoutca.st:9350/mp64/;",
+      "genre": "Community",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "92936",
+      "radio_name": "J-Air",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/20912972-2022-03-20.png",
+      "radio_url": "http://s19.myradiostream.com:4918/;",
+      "genre": "Community",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "110199",
+      "radio_name": "Jamz403 Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/37703293-2022-03-21.png",
+      "radio_url": "http://streams.radio.co/s6e4a1311e/listen",
+      "genre": "Decades",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "87618",
+      "radio_name": "Jimmerish FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/80835300-2022-03-19.png",
+      "radio_url": "http://listen.jimmerishfm.com:8124/live",
+      "genre": "Theme",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "60455",
+      "radio_name": "JOY 94.9",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/44865722-2022-03-16.png",
+      "radio_url": "http://audio.joy.org.au/proxy/joy949?mp=/live",
+      "genre": "Pop",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "105287",
+      "radio_name": "JSL Radio LIVE",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/20494158-2022-03-20.png",
+      "radio_url": "http://s2.stationplaylist.com:7118/listen.aac",
+      "genre": "Other",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "83885",
+      "radio_name": "Juice 107.3",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/15096038-2022-03-19.png",
+      "radio_url": "http://stream2.cnmns.net:80/juice1073",
+      "genre": "Religion",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "111238",
+      "radio_name": "KCR FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/50153671-2022-03-23.png",
+      "radio_url": "http://66.70.249.70:5073/stream/;",
+      "genre": "Community",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "95899",
+      "radio_name": "Kef Anenk Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/63062884-2022-03-20.png",
+      "radio_url": "http://streams.radio.co/se3cf2e74a/listen",
+      "genre": "Other",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "56386",
+      "radio_name": "KIIS 106.5",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/68957279-2023-12-30.png",
+      "radio_url": "http://ais-arn.streamguys1.com/au_007/playlist.m3u8",
+      "genre": "Pop",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "72011",
+      "radio_name": "Kinderling Kids Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/50054912-2022-03-17.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/KKR_SYDMEL.mp3",
+      "genre": "Community",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "123365",
+      "radio_name": "Kinderling Party Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/60932196-2023-12-29.png",
+      "radio_url": "http://wz2liw.scahw.com.au/live/kkrpartyauad_32.stream/playlist.m3u8",
+      "genre": "Community",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "123366",
+      "radio_name": "Kinderling Sleep Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/03027143-2023-12-29.png",
+      "radio_url": "http://wz2liw.scahw.com.au/live/kkrsleepauad_32.stream/playlist.m3u8",
+      "genre": "null",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "60248",
+      "radio_name": "Kiss FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/83277960-2022-03-16.png",
+      "radio_url": "http://cc.net2streams.com:8565/kissfm.mp3",
+      "genre": "Dance",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "67898",
+      "radio_name": "Kix Country",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/07887708-2022-03-17.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/KIXCOUNTRY.flv",
+      "genre": "Country",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "87409",
+      "radio_name": "Kix Country",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/25782083-2022-03-19.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/KIXCOUNTRY.mp3",
+      "genre": "Pop",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "123367",
+      "radio_name": "KIX Country South West",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/16924673-2023-12-29.png",
+      "radio_url": "http://tls5.coastdev.net/kix-high",
+      "genre": "Country",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "90650",
+      "radio_name": "KLR Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/00927381-2022-03-19.png",
+      "radio_url": "http://listen.radioking.com/radio/277378/stream/323023",
+      "genre": "Dance",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "57270",
+      "radio_name": "Kool FM 98.3",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/52819253-2022-03-18.png",
+      "radio_url": "http://198.74.51.37:8445/stream/;",
+      "genre": "Pop",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "103894",
+      "radio_name": "Koool Digital",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/75614551-2022-03-20.png",
+      "radio_url": "http://cowin.ddns.net:8000/koool.aac",
+      "genre": "Other",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "111245",
+      "radio_name": "KRR FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/33068304-2022-03-23.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/2KRR.mp3",
+      "genre": "Community",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "96781",
+      "radio_name": "Kue Radio - Classics",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/79624956-2022-03-20.png",
+      "radio_url": "http://stream.kueradio.com.au/radio/8040/radio.aac",
+      "genre": "Other",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "96782",
+      "radio_name": "Kue Radio - The 90s",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/21193094-2022-03-20.png",
+      "radio_url": "http://stream.kueradio.com.au/radio/8030/radio.aac",
+      "genre": "Decades",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "97336",
+      "radio_name": "Kue Radio - The Office",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/72878538-2022-03-20.png",
+      "radio_url": "http://stream.kueradio.com.au/radio/8050/radio.mp3",
+      "genre": "Pop",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "74515",
+      "radio_name": "La family tu radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/84833374-2022-03-18.png",
+      "radio_url": "http://s46.myradiostream.com:5346/;;",
+      "genre": "Decades",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "98401",
+      "radio_name": "La Metro Latina",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/37378733-2022-03-20.png",
+      "radio_url": "http://streaming1.locucionar.com:13258/stream/;",
+      "genre": "Decades",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "95648",
+      "radio_name": "LAFM 89.3 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/27606873-2022-03-20.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/LAU_LAFM.flv",
+      "genre": "Pop",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "105408",
+      "radio_name": "Lake Macquarie FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/20390865-2022-03-20.png",
+      "radio_url": "http://lmfm.f1.net.au:10768/;",
+      "genre": "Other",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100816",
+      "radio_name": "Latinos FM Australia",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/34283862-2022-03-20.png",
+      "radio_url": "http://51.222.14.10:8138/stream",
+      "genre": "Latin",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "107611",
+      "radio_name": "Lava Lounge Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/96272385-2022-03-21.png",
+      "radio_url": "http://usa10.fastcast4u.com:7840/;",
+      "genre": "Rock",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "94132",
+      "radio_name": "LCFM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/27743351-2022-03-20.png",
+      "radio_url": "http://lcradio.education.tas.gov.au:8000/;;",
+      "genre": "Talk",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "102926",
+      "radio_name": "LESH FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/00369822-2022-03-20.png",
+      "radio_url": "http://uk6.internet-radio.com/proxy/leshfm?mp=/stream",
+      "genre": "Electronic",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "86005",
+      "radio_name": "Life FM Bathurst",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/37213008-2022-03-19.png",
+      "radio_url": "http://stream2.cnmns.net/lifefmbathurst",
+      "genre": "Religion",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "86351",
+      "radio_name": "Life FM Gippsland",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/09448873-2022-03-19.png",
+      "radio_url": "http://stream.radio.co:80/s061446275/listen",
+      "genre": "Religion",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "98823",
+      "radio_name": "Liquid Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/60570972-2022-03-20.png",
+      "radio_url": "http://everestcast.shoutcastservices.com:1120/stream",
+      "genre": "Other",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "108699",
+      "radio_name": "LiQUORiCE.fm",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/57904443-2022-03-21.png",
+      "radio_url": "http://s2.radio.co/s67ba0d0c2/listen",
+      "genre": "Electronic",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "123451",
+      "radio_name": "LisTNR - 70s Hits",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/18143603-2023-12-29.png",
+      "radio_url": "http://wz7liw.scahw.com.au/live/770shits_128.stream/playlist.m3u8",
+      "genre": "Decades",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "123462",
+      "radio_name": "LisTNR - Chill Pop Hits",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/35927569-2023-12-29.png",
+      "radio_url": "http://wz7liw.scahw.com.au/live/7chillpophits_128.stream/playlist.m3u8",
+      "genre": "Electronic",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "123464",
+      "radio_name": "LisTNR - Cover Up",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/71399877-2023-12-29.png",
+      "radio_url": "http://wz7liw.scahw.com.au/live/7coverme_128.stream/playlist.m3u8",
+      "genre": "Decades",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "123463",
+      "radio_name": "LisTNR - Crooners & Swooners",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/67733819-2023-12-29.png",
+      "radio_url": "http://wz7liw.scahw.com.au/live/7croonersandswooners_128.stream/playlist.m3u8",
+      "genre": "Decades",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "123459",
+      "radio_name": "LisTNR - Fit Hits",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/49903034-2023-12-29.png",
+      "radio_url": "http://wz7liw.scahw.com.au/live/7fithits_128.stream/playlist.m3u8",
+      "genre": "Dance",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "123460",
+      "radio_name": "LisTNR - Girl Power",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/58629773-2023-12-29.png",
+      "radio_url": "http://wz7liw.scahw.com.au/live/7girlpower_128.stream/playlist.m3u8",
+      "genre": "Pop",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "123461",
+      "radio_name": "LisTNR - Good Vibes",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/10013944-2023-12-29.png",
+      "radio_url": "http://wz7liw.scahw.com.au/live/7goodvibes_128.stream/playlist.m3u8",
+      "genre": "Dance",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "123355",
+      "radio_name": "LisTNR - Guilty Pleasures",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/27554696-2023-12-29.png",
+      "radio_url": "http://wz7liw.scahw.com.au/live/7guiltypleasures_128.stream/playlist.m3u8",
+      "genre": "Decades",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "123356",
+      "radio_name": "LisTNR - Hard N Heavy",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/36174830-2023-12-29.png",
+      "radio_url": "http://wz7liw.scahw.com.au/live/2hardnheavy_128.stream/playlist.m3u8",
+      "genre": "Rock",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "123357",
+      "radio_name": "LisTNR - Heart Breakers",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/04432567-2023-12-29.png",
+      "radio_url": "http://wz7liw.scahw.com.au/live/7heartbreaker_128.stream/playlist.m3u8",
+      "genre": "null",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "123360",
+      "radio_name": "LisTNR - Homegrown",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/54729672-2023-12-29.png",
+      "radio_url": "http://wz7liw.scahw.com.au/live/7homegrown_128.stream/playlist.m3u8",
+      "genre": "Pop",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "123361",
+      "radio_name": "LisTNR - Indie & Alt",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/64837941-2023-12-29.png",
+      "radio_url": "http://wz7liw.scahw.com.au/live/7indieandalternative_128.stream/playlist.m3u8",
+      "genre": "null",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "123362",
+      "radio_name": "LisTNR - Indigenous",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/94962840-2023-12-29.png",
+      "radio_url": "http://wz7liw.scahw.com.au/live/7firstnations_128.stream/playlist.m3u8",
+      "genre": "Hip Hop",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "123363",
+      "radio_name": "LisTNR - Karaoke Stage",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/37430678-2023-12-29.png",
+      "radio_url": "http://wz7liw.scahw.com.au/live/7karaokestage_128.stream/playlist.m3u8",
+      "genre": "Decades",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "123364",
+      "radio_name": "LisTNR - Kids Hits",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/13160759-2023-12-29.png",
+      "radio_url": "http://wz7liw.scahw.com.au/live/7kidshits_128.stream/playlist.m3u8",
+      "genre": "null",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "123370",
+      "radio_name": "LisTNR - Noughties",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/53023057-2023-12-29.png",
+      "radio_url": "http://wz7liw.scahw.com.au/live/7noughties_128.stream/playlist.m3u8",
+      "genre": "null",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "123403",
+      "radio_name": "LisTNR - Stress Free",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/68979425-2023-12-29.png",
+      "radio_url": "http://wz7liw.scahw.com.au/live/7stressfree_128.stream/playlist.m3u8",
+      "genre": "Dance",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "123405",
+      "radio_name": "LisTNR - Top 30",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/71192388-2023-12-29.png",
+      "radio_url": "http://wz7liw.scahw.com.au/live/7top30_128.stream/playlist.m3u8",
+      "genre": "Pop",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "123406",
+      "radio_name": "LisTNR - Trending Now",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/19103219-2023-12-29.png",
+      "radio_url": "http://wz7liw.scahw.com.au/live/7trendingnow_128.stream/playlist.m3u8",
+      "genre": "Pop",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "123414",
+      "radio_name": "LisTNR - Yacht Rock",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/09922951-2023-12-29.png",
+      "radio_url": "http://wz7liw.scahw.com.au/live/7yachtrock_128.stream/playlist.m3u8",
+      "genre": "Decades",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "84541",
+      "radio_name": "Live Quran Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/18235800-2022-03-19.png",
+      "radio_url": "http://104.167.2.55:8000/;",
+      "genre": "Language",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "116459",
+      "radio_name": "Local Sounds Armidale ",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/08249054-2022-11-16.png",
+      "radio_url": "http://onair7.xdevel.com:7356/stream/;",
+      "genre": "null",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "109123",
+      "radio_name": "Local Sounds Lismore",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/50556047-2022-03-21.png",
+      "radio_url": "http://c17.radioboss.fm:8405/stream",
+      "genre": "Other",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "117131",
+      "radio_name": "Local Sounds South Burnett",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/77041401-2022-12-20.png",
+      "radio_url": "http://onair7.xdevel.com:7314/stream/;",
+      "genre": "null",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "113107",
+      "radio_name": "Lofty 88.9 Adelaide Hills",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/60070149-2022-11-05.png",
+      "radio_url": "http://stream01.sigile.net:80/lofty-24-aac",
+      "genre": "Community",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "94022",
+      "radio_name": "Lonnie Lee Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/99149133-2022-03-20.png",
+      "radio_url": "http://209.95.50.189:8038/;",
+      "genre": "Country",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "88450",
+      "radio_name": "Loving Life FM 103.1",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/62631544-2022-03-19.png",
+      "radio_url": "http://stream01.sigile.net/lovinglife-128-mp3",
+      "genre": "Religion",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "104990",
+      "radio_name": "Magic 87.6",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/35469124-2022-03-20.png",
+      "radio_url": "http://syd02.sdn.dhcmedia.com.au:8010/magic876",
+      "genre": "Other",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "118150",
+      "radio_name": "Magic 931",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/01090940-2023-02-07.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/BER_MAGIC931.mp3",
+      "genre": "Dance",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "83411",
+      "radio_name": "Magic FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/28691201-2022-03-19.png",
+      "radio_url": "http://67.212.165.106:8150/stream/;",
+      "genre": "Community",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "86598",
+      "radio_name": "Magic899",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/31377503-2022-03-19.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/LIN_MAGIC899.flv",
+      "genre": "Pop",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "78040",
+      "radio_name": "Mareeba, QLD, Australia Police",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/80063030-2022-03-18.png",
+      "radio_url": "http://broadcastify.cdnstream1.com/7743",
+      "genre": "Talk",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "91684",
+      "radio_name": "Massive Dance Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/05787292-2022-03-19.png",
+      "radio_url": "http://fred.torontocast.com:1360/stream",
+      "genre": "Dance",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "72029",
+      "radio_name": "MERadio 87.6fm",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/42849547-2022-03-17.png",
+      "radio_url": "http://hyades.shoutca.st:8998/live",
+      "genre": "Language",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "57246",
+      "radio_name": "Mix 102.3",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/93173957-2022-03-16.png",
+      "radio_url": "http://ais-arn.streamguys1.com/au_003_icy",
+      "genre": "Pop",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "84611",
+      "radio_name": "Mix 104.9",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/09645528-2022-03-19.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/DAR_MIX1049.flv",
+      "genre": "Pop",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "61849",
+      "radio_name": "Mix 106.3 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/51247933-2022-03-17.png",
+      "radio_url": "http://ais-arn.streamguys1.com/au_006_icy",
+      "genre": "Pop",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "57512",
+      "radio_name": "Mix 94.5",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/14066019-2022-03-16.png",
+      "radio_url": "http://legacy.scahw.com.au/6mix_32",
+      "genre": "Pop",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "62383",
+      "radio_name": "Mix FM - 4SSS",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/56656699-2022-03-17.png",
+      "radio_url": "http://stream.rcs.revma.com/z06q4stdwhruv",
+      "genre": "Pop",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "58668",
+      "radio_name": "Mixx FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/00354326-2022-03-18.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/MIXX1063AAC.aac",
+      "genre": "Pop",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "85727",
+      "radio_name": "Mixx FM - 3SHI",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/62063476-2022-03-19.png",
+      "radio_url": "http://19213.live.streamtheworld.com:80/MIXX1077AAC_SC",
+      "genre": "Rock",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "58673",
+      "radio_name": "Mixx FM 88.9 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/18910481-2022-03-18.png",
+      "radio_url": "http://25043.live.streamtheworld.com:80/MIXX889AAC_SC",
+      "genre": "Pop",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "104258",
+      "radio_name": "MoodFoodRadio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/87319887-2022-03-20.png",
+      "radio_url": "http://s3.radio.co/s68b35c1e5/listen",
+      "genre": "Decades",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "106814",
+      "radio_name": "Moulinrouge Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/96299608-2022-03-21.png",
+      "radio_url": "http://moulinrougeradio.out.airtime.pro:8000/moulinrougeradio_a",
+      "genre": "Jazz",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "96596",
+      "radio_name": "Move FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/83317762-2022-03-20.png",
+      "radio_url": "http://139.99.136.15:5042/stream/;",
+      "genre": "Pop",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "93400",
+      "radio_name": "MTM Fm 91.9",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/13631546-2022-03-20.png",
+      "radio_url": "http://144.139.107.198:88/broadwave.mp3?src=1&rate=1&ref=",
+      "genre": "Community",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "59490",
+      "radio_name": "Muslim Community Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/14002859-2022-03-16.png",
+      "radio_url": "http://2mfm.org.au:8000/live",
+      "genre": "Community",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "94130",
+      "radio_name": "My 105",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/34992453-2022-03-20.png",
+      "radio_url": "http://99.198.118.250:8013/live",
+      "genre": "Country",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "123368",
+      "radio_name": "My Canberra DAB Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/76072080-2023-12-29.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/MY_CANBERRA_DAAC_SC.mp3",
+      "genre": "Pop",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "59015",
+      "radio_name": "My Perth Digital",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/10341336-2022-03-18.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/MY_PERTH_DAAC.aac",
+      "genre": "Decades",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "106858",
+      "radio_name": "My88 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/92068311-2022-03-21.png",
+      "radio_url": "http://stream.radio.co/sf531d37b4/listen",
+      "genre": "Decades",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "104240",
+      "radio_name": "Myall Coast Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/91638004-2022-03-20.png",
+      "radio_url": "http://streams.radiomast.io/8a7977d1-a8df-4ae4-a987-984eada92c1b",
+      "genre": "Other",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "102997",
+      "radio_name": "MyGoTravels DJ Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/09817566-2022-03-20.png",
+      "radio_url": "http://stream.zeno.fm/6quxyw3stzzuv",
+      "genre": "Dance",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "68006",
+      "radio_name": "NetFM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/96283239-2022-03-17.png",
+      "radio_url": "http://playoutonestreaming.com:8155/stream/;",
+      "genre": "Region",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "74555",
+      "radio_name": "New Contemporary Music",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/77552548-2022-03-18.png",
+      "radio_url": "http://streaming.radio.co/sbbdfc8d3d/listen",
+      "genre": "Region",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "97335",
+      "radio_name": "New2UW",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/47069968-2022-03-20.png",
+      "radio_url": "http://streams.radio.co/s6a614473f/listen",
+      "genre": "Decades",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "103522",
+      "radio_name": "Newcastle Live Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/96688440-2022-03-20.png",
+      "radio_url": "http://stream.radio.co/s5b0496933/listen",
+      "genre": "Alternative",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "59113",
+      "radio_name": "NewTribeZ Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/55494291-2022-03-18.png",
+      "radio_url": "http://78.129.232.226:8058/stream",
+      "genre": "Alternative",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "74444",
+      "radio_name": "Newy 87.8 FM Newcastle",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/05009052-2022-03-18.png",
+      "radio_url": "http://radio.newy.com.au:8000/radio",
+      "genre": "Decades",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "123369",
+      "radio_name": "Ngaarda Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/98442422-2023-12-29.png",
+      "radio_url": "http://listen.mixlr.com/fd77731687f5ec3c9e4adb6477c5edfb",
+      "genre": "Community",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "105700",
+      "radio_name": "Nightride FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/97696593-2022-03-21.png",
+      "radio_url": "http://stream.nightride.fm/nightride.mp3",
+      "genre": "Other",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "105701",
+      "radio_name": "Nightride FM - Darksynth",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/13026024-2022-03-21.png",
+      "radio_url": "http://stream.nightride.fm/darksynth.mp3",
+      "genre": "Electronic",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "105702",
+      "radio_name": "Nightride FM - EBSM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/44376305-2022-03-21.png",
+      "radio_url": "http://stream.nightride.fm/ebsm.mp3",
+      "genre": "Other",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "92310",
+      "radio_name": "Nim FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/92641742-2022-03-20.png",
+      "radio_url": "http://uk5.internet-radio.com:8055/stream/;",
+      "genre": "Community",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "92262",
+      "radio_name": "NIRS - National",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/94657756-2022-03-20.png",
+      "radio_url": "http://s9.viastreaming.net:9530/;",
+      "genre": "Other",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "111595",
+      "radio_name": "Nomad Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/51993136-2022-04-12.png",
+      "radio_url": "http://nomadradiolive.out.airtime.pro:8000/nomadradiolive_b",
+      "genre": "Electronic",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "92323",
+      "radio_name": "Noongar Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/63065858-2022-03-20.png",
+      "radio_url": "http://firstnationsmedia.stream:8028/stream",
+      "genre": "Community",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "92544",
+      "radio_name": "Noosa Community Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/34382502-2022-03-20.png",
+      "radio_url": "http://stream2.fre.hostgeek.com.au:8010/stream",
+      "genre": "Community",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "85827",
+      "radio_name": "North West FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/26999830-2022-03-19.png",
+      "radio_url": "http://s4.viastreaming.net:8935/;",
+      "genre": "Community",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "66903",
+      "radio_name": "Northside Radio 99.3",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/02330557-2022-03-17.png",
+      "radio_url": "http://s1.reliastream.com:8002/nsblive",
+      "genre": "Pop",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "61091",
+      "radio_name": "Nova 100",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/34202952-2022-03-16.png",
+      "radio_url": "http://23203.live.streamtheworld.com:80/NOVA_100_AAC48_SC",
+      "genre": "Pop",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "64329",
+      "radio_name": "Nova 106.9",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/15668063-2022-03-17.png",
+      "radio_url": "http://streaming.novaentertainment.com.au/nova1069",
+      "genre": "Pop",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "66332",
+      "radio_name": "Nova 91.9",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/95875379-2022-03-17.png",
+      "radio_url": "http://streaming.novaentertainment.com.au/nova919",
+      "genre": "Pop",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "62195",
+      "radio_name": "Nova 93.7",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/47286780-2022-03-17.png",
+      "radio_url": "http://23153.live.streamtheworld.com:80/NOVA_937_SC",
+      "genre": "Pop",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "56362",
+      "radio_name": "Nova 96.9",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/51472804-2023-12-30.png",
+      "radio_url": "http://23163.live.streamtheworld.com:80/NOVA_969_AAC48_SC",
+      "genre": "Pop",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "113120",
+      "radio_name": "NovaFM - Nova 10s",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/73794805-2022-11-05.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_969.mp3",
+      "genre": "Pop",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "113121",
+      "radio_name": "NovaFM - Nova 90s",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/17725404-2022-11-05.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_90S.mp3",
+      "genre": "Decades",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "113122",
+      "radio_name": "NovaFM - Throwbacks",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/32271406-2022-11-05.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_THROWBACK.mp3",
+      "genre": "null",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "84190",
+      "radio_name": "NQ Radio - 4AM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/88856606-2022-03-19.png",
+      "radio_url": "http://198.74.51.37:8435/stream/;",
+      "genre": "Community",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "78096",
+      "radio_name": "NSW, Australia Far South Coast Marine and Beach",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/26637325-2022-03-18.png",
+      "radio_url": "http://audio3.broadcastify.com/505866161.mp3",
+      "genre": "Talk",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "86098",
+      "radio_name": "NSW, Australia Government Radio Network",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/87907125-2022-03-19.png",
+      "radio_url": "http://audio9.broadcastify.com/347466413.mp3",
+      "genre": "Talk",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "58583",
+      "radio_name": "Oak FM 101.3",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/15722704-2022-03-16.png",
+      "radio_url": "http://www.clanhost.com.au:9330/;",
+      "genre": "Pop",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "72234",
+      "radio_name": "OCR FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/40141766-2022-03-17.png",
+      "radio_url": "http://stream.mjm-webhosting.com.au:8010/;",
+      "genre": "Blues",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "72193",
+      "radio_name": "OKR FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/56417228-2022-03-17.png",
+      "radio_url": "http://198.74.49.203:8026/stream",
+      "genre": "Community",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "120447",
+      "radio_name": "Oldskool 80s Hits",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/51986233-2023-12-29.png",
+      "radio_url": "http://wz2liw.scahw.com.au/live/2easy_128.stream/playlist.m3u8",
+      "genre": "Decades",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "123458",
+      "radio_name": "Oldskool 90s",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/35420883-2023-12-29.png",
+      "radio_url": "http://wz2liw.scahw.com.au/live/2oldskool_128.stream/playlist.m3u8",
+      "genre": "Decades",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "113108",
+      "radio_name": "ONE Central West 88FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/05386276-2022-11-05.png",
+      "radio_url": "http://thassos.cdnstream.com:5272/stream/;",
+      "genre": "Pop",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "64964",
+      "radio_name": "One FM 98.5 - 3ONE",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/72973183-2022-03-17.png",
+      "radio_url": "http://s2.radio.co/sae3372059/listen",
+      "genre": "Community",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "103428",
+      "radio_name": "Orbital Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/17714875-2022-03-20.png",
+      "radio_url": "http://s4.radio.co/s99b8a01f4/listen",
+      "genre": "Hip Hop",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "67151",
+      "radio_name": "OrbitRadio.FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/18428150-2022-03-17.png",
+      "radio_url": "http://195.23.85.126:8401/stream",
+      "genre": "Other",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "83590",
+      "radio_name": "Outback Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/67408799-2022-03-19.png",
+      "radio_url": "http://stream.outbackradio.com.au:7230/;;",
+      "genre": "Community",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "118062",
+      "radio_name": "Oye Radio ",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/80759646-2023-02-07.png",
+      "radio_url": "http://stream3.themediasite.co.uk:8070/stream",
+      "genre": "Theme",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "119590",
+      "radio_name": "Oz Arab Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/83779183-2023-12-29.png",
+      "radio_url": "http://s2.radio.co/s3ec20c9a3/listen",
+      "genre": "Language",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "97930",
+      "radio_name": "Oz Country FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/23386121-2022-03-20.png",
+      "radio_url": "http://s3.viastreaming.net:8695/;",
+      "genre": "Country",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "122970",
+      "radio_name": "Oz Punk Rock Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/58514209-2023-12-29.png",
+      "radio_url": "http://listen.radioking.com/radio/604375/stream/665779",
+      "genre": "Rock",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "98787",
+      "radio_name": "Oz Radio GOLD",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/06604663-2022-03-20.png",
+      "radio_url": "http://s3.radio.co/sa12cb0e79/listen",
+      "genre": "Pop",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "72119",
+      "radio_name": "Oz Urban Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/12881416-2022-03-17.png",
+      "radio_url": "http://streaming.radio.co/s53f27469e/low",
+      "genre": "Hip Hop",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "107449",
+      "radio_name": "OzNow Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/79330998-2022-03-21.png",
+      "radio_url": "http://radio.oznowradio.com.au:8000/oznow",
+      "genre": "Rock",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "119788",
+      "radio_name": "Ozzy Stream Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/81811429-2023-12-29.png",
+      "radio_url": "http://castcontrol.etdc.net.au:8090/radio.mp3",
+      "genre": "null",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "103317",
+      "radio_name": "Pandemic Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/47668384-2022-03-20.png",
+      "radio_url": "http://playoutonestreaming.com:8129/stream/;",
+      "genre": "Other",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "114199",
+      "radio_name": "Paradise Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/29152977-2022-11-07.png",
+      "radio_url": "http://s53.radiolize.com:8220/radio.mp3",
+      "genre": "Dance",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "85815",
+      "radio_name": "PBA-FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/41231157-2022-03-19.png",
+      "radio_url": "http://stream.pbafm.org.au:7880/;;",
+      "genre": "Pop",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "65555",
+      "radio_name": "PBS-FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/33652103-2022-03-17.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/3PBSAAC.aac",
+      "genre": "Blues",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "123415",
+      "radio_name": "Perth Chinese Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/52394797-2023-12-29.png",
+      "radio_url": "http://streamer5.rightclickitservices.com:7200/stream/;",
+      "genre": "null",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "40432",
+      "radio_name": "Perth, WA, Australia Fire/Rescue",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/16260464-2022-03-18.png",
+      "radio_url": "http://audio3.broadcastify.com/979326062.mp3",
+      "genre": "Talk",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "78634",
+      "radio_name": "Perth, WA, Australia Railways Police, Transperth Operations",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/57034657-2022-03-18.png",
+      "radio_url": "http://audio1.broadcastify.com/265525535.mp3",
+      "genre": "Transport",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "109035",
+      "radio_name": "PHAZE Country 87.6 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/67334293-2022-03-21.png",
+      "radio_url": "http://ic.phazern.com.au:8000/PHAZE-Country",
+      "genre": "Country",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "78669",
+      "radio_name": "Phaze FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/88083809-2022-03-18.png",
+      "radio_url": "http://ic.phazern.com.au:8000/PHAZEFM-High",
+      "genre": "Pop",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "103506",
+      "radio_name": "Phoenix 96.3fm Bundaberg",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/18417739-2022-03-20.png",
+      "radio_url": "http://173.82.119.5:8016/stream",
+      "genre": "Country",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "98514",
+      "radio_name": "Phoenix Airwaves",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/60227074-2022-03-20.png",
+      "radio_url": "http://stream.radiojar.com/wps1wn57sz4tv",
+      "genre": "Other",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "78426",
+      "radio_name": "Phoenix FM Bendigo 106.7 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/27254758-2022-03-18.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/3PFM.mp3",
+      "genre": "Rock",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "78194",
+      "radio_name": "Phoenix Radio Online",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/42672715-2022-03-18.png",
+      "radio_url": "http://media.usq.edu.au:8010/;",
+      "genre": "Community",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "99727",
+      "radio_name": "Pinoy DJ Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/65315130-2022-03-20.png",
+      "radio_url": "http://usa4.fastcast4u.com:5276/stream/;",
+      "genre": "Decades",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "91084",
+      "radio_name": "Pirate 88",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/30576604-2022-03-19.png",
+      "radio_url": "http://streaming.radio.co/s94a442970/listen",
+      "genre": "Alternative",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "96693",
+      "radio_name": "Plastic Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/15790116-2022-03-20.png",
+      "radio_url": "http://stream.radiojar.com/wdc34p1r8eeuv",
+      "genre": "Other",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "67292",
+      "radio_name": "PlasticAge Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/77926052-2022-03-17.png",
+      "radio_url": "http://sc3.mystreamserver.com:8084/stream",
+      "genre": "Electronic",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "48294",
+      "radio_name": "Plenty Valley FM 88.6",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/22268308-2022-03-18.png",
+      "radio_url": "http://streamer5.rightclickitservices.com:9100/aac",
+      "genre": "Community",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "113589",
+      "radio_name": "Podcast City Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/62233045-2022-11-05.png",
+      "radio_url": "http://streamer.radio.co/s8d6161b54/listen",
+      "genre": "Talk",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "108084",
+      "radio_name": "Poprock Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/45413108-2022-03-21.png",
+      "radio_url": "http://www.radioking.com/play/poprockradio/",
+      "genre": "Decades",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "66963",
+      "radio_name": "Portuguese Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/16652946-2022-03-17.png",
+      "radio_url": "http://s2.radio.co/sdff54b89f/listen",
+      "genre": "Pop",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "97977",
+      "radio_name": "Power Country FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/74150275-2022-03-20.png",
+      "radio_url": "http://s3.viastreaming.net:8695/;",
+      "genre": "Country",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "104809",
+      "radio_name": "Power Cuts Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/14567488-2022-03-20.png",
+      "radio_url": "http://19013.live.streamtheworld.com:80/SP_R3812216_SC",
+      "genre": "Caribbean",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "72392",
+      "radio_name": "Power FM Ballarat",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/58509302-2022-03-17.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/BAL_POWER_FM.flv",
+      "genre": "Pop",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "72478",
+      "radio_name": "Power FM Bega Bay",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/07025339-2022-03-17.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/BEG_POWER_FM.flv",
+      "genre": "Pop",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "72434",
+      "radio_name": "Power FM South Australia",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/44386517-2022-03-17.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/MUR_POWER_FM.flv",
+      "genre": "Pop",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "113150",
+      "radio_name": "POWER100 Townsville",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/25707129-2022-11-05.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/TOW_POWER100.mp3",
+      "genre": "Pop",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "83161",
+      "radio_name": "Pulse 94.1",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/74595853-2022-03-19.png",
+      "radio_url": "http://stream2.cnmns.net:80/941-mp3",
+      "genre": "Religion",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "74353",
+      "radio_name": "Pulse FM Hobart",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/25634138-2022-03-18.png",
+      "radio_url": "http://stream.lava.net.au:80/au_tas_7T47_pulsefm",
+      "genre": "Other",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "118079",
+      "radio_name": "PUNX FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/03624624-2023-02-07.png",
+      "radio_url": "http://listen.radioking.com/radio/506416/stream/563998",
+      "genre": "Rock",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "89432",
+      "radio_name": "PuradsiFM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/29617345-2022-03-19.png",
+      "radio_url": "http://southradios.net/play/puradsifm",
+      "genre": "Pop",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "116292",
+      "radio_name": "Pure Country 87.6FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/33296976-2022-11-09.png",
+      "radio_url": "http://s3.voscast.com:9708/stream.ogg",
+      "genre": "Country",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "86107",
+      "radio_name": "QBN FM 96.7",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/04084033-2022-03-19.png",
+      "radio_url": "http://streaming.qbn967.com.au:8000/;",
+      "genre": "Community",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "98175",
+      "radio_name": "Qeenatha - MyOomta Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/43754895-2022-03-20.png",
+      "radio_url": "http://streamer.radio.co/s51a438b13/listen",
+      "genre": "Pop",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "84775",
+      "radio_name": "Queensland Fire and Rescue Service",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/38673019-2022-03-19.png",
+      "radio_url": "http://broadcastify.cdnstream1.com/30060",
+      "genre": "Talk",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "81462",
+      "radio_name": "Queensland, Australia Firecom Far North QLD",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/58194063-2022-03-19.png",
+      "radio_url": "http://audio1.broadcastify.com/954075032.mp3",
+      "genre": "Talk",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "97769",
+      "radio_name": "Radio  Pure Cream Music (PCM)",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/05432545-2022-03-20.png",
+      "radio_url": "http://stream.laut.fm/radiopcm",
+      "genre": "Country",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "82179",
+      "radio_name": "Radio 16 Newcastle",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/70179457-2022-03-19.png",
+      "radio_url": "http://www.theradio.eu:9000/radio16.mp3",
+      "genre": "Theme",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "83485",
+      "radio_name": "Radio 1RPH",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/14352459-2022-03-19.png",
+      "radio_url": "http://198.74.51.37:9998/stream/;",
+      "genre": "Other",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "124577",
+      "radio_name": "Radio 2CBD",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/34954146-2023-12-29.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/2CBD.mp3",
+      "genre": "null",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "96595",
+      "radio_name": "Radio 2LT",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/84134863-2022-03-20.png",
+      "radio_url": "http://139.99.136.15:5069/stream/;",
+      "genre": "Other",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    },
+    {
+      "radio_id": "62043",
+      "radio_name": "Radio 2ME",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/94679740-2022-03-17.png",
+      "radio_url": "http://isrv-stream-1.vzb.conexim.net:8000/2me",
+      "genre": "Pop",
+      "country_id": "219",
+      "country_name": "Australia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/1904-2022-01-22.gif"
+    }
+  ]
+}

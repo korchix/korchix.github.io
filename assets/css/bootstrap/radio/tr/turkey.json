@@ -1,0 +1,1016 @@
+{
+  "status": "ok",
+  "limit": 100,
+  "pages": 4,
+  "order": "ASC",
+  "total_radios": "818",
+  "country_details": [
+    {
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    }
+  ],
+  "stations": [
+    {
+      "radio_id": "93405",
+      "radio_name": "Mekke FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/70506322-2022-03-20.png",
+      "radio_url": "http://yayin2.canliyayin.org:17175/stream/;",
+      "genre": "Language",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "126364",
+      "radio_name": "Melodi FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/12943315-2023-12-29.png",
+      "radio_url": "http://46.4.227.111:4164/stream",
+      "genre": "Language",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "125451",
+      "radio_name": "Mercan FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/80751162-2023-12-29.png",
+      "radio_url": "http://ip169.ozelip.com:8044/stream/;",
+      "genre": "Language",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "125493",
+      "radio_name": "Mersin Üniversitesi Radyosu",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/72714789-2023-12-29.png",
+      "radio_url": "http://radyo.mersin.edu.tr:8000/meu",
+      "genre": "Talk",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "125499",
+      "radio_name": "Mert FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/78297501-2023-12-29.png",
+      "radio_url": "http://radyo.yayindakiler.com:4004/stream",
+      "genre": "null",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "73059",
+      "radio_name": "Mesaj FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/04894874-2022-03-18.png",
+      "radio_url": "http://91.121.48.78:9500/stream/;",
+      "genre": "Talk",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "89617",
+      "radio_name": "Mesk FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/10543138-2022-03-19.png",
+      "radio_url": "http://sunucu2.radyolarburada.com:8000/radio.mp3/;",
+      "genre": "Theme",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "125502",
+      "radio_name": "Meteorolojinin Sesi Radyosu",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/75197510-2023-12-29.png",
+      "radio_url": "http://radyo.yayin.com.tr:6227/stream",
+      "genre": "Talk",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "59017",
+      "radio_name": "Metro FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/56854956-2022-03-16.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/METRO_FM.flv",
+      "genre": "Pop",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "67128",
+      "radio_name": "Mihr Radio - Radyo Ankara",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/62011538-2022-03-17.png",
+      "radio_url": "http://46.4.34.230:8020/radyoankara",
+      "genre": "Talk",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "90330",
+      "radio_name": "Mio Radio ",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/46498288-2022-03-19.png",
+      "radio_url": "http://s2.myradiostream.com:13662/;",
+      "genre": "Electronic",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "125528",
+      "radio_name": "Mix A Mix FM ",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/24935239-2023-12-29.png",
+      "radio_url": "http://radyo.yayin.com.tr:5998/stream",
+      "genre": "Electronic",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "125510",
+      "radio_name": "Mix FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/81671709-2023-12-29.png",
+      "radio_url": "http://94.23.76.118:9598/stream",
+      "genre": "Language",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "64332",
+      "radio_name": "Moral FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/00678439-2022-03-17.png",
+      "radio_url": "http://yayin2.canliyayin.org:8886/stream/;",
+      "genre": "Language",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "97032",
+      "radio_name": "Musiki.fm",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/15755131-2022-03-20.png",
+      "radio_url": "http://stream.coraxonline.com/musikifm-src.mp3",
+      "genre": "Dance",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "125546",
+      "radio_name": "Mydonose Türk Pop ",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/36739579-2023-12-29.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SC016_SO1_SC.mp3",
+      "genre": "Pop",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "125554",
+      "radio_name": "Nevşehir Radyo Mega ",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/16007355-2023-12-29.png",
+      "radio_url": "http://ip132.ozelip.com:8050/stream/;",
+      "genre": "null",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "79848",
+      "radio_name": "Niğde FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/27118479-2022-03-19.png",
+      "radio_url": "http://95.173.188.156:9922/;",
+      "genre": "Pop",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "106356",
+      "radio_name": "Noksanlar Kenti Radyo",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/53639159-2022-03-21.png",
+      "radio_url": "http://ssl120.radyotelekom.com.tr:8538/stream",
+      "genre": "Decades",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "77960",
+      "radio_name": "Nor Radyo",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/10385670-2022-03-18.png",
+      "radio_url": "http://www.norradyo.com:8000/live",
+      "genre": "Talk",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "125586",
+      "radio_name": "Nostalgie Turk FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/61992044-2023-12-29.png",
+      "radio_url": "http://radyodejavu.canliyayinda.com:8054/stream",
+      "genre": "null",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "125590",
+      "radio_name": "Nostalji Keyif Radyo",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/70820901-2023-12-29.png",
+      "radio_url": "http://radyo.yayin.com.tr:4120/stream/;",
+      "genre": "Pop",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "125596",
+      "radio_name": "NRG - Cafe",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/80341814-2023-12-29.png",
+      "radio_url": "http://live.enerjiplay.com/stream/cafe",
+      "genre": "null",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "125597",
+      "radio_name": "NRG - Gold",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/91634201-2023-12-29.png",
+      "radio_url": "http://live.enerjiplay.com/stream/gold",
+      "genre": "null",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "125592",
+      "radio_name": "NRG - Hip-Hop",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/11109289-2023-12-29.png",
+      "radio_url": "http://live.nrgplay.com/stream/hiphop",
+      "genre": "Hip Hop",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "125594",
+      "radio_name": "NRG - Slow",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/05273737-2023-12-29.png",
+      "radio_url": "http://live.nrgplay.com/stream/slow",
+      "genre": "Easy Listening",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "57661",
+      "radio_name": "NTV Radyo",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/11287677-2022-03-16.png",
+      "radio_url": "rtmp://ntvrdfms.radyotvonline.com:80/dyg/ntvrd64",
+      "genre": "Talk",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "77998",
+      "radio_name": "NTV SPOR RADYO",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/40257913-2022-03-18.png",
+      "radio_url": "http://ntvsporsc.radyotvonline.com:80/;",
+      "genre": "Talk",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "58557",
+      "radio_name": "Number1 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/48246676-2022-03-16.png",
+      "radio_url": "http://n10101m.mediatriple.net/numberone",
+      "genre": "Pop",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "95949",
+      "radio_name": "Number1 FM - Best Of Number1",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/46989078-2022-03-20.png",
+      "radio_url": "http://n10101m.mediatriple.net/bestof",
+      "genre": "Pop",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "95950",
+      "radio_name": "Number1 FM - Ertuğul Özkok",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/25999735-2022-03-20.png",
+      "radio_url": "http://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3d762b7d5_1/playlist.m3u8",
+      "genre": "Other",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "125602",
+      "radio_name": "Number1 FM - Number 1 Jazz",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/37176836-2023-12-29.png",
+      "radio_url": "http://n10101m.mediatriple.net/jazz",
+      "genre": "Jazz",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "95951",
+      "radio_name": "Number1 FM - Number1 Classic",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/52033658-2022-03-20.png",
+      "radio_url": "http://n10101m.mediatriple.net/classic",
+      "genre": "Classical",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "95952",
+      "radio_name": "Number1 FM - Number1 Deep House",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/65793827-2022-03-20.png",
+      "radio_url": "http://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e35cb55bf5_1/playlist.m3u8",
+      "genre": "Electronic",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "95953",
+      "radio_name": "Number1 FM - Number1 Disco",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/63298783-2022-03-20.png",
+      "radio_url": "http://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e41c778cb0_1/playlist.m3u8",
+      "genre": "Dance",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "125607",
+      "radio_name": "Number1 FM - Number1 Ertuğrul Özkok",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/46638891-2023-12-29.png",
+      "radio_url": "http://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3d762b7d5_1/playlist.m3u8",
+      "genre": "Language",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "125599",
+      "radio_name": "Number1 FM - Number1 Greek",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/26793534-2023-12-29.png",
+      "radio_url": "http://n10101m.mediatriple.net/greek",
+      "genre": "Language",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "95954",
+      "radio_name": "Number1 FM - Number1 Heart",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/77342552-2022-03-20.png",
+      "radio_url": "http://n10101m.mediatriple.net/heart",
+      "genre": "Other",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "95955",
+      "radio_name": "Number1 FM - Number1 Lounge",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/95409787-2022-03-20.png",
+      "radio_url": "http://n10101m.mediatriple.net/lounge",
+      "genre": "Electronic",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "95956",
+      "radio_name": "Number1 FM - Number1 Rock",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/02475949-2022-03-20.png",
+      "radio_url": "http://n10101m.mediatriple.net/rock",
+      "genre": "Alternative",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "71909",
+      "radio_name": "Number1 FM - Number1 Slow",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/35909927-2022-03-17.png",
+      "radio_url": "http://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3a53317d4_1/playlist.m3u8",
+      "genre": "Easy Listening",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "95962",
+      "radio_name": "Number1 FM - Number1 Türk Damar",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/75325428-2022-03-20.png",
+      "radio_url": "http://n10101m.mediatriple.net/trdamar",
+      "genre": "Community",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "95957",
+      "radio_name": "Number1 FM - Number1 Türk Eller Havaya",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/99925917-2022-03-20.png",
+      "radio_url": "http://n10101m.mediatriple.net/ellerhavaya",
+      "genre": "Community",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "125606",
+      "radio_name": "Number1 FM - Number1 Türk Fm",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/62225330-2023-12-29.png",
+      "radio_url": "http://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e30cf8d28e_1/playlist.m3u8",
+      "genre": "Language",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "95958",
+      "radio_name": "Number1 FM - Number1 Türk Fm",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/15960962-2022-03-20.png",
+      "radio_url": "http://n10101m.mediatriple.net/numberoneturk",
+      "genre": "Community",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "95960",
+      "radio_name": "Number1 FM - Number1 World",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/08070708-2022-03-20.png",
+      "radio_url": "http://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2f95dcb16_1/playlist.m3u8",
+      "genre": "Dance",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "125604",
+      "radio_name": "Number1 FM - Petrol Ofisi Radyosu",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/99336752-2023-12-29.png",
+      "radio_url": "http://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3ed520608_1/playlist.m3u8",
+      "genre": "Language",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "95959",
+      "radio_name": "Number1 Fm - Türk Slow",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/63160131-2022-03-20.png",
+      "radio_url": "http://n10101m.mediatriple.net/numberoneturkslow",
+      "genre": "Easy Listening",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "95961",
+      "radio_name": "Number1 FM - Üsküdar Musiki Cemiyeti Radyosu",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/62033993-2022-03-20.png",
+      "radio_url": "http://n10101m.mediatriple.net/musiki",
+      "genre": "Theme",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "125625",
+      "radio_name": "Nur Radyo ",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/89384387-2023-12-29.png",
+      "radio_url": "http://sssx.radyosfer.com/nurradyo/stream",
+      "genre": "Language",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "125629",
+      "radio_name": "Nusaybin FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/24540716-2023-12-29.png",
+      "radio_url": "http://radyoserver1.okeylisans.com:8038/stream/;",
+      "genre": "null",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "125634",
+      "radio_name": "Olay FM ",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/36972805-2023-12-29.png",
+      "radio_url": "http://shoutcast.shemamedia.com:9000/olayfm",
+      "genre": "Language",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "125636",
+      "radio_name": "Ömür Radyo",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/41264599-2023-12-29.png",
+      "radio_url": "http://live.sinirsizhost.com:8036/stream",
+      "genre": "Language",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "125918",
+      "radio_name": "Ömür Radyo",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/12607763-2023-12-29.png",
+      "radio_url": "http://radyoomur.kesintisizyayin.com:9982/stream",
+      "genre": "Pop",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "125916",
+      "radio_name": "Oney Flash FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/39960644-2023-12-29.png",
+      "radio_url": "http://yayin.yayindakiler.com:4192/stream",
+      "genre": "Pop",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "125637",
+      "radio_name": "Ordu Fm",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/37240551-2023-12-29.png",
+      "radio_url": "http://radyo.yayindakiler.com:8012/stream",
+      "genre": "Language",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "125658",
+      "radio_name": "Ortaca FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/53607312-2023-12-29.png",
+      "radio_url": "http://live.radyotvonline.com:9100/;",
+      "genre": "Language",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "71923",
+      "radio_name": "Ostim Radyo",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/45681850-2022-03-17.png",
+      "radio_url": "http://yayin.asymedya.com:8079/stream/;",
+      "genre": "Community",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "78027",
+      "radio_name": "otuZ5",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/03758488-2022-03-18.png",
+      "radio_url": "http://radio.kuums.lv:5555/;",
+      "genre": "Electronic",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "86298",
+      "radio_name": "Özel FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/40077844-2022-03-19.png",
+      "radio_url": "http://51.77.72.72:6130/stream",
+      "genre": "Community",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "125661",
+      "radio_name": "Özgürüz Radyo",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/95452401-2023-12-29.png",
+      "radio_url": "http://ozguruz-radio.org:8000/ozguruz19",
+      "genre": "null",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "125662",
+      "radio_name": "Özlem FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/20439145-2023-12-29.png",
+      "radio_url": "http://yayin.turkiletisim.com.tr:1080/stream/;",
+      "genre": "null",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "94630",
+      "radio_name": "Pal Alaturka",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/14035496-2022-03-20.png",
+      "radio_url": "http://shoutcast.radyogrup.com:3050/;;",
+      "genre": "Community",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "125666",
+      "radio_name": "Pal Besk",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/85048724-2023-12-29.png",
+      "radio_url": "http://shoutcast.radyogrup.com:3010/;",
+      "genre": "Language",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "94633",
+      "radio_name": "Pal Doğa",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/93073900-2022-03-20.png",
+      "radio_url": "http://shoutcast.radyogrup.com:1040/;;",
+      "genre": "Pop",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "125668",
+      "radio_name": "Pal Legend",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/92685416-2023-12-29.png",
+      "radio_url": "http://shoutcast.radyogrup.com:3030/;",
+      "genre": "Pop",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "125664",
+      "radio_name": "Pal Mina",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/44358024-2023-12-29.png",
+      "radio_url": "http://shoutcast.radyogrup.com:1070/;",
+      "genre": "Language",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "94629",
+      "radio_name": "Pal Nostalji",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/08853766-2022-03-20.png",
+      "radio_url": "http://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8",
+      "genre": "Rock",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "94632",
+      "radio_name": "Pal Orient",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/96040970-2022-03-20.png",
+      "radio_url": "http://shoutcast.radyogrup.com:1050/;;",
+      "genre": "Talk",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "125670",
+      "radio_name": "Pal Rabia",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/12327418-2023-12-29.png",
+      "radio_url": "http://shoutcast.radyogrup.com:3000/;",
+      "genre": "null",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "94631",
+      "radio_name": "Pal Slow",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/39483310-2022-03-20.png",
+      "radio_url": "http://shoutcast.radyogrup.com:2020/;;",
+      "genre": "Blues",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "59616",
+      "radio_name": "Pal Station",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/36294654-2022-03-17.png",
+      "radio_url": "http://shoutcast.radyogrup.com:1020/;;",
+      "genre": "Other",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "107244",
+      "radio_name": "PashPash Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/18732804-2022-03-21.png",
+      "radio_url": "http://46.165.240.92:8000/PashPash",
+      "genre": "Pop",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "125673",
+      "radio_name": "Power - Dance",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/85032801-2023-12-29.png",
+      "radio_url": "http://listen.powerapp.com.tr/powerdance/abr/playlist.m3u8",
+      "genre": "Dance",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "125675",
+      "radio_name": "Power - Deep ",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/82365565-2023-12-29.png",
+      "radio_url": "http://listen.powerapp.com.tr/powerdeep/abr/playlist.m3u8",
+      "genre": "Electronic",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "125745",
+      "radio_name": "Power - Earth",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/82162254-2023-12-29.png",
+      "radio_url": "http://listen.powerapp.com.tr/powerearth/abr/playlist.m3u8",
+      "genre": "null",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "125677",
+      "radio_name": "Power - Gold",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/00173782-2023-12-29.png",
+      "radio_url": "http://live.powerapp.com.tr/powergold/abr/playlist.m3u8",
+      "genre": "null",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "125679",
+      "radio_name": "Power - Greece",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/14469481-2023-12-29.png",
+      "radio_url": "http://listen.powerapp.com.tr/powergreece/abr/playlist.m3u8",
+      "genre": "null",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "125682",
+      "radio_name": "Power - Pop",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/33049863-2023-12-29.png",
+      "radio_url": "http://listen.powerapp.com.tr/powerpop/abr/playlist.m3u8",
+      "genre": "Pop",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "125739",
+      "radio_name": "Power - R&B Hip Hop",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/47731605-2023-12-29.png",
+      "radio_url": "http://listen.powerapp.com.tr/powerrbhiphop/abr/playlist.m3u8",
+      "genre": "Hip Hop",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "127096",
+      "radio_name": "Power - Salsa",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/58565572-2023-12-29.png",
+      "radio_url": "http://live.powerapp.com.tr/powersalsa/abr/playlist.m3u8",
+      "genre": "Latin",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "127084",
+      "radio_name": "Power - Smooth",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/72407640-2023-12-29.png",
+      "radio_url": "http://listen.powerapp.com.tr/powersmooth/abr/playlist.m3u8",
+      "genre": "Easy Listening",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "125741",
+      "radio_name": "Power - Smooth Jazz",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/74078858-2023-12-29.png",
+      "radio_url": "http://listen.powerapp.com.tr/powersmoothjazz/abr/playlist.m3u8",
+      "genre": "Jazz",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "127090",
+      "radio_name": "Power - Türk Slow",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/15585505-2023-12-29.png",
+      "radio_url": "http://listen.powerapp.com.tr/powerturkslow/abr/playlist.m3u8",
+      "genre": "Easy Listening",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "91093",
+      "radio_name": "Power Love",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/80825881-2022-03-19.png",
+      "radio_url": "http://listen.powerapp.com.tr/powerlove/mpeg/icecast.audio",
+      "genre": "Easy Listening",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "125754",
+      "radio_name": "Power Türk - Akustik",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/59416294-2023-12-29.png",
+      "radio_url": "http://listen.powerapp.com.tr/powerturkakustik/abr/playlist.m3u8",
+      "genre": "Other",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "125758",
+      "radio_name": "Power Türk - Dans",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/38933683-2023-12-29.png",
+      "radio_url": "http://listen.powerapp.com.tr/powerturkdans/abr/playlist.m3u8",
+      "genre": "null",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "125765",
+      "radio_name": "Power Türk - En Iyiler",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/18722555-2023-12-29.png",
+      "radio_url": "http://listen.powerapp.com.tr/powerturkeniyiler/abr/playlist.m3u8",
+      "genre": "null",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "125763",
+      "radio_name": "Power Türk - Taptaze",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/83848578-2023-12-29.png",
+      "radio_url": "http://listen.powerapp.com.tr/powerturktaptaze/abr/playlist.m3u8",
+      "genre": "null",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "57389",
+      "radio_name": "Power XL",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/07662218-2022-03-16.png",
+      "radio_url": "http://listen.powerapp.com.tr/powerextralounge/abr/playlist.m3u8",
+      "genre": "Easy Listening",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "125767",
+      "radio_name": "Radio 2019",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/74478532-2023-12-29.png",
+      "radio_url": "http://31.210.157.103:80/stream/494/;",
+      "genre": "null",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "125769",
+      "radio_name": "Radio 5 Legend",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/33075421-2023-12-29.png",
+      "radio_url": "http://radiocom.80.yayin.com.tr/;stream.mp3",
+      "genre": "null",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "125771",
+      "radio_name": "Radio Active - Kütahya",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/76402301-2023-12-29.png",
+      "radio_url": "http://yayin1.yayindakiler.com:3164/stream",
+      "genre": "null",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "125896",
+      "radio_name": "Radio Amed",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/64682663-2023-12-29.png",
+      "radio_url": "http://radyo.amedradyotv.net:8000/;;",
+      "genre": "null",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "125773",
+      "radio_name": "Radio Antalya",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/63292022-2023-12-29.png",
+      "radio_url": "http://my.radiolize.com:8000/radio.mp3",
+      "genre": "null",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "125788",
+      "radio_name": "Radio Atilim",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/54343539-2023-12-29.png",
+      "radio_url": "http://radyoatilim.yayin.com.tr/stream/1/",
+      "genre": "null",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "125792",
+      "radio_name": "Radio Ava ",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/39752516-2023-12-29.png",
+      "radio_url": "http://play.markaradyo.com:8002/stream",
+      "genre": "null",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "89557",
+      "radio_name": "Radio Cilek 74",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/19941262-2022-03-19.png",
+      "radio_url": "http://94.102.5.18:9944/;",
+      "genre": "Pop",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "98939",
+      "radio_name": "Radio Corax",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/25489162-2022-03-20.png",
+      "radio_url": "http://hls.streamcdn.coraxonline.com/radiocorax/radiocorax.m3u8",
+      "genre": "Alternative",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    },
+    {
+      "radio_id": "66850",
+      "radio_name": "Radio Deep Sound",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/72295172-2022-03-17.png",
+      "radio_url": "http://195.154.44.39:8000/rds",
+      "genre": "Dance",
+      "country_id": "33",
+      "country_name": "Turkey",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8808-2022-01-20.gif"
+    }
+  ]
+}

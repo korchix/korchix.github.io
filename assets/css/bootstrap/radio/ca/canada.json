@@ -1,0 +1,1666 @@
+{
+  "status": "ok",
+  "limit": 500,
+  "pages": 5,
+  "order": "ASC",
+  "total_radios": "2165",
+  "country_details": [
+    {
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    }
+  ],
+  "stations": [
+    {
+      "radio_id": "73029",
+      "radio_name": "The Grand 101.1 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/65870509-2022-03-18.png",
+      "radio_url": "http://stream2.statsradio.com:8130/stream",
+      "genre": "Pop",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "80249",
+      "radio_name": "The Haze FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/72712156-2022-03-19.png",
+      "radio_url": "http://174.36.206.197:8058/stream/;",
+      "genre": "Rock",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "96294",
+      "radio_name": "The Hits",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/81098122-2022-03-20.png",
+      "radio_url": "http://strw1.openstream.co/1816",
+      "genre": "Electronic",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "105818",
+      "radio_name": "The Hog - Maple Creek",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/78670448-2022-03-21.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2926130.mp3",
+      "genre": "Blues",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "62083",
+      "radio_name": "The Lounge 99.9 FM - CHPQ-FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/84443439-2022-03-17.png",
+      "radio_url": "http://stream.jpbgdigital.com/CHPQ/HEAAC/48k/playlist.m3u8",
+      "genre": "Pop",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "71542",
+      "radio_name": "The Lounge Sound",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/12260447-2022-03-17.png",
+      "radio_url": "http://streams.theloungesound.ca:8059/stream/;",
+      "genre": "Easy Listening",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "105533",
+      "radio_name": "The Love Channel",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/26241108-2022-03-21.png",
+      "radio_url": "http://maggie.torontocast.com:18044/stream",
+      "genre": "Pop",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "101141",
+      "radio_name": "The Middle Ear",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/03760733-2022-03-20.png",
+      "radio_url": "http://streaming.live365.com/a28688",
+      "genre": "Decades",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "83326",
+      "radio_name": "The Moose - CFBV",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/98746662-2022-03-19.png",
+      "radio_url": "http://vistaradio.streamb.live/SB00077",
+      "genre": "Pop",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "86059",
+      "radio_name": "The Moose - CFLD",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/07434409-2022-03-19.png",
+      "radio_url": "http://vistaradio.streamb.live/SB00077",
+      "genre": "Pop",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "86072",
+      "radio_name": "The Moose - CHBV-FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/02896160-2022-03-19.png",
+      "radio_url": "http://vistaradio.streamb.live/SB00077",
+      "genre": "Pop",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "86093",
+      "radio_name": "The Moose - CHLD",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/34003132-2022-03-19.png",
+      "radio_url": "http://vistaradio.streamb.live/SB00077",
+      "genre": "Pop",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "91558",
+      "radio_name": "The Oasis",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/92683645-2022-03-19.png",
+      "radio_url": "http://eagle.streemlion.com:4230/stream",
+      "genre": "Easy Listening",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "117438",
+      "radio_name": "The Path Radio ",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/20561751-2022-12-31.png",
+      "radio_url": "http://c13.radioboss.fm:8424/stream",
+      "genre": "Pop",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "62460",
+      "radio_name": "The Peak - CKCB-FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/07732773-2022-03-17.png",
+      "radio_url": "http://live.leanstream.co/CKCBFM",
+      "genre": "Pop",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "63912",
+      "radio_name": "The Peak 93.3 FM - CJAV-FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/94621547-2022-03-17.png",
+      "radio_url": "http://stream.jpbgdigital.com/CJAV.m3u8",
+      "genre": "Pop",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "104242",
+      "radio_name": "The Q Online",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/08276435-2022-03-20.png",
+      "radio_url": "http://209.209.9.187:8000/radio.mp3",
+      "genre": "Pop",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "66342",
+      "radio_name": "the QUBE 88.9 FM (CJMQ) - CJMQ-FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/20062803-2022-03-17.png",
+      "radio_url": "http://the.radioservers.biz:9996/stream/;",
+      "genre": "Community",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "106235",
+      "radio_name": "The Ranch 100.1 FM - CHLP-FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/85892461-2022-03-21.png",
+      "radio_url": "http://ice23.securenetsystems.net/CHLP",
+      "genre": "Country",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "84956",
+      "radio_name": "The Rock 98.5 - CJJC-FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/08637893-2022-03-19.png",
+      "radio_url": "http://158.69.146.53:8000/CJJC/mp3_high",
+      "genre": "Religion",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "83819",
+      "radio_name": "The Rush - CKRW-FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/74810432-2022-03-19.png",
+      "radio_url": "http://ckrw.streamon.fm/hls/stream/CKRW-32k.aac.m3u8",
+      "genre": "Pop",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "64768",
+      "radio_name": "The Storm - CJNE-FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/79188462-2022-03-17.png",
+      "radio_url": "http://s9.voscast.com:9704/stream",
+      "genre": "Other",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "103520",
+      "radio_name": "The Trance Station",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/44422256-2022-03-20.png",
+      "radio_url": "http://igor.torontocast.com:1590/stream",
+      "genre": "Dance",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "64727",
+      "radio_name": "The Wave 102.3 FM - CKWV-FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/05974765-2022-03-17.png",
+      "radio_url": "http://stream.jpbgdigital.com/CKWV.m3u8",
+      "genre": "Pop",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "61573",
+      "radio_name": "The Zone @ 91.3 - CJZN-FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/61583436-2022-03-16.png",
+      "radio_url": "http://redirect.jpbgdigital.com/CJZN.m3u8",
+      "genre": "Alternative",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "92580",
+      "radio_name": "Thunder Bay Information Radio - CKSI-FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/33573622-2022-03-20.png",
+      "radio_url": "http://freeuk21.listen2myradio.com:36457/;",
+      "genre": "Talk",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "84035",
+      "radio_name": "Time Capsule Audio Network ",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/78580165-2022-03-19.png",
+      "radio_url": "http://206.190.144.154:8060/;",
+      "genre": "Decades",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "111235",
+      "radio_name": "TimeFm Toronto",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/90177520-2022-03-23.png",
+      "radio_url": "http://neramfm.com:8000/stream",
+      "genre": "Indian",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "72220",
+      "radio_name": "Tin Pan Alley Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/37934743-2022-03-17.png",
+      "radio_url": "http://radio.streemlion.com:5320/stream",
+      "genre": "Jazz",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "90660",
+      "radio_name": "Tinig Pinoy Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/85874550-2022-03-19.png",
+      "radio_url": "http://s6.voscast.com:8044/;stream.mp3",
+      "genre": "Community",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "120652",
+      "radio_name": "Tokyo Rose Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/19725040-2023-12-29.png",
+      "radio_url": "http://bluford.torontocast.com:8006/live",
+      "genre": "Decades",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "80444",
+      "radio_name": "Toronto Area Control Centre Timmins (CYTS)",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/06277832-2022-03-19.png",
+      "radio_url": "http://broadcastify.cdnstream1.com/4455",
+      "genre": "Transport",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "127365",
+      "radio_name": "Toronto Christian Mix",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/65795202-2023-12-29.png",
+      "radio_url": "http://stream.zeno.fm/pcerguaqt5vtv",
+      "genre": "Religion",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "80986",
+      "radio_name": "Toronto Global Radio -  House",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/75585998-2022-03-19.png",
+      "radio_url": "http://109.74.206.14:8138/stream",
+      "genre": "Dance",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "104169",
+      "radio_name": "Toronto Italian Network - Radio Cartoonia",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/09218420-2022-03-20.png",
+      "radio_url": "http://kathy.torontocast.com:2730/stream",
+      "genre": "Decades",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "104440",
+      "radio_name": "Toronto Italian Network - Radio Space",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/08100469-2022-03-20.png",
+      "radio_url": "http://161.97.64.229:18070/RADIOSPACE",
+      "genre": "Dance",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "105172",
+      "radio_name": "Toronto Italian Network - Radio Toronto IN",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/14492710-2022-03-20.png",
+      "radio_url": "http://maggie.torontocast.com:18070/stream",
+      "genre": "Decades",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "80042",
+      "radio_name": "Toronto, ON, Canada (South Zone) Fire",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/97182030-2022-03-19.png",
+      "radio_url": "http://audio3.broadcastify.com/60509807.mp3",
+      "genre": "Talk",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "81006",
+      "radio_name": "Trek Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/52848082-2022-03-19.png",
+      "radio_url": "http://streaming.live365.com/a33289",
+      "genre": "Theme",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "102530",
+      "radio_name": "Trekstation - Cafe Elle",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/40473509-2022-03-20.png",
+      "radio_url": "http://fred.torontocast.com:2300/stream",
+      "genre": "Pop",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "102531",
+      "radio_name": "Trekstation - Country",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/73033360-2022-03-20.png",
+      "radio_url": "http://daniel.torontocast.com:2730/stream",
+      "genre": "Country",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "102532",
+      "radio_name": "Trekstation - Grooves",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/88458383-2022-03-20.png",
+      "radio_url": "http://daniel.torontocast.com:2460/stream",
+      "genre": "Pop",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "96996",
+      "radio_name": "Trekstation - Jazz",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/24613906-2022-03-20.png",
+      "radio_url": "http://daniel.torontocast.com:2450/stream",
+      "genre": "Jazz",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "102533",
+      "radio_name": "Trekstation - Lounge",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/73894406-2022-03-20.png",
+      "radio_url": "http://fred.torontocast.com:2480/stream",
+      "genre": "Easy Listening",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "65552",
+      "radio_name": "Trent Radio - CFFF-FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/00007413-2022-03-17.png",
+      "radio_url": "http://trentradio.ca:8800/lo-fi",
+      "genre": "Pop",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "90665",
+      "radio_name": "Trik Trak Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/65148127-2022-03-19.png",
+      "radio_url": "http://208.96.164.119:8007/stream",
+      "genre": "Hip Hop",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "70902",
+      "radio_name": "Trinity Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/47858865-2022-03-17.png",
+      "radio_url": "http://stream.zeno.fm/suymp76ndseuv",
+      "genre": "Religion",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "90666",
+      "radio_name": "Trinity Radio-USA",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/38583449-2022-03-19.png",
+      "radio_url": "http://stream.zenolive.com/suymp76ndseuv",
+      "genre": "Religion",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "99329",
+      "radio_name": "Troc Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/68853240-2022-03-20.png",
+      "radio_url": "http://cleo.shoutca.st:8220/radio.mp3",
+      "genre": "Theme",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "74989",
+      "radio_name": "Tropical FM Canada",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/65879040-2022-03-18.png",
+      "radio_url": "http://airradios.com:8119/stream",
+      "genre": "Pop",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "80265",
+      "radio_name": "Tru Value Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/01734547-2022-03-19.png",
+      "radio_url": "http://108.166.161.212:8002/;",
+      "genre": "Other",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "58035",
+      "radio_name": "Truck Stop Quebec",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/86287178-2022-03-16.png",
+      "radio_url": "http://canada1.reliastream.com:8052/live",
+      "genre": "Talk",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "104168",
+      "radio_name": "TrueNorthRadio - Dance Channel",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/58021593-2022-03-20.png",
+      "radio_url": "http://usa18.fastcast4u.com:5304/stream/;",
+      "genre": "Dance",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "104167",
+      "radio_name": "TrueNorthRadio - Dark Channel",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/20845337-2022-03-20.png",
+      "radio_url": "http://usa18.fastcast4u.com:5240/stream/;",
+      "genre": "Dance",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "104166",
+      "radio_name": "TrueNorthRadio - Dream Channel",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/65391835-2022-03-20.png",
+      "radio_url": "http://66.70.249.70:2200/stream/;",
+      "genre": "Other",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "62264",
+      "radio_name": "TSN 1040 Vancouver - CKST",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/46663882-2022-03-17.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CKSTAM.mp3",
+      "genre": "Talk",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "65332",
+      "radio_name": "TSN 1050 Toronto - CHUM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/15744685-2022-03-17.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CHUMAM.mp3",
+      "genre": "Talk",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "56332",
+      "radio_name": "TSN 1200 Ottawa - CFGO",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/13240340-2023-12-30.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CFGOAM.mp3",
+      "genre": "Talk",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "63023",
+      "radio_name": "TSN 1260 Edmonton - CFRN",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/47145168-2022-03-17.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CFRNAM.mp3",
+      "genre": "Talk",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "65620",
+      "radio_name": "TSN 1290 - CFRW",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/98307882-2022-03-17.png",
+      "radio_url": "http://24443.live.streamtheworld.com:80/CFRWAM_SC",
+      "genre": "Talk",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "61624",
+      "radio_name": "TSN 690 Montreal - CKGM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/78624207-2022-03-16.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CKGMAM.mp3",
+      "genre": "Talk",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "84567",
+      "radio_name": "TuffCity Radio - CHMZ-FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/89700963-2022-03-19.png",
+      "radio_url": "http://stream.tuffcityradio.rocks:80/chmz",
+      "genre": "Rock",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "104653",
+      "radio_name": "U Radio Canada",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/45506838-2022-03-20.png",
+      "radio_url": "http://streamingv2.shoutcast.com/u-radio-canada",
+      "genre": "Community",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "94111",
+      "radio_name": "UCB 102.3 Belleville - CKJJ-FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/17222457-2022-03-20.png",
+      "radio_url": "http://ice24.securenetsystems.net:80/BELL1023",
+      "genre": "Religion",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "82199",
+      "radio_name": "UCB Canada - CHJJ-FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/17966227-2022-03-19.png",
+      "radio_url": "http://ice24.securenetsystems.net/BELL1023",
+      "genre": "Religion",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "83341",
+      "radio_name": "UCB Canada - CJOA-FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/75589738-2022-03-19.png",
+      "radio_url": "http://s9.viastreaming.net:9575/;",
+      "genre": "Religion",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "60390",
+      "radio_name": "UCB Canada - CKGW-FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/64210128-2022-03-16.png",
+      "radio_url": "http://ice24.securenetsystems.net:80/UBC893",
+      "genre": "Community",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "60008",
+      "radio_name": "UCB Canada - CKJJ-FM-2",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/37174964-2022-03-16.png",
+      "radio_url": "http://ice24.securenetsystems.net/UBC999",
+      "genre": "Religion",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "64185",
+      "radio_name": "UCB Canada - CKOS-FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/16719686-2022-03-17.png",
+      "radio_url": "http://ice24.securenetsystems.net/FMAC911",
+      "genre": "Religion",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "113831",
+      "radio_name": "Ultra Quiet Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/77382857-2022-11-05.png",
+      "radio_url": "http://ec2.yesstreaming.net:3600/stream",
+      "genre": "Classical",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "56941",
+      "radio_name": "UMFM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/19107335-2022-03-16.png",
+      "radio_url": "http://live.umfm.com:8000/;",
+      "genre": "Talk",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "80323",
+      "radio_name": "UN!TY FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/88662656-2022-03-19.png",
+      "radio_url": "http://stream.zenolive.com/mn9nwk77gkeuv.aac",
+      "genre": "African",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "84284",
+      "radio_name": "Unique FM - CJFO-FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/01689043-2022-03-19.png",
+      "radio_url": "http://stream2.statsradio.com:8038/stream",
+      "genre": "Community",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "105483",
+      "radio_name": "United NRB Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/55587958-2022-03-20.png",
+      "radio_url": "http://stream.zeno.fm/3y470dkz9f8uv",
+      "genre": "Indian",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "75296",
+      "radio_name": "Up! 93.1 - CIHI-FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/08861751-2022-03-18.png",
+      "radio_url": "http://newcap.leanstream.co/CIHIFM-MP3?args=3rdparty_01",
+      "genre": "Pop",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "65749",
+      "radio_name": "up! 99.3 - CIUP-FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/71752045-2022-03-17.png",
+      "radio_url": "http://stream.jpbgdigital.com/CIUP.m3u8",
+      "genre": "Theme",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "107860",
+      "radio_name": "Uplifting Pills - Calm Pills",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/76968989-2022-03-21.png",
+      "radio_url": "http://104.236.78.207:8000/CalmPillsRadio.mp3",
+      "genre": "Easy Listening",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "107861",
+      "radio_name": "Uplifting Pills - Chill Pills",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/97805973-2022-03-21.png",
+      "radio_url": "http://104.236.78.207:8010/ChillPillsRadio.mp3",
+      "genre": "Easy Listening",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "91432",
+      "radio_name": "UrbanMelodyFM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/06931652-2022-03-19.png",
+      "radio_url": "http://78.129.224.21:18077/;",
+      "genre": "Hip Hop",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "119995",
+      "radio_name": "URBNET Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/38504277-2023-12-29.png",
+      "radio_url": "http://s4.radio.co/sac4bdb7da/listen",
+      "genre": "Hip Hop",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "81067",
+      "radio_name": "Uturn Radio - Classic Rock",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/98847339-2022-03-19.png",
+      "radio_url": "http://listen.uturnradio.com/classic_rock",
+      "genre": "Rock",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "59766",
+      "radio_name": "Vague FM 88.1 - CFRH-FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/23713329-2022-03-16.png",
+      "radio_url": "http://stream2.statsradio.com:8030/stream",
+      "genre": "Community",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "119520",
+      "radio_name": "Valley Of Death Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/79069925-2023-03-29.png",
+      "radio_url": "http://cheetah.streemlion.com:3160/stream",
+      "genre": "Rock",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "62884",
+      "radio_name": "Vancouvers Move 103.5 - CHQM-FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/30680829-2022-03-17.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CHQMFM.mp3",
+      "genre": "Pop",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "80161",
+      "radio_name": "VE2RIG Repeater, Echolink Node 39339",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/63857370-2022-03-19.png",
+      "radio_url": "http://audio1.broadcastify.com/248740399.mp3",
+      "genre": "Community",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "87803",
+      "radio_name": "VE3RMI 147.270 MHz Manitoulin Island Repeater",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/64831689-2022-03-19.png",
+      "radio_url": "http://broadcastify.cdnstream1.com/14937",
+      "genre": "Talk",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "61440",
+      "radio_name": "VIBE 105 - CHRY-FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/62266363-2022-03-16.png",
+      "radio_url": "http://ice7.securenetsystems.net/CHRY",
+      "genre": "African",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "102277",
+      "radio_name": "Vincy Internet Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/10560839-2022-03-20.png",
+      "radio_url": "http://192.95.18.39:5768/stream/;",
+      "genre": "Caribbean",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "73483",
+      "radio_name": "Vinyl Voyage Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/22086194-2022-03-18.png",
+      "radio_url": "http://jenny.torontocast.com:18018/stream",
+      "genre": "Decades",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "80142",
+      "radio_name": "Visitor Radio Campbell River",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/16483679-2022-03-19.png",
+      "radio_url": "http://crradio.homestead.com/Visitor_Radio_Summer_2011.mp3",
+      "genre": "Theme",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "57972",
+      "radio_name": "VOAR",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/15615905-2022-03-16.png",
+      "radio_url": "http://s3.voscast.com:7820/;stream1370537750222/1;nop.mp3/;",
+      "genre": "Religion",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "67918",
+      "radio_name": "Voces Latinas - CHHA",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/44722572-2022-03-17.png",
+      "radio_url": "http://72.139.27.130:100/broadwave.mp3?src=1&rate=1",
+      "genre": "Community",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "62124",
+      "radio_name": "VOCM - CHCM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/45275269-2022-03-17.png",
+      "radio_url": "http://newcap.leanstream.co/VOCMAM",
+      "genre": "Country",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "66124",
+      "radio_name": "VOCM - CKGA",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/63375786-2022-03-17.png",
+      "radio_url": "http://newcap.leanstream.co/VOCMAM",
+      "genre": "Talk",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "61248",
+      "radio_name": "VOCM - CKVO",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/09959054-2022-03-16.png",
+      "radio_url": "http://newcap.leanstream.co/VOCMAM",
+      "genre": "Talk",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "75565",
+      "radio_name": "Voice of the Shuswap - CKVS-FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/36336697-2022-03-18.png",
+      "radio_url": "http://s2.stationplaylist.com:9240/listen.aac",
+      "genre": "Community",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "96378",
+      "radio_name": "voicEd Radio Canada",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/56581451-2022-03-20.png",
+      "radio_url": "http://streams.radio.co/s129112c97/listen",
+      "genre": "Talk",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "64826",
+      "radio_name": "VOWR Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/63205458-2022-03-17.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/VOWRAM.mp3",
+      "genre": "Other",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "62704",
+      "radio_name": "W1440 - CKJR",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/19559151-2022-03-17.png",
+      "radio_url": "http://newcap.leanstream.co/CKJRAM",
+      "genre": "Decades",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "74271",
+      "radio_name": "Wave 80",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/73154906-2022-03-18.png",
+      "radio_url": "http://maggie.torontocast.com:8068/stream",
+      "genre": "Decades",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "64068",
+      "radio_name": "Wave 98.3 - CHKX-HD2",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/66540113-2024-01-05.png",
+      "radio_url": "http://18243.live.streamtheworld.com:80/CIWVFM_SC",
+      "genre": "null",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "85013",
+      "radio_name": "Wawatay Radio Network - CKFC-FM\t",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/52314576-2022-03-19.png",
+      "radio_url": "http://184.71.87.162:8000/",
+      "genre": "Community",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "85410",
+      "radio_name": "Wawatay Radio Network - CKWT-FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/57185071-2022-03-19.png",
+      "radio_url": "http://184.71.87.162:8000/listen",
+      "genre": "Community",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "95347",
+      "radio_name": "WBNI Christian Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/06877084-2022-03-20.png",
+      "radio_url": "http://noasrv.caster.fm:10024/live",
+      "genre": "Religion",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "105989",
+      "radio_name": "WBRS-Mix-107.9",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/69291968-2022-03-21.png",
+      "radio_url": "http://radio.torchwoodhosting.com:8008/stream",
+      "genre": "Other",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "92775",
+      "radio_name": "WCDR Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/69527455-2022-03-20.png",
+      "radio_url": "http://13683.live.streamtheworld.com:80/SAM06AAC248_SC",
+      "genre": "Pop",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "106937",
+      "radio_name": "We Lyk Those Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/59031547-2022-03-21.png",
+      "radio_url": "http://s4.radio.co/s31baee549/listen",
+      "genre": "Caribbean",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "86368",
+      "radio_name": "Weatheradio Canada - XLK473",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/67463527-2022-03-19.png",
+      "radio_url": "http://broadcastify.cdnstream1.com/27348",
+      "genre": "Talk",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "86212",
+      "radio_name": "Weatheradio Canada - XLR747",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/13386678-2022-03-19.png",
+      "radio_url": "http://audioplayer.wunderground.com:80/NickWeatherBlog/Montreal.mp3",
+      "genre": "Talk",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "121731",
+      "radio_name": "WebOnRadio.net",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/15489033-2023-12-29.png",
+      "radio_url": "http://stream.zeno.fm/yxean3rsmdntv",
+      "genre": "null",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "67409",
+      "radio_name": "Whistle FM - CIWS-FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/19431997-2022-03-17.png",
+      "radio_url": "http://streams.radiomast.io/5fcb1172-3cfc-48e2-92d8-8ff86401c1bd",
+      "genre": "Community",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "84181",
+      "radio_name": "WhistlerFM - CKEE-FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/71507952-2022-03-19.png",
+      "radio_url": "http://ais-sa1.streamon.fm/7188_32k.aac/playlist.m3u8",
+      "genre": "Other",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "115363",
+      "radio_name": "WIB Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/29818884-2022-11-08.png",
+      "radio_url": "http://stream.zeno.fm/4wpnxat6uqevv",
+      "genre": "Hip Hop",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "111236",
+      "radio_name": "WILD 953 - CKWD-FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/71624894-2022-03-23.png",
+      "radio_url": "http://stream.jpbgdigital.com/CKWD/HEAAC/48k/playlist.m3u8",
+      "genre": "Country",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "58294",
+      "radio_name": "Wild Side Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/57951358-2022-03-16.png",
+      "radio_url": "http://173.192.207.51:7116/stream/;",
+      "genre": "Pop",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "103306",
+      "radio_name": "Winnipeg Streams.FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/12350740-2022-03-20.png",
+      "radio_url": "http://s4.radio.co/s19cb4ee74/listen",
+      "genre": "Other",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "108110",
+      "radio_name": "Wisdom Live Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/59304085-2022-03-21.png",
+      "radio_url": "http://stream.radio.co/s36ce583c7/listen",
+      "genre": "Religion",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "66259",
+      "radio_name": "WKND Montreal - CJPX-FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/21621187-2022-03-17.png",
+      "radio_url": "http://streaming.cjpx.leclerccommunication.ca:8000/cjpx.mp3",
+      "genre": "Pop",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "76227",
+      "radio_name": "WKND Québec - CJEC-FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/12193304-2022-03-18.png",
+      "radio_url": "http://streaming.cjec.leclerccommunication.ca:8000/cjec.mp3",
+      "genre": "Pop",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "66520",
+      "radio_name": "Woody Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/20240310-2022-03-17.png",
+      "radio_url": "http://s1.voscast.com:10334/stream",
+      "genre": "Rock",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "85716",
+      "radio_name": "WOW 104.9 - 102.1",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/62953237-2022-03-19.png",
+      "radio_url": "http://cogecomedia.leanstream.co/CJLAFM-MP3?args=3rdparty_03",
+      "genre": "Pop",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "85415",
+      "radio_name": "WOW 104.9 - 102.1 - CHPR-FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/96386283-2022-03-19.png",
+      "radio_url": "http://cogecomedia.leanstream.co/CJLAFM-MP3",
+      "genre": "Pop",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "85373",
+      "radio_name": "WOW 97.1 -  CHLX-FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/51472333-2022-03-19.png",
+      "radio_url": "http://icecast-chlx.rncm.ca/chlx.aac",
+      "genre": "Pop",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "86008",
+      "radio_name": "WOW FM - CHOA-FM-1",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/01993540-2022-03-19.png",
+      "radio_url": "http://cogecomedia.leanstream.co/CHOAFM-MP3",
+      "genre": "Pop",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "86163",
+      "radio_name": "Wow FM 96.5 - CHOA-FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/05039757-2022-03-19.png",
+      "radio_url": "http://cogecomedia.leanstream.co/CHOAFM-MP3?args=3rdparty_03",
+      "genre": "Pop",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "106532",
+      "radio_name": "Writers Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/91874783-2022-03-21.png",
+      "radio_url": "http://stream.radiojar.com/kequvye1hd0uv",
+      "genre": "Theme",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "114116",
+      "radio_name": "Wyngback Afrobeats Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/14506653-2022-11-07.png",
+      "radio_url": "http://s2.radio.co/s731159cde/listen",
+      "genre": "African",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "82898",
+      "radio_name": "X 100.7 - CKEX-FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/52061288-2022-03-19.png",
+      "radio_url": "http://ckex.streamon.fm:8000/CKEX-64k.aac",
+      "genre": "Alternative",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "61272",
+      "radio_name": "X 92.9 - CFEX-FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/32937922-2022-03-16.png",
+      "radio_url": "http://cfex.streamon.fm:8000/CFEX-64k.aac?starttime=1647357763",
+      "genre": "Alternative",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "58872",
+      "radio_name": "XL 103 Calgary - CFXL-FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/11170488-2022-03-16.png",
+      "radio_url": "http://newcap.leanstream.co/CFXLFM?args=3rdparty_01",
+      "genre": "Rock",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "93184",
+      "radio_name": "XL Gurbani Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/79993137-2022-03-20.png",
+      "radio_url": "http://rosetta.shoutca.st:8554/stream/;",
+      "genre": "Other",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "67669",
+      "radio_name": "XLMAX - XLTRAX Network",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/79965632-2022-03-17.png",
+      "radio_url": "http://174.142.215.249:8000/stream/;",
+      "genre": "Alternative",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "67695",
+      "radio_name": "XLTRAX Network",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/39666541-2022-03-17.png",
+      "radio_url": "http://174.142.215.249:8000/stream/;",
+      "genre": "Pop",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "81220",
+      "radio_name": "XLTRAX Ultra",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/66021891-2022-03-19.png",
+      "radio_url": "http://174.142.215.249:8000/stream/;",
+      "genre": "Dance",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "86150",
+      "radio_name": "XM 105 FM - CIXM-FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/07320078-2022-03-19.png",
+      "radio_url": "http://redirect.jpbgdigital.com/CIXM.m3u8",
+      "genre": "Pop",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "109270",
+      "radio_name": "Xtreme Vibes Live",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/16730576-2022-03-21.png",
+      "radio_url": "http://c17.radioboss.fm:8162/stream",
+      "genre": "Easy Listening",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "57621",
+      "radio_name": "Y108 - CJXY-FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/81005447-2022-03-16.png",
+      "radio_url": "http://live.leanstream.co/CJXYFM-2",
+      "genre": "Alternative",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "61819",
+      "radio_name": "Y95.5 - CJLS-FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/45857241-2022-03-17.png",
+      "radio_url": "http://cjls.streamon.fm:8000/CJLS-48k.aac",
+      "genre": "Pop",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "115777",
+      "radio_name": "YHUP",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/69243987-2022-11-08.png",
+      "radio_url": "http://radio.yhup.net:8005/radio.mp3",
+      "genre": "Pop",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "106383",
+      "radio_name": "Yimago Radio - American Sixties Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/41781616-2022-03-21.png",
+      "radio_url": "http://listen.openstream.co/3671/audio",
+      "genre": "Other",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "87972",
+      "radio_name": "Yimago Radio - Classic Composers Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/43334966-2022-03-19.png",
+      "radio_url": "http://listen.openstream.co/3662/audio",
+      "genre": "Classical",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "106387",
+      "radio_name": "Yimago Radio - Radio Yé-Yé",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/42285006-2022-03-21.png",
+      "radio_url": "http://listen.openstream.co/3673/audio",
+      "genre": "Region",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "91722",
+      "radio_name": "Yimago Radio - The New Age Channel",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/15240858-2022-03-19.png",
+      "radio_url": "http://listen.openstream.co/3664/audio",
+      "genre": "Region",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "106388",
+      "radio_name": "Yimago Radio - World Music Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/54946810-2022-03-21.png",
+      "radio_url": "http://listen.openstream.co/3667/audio",
+      "genre": "Community",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "84652",
+      "radio_name": "YL Country - CKYL",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/41245048-2022-03-19.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CKYLFM.flv",
+      "genre": "Country",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "126581",
+      "radio_name": "Your Christmas Station",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/38489074-2023-12-29.png",
+      "radio_url": "http://stream.zeno.fm/53qdb0xf938uv",
+      "genre": "Theme",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "97965",
+      "radio_name": "Your Kawartha Oldies",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/97565893-2022-03-20.png",
+      "radio_url": "http://159.203.33.25:8013/stream/;",
+      "genre": "Country",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "58311",
+      "radio_name": "Z 98.9 - CIZZ-FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/66755459-2022-03-16.png",
+      "radio_url": "http://newcap.leanstream.co/CIZZFM",
+      "genre": "Rock",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "57492",
+      "radio_name": "Z103.5 - CIDC-FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/84585975-2022-03-16.png",
+      "radio_url": "http://ice23.securenetsystems.net/CIDC",
+      "genre": "Pop",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "63049",
+      "radio_name": "Z95.3 - CKZZ-FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/20533049-2022-03-17.png",
+      "radio_url": "http://newcap.leanstream.co/CKZZFM",
+      "genre": "Pop",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "64267",
+      "radio_name": "Z99 - CIZL-FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/28524359-2022-03-17.png",
+      "radio_url": "http://rawlco.leanstream.co/CIZLFM",
+      "genre": "Pop",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "95226",
+      "radio_name": "Zeubien FX-Jazz",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/67522768-2022-03-20.png",
+      "radio_url": "http://streams.radio.co/sd06049ef8/listen",
+      "genre": "Dance",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "127455",
+      "radio_name": "Zion Christian Ministry Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/69791477-2023-12-29.png",
+      "radio_url": "http://stream.zeno.fm/8cyw6fgstg0uv",
+      "genre": "Religion",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "107174",
+      "radio_name": "ZoeyUnderGround",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/73416556-2022-03-21.png",
+      "radio_url": "http://stream.zeno.fm/2akbye91ts8uv",
+      "genre": "Decades",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "65480",
+      "radio_name": "Zoomer Radio - CFZM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/15340651-2022-03-17.png",
+      "radio_url": "http://radiostream.zoomer.ca:8000/cfzm.mp3",
+      "genre": "Jazz",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "96540",
+      "radio_name": "Ράδιο Βαποράκι",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/49208802-2022-03-20.png",
+      "radio_url": "http://bluford.torontocast.com:8096/stream",
+      "genre": "Decades",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "103545",
+      "radio_name": "Радио Atlantic Bay",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/03082195-2022-03-20.png",
+      "radio_url": "http://streaming.live365.com/a90696",
+      "genre": "Other",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "106480",
+      "radio_name": "إذاعة مسجد الفاروق مونتريال ",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/65859649-2022-03-21.png",
+      "radio_url": "http://edge.mixlr.com/channel/csesz",
+      "genre": "Talk",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "86786",
+      "radio_name": "راديو بيتـنا",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/78480225-2022-03-19.png",
+      "radio_url": "http://198.7.59.28:8054/;",
+      "genre": "Language",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "102301",
+      "radio_name": "رادیو  جانا",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/11052213-2022-03-20.png",
+      "radio_url": "http://s3.voscast.com:10510/jaanaa",
+      "genre": "Other",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "102271",
+      "radio_name": "رادیو آرینا - CFMS-HD3",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/54328938-2022-03-20.png",
+      "radio_url": "http://s5.voscast.com:8554/;",
+      "genre": "Talk",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "106943",
+      "radio_name": "رادیو آرینا - CIRV-HD3",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/82033959-2022-03-21.png",
+      "radio_url": "http://s5.voscast.com:8554/;",
+      "genre": "Talk",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "71636",
+      "radio_name": "தமிழ்சன் FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/28416549-2022-03-17.png",
+      "radio_url": "http://cp.usa2.fastcast4u.com:3596/;",
+      "genre": "Indian",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100912",
+      "radio_name": "மொன்றியல் நெற்றிக்கண் தமிழ் HD வானொலி",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/43541535-2022-03-20.png",
+      "radio_url": "http://stream.zenolive.com/q63gt80pmnruv",
+      "genre": "Indian",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    },
+    {
+      "radio_id": "59590",
+      "radio_name": "வல்லமையின் அலைகள் வானொலி",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/15535194-2022-03-17.png",
+      "radio_url": "http://radio.pixelinmedia.com:80/vallamai",
+      "genre": "Religion",
+      "country_id": "196",
+      "country_name": "Canada",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8628-2022-01-22.gif"
+    }
+  ]
+}

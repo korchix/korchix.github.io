@@ -1,0 +1,2616 @@
+{
+  "status": "ok",
+  "limit": 500,
+  "pages": 2,
+  "order": "ASC",
+  "total_radios": "760",
+  "country_details": [
+    {
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    }
+  ],
+  "stations": [
+    {
+      "radio_id": "105861",
+      "radio_name": "Punjab Rocks Radio - Katha Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/99514560-2022-03-21.png",
+      "radio_url": "http://radio.punjabrocks.com:9978/;",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "105859",
+      "radio_name": "Punjab Rocks Radio - Kirtan Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/10658902-2022-03-21.png",
+      "radio_url": "http://radio.punjabrocks.com:9958/;",
+      "genre": "Language",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "105860",
+      "radio_name": "Punjab Rocks Radio - Taal Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/91790658-2022-03-21.png",
+      "radio_url": "http://radio.punjabrocks.com:9998/;",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100042",
+      "radio_name": "Punjabi Beats",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/19400306-2022-03-20.png",
+      "radio_url": "http://stream.zenolive.com/qe3kbywg65quv",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "67226",
+      "radio_name": "Punjabi Junction  - Shabad Gurbani",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/84127526-2022-03-17.png",
+      "radio_url": "http://akalmultimedia.net:8000/GDNSLDH",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "103926",
+      "radio_name": "Puthiyerushalem Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/92936749-2022-03-20.png",
+      "radio_url": "http://streams.radio.co/s4e89ff5bd/listen",
+      "genre": "Religion",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "121217",
+      "radio_name": "Puthuvai Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/12515585-2023-12-29.png",
+      "radio_url": "http://stream.zeno.fm/dou4ril79xduv",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "126227",
+      "radio_name": "Radio 4 Public Health",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/16214441-2023-12-29.png",
+      "radio_url": "http://cast4.my-control-panel.com:7269/live",
+      "genre": "Talk",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "74349",
+      "radio_name": "RADIO 88",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/73729306-2022-03-18.png",
+      "radio_url": "http://stream.zeno.fm/qk5gr16529duv",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "112905",
+      "radio_name": "Radio Aashiqanaa",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/10013913-2022-06-01.png",
+      "radio_url": "http://sonic.onlineaudience.co.uk:8114/stream",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "117857",
+      "radio_name": "Radio Active Bhagalpur",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/60435352-2023-01-21.png",
+      "radio_url": "http://stream.zeno.fm/sm2s8gqeb3wtv",
+      "genre": "Community",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "72596",
+      "radio_name": "Radio Akal Ashram Sohana",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/68933799-2022-03-18.png",
+      "radio_url": "http://radio.baani.net:8043/;stream.mp3?_=1;",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "106249",
+      "radio_name": "Radio AmchiKONKANI",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/33341960-2022-03-21.png",
+      "radio_url": "http://178.32.107.151:3711/stream/;",
+      "genre": "Religion",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "120504",
+      "radio_name": "Radio Arun ",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/15925024-2023-12-29.png",
+      "radio_url": "http://stream.zeno.fm/utiao2m9iuxuv",
+      "genre": "Language",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "108026",
+      "radio_name": "Radio Badal",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/53077260-2022-03-21.png",
+      "radio_url": "https://str3.openstream.co/1717",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "105632",
+      "radio_name": "Radio Beat",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/11819994-2022-03-21.png",
+      "radio_url": "http://strw1.openstream.co/673",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "118629",
+      "radio_name": "Radio Beat - Radio Beat Love",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/49755650-2023-02-23.png",
+      "radio_url": "http://live.exertion.in:8020/radio.mp3",
+      "genre": "Theme",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "118630",
+      "radio_name": "Radio Beat - Radio Beat Malayalam",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/49271054-2023-02-23.png",
+      "radio_url": "http://live.exertion.in:8050/radio.mp3",
+      "genre": "Classical",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "105631",
+      "radio_name": "Radio Beat Extra",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/61719197-2022-03-21.png",
+      "radio_url": "http://listen.openstream.co/4172/audio",
+      "genre": "Dance",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "104466",
+      "radio_name": "Radio Beat Retro",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/33865071-2022-03-20.png",
+      "radio_url": "http://5.63.151.52:7142/live",
+      "genre": "Decades",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "58951",
+      "radio_name": "Radio BongOnet",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/07794946-2022-03-17.png",
+      "radio_url": "http://stream.zeno.fm/19xyfyex5x8uv",
+      "genre": "Language",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "93760",
+      "radio_name": "Radio Chann Pardesi - Punjabi Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/60376918-2022-03-20.png",
+      "radio_url": "http://ice.mehramedia.com:8763/live",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "75897",
+      "radio_name": "Radio City - Bhakti (Telugu)",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/08298911-2022-03-18.png",
+      "radio_url": "http://69.162.124.24:8888/Bhakti",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "92173",
+      "radio_name": "Radio City - Dance",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/43807342-2022-03-20.png",
+      "radio_url": "http://69.162.124.24:8888/Dance",
+      "genre": "Dance",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "75894",
+      "radio_name": "Radio City - Electronica",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/20601581-2022-03-18.png",
+      "radio_url": "http://69.162.124.24:8888/Electronica",
+      "genre": "Electronic",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "75896",
+      "radio_name": "Radio City - Faith",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/20233381-2022-03-18.png",
+      "radio_url": "http://69.162.124.24:8888/Faith",
+      "genre": "Religion",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "92633",
+      "radio_name": "Radio City - Freedom",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/53713658-2022-03-20.png",
+      "radio_url": "http://69.162.124.24:8888/Freedom",
+      "genre": "Alternative",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "72516",
+      "radio_name": "Radio City - Ghazal",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/29988237-2022-03-18.png",
+      "radio_url": "http://69.162.124.24:8888/Ghazal",
+      "genre": "Language",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "74906",
+      "radio_name": "Radio City - Gujarati",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/72731103-2022-03-18.png",
+      "radio_url": "http://69.162.124.24:8888/Gujarati",
+      "genre": "Classical",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "94176",
+      "radio_name": "Radio City - Kannada",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/65227763-2022-03-20.png",
+      "radio_url": "http://69.162.124.24:8888/Kannada",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "72514",
+      "radio_name": "Radio City - Love Guru",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/43977006-2022-03-18.png",
+      "radio_url": "http://stream.zenolive.com/v43eksh02s8uv",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "92174",
+      "radio_name": "Radio City - Malayalam",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/83132614-2022-03-20.png",
+      "radio_url": "http://69.162.124.24:8888/Malayalam",
+      "genre": "Classical",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "75895",
+      "radio_name": "Radio City - Metal",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/99958257-2022-03-18.png",
+      "radio_url": "http://69.162.124.24:8888/Metal",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "92176",
+      "radio_name": "Radio City - Smaran",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/42855967-2022-03-20.png",
+      "radio_url": "http://69.162.124.24:8888/Smaran",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "92175",
+      "radio_name": "Radio City - Tamil",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/18279724-2022-03-20.png",
+      "radio_url": "http://69.162.124.24:8888/Tamil",
+      "genre": "Classical",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "84961",
+      "radio_name": "Radio City 24",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/36032565-2022-03-19.png",
+      "radio_url": "http://stream.zeno.fm/uyczz2wtywzuv",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "96929",
+      "radio_name": "Radio Delhi Malayalam",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/54557403-2022-03-20.png",
+      "radio_url": "http://94.23.30.114:8043/rdm",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "122249",
+      "radio_name": "Radio Dhoom 89.6",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/10645108-2023-12-29.png",
+      "radio_url": "http://servidor37-2.brlogic.com:7502/live",
+      "genre": "Community",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "120436",
+      "radio_name": "Radio Gorakhpur 90.8",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/54241263-2023-12-29.png",
+      "radio_url": "http://stream.zenolive.com/as8zs59295quv",
+      "genre": "Community",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "120046",
+      "radio_name": "Radio Gup-Shup",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/21729505-2023-12-29.png",
+      "radio_url": "http://internetradio.gupshupradio.com:8080/;",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "96269",
+      "radio_name": "Radio Hindi International",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/72269738-2022-03-20.png",
+      "radio_url": "http://radio.bongonet.net:8012/stream",
+      "genre": "Language",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "72608",
+      "radio_name": "Radio Islam",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/35077275-2022-03-18.png",
+      "radio_url": "http://radioislamin.out.airtime.pro:8000/radioislamin_a",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "118379",
+      "radio_name": "RADIO Jagriti 90.4 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/51003955-2023-02-15.png",
+      "radio_url": "http://stream.zeno.fm/4dycn4hmffhvv",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "112804",
+      "radio_name": "Radio JN Tamil",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/37042331-2022-05-23.png",
+      "radio_url": "http://servidor14-3.brlogic.com:7324/live",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "114317",
+      "radio_name": "Radio Kabani ",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/26322084-2022-11-07.png",
+      "radio_url": "http://stream.zeno.fm/hfaf7suhbchvv",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "91480",
+      "radio_name": "Radio Kasturi",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/56071708-2022-03-19.png",
+      "radio_url": "http://icecast.bkwsu.eu/radio-kasturi-bangluru16k.mp3",
+      "genre": "Community",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "118465",
+      "radio_name": "Radio KVK",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/56556340-2023-02-15.png",
+      "radio_url": "http://stream.zeno.fm/cqac5ddh698uv",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "125053",
+      "radio_name": "Radio Lemon - Africa",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/06398303-2023-12-29.png",
+      "radio_url": "http://schedule.radiolemonlive.com:8070/radio.mp3",
+      "genre": "Language",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "125057",
+      "radio_name": "Radio Lemon - Bengaluru",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/71748964-2023-12-29.png",
+      "radio_url": "http://schedule.radiolemonlive.com:8000/live",
+      "genre": "Language",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "125051",
+      "radio_name": "Radio Lemon - Europe",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/53253303-2023-12-29.png",
+      "radio_url": "http://schedule.radiolemonlive.com:8090/radio.mp3",
+      "genre": "Language",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "125049",
+      "radio_name": "Radio Lemon - Singapore",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/70943960-2023-12-29.png",
+      "radio_url": "http://schedule.radiolemonlive.com:8060/radio.mp3",
+      "genre": "Language",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "91235",
+      "radio_name": "Radio Madhuban",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/19397308-2022-03-19.png",
+      "radio_url": "http://icecast-aws.bkwsu.eu:80/radiomadhuban16k.mp3",
+      "genre": "Community",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "85819",
+      "radio_name": "Radio Mango",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/68441597-2022-03-19.png",
+      "radio_url": "http://bcovlive-a.akamaihd.net/19b535b7499a4719a5c19e043063f5d9/ap-southeast-1/6034685947001/playlist.m3u8",
+      "genre": "Classical",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "79093",
+      "radio_name": "Radio Manna",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/85275686-2022-03-18.png",
+      "radio_url": "http://216.224.164.196:6807/stream/;",
+      "genre": "Community",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "72508",
+      "radio_name": "Radio Mattoli",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/76006262-2022-03-18.png",
+      "radio_url": "http://78.129.139.48:8012/;",
+      "genre": "Community",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "118631",
+      "radio_name": "Radio Media Village FM 90.8",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/43265755-2023-02-23.png",
+      "radio_url": "http://184.154.43.106:8145/stream/;",
+      "genre": "Community",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "117257",
+      "radio_name": "Radio Mirchi",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/61002040-2022-12-23.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/PAT_HIN_ESTAAC.aac",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "117272",
+      "radio_name": "Radio Mirchi",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/00483710-2022-12-23.png",
+      "radio_url": "http://peridot.streamguys.com:7150/Mirchi",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "116535",
+      "radio_name": "Radio Mirchi",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/67184525-2022-11-16.png",
+      "radio_url": "http://18323.live.streamtheworld.com:80/HYD_TEL_PSTAAC_SC",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "116388",
+      "radio_name": "Radio Mirchi",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/85701223-2022-11-10.png",
+      "radio_url": "http://peridot.streamguys.com:7150/Mirchi",
+      "genre": "Pop",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "117677",
+      "radio_name": "Radio Mirchi",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/45784099-2023-01-17.png",
+      "radio_url": "http://peridot.streamguys.com:7150/Mirchi",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "116684",
+      "radio_name": "Radio Mirchi",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/72518325-2022-11-19.png",
+      "radio_url": "http://peridot.streamguys.com:7150/Mirchi",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "116685",
+      "radio_name": "Radio Mirchi",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/00660847-2022-11-19.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/BLR_KAN_ESTAAC.aac",
+      "genre": "Pop",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "75350",
+      "radio_name": "Radio Mirchi - Club Mirchi",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/44507705-2022-03-18.png",
+      "radio_url": "http://clubmirchihdlive-lh.akamaihd.net/i/ClubMirchiHDLive_1_1@336269/master.m3u8",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "117818",
+      "radio_name": "Radio Mirchi - Darling Shweta",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/97653723-2023-01-21.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/DSH_TEL_IST.mp3",
+      "genre": "Language",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "75351",
+      "radio_name": "Radio Mirchi - English Retro",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/22449023-2022-03-18.png",
+      "radio_url": "http://cassetteclassics-lh.akamaihd.net/i/CassClassicsHDLive_1_1@334553/master.m3u8",
+      "genre": "Decades",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "75347",
+      "radio_name": "Radio Mirchi - Filmy Mirchi",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/65155751-2022-03-18.png",
+      "radio_url": "http://filmymirchihdliv-lh.akamaihd.net/i/FilmyMirchiHDLive_1_1@336266/master.m3u8",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "75349",
+      "radio_name": "Radio Mirchi - Hindi Retro",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/68787507-2022-03-18.png",
+      "radio_url": "http://puranijeanshdliv-lh.akamaihd.net/i/PuraniJeansHDLive_1_1@334555/master.m3u8",
+      "genre": "Classical",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "75348",
+      "radio_name": "Radio Mirchi - Meethi Mirchi",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/66300536-2022-03-18.png",
+      "radio_url": "http://meethimirchihdl-lh.akamaihd.net/i/MeethiMirchiHDLive_1_1@320572/master.m3u8",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "117817",
+      "radio_name": "Radio Mirchi - Mirchi Insta Pyaar",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/07492191-2023-01-21.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/MRO_HIN_IST.mp3",
+      "genre": "Talk",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "117812",
+      "radio_name": "Radio Mirchi - Mirchi Murga",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/80381088-2023-01-21.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/MUR_HIN_IST.mp3",
+      "genre": "Language",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "117819",
+      "radio_name": "Radio Mirchi - Stories with Joseph Annamkutty",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/98290517-2023-01-21.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/JOS_MAL_IST.mp3",
+      "genre": "Theme",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "75344",
+      "radio_name": "Radio Mirchi - Tamil Hits",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/59411962-2022-03-18.png",
+      "radio_url": "http://mirchitoptucker-lh.akamaihd.net/i/MirchiTopTucker_1_1@66103/master.m3u8",
+      "genre": "Dance",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "75345",
+      "radio_name": "Radio Mirchi - Telugu Hits",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/40705911-2022-03-18.png",
+      "radio_url": "https://mirchiplaylive.akamaized.net/hls/live/2036929/HYD/TEHITS64kbps.m3u8",
+      "genre": "Dance",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "75346",
+      "radio_name": "Radio Mirchi - Yo! Punjabi",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/58516034-2022-03-18.png",
+      "radio_url": "http://yopunjabihdlive-lh.akamaihd.net/i/YoPunjabiHDLive_1_1@345454/master.m3u8",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "117940",
+      "radio_name": "Radio Mirchi Ahmedabad (EST)",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/83380489-2023-01-21.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/AHM_GUJ_ESTAAC.aac",
+      "genre": "Pop",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "117941",
+      "radio_name": "Radio Mirchi Ahmedabad (PST)",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/49266565-2023-01-21.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/AHM_GUJ_PSTAAC.aac",
+      "genre": "Pop",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "117944",
+      "radio_name": "Radio Mirchi Bengaluru (EST)",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/92999909-2023-01-21.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/BLR_KAN_ESTAAC.aac",
+      "genre": "Pop",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "117852",
+      "radio_name": "Radio Mirchi Chandigarh",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/25451736-2023-01-21.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CGD_PUJ_ESTAAC.aac",
+      "genre": "Pop",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "117933",
+      "radio_name": "Radio Mirchi Chandigarh (EST)",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/45267903-2023-01-21.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CGD_PUJ_ESTAAC.aac",
+      "genre": "Pop",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "117934",
+      "radio_name": "Radio Mirchi Chandigarh (PST)",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/08501905-2023-01-21.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CGD_PUJ_PSTAAC.aac",
+      "genre": "Pop",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "117928",
+      "radio_name": "Radio Mirchi Chennai (EST)",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/28169302-2023-01-21.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CHN_TAM_ESTAAC.aac",
+      "genre": "Pop",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "117929",
+      "radio_name": "Radio Mirchi Chennai (PST)",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/43981865-2023-01-21.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CHN_TAM_PSTAAC.aac",
+      "genre": "Pop",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "117922",
+      "radio_name": "Radio Mirchi Delhi (EST)",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/80423427-2023-01-21.png",
+      "radio_url": "http://14223.live.streamtheworld.com:80/DEL_HIN_ESTAAC_SC",
+      "genre": "Pop",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "117923",
+      "radio_name": "Radio Mirchi Delhi (PST)",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/09841908-2023-01-21.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/DEL_HIN_PSTAAC.aac",
+      "genre": "Pop",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "117924",
+      "radio_name": "Radio Mirchi Hyderabad (EST)",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/75482378-2023-01-21.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/HYD_TEL_ESTAAC.aac",
+      "genre": "Pop",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "117925",
+      "radio_name": "Radio Mirchi Hyderabad (PST)",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/92943365-2023-01-21.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/HYD_TEL_PSTAAC.aac",
+      "genre": "Pop",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "117851",
+      "radio_name": "Radio Mirchi Kochi",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/18235654-2023-01-21.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/KOC_MAL_ESTAAC.aac",
+      "genre": "Pop",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "117930",
+      "radio_name": "Radio Mirchi Kochi (EST)",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/01112870-2023-01-21.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/KOC_MAL_ESTAAC.aac",
+      "genre": "Pop",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "117931",
+      "radio_name": "Radio Mirchi Kochi (PST)",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/02978621-2023-01-21.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/KOC_MAL_PSTAAC.aac",
+      "genre": "Pop",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "117926",
+      "radio_name": "Radio Mirchi Kolkata (EST)",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/46234928-2023-01-21.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/KOL_BAN_ESTAAC.aac",
+      "genre": "Pop",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "117927",
+      "radio_name": "Radio Mirchi Kolkata (PST)",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/60885998-2023-01-21.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/KOL_BAN_PSTAAC.aac",
+      "genre": "Pop",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "117920",
+      "radio_name": "Radio Mirchi Mumbai (EST)",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/27210528-2023-01-21.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/BOM_HIN_ESTAAC.aac",
+      "genre": "Pop",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "117921",
+      "radio_name": "Radio Mirchi Mumbai (PST)",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/28761973-2023-01-21.png",
+      "radio_url": "http://23043.live.streamtheworld.com:80/BOM_HIN_PSTAAC_SC",
+      "genre": "Pop",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "117853",
+      "radio_name": "Radio Mirchi Pune",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/53292205-2023-01-21.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/PUN_MAR_ESTAAC.aac",
+      "genre": "Pop",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "117942",
+      "radio_name": "Radio Mirchi Pune (EST)",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/61748504-2023-01-21.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/PUN_MAR_ESTAAC.aac",
+      "genre": "Pop",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "117943",
+      "radio_name": "Radio Mirchi Pune (PST)",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/32520371-2023-01-21.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/PUN_MAR_PSTAAC.aac",
+      "genre": "Pop",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "125335",
+      "radio_name": "Radio Nagar",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/78382169-2023-12-29.png",
+      "radio_url": "http://s3.voscast.com:11194/stream",
+      "genre": "Community",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "76177",
+      "radio_name": "Radio Namkin",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/13342752-2022-03-18.png",
+      "radio_url": "http://stream.zenolive.com/sgkeutfbaw5tv",
+      "genre": "Decades",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "72511",
+      "radio_name": "Radio Noida",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/68638350-2022-03-18.png",
+      "radio_url": "http://stream.zeno.fm/n1b55arwqg0uv",
+      "genre": "Community",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "96230",
+      "radio_name": "Radio Onattukara",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/30906907-2022-03-20.png",
+      "radio_url": "http://stream.zeno.fm/fu94u25kqd0uv",
+      "genre": "Classical",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "118627",
+      "radio_name": "Radio Peace",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/95557836-2023-02-23.png",
+      "radio_url": "http://stream.peaceradio.com:8000/aacsblow",
+      "genre": "Theme",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "118614",
+      "radio_name": "Radio Pragya",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/27900432-2023-02-23.png",
+      "radio_url": "http://stream.zeno.fm/g42tzhe29f8uv",
+      "genre": "Community",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "103091",
+      "radio_name": "Radio Quarantine Kolkata (RQK)",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/40543034-2022-03-20.png",
+      "radio_url": "http://stream.zeno.fm/tkdbd3bxk2zuv",
+      "genre": "Alternative",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "111653",
+      "radio_name": "Radio Rainbow",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/73168728-2022-04-15.png",
+      "radio_url": "http://stream.zeno.fm/m3g97f8eqm0uv",
+      "genre": "Decades",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "113573",
+      "radio_name": "Radio Rimjihm",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/45073561-2022-07-07.png",
+      "radio_url": "http://streamasiacdn.atc-labs.com/radiorimjhim.aac",
+      "genre": "Community",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "118218",
+      "radio_name": "Radio Risarch",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/08201880-2023-02-07.png",
+      "radio_url": "http://stream.zeno.fm/rcrraznb368uv",
+      "genre": "Community",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "125376",
+      "radio_name": "Radio Saanthwanam",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/63774545-2023-12-29.png",
+      "radio_url": "http://d2ygn3336khva1.cloudfront.net/rdsaanthwanam.m3u8",
+      "genre": "Theme",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "118697",
+      "radio_name": "Radio Sada e Hurriyat",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/15820591-2023-03-29.png",
+      "radio_url": "http://51.255.235.165:24625/stream/;",
+      "genre": "Talk",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "67923",
+      "radio_name": "Radio Sai - Discourse Stream",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/48666026-2022-03-17.png",
+      "radio_url": "http://stream.radiosai.org:8008/",
+      "genre": "Religion",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "93095",
+      "radio_name": "Radio Sai - TeluguStream",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/20661832-2022-03-20.png",
+      "radio_url": "http://stream.radiosai.net:8020/",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "67536",
+      "radio_name": "Radio Sai Global Harmony - Asia Stream",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/65224742-2022-03-17.png",
+      "radio_url": "http://stream.radiosai.org:8002/",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "68919",
+      "radio_name": "Radio Sai Global Harmony - Bhajan Stream",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/96868989-2022-03-17.png",
+      "radio_url": "http://stream.radiosai.org:8000/",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "90464",
+      "radio_name": "Radio Satyatmavani",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/52104993-2022-03-19.png",
+      "radio_url": "http://173.192.207.51:7086/stream",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "67264",
+      "radio_name": "Radio Schizoid - Chillout / Ambient",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/79258779-2022-03-17.png",
+      "radio_url": "http://94.130.113.214:8000/chill",
+      "genre": "Easy Listening",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "67662",
+      "radio_name": "Radio Schizoid - Dub Techno",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/75553359-2022-03-17.png",
+      "radio_url": "http://94.130.113.214:8000/dubtechno",
+      "genre": "Electronic",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "94175",
+      "radio_name": "Radio Schizoid - Progressive Psy",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/26541230-2022-03-20.png",
+      "radio_url": "http://94.130.113.214:8000/prog",
+      "genre": "Dance",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "96532",
+      "radio_name": "Radio Sense",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/39058636-2022-03-20.png",
+      "radio_url": "http://eu10.fastcast4u.com:5040/stream",
+      "genre": "Easy Listening",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "79484",
+      "radio_name": "Radio Sharda",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/73087838-2022-03-18.png",
+      "radio_url": "http://stream.zenolive.com/g4ua0b105eeuv",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "72509",
+      "radio_name": "Radio Siddhartha 90.8 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/80174150-2022-03-18.png",
+      "radio_url": "http://radiosiddhartha.dyndns.tv:8080/radio.mp3",
+      "genre": "Community",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "79500",
+      "radio_name": "Radio Sindhi - Classic",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/49060610-2022-03-18.png",
+      "radio_url": "http://139.59.119.157:8221/stream/;",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "79501",
+      "radio_name": "Radio Sindhi - Dada Shyam",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/29207968-2022-03-18.png",
+      "radio_url": "http://139.59.119.157:8261/stream/;",
+      "genre": "Pop",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "79504",
+      "radio_name": "Radio Sindhi - HD",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/28107338-2022-03-18.png",
+      "radio_url": "http://139.59.119.157:8261/stream/;",
+      "genre": "Classical",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "79502",
+      "radio_name": "Radio Sindhi - PRIME",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/83193784-2022-03-18.png",
+      "radio_url": "http://139.59.119.157:8211/stream/;",
+      "genre": "Community",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "79503",
+      "radio_name": "Radio Sindhi - Vishwas",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/90371032-2022-03-18.png",
+      "radio_url": "http://139.59.119.157:8201/stream/;",
+      "genre": "Community",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "118477",
+      "radio_name": "Radio Snehi",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/45375904-2023-02-23.png",
+      "radio_url": "http://d3hcvh6m2c7ua.cloudfront.net/radiosnehi.m3u8",
+      "genre": "Community",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "72594",
+      "radio_name": "Radio Souparnika",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/97633356-2022-03-18.png",
+      "radio_url": "http://ghost.wavestreamer.com:5266/stream/1/;",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "79528",
+      "radio_name": "Radio Srinagar",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/69368138-2022-03-18.png",
+      "radio_url": "http://streaming01.x-6.nl:8000/;",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "95722",
+      "radio_name": "Radio Taj",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/20207183-2022-03-20.png",
+      "radio_url": "http://s1.voscast.com:9484/;",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "96237",
+      "radio_name": "Radio Udaan",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/61985437-2022-03-20.png",
+      "radio_url": "http://173.212.234.220:8000/radio.mp3",
+      "genre": "Theme",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "96931",
+      "radio_name": "Radio Varaha",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/78324081-2022-03-20.png",
+      "radio_url": "http://strw1.openstream.co/673",
+      "genre": "Community",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "118942",
+      "radio_name": "Radio Varsha",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/32083207-2023-03-29.png",
+      "radio_url": "http://stream.zeno.fm/3qgwmnkz9f8uv",
+      "genre": "Community",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "89155",
+      "radio_name": "Radio Virsa",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/31008250-2022-03-19.png",
+      "radio_url": "http://stream.zeno.fm/vpak30btzwzuv",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "108067",
+      "radio_name": "Radio Voxa",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/15999178-2022-03-21.png",
+      "radio_url": "http://stream.zeno.fm/kezsc0y2wwzuv",
+      "genre": "Language",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "106652",
+      "radio_name": "Radio World View",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/03690792-2022-03-21.png",
+      "radio_url": "http://stream.zeno.fm/pktu7ree4p8uv",
+      "genre": "Language",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "114357",
+      "radio_name": "Radio24",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/68989637-2022-11-07.png",
+      "radio_url": "http://us.everestcast.com:1150/stream",
+      "genre": "Talk",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "86953",
+      "radio_name": "radioBollyFM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/1007-2022-04-06.png",
+      "radio_url": "http://stream.radiobollyfm.in:8201/hd",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "102269",
+      "radio_name": "Rangeela Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/38038650-2022-03-20.png",
+      "radio_url": "http://85.25.185.202:8134/stream/;",
+      "genre": "Classical",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "89154",
+      "radio_name": "Rangla Punjab Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/26006482-2022-03-19.png",
+      "radio_url": "http://shout.audionow.com:8000/ANPunjab?type=.mp3",
+      "genre": "Community",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "118940",
+      "radio_name": "RIT Radio Sugar",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/43326014-2023-03-29.png",
+      "radio_url": "http://91.121.86.167:8157/stream",
+      "genre": "Other",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "89231",
+      "radio_name": "RJ Ashi",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/82308928-2022-03-19.png",
+      "radio_url": "http://188.165.192.5:8058/stream/;",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "96270",
+      "radio_name": "Robichhaya | Nonstop Rabindra Sangeet",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/54936681-2022-03-20.png",
+      "radio_url": "http://stream.zenolive.com/03tnz1wr6x8uv",
+      "genre": "Language",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "116868",
+      "radio_name": "Rocker Radio Blues Jazz",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/95381964-2022-12-08.png",
+      "radio_url": "http://stream.zeno.fm/2nkgf7381rhvv",
+      "genre": "Blues",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "116870",
+      "radio_name": "Rocker Radio Country Folk Rock",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/99742147-2022-12-08.png",
+      "radio_url": "http://stream.zeno.fm/4z3yscprxrhvv",
+      "genre": "Decades",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "116618",
+      "radio_name": "Rocker Radio Geetmala",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/22777556-2022-11-16.png",
+      "radio_url": "http://stream.zeno.fm/du9443htcfhvv",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "117855",
+      "radio_name": "Rocker Radio Hindi Gold",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/20379236-2023-01-21.png",
+      "radio_url": "http://stream.zeno.fm/6k9br3vydf9uv",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "116898",
+      "radio_name": "Rocker Radio Hindi Gold 2",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/53619778-2022-12-08.png",
+      "radio_url": "http://stream.zeno.fm/btrks671ynhvv",
+      "genre": "Pop",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "116867",
+      "radio_name": "Rocker Radio Hindi Gold 70-90",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/83967197-2022-12-08.png",
+      "radio_url": "http://stream.zeno.fm/uu4ah8gn4ehvv",
+      "genre": "Decades",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "116866",
+      "radio_name": "Rocker Radio Malayalam",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/57838185-2022-12-08.png",
+      "radio_url": "http://stream.zeno.fm/9mhm0tctdfhvv",
+      "genre": "Language",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "116869",
+      "radio_name": "Rocker Radio Popsongs Goldies",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/47090255-2022-12-08.png",
+      "radio_url": "http://stream.zeno.fm/1c41rxzb1rhvv",
+      "genre": "Decades",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "116902",
+      "radio_name": "Rocker Radio Tamil",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/88997054-2022-12-08.png",
+      "radio_url": "http://stream.zeno.fm/a4ehrccrzc9uv",
+      "genre": "Pop",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "116863",
+      "radio_name": "Rocker Radio Tamil 2K",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/25330785-2022-12-08.png",
+      "radio_url": "http://stream.zeno.fm/18fpk54rxhhvv",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "116885",
+      "radio_name": "Rocker Radio Tamil Gold",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/42233829-2022-12-08.png",
+      "radio_url": "http://stream.zeno.fm/vqsk7v2kunhvv",
+      "genre": "Decades",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "116903",
+      "radio_name": "Rocker Radio Tamil Gold 70-90",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/66359224-2022-12-08.png",
+      "radio_url": "http://stream.zeno.fm/sr40tbbq2nhvv",
+      "genre": "Decades",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "116862",
+      "radio_name": "Rocker Radio Tamil Gold 90s",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/46568577-2022-12-08.png",
+      "radio_url": "http://stream.zeno.fm/9dqp8hbrcphvv",
+      "genre": "Decades",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "118464",
+      "radio_name": "Rocker Radio Tamil New Hits",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/01001406-2023-02-15.png",
+      "radio_url": "http://stream.zeno.fm/ol0lyuvx22quv",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "119141",
+      "radio_name": "sadhik fm beat",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/91550004-2023-03-29.png",
+      "radio_url": "http://stream.zeno.fm/u6ppttg1xwzuv",
+      "genre": "Language",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "119293",
+      "radio_name": "sadhik fm hit",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/50291881-2023-03-29.png",
+      "radio_url": "http://stream.zeno.fm/rtzyez8abzzuv",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "119092",
+      "radio_name": "sadhik fm hot",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/20880010-2023-03-29.png",
+      "radio_url": "http://stream.zeno.fm/m4bpq0mxywzuv",
+      "genre": "Pop",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "119253",
+      "radio_name": "sadhik fm hotest",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/37281844-2023-03-29.png",
+      "radio_url": "http://stream.zeno.fm/azbx70p5muhvv",
+      "genre": "Language",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "116211",
+      "radio_name": "sadhik fm islamic",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/33209526-2022-11-09.png",
+      "radio_url": "http://stream.zeno.fm/0p25e5ms5yzuv",
+      "genre": "Language",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "103351",
+      "radio_name": "Sajeeva Vahini",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/64147476-2022-03-20.png",
+      "radio_url": "http://stream.zeno.fm/akdry3prf5zuv",
+      "genre": "Religion",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "104269",
+      "radio_name": "Sakkath Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/84071937-2022-03-20.png",
+      "radio_url": "http://stream.zeno.fm/fcsk9ryerd0uv",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "71711",
+      "radio_name": "Samastha Kerala Islamic Class Room Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/47041410-2022-03-17.png",
+      "radio_url": "http://198.50.158.92:10302/stream/;",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "74677",
+      "radio_name": "Samskriti Malayalam Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/19556103-2022-03-18.png",
+      "radio_url": "http://37.59.28.208:8203/stream",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "89626",
+      "radio_name": "Sant Samagam",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/58526512-2022-03-19.png",
+      "radio_url": "http://radio-dodra.baani.net:8031/stream/;",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "72125",
+      "radio_name": "Sayaji FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/69881540-2022-03-17.png",
+      "radio_url": "http://comet.shoutca.st:8437/stream/;",
+      "genre": "Talk",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "86825",
+      "radio_name": "Shaivam Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/92363705-2022-03-19.png",
+      "radio_url": "http://17483.live.streamtheworld.com:80/SP_R2923580_SC",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "95508",
+      "radio_name": "ShalomBeats Radio - English",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/18716095-2022-03-20.png",
+      "radio_url": "http://rd.shalombeatsradio.com:8190/stream/;",
+      "genre": "Religion",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "95509",
+      "radio_name": "ShalomBeats Radio - Hindi",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/24716558-2022-03-20.png",
+      "radio_url": "http://rd.shalombeatsradio.com:7090/stream/;",
+      "genre": "Religion",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "95507",
+      "radio_name": "ShalomBeats Radio - Kannada",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/30417948-2022-03-20.png",
+      "radio_url": "http://rd.shalombeatsradio.com:8090/stream/;",
+      "genre": "Religion",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "95504",
+      "radio_name": "ShalomBeats Radio - Malayalam",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/06804722-2022-03-20.png",
+      "radio_url": "http://rd.shalombeatsradio.com:8006/stream/;",
+      "genre": "Religion",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "95506",
+      "radio_name": "ShalomBeats Radio - Tamil",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/50638633-2022-03-20.png",
+      "radio_url": "http://rd.shalombeatsradio.com:6090/stream/;",
+      "genre": "Religion",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "95505",
+      "radio_name": "ShalomBeats Radio - Telugu",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/43642916-2022-03-20.png",
+      "radio_url": "http://rd.shalombeatsradio.com:9190/stream/;",
+      "genre": "Religion",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "98022",
+      "radio_name": "Shemaroo Bhakti Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/68783137-2022-03-20.png",
+      "radio_url": "http://radiobhakti.shemaroo.com/hariomradio/Stream1_aac/playlist.m3u8",
+      "genre": "Language",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "115658",
+      "radio_name": "ShripadRadio Stream",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/69788602-2022-11-08.png",
+      "radio_url": "http://jett.shoutca.st:8020/stream",
+      "genre": "Language",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "71527",
+      "radio_name": "Sikhi Lehar Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/28624555-2022-03-17.png",
+      "radio_url": "http://stream.zeno.fm/yssfd830duquv",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "116850",
+      "radio_name": "SikhNet Radio - Gurdwara Bangla Sahib ",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/52257521-2022-12-08.png",
+      "radio_url": "http://64.185.229.218:8050/live",
+      "genre": "Easy Listening",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "103957",
+      "radio_name": "SirpiFM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/90814081-2022-03-20.png",
+      "radio_url": "http://161.97.135.229:8040/stream",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "116957",
+      "radio_name": "Sona FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/99705698-2022-12-08.png",
+      "radio_url": "http://d25mebek0b74k4.cloudfront.net/valliapparadio.m3u8",
+      "genre": "Community",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "96235",
+      "radio_name": "Southradios - A.R.Rahman Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/98178367-2022-03-20.png",
+      "radio_url": "http://psrlive3.listenon.in/arr?station=arrahmanradio",
+      "genre": "Pop",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "96255",
+      "radio_name": "Southradios - Anirudh Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/73161840-2022-03-20.png",
+      "radio_url": "http://psrlive3.listenon.in/anirud",
+      "genre": "Pop",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "96256",
+      "radio_name": "Southradios - AR Rahman Lite",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/66656059-2022-03-20.png",
+      "radio_url": "http://psrlive3.listenon.in/arrlite",
+      "genre": "Pop",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "96257",
+      "radio_name": "Southradios - Deva Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/56547439-2022-03-20.png",
+      "radio_url": "http://psrlive3.listenon.in/deva",
+      "genre": "Community",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "96258",
+      "radio_name": "Southradios - Harris Jayaraj Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/18752720-2022-03-20.png",
+      "radio_url": "http://psrlive3.listenon.in/hjr?station=harrishjeyarajradio",
+      "genre": "Community",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "96259",
+      "radio_name": "Southradios - Ilayamaan Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/39119168-2022-03-20.png",
+      "radio_url": "http://psrlive3.listenon.in/ilayam?station=ilayamaanradio",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "96260",
+      "radio_name": "Southradios - Ilayaraja Lite Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/23693134-2022-03-20.png",
+      "radio_url": "http://psrlive3.listenon.in/irlite",
+      "genre": "Pop",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "97876",
+      "radio_name": "Southradios - Ilayaraja Super Beats",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/15848279-2022-03-20.png",
+      "radio_url": "http://psrlive3.listenon.in/irbeat",
+      "genre": "Pop",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "74722",
+      "radio_name": "Southradios - K. J. Yesudas Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/66429896-2022-03-18.png",
+      "radio_url": "http://psrlive3.listenon.in/kjy?station=kjyesudas",
+      "genre": "Classical",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "98290",
+      "radio_name": "Southradios - Kadhal Radio ",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/41796487-2022-03-20.png",
+      "radio_url": "http://apipermission.southradios.net/play/kadhalradio",
+      "genre": "Easy Listening",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "96261",
+      "radio_name": "Southradios - Palaiya Paadal Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/67299207-2022-03-20.png",
+      "radio_url": "http://apipermission.southradios.net/play/palaiyapaadalradio",
+      "genre": "Pop",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "89678",
+      "radio_name": "Southradios - Puthu Paadal Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/86244156-2022-03-19.png",
+      "radio_url": "http://psrlive3.listenon.in/newh",
+      "genre": "Community",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "96262",
+      "radio_name": "Southradios - SPB Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/66350569-2022-03-20.png",
+      "radio_url": "http://psrlive3.listenon.in/spb",
+      "genre": "Pop",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "96263",
+      "radio_name": "Southradios - Tamil Beat Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/13924891-2022-03-20.png",
+      "radio_url": "http://apipermission.southradios.net/play/tamilbeatradio",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "96264",
+      "radio_name": "Southradios - Tamil Lite Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/27406622-2022-03-20.png",
+      "radio_url": "http://psrlive3.listenon.in/talite",
+      "genre": "Easy Listening",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "97877",
+      "radio_name": "Southradios - Vidyasagar Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/48821882-2022-03-20.png",
+      "radio_url": "http://psrlive3.listenon.in/vidyasa?station=vidyasagarradio",
+      "genre": "Community",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "91459",
+      "radio_name": "Southradios - Yuvan Shankar Raja Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/77116657-2022-03-19.png",
+      "radio_url": "http://psrlive3.listenon.in/ysr?station=ysrradio",
+      "genre": "Region",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "66847",
+      "radio_name": "Sri Harmandir Sahib Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/32774356-2022-03-17.png",
+      "radio_url": "http://old.sgpc.net/hukumnama/jpeg%20hukamnama/katha.mp3",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "116665",
+      "radio_name": "SS Radio Natham ",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/10820578-2022-11-19.png",
+      "radio_url": "http://91.121.222.81:8191/stream/;",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "106944",
+      "radio_name": "SS Tamil Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/52749760-2022-03-21.png",
+      "radio_url": "http://sstamilradio.radioca.st:8276/stream3/;",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "72620",
+      "radio_name": "Sunni Online Radio KMIC",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/38216495-2022-03-18.png",
+      "radio_url": "http://s4.voscast.com:8068/;",
+      "genre": "Talk",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "126504",
+      "radio_name": "Suvarthamaanam English Online Christian Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/25933226-2023-12-29.png",
+      "radio_url": "http://stream.zeno.fm/75gnu9mpeg0uv",
+      "genre": "Religion",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "126510",
+      "radio_name": "Suvarthamaanam English Online Christian Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/02603028-2023-12-29.png",
+      "radio_url": "http://stream.zeno.fm/z6k1uk8p6s8uv",
+      "genre": "Religion",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "126196",
+      "radio_name": "Suvarthamaanam Hindi Online Christian Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/99343633-2023-12-29.png",
+      "radio_url": "http://stream.zeno.fm/p8vnzy6z9u8uv",
+      "genre": "Religion",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "72605",
+      "radio_name": "Swaggerbeat - ClubHouse",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/52016905-2022-03-18.png",
+      "radio_url": "http://s45.myradiostream.com:15106/;",
+      "genre": "Dance",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "105468",
+      "radio_name": "Swaminarayan Kirtan Bhakti",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/73227999-2022-03-20.png",
+      "radio_url": "http://radio.nnd.media:1000/kirtan.mp3",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "92940",
+      "radio_name": "Swaminarayan Radio - Swaminarayan Dhun",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/45460686-2022-03-20.png",
+      "radio_url": "http://radio.bhujmandir.org:8000/stream/6/;",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "92939",
+      "radio_name": "Swaminarayan Radio - Swaminarayan Katha",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/58585451-2022-03-20.png",
+      "radio_url": "http://radio.bhujmandir.org:8000/stream/9/;",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "92842",
+      "radio_name": "Swaminarayan Radio - Swaminarayan Kirtan",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/27025522-2022-03-20.png",
+      "radio_url": "http://radio.bhujmandir.org:8000/;",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "73649",
+      "radio_name": "Sweety FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/89111953-2022-03-18.png",
+      "radio_url": "http://e12392.cloudrad.io:8382/stream",
+      "genre": "Religion",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "123985",
+      "radio_name": "Tamil Beatz",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/27705610-2023-12-29.png",
+      "radio_url": "http://stream.zeno.fm/wghr4hh9r4pvv",
+      "genre": "Dance",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "123272",
+      "radio_name": "Tamil Bible Radio 24X7",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/38285006-2023-12-29.png",
+      "radio_url": "http://centova71.instainternet.com:9167/stream/;",
+      "genre": "Religion",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "101942",
+      "radio_name": "Tamil Catholic FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/67107479-2022-03-20.png",
+      "radio_url": "http://stream.zeno.fm/hk3w15m8gwzuv",
+      "genre": "Religion",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "80243",
+      "radio_name": "Tamil Christian Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/77647087-2022-03-19.png",
+      "radio_url": "http://178.33.135.245:3694/stream/;",
+      "genre": "Religion",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "126951",
+      "radio_name": "Tamil Christian Songs 24x7",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/03820973-2023-12-29.png",
+      "radio_url": "http://stream.zeno.fm/ezat3i8cn4ktv",
+      "genre": "Religion",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "71907",
+      "radio_name": "Tamil Kuyil Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/71759207-2022-03-17.png",
+      "radio_url": "http://live.tamilkuyilradio.com:8095/stream",
+      "genre": "Pop",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "126771",
+      "radio_name": "Tamil Old Christian Music Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/77923070-2023-12-29.png",
+      "radio_url": "http://stream.zeno.fm/wuvyr58deq8uv",
+      "genre": "Religion",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "104797",
+      "radio_name": "Tamil Vaanoli - Maippanin Kural",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/85388057-2022-03-20.png",
+      "radio_url": "http://stream.zeno.fm/qg03b0px34zuv",
+      "genre": "Religion",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "96236",
+      "radio_name": "TCR Live Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/94801045-2022-03-20.png",
+      "radio_url": "http://stream.zeno.fm/t94bawqqbrzuv",
+      "genre": "Pop",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "127170",
+      "radio_name": "Telugu Christian Media",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/31020002-2023-12-29.png",
+      "radio_url": "http://stream.zeno.fm/e1nkg444dxhvv",
+      "genre": "Religion",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "126739",
+      "radio_name": "Telugu Christian Trends",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/39246171-2023-12-29.png",
+      "radio_url": "http://stream.zeno.fm/9fuxuks9ay8uv",
+      "genre": "Religion",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "118623",
+      "radio_name": "Telugu NRI Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/45480233-2023-02-23.png",
+      "radio_url": "http://104.167.4.67:8332/stream",
+      "genre": "Pop",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100984",
+      "radio_name": "The Leader FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/64415625-2022-03-20.png",
+      "radio_url": "http://stream.zeno.fm/whwy245c2wzuv",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "106187",
+      "radio_name": "Theophony - Tamil Christian Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/35500209-2022-03-21.png",
+      "radio_url": "http://usa19.fastcast4u.com:5480/stream",
+      "genre": "Religion",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "86541",
+      "radio_name": "Theophony FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/17339804-2022-03-19.png",
+      "radio_url": "http://cp9.serverse.com/proxy/tfmp_mp3?mp=/stream",
+      "genre": "Religion",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "117845",
+      "radio_name": "Times Now (audio stream)",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/48360357-2023-01-21.png",
+      "radio_url": "http://23743.live.streamtheworld.com:3690/TNW_ENG_IST_SC",
+      "genre": "Talk",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "117850",
+      "radio_name": "Times Now Navbharat",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/51476542-2023-01-21.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/NBT_HIN_IST.mp3",
+      "genre": "Talk",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "108747",
+      "radio_name": "Tiwana Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/10024244-2022-03-21.png",
+      "radio_url": "http://mehramedia.com:7000/;",
+      "genre": "Community",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "67406",
+      "radio_name": "TORi Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/06792977-2022-03-17.png",
+      "radio_url": "http://173.203.133.187:9700/TORi_Live",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "72597",
+      "radio_name": "V V Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/07885680-2022-03-18.png",
+      "radio_url": "http://music2.vvradio.co.in:2802/stream",
+      "genre": "Decades",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "67166",
+      "radio_name": "Vaanmalar FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/80493208-2022-03-17.png",
+      "radio_url": "http://66.55.145.43:8098/stream/;",
+      "genre": "Religion",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "115156",
+      "radio_name": "Vaigai FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/35294632-2022-11-05.png",
+      "radio_url": "http://65.108.120.179:7060/autodj",
+      "genre": "Decades",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "113035",
+      "radio_name": "Vaikhari",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/32599046-2022-11-05.png",
+      "radio_url": "http://stream.zeno.fm/p2ysncnc1rhvv",
+      "genre": "Region",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "113036",
+      "radio_name": "Vaikhari-BH",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/56673587-2022-11-05.png",
+      "radio_url": "http://stream.zeno.fm/emkyc4gx398uv",
+      "genre": "Region",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "112945",
+      "radio_name": "Vaikhari-Suprabhatham",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/19037743-2022-11-05.png",
+      "radio_url": "http://stream.zeno.fm/zuqytq7nv98uv",
+      "genre": "Language",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "89679",
+      "radio_name": "Vasda Punjab Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/86667596-2022-03-19.png",
+      "radio_url": "http://192.184.9.158:9018/autodj",
+      "genre": "Community",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "80294",
+      "radio_name": "Vegam Tamil Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/42756209-2022-03-19.png",
+      "radio_url": "http://vtr24.com:8000/stream",
+      "genre": "Pop",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "116648",
+      "radio_name": "Vidyavani 107.4 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/06097774-2022-11-19.png",
+      "radio_url": "http://vidyavani.unipune.ac.in:8000/stream",
+      "genre": "Talk",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "115048",
+      "radio_name": "Vijay FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/65972024-2022-11-05.png",
+      "radio_url": "http://stream.zeno.fm/qnu9r38twchvv",
+      "genre": "Decades",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "116578",
+      "radio_name": "Voice of Arunachala",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/56251777-2022-11-16.png",
+      "radio_url": "http://78.129.159.25:8121/stream/;",
+      "genre": "Religion",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "126643",
+      "radio_name": "Yahoshua Christian Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/95755600-2023-12-29.png",
+      "radio_url": "http://stream.zeno.fm/w3g1d8ue4zhvv",
+      "genre": "Religion",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "49686",
+      "radio_name": "Yoga IP-TV",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/35864711-2022-03-17.png",
+      "radio_url": "rtmp://stream.swamiji.tv/YogaIPTV//mp4:YogaStream_360p",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "96238",
+      "radio_name": "Yuwave Tamil Radio Online",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/95855854-2022-03-20.png",
+      "radio_url": "https://server.unicast2u.com:8100/stream",
+      "genre": "Community",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "117551",
+      "radio_name": "ZBI Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/94841459-2023-01-13.png",
+      "radio_url": "http://zbir.out.airtime.pro:8000/zbir_a",
+      "genre": "Religion",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "96917",
+      "radio_name": "जलसंवाद रेडिओ",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/34612449-2022-03-20.png",
+      "radio_url": "http://198.50.156.92:8769/stream/;",
+      "genre": "Talk",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "122252",
+      "radio_name": "मराठी तरंग",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/50140494-2023-12-29.png",
+      "radio_url": "http://stream.zeno.fm/vp0fs2u8grquv",
+      "genre": "Community",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "96227",
+      "radio_name": "रेडियो धाकड़",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/80553022-2022-03-20.png",
+      "radio_url": "http://radiodhaakad.com:8000/live",
+      "genre": "Community",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "118354",
+      "radio_name": "रेडियो संगवारी",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/49302309-2023-02-15.png",
+      "radio_url": "http://servidor19-4.brlogic.com:7002/live",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "96232",
+      "radio_name": "அருள்வாக்கு",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/04623133-2022-03-20.png",
+      "radio_url": "http://stream.arulvakku.com/radio/8000/radio.mp3",
+      "genre": "Religion",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "108444",
+      "radio_name": "ஆதிரை FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/89697088-2022-03-21.png",
+      "radio_url": "http://stream.zeno.fm/gs7vbtkxfy8uv",
+      "genre": "Other",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "109526",
+      "radio_name": "இசைமுரசு FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/51370077-2022-03-21.png",
+      "radio_url": "http://usa8.fastcast4u.com:26004/stream/;",
+      "genre": "Other",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "72201",
+      "radio_name": "உல்லாசம் வானொலி",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/97009005-2022-03-17.png",
+      "radio_url": "http://eu10.fastcast4u.com/ullasamfm",
+      "genre": "Decades",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "103355",
+      "radio_name": "தமிழோசை FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/56007673-2022-03-20.png",
+      "radio_url": "http://usa15.fastcast4u.com:4566/stream/;",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "107761",
+      "radio_name": "தமிழ் பண்பலை - ஆப்பிரிக்கா",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/04162946-2022-03-21.png",
+      "radio_url": "http://tamilpanpalai.radioca.st:8140/afr/;",
+      "genre": "Other",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "98737",
+      "radio_name": "தமிழ் பண்பலை - இந்தியா",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/17635855-2022-03-20.png",
+      "radio_url": "http://158.69.4.114:8140/stream/;",
+      "genre": "Decades",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "107759",
+      "radio_name": "தமிழ் பண்பலை - நியூசிலாந்து",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/12063266-2022-03-21.png",
+      "radio_url": "http://tamilpanpalai.radioca.st:8140/stream/;",
+      "genre": "Other",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "116923",
+      "radio_name": "தமிழ் வானொலி",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/24378300-2022-12-08.png",
+      "radio_url": "http://stream.zeno.fm/ncw879a2h8quv",
+      "genre": "Talk",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "124177",
+      "radio_name": "தோழா FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/99358817-2023-12-29.png",
+      "radio_url": "http://103.215.168.169:8000/thozhafm",
+      "genre": "Pop",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "106473",
+      "radio_name": "பாசம்FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/79908140-2022-03-21.png",
+      "radio_url": "http://stream.zeno.fm/w8spm96nc18uv",
+      "genre": "Other",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    },
+    {
+      "radio_id": "67250",
+      "radio_name": "ರೇಡಿಯೋ  ಗಿರ್ಮಿಟ್",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/54048636-2022-03-17.png",
+      "radio_url": "http://stream.zenolive.com/3u96s1sg1d0uv",
+      "genre": "Indian",
+      "country_id": "146",
+      "country_name": "India",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/5813-2022-01-22.gif"
+    }
+  ]
+}

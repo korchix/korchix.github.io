@@ -1,0 +1,2466 @@
+{
+  "status": "ok",
+  "limit": 500,
+  "pages": 2,
+  "order": "ASC",
+  "total_radios": "745",
+  "country_details": [
+    {
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    }
+  ],
+  "stations": [
+    {
+      "radio_id": "98937",
+      "radio_name": "Radio Ona",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/42311942-2022-03-20.png",
+      "radio_url": "http://audio.servercl.com:8002/stream",
+      "genre": "Other",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100316",
+      "radio_name": "Radio Onda FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/51267536-2022-03-20.png",
+      "radio_url": "http://streaming.comunicacioneschile.net:9384/stream/;",
+      "genre": "Language",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "66470",
+      "radio_name": "Radio Online ViaExclusiva",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/11597588-2022-03-17.png",
+      "radio_url": "http://cloudstream2036.conectarhosting.com:8266/stream",
+      "genre": "Religion",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "116447",
+      "radio_name": "Radio Orion",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/57719549-2022-11-16.png",
+      "radio_url": "http://usa19.fastcast4u.com:8160/;",
+      "genre": "Dance",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "84076",
+      "radio_name": "Radio Orocoipo",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/08098604-2022-03-19.png",
+      "radio_url": "rtmp://593b04c4c5670.streamlock.net/8076/8076",
+      "genre": "Latin",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "82126",
+      "radio_name": "Radio Palabra Viva",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/95788148-2022-03-19.png",
+      "radio_url": "http://190.3.169.88:8020/stream",
+      "genre": "Religion",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "65080",
+      "radio_name": "Radio Paloma",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/50538685-2022-03-17.png",
+      "radio_url": "http://192.99.18.164:9622/stream/;",
+      "genre": "Pop",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "124246",
+      "radio_name": "Radio Panamericana 1420 AM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/99761930-2023-12-29.png",
+      "radio_url": "http://audio4.tustreaming.cl:8015/stream",
+      "genre": "Religion",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "89417",
+      "radio_name": "Radio Paola FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/36507115-2022-03-19.png",
+      "radio_url": "http://audio.streaminghd.cl:9142/stream",
+      "genre": "Decades",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100317",
+      "radio_name": "Radio Papudo",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/29235188-2022-03-20.png",
+      "radio_url": "http://streaming.radio.co/sb1ee4cde3/listen",
+      "genre": "Language",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "124237",
+      "radio_name": "Radio Paraiso Chile",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/84442445-2023-12-29.png",
+      "radio_url": "http://centova.streaming-chile.com:8180/live",
+      "genre": "Pop",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100318",
+      "radio_name": "Radio Parati",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/08387928-2022-03-20.png",
+      "radio_url": "http://5.9.65.9:8091/stream.aac",
+      "genre": "Language",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "88419",
+      "radio_name": "Radio Pasión FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/63296590-2022-03-19.png",
+      "radio_url": "http://streaming.viphosting.cl:8182/masterpasion",
+      "genre": "Religion",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "87282",
+      "radio_name": "Radio Patagonia Austral Plus",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/97333467-2022-03-19.png",
+      "radio_url": "http://radio.lpa.cl:8000/pap.mp3",
+      "genre": "Community",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100319",
+      "radio_name": "Radio Patagual",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/25773637-2022-03-20.png",
+      "radio_url": "http://srv6.sonicpanel.cl:8156/stream",
+      "genre": "Language",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "62242",
+      "radio_name": "Radio Paulina 89.3",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/04367186-2022-03-17.png",
+      "radio_url": "http://sp1.streamingssl.com:8058/stream/;",
+      "genre": "Language",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "79325",
+      "radio_name": "Radio Pentagrama",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/60603310-2022-03-18.png",
+      "radio_url": "http://audio5.tustreaming.cl:8040/stream",
+      "genre": "Theme",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "98114",
+      "radio_name": "Radio Perfección",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/60018524-2022-03-20.png",
+      "radio_url": "http://video.mediawebchile.com:18026/stream",
+      "genre": "Other",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "90792",
+      "radio_name": "Radio Picarona - Panguipulli",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/14647324-2022-03-19.png",
+      "radio_url": "http://149.56.31.15:9996/stream/;",
+      "genre": "Latin",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "91887",
+      "radio_name": "Radio Picarona Villarica-Pucón",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/08749537-2022-03-20.png",
+      "radio_url": "http://sonic.portalfoxmix.cl:9888/stream/;",
+      "genre": "Latin",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "79332",
+      "radio_name": "Radio Pilmaiquen - 98.9 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/59883444-2022-03-18.png",
+      "radio_url": "http://streaming.chiloestreaming.com:9190/;",
+      "genre": "Language",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100320",
+      "radio_name": "Radio Pinamar",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/38113956-2022-03-20.png",
+      "radio_url": "http://192.99.18.164:9534/stream/;",
+      "genre": "Pop",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "103214",
+      "radio_name": "Radio Pirinola",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/67740423-2022-03-20.png",
+      "radio_url": "http://curiosity.shoutca.st:6451/live",
+      "genre": "Community",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "84642",
+      "radio_name": "Radio Pirque",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/55041221-2022-03-19.png",
+      "radio_url": "http://server01.heplayer.com:8068/stream",
+      "genre": "Easy Listening",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "64914",
+      "radio_name": "Radio Placeres",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/89378907-2022-03-17.png",
+      "radio_url": "http://192.99.18.164:9856/;",
+      "genre": "Latin",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100321",
+      "radio_name": "Radio Plenitud",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/31032335-2022-03-20.png",
+      "radio_url": "http://s6.jcwebnew.com:8190/stream",
+      "genre": "Language",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "82200",
+      "radio_name": "Radio Poesía de Curepto",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/99500832-2022-03-19.png",
+      "radio_url": "http://186.67.163.219:8080/radiopoesiafm_mp3",
+      "genre": "Latin",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "68489",
+      "radio_name": "Radio Polar",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/74927712-2022-03-17.png",
+      "radio_url": "http://cdn1.onstream.audio:6555/polar",
+      "genre": "Other",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "75705",
+      "radio_name": "Radio Polarisima",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/19007768-2022-03-18.png",
+      "radio_url": "http://167.114.219.240:8085/autodj",
+      "genre": "Decades",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100322",
+      "radio_name": "Radio Pop Music ",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/86561565-2022-03-20.png",
+      "radio_url": "http://192.99.150.234:9884/;",
+      "genre": "Pop",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "78200",
+      "radio_name": "Radio Pop Music Chile",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/21344506-2022-03-18.png",
+      "radio_url": "http://stream.zeno.fm/g09s6f0vkm0uv.aac",
+      "genre": "Pop",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100323",
+      "radio_name": "Radio Por Amor a Chile",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/13715827-2022-03-20.png",
+      "radio_url": "http://sonicpanel.chileservidores.cl:8034/stream/;",
+      "genre": "Community",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "114374",
+      "radio_name": "Radio Portal Modrock Chile",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/44907287-2022-11-07.png",
+      "radio_url": "http://stream.zeno.fm/k2fqsst6mfhvv",
+      "genre": "Rock",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "114373",
+      "radio_name": "Radio Portal Modrock USA",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/24662060-2022-11-07.png",
+      "radio_url": "http://stream.zeno.fm/k2fqsst6mfhvv",
+      "genre": "Decades",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "88518",
+      "radio_name": "Radio Portales Valparaiso",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/79072744-2022-03-19.png",
+      "radio_url": "http://archi-us.digitalproserver.com/portales-fm-valparaiso-vina-del-mar.aac",
+      "genre": "Other",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "74098",
+      "radio_name": "Radio Porvenir ",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/88031708-2022-03-18.png",
+      "radio_url": "http://audio.servercl.com:8002/stream",
+      "genre": "Decades",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "102998",
+      "radio_name": "Radio Presbiteriana Castillo Fuerte Online Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/24938148-2022-03-20.png",
+      "radio_url": "http://173.82.119.5:8092/stream",
+      "genre": "Religion",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100324",
+      "radio_name": "Radio Primavera",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/98783392-2022-03-20.png",
+      "radio_url": "http://streaming.prositel.cl:8020/stream/;",
+      "genre": "Language",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "79356",
+      "radio_name": "Radio Primavera Online",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/76458389-2022-03-18.png",
+      "radio_url": "http://server2.ejeserver.com/user/primavera",
+      "genre": "Pop",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "62708",
+      "radio_name": "Radio Primordial",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/35410238-2022-03-17.png",
+      "radio_url": "http://sonicpanel.mediostream.cl:8106/stream",
+      "genre": "Jazz",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "63144",
+      "radio_name": "Radio Profeta",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/52973915-2022-03-17.png",
+      "radio_url": "http://stream6.eltelon.com/profeta.aac",
+      "genre": "Religion",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100325",
+      "radio_name": "Radio Promesas",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/24879921-2022-03-20.png",
+      "radio_url": "http://198.50.159.128:9318/stream/;",
+      "genre": "Language",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "64034",
+      "radio_name": "Radio Proyección",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/82104015-2024-01-05.png",
+      "radio_url": "http://stream.zenolive.com/atw3gs6canzuv",
+      "genre": "Language",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "103101",
+      "radio_name": "Radio Proyecta",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/84431635-2022-03-20.png",
+      "radio_url": "http://sonic-us.streaming-chile.com:9866/stream/;",
+      "genre": "Latin",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "61577",
+      "radio_name": "Radio Pudahuel",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/22079870-2022-03-16.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/PUDAHUEL.mp3",
+      "genre": "Pop",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100326",
+      "radio_name": "Radio Pudeto",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/81986665-2022-03-20.png",
+      "radio_url": "http://streaming.chiloestreaming.com:9696/;",
+      "genre": "Language",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "124240",
+      "radio_name": "Radio Puente Alto 107.5 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/11642332-2023-12-29.png",
+      "radio_url": "http://freeuk28.listen2myradio.com:32248/;",
+      "genre": "Talk",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "85825",
+      "radio_name": "Radio Puerta Norte",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/39978910-2022-03-19.png",
+      "radio_url": "http://192.99.18.164:9654/;",
+      "genre": "Latin",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100327",
+      "radio_name": "Radio Puerto de San Antonio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/36705929-2022-03-20.png",
+      "radio_url": "http://sonic.portalfoxmix.club:8384/stream/;",
+      "genre": "Language",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "103113",
+      "radio_name": "Radio Puerto Montt Fm",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/66523815-2022-03-20.png",
+      "radio_url": "http://stream.zeno.fm/ahw96091h2zuv",
+      "genre": "Pop",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "90436",
+      "radio_name": "Radio Puerto Rock Cristiano",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/25491657-2022-03-19.png",
+      "radio_url": "http://188.165.187.84:8107/stream",
+      "genre": "Religion",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "92732",
+      "radio_name": "Radio Pulso",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/65935909-2022-03-20.png",
+      "radio_url": "http://audio.streaminghd.cl:9012/stream",
+      "genre": "Dance",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "79306",
+      "radio_name": "Radio Punto 7",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/29887168-2022-03-18.png",
+      "radio_url": "http://unlimited4-us.dps.live/p7concepcion/aac/icecast.audio",
+      "genre": "Dance",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "82454",
+      "radio_name": "Radio Punto 7 Osorno",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/03590663-2022-03-19.png",
+      "radio_url": "http://redirector.dps.live/p7osorno/mp3/icecast.audio",
+      "genre": "Dance",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "82465",
+      "radio_name": "Radio Punto 7 Puerto Montt",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/02068065-2022-03-19.png",
+      "radio_url": "http://redirector.dps.live/p7puertomontt/aac/icecast.audio",
+      "genre": "Dance",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "82414",
+      "radio_name": "Radio Punto 7 Temuco",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/15734811-2022-03-19.png",
+      "radio_url": "http://redirector.dps.live/p7temuco/aac/icecast.audio",
+      "genre": "Dance",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "82394",
+      "radio_name": "Radio Punto 7 Valdivia",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/30168301-2022-03-19.png",
+      "radio_url": "http://redirector.dps.live/p7valparaiso/aac/icecast.audio",
+      "genre": "Dance",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100328",
+      "radio_name": "Radio Punto 7 Valparaíso",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/53630886-2022-03-20.png",
+      "radio_url": "http://unlimited4-us.dps.live/p7valparaiso/aac/icecast.audio",
+      "genre": "Language",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100329",
+      "radio_name": "Radio Punto Stereo Chile",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/88705418-2022-03-20.png",
+      "radio_url": "http://stream.zeno.fm/g4g5w2zsrg8uv",
+      "genre": "Pop",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "124229",
+      "radio_name": "Radio PuntoFM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/18577027-2023-12-29.png",
+      "radio_url": "http://stm2.painelcast.com:28860/;",
+      "genre": "Pop",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "90437",
+      "radio_name": "Radio Puro Chile 98.9 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/23128902-2022-03-19.png",
+      "radio_url": "http://radiostreaming.cloudserverlatam.com:8178/stream",
+      "genre": "Other",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "117594",
+      "radio_name": "Radio Putaendo Informa",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/48877285-2023-01-13.png",
+      "radio_url": "http://sonic-us.streaming-chile.com:8092/stream/;",
+      "genre": "Other",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "89685",
+      "radio_name": "Radio Quillota",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/84781062-2022-03-19.png",
+      "radio_url": "http://sonando.us.digitalproserver.com:80/quillota-fm.aac",
+      "genre": "Rock",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100330",
+      "radio_name": "Radio Quilpué",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/81915975-2022-03-20.png",
+      "radio_url": "http://sonic-cl.streaming-chile.com:8008/stream/;",
+      "genre": "Language",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100331",
+      "radio_name": "Radio Quintavenida",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/71168894-2022-03-20.png",
+      "radio_url": "http://audio.crearchile.info:9900/stream/;",
+      "genre": "Language",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100332",
+      "radio_name": "Radio Rancagua",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/02669581-2022-03-20.png",
+      "radio_url": "http://sonic-cl.streaming-chile.com:9324/stream/;",
+      "genre": "Community",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "65885",
+      "radio_name": "Radio Rancagua AM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/90788980-2022-03-17.png",
+      "radio_url": "http://sonic-cl.streaming-chile.com:9324/stream/;",
+      "genre": "Language",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100333",
+      "radio_name": "Radio RDI",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/26476497-2022-03-20.png",
+      "radio_url": "http://sonando.us.digitalproserver.com/rdi.aac",
+      "genre": "Language",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "103238",
+      "radio_name": "Radio Rebeldes",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/15835866-2022-03-20.png",
+      "radio_url": "http://198.204.228.202:8269/mp3_live",
+      "genre": "Decades",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "98446",
+      "radio_name": "Radio Recital",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/98709893-2022-03-20.png",
+      "radio_url": "http://sonic01.zglobalhost.com:8054/stream",
+      "genre": "Decades",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100334",
+      "radio_name": "Radio Recreo",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/43508872-2022-03-20.png",
+      "radio_url": "http://streamingsonicpro.com:8132/stream",
+      "genre": "Language",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "79381",
+      "radio_name": "Radio Recuerdos",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/95464894-2022-03-18.png",
+      "radio_url": "http://sonando-us.digitalproserver.com/radiorecuerdos.mp3",
+      "genre": "Decades",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100335",
+      "radio_name": "Radio Relieve",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/69422189-2022-03-20.png",
+      "radio_url": "http://176.31.241.17:8008/stream",
+      "genre": "Language",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "79390",
+      "radio_name": "Radio Reloncavi",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/16550651-2022-03-18.png",
+      "radio_url": "http://5.9.65.9:8172/stream",
+      "genre": "Other",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "124221",
+      "radio_name": "Radio Remix",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/26073461-2023-12-29.png",
+      "radio_url": "http://176.31.241.17:7088/stream",
+      "genre": "Latin",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100459",
+      "radio_name": "Radio Renacer Virtual",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/47897882-2022-03-20.png",
+      "radio_url": "http://172.82.129.106:11832/;",
+      "genre": "Religion",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100336",
+      "radio_name": "Radio Retrospectiva",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/58363721-2022-03-20.png",
+      "radio_url": "http://198.204.228.202:8148/mp3",
+      "genre": "Pop",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100337",
+      "radio_name": "Radio Rinconada",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/57890045-2022-03-20.png",
+      "radio_url": "http://server01.heplayer.com:9304/stream/;",
+      "genre": "Pop",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100338",
+      "radio_name": "Radio Rinconada 94.3",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/63088594-2022-03-20.png",
+      "radio_url": "http://192.99.18.164:9708/;",
+      "genre": "Language",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100339",
+      "radio_name": "Radio Riquelme",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/42012605-2022-03-20.png",
+      "radio_url": "http://cp.streamchileno.cl/radio/8040/radio.mp3",
+      "genre": "Other",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "112098",
+      "radio_name": "Radio Ritmo 7",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/74811099-2022-05-15.png",
+      "radio_url": "http://host.audiolatam.com:8298/stream",
+      "genre": "Latin",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100340",
+      "radio_name": "Radio Ritmo 98.7 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/11234958-2022-03-20.png",
+      "radio_url": "http://167.114.208.100:9976/stream/;",
+      "genre": "Language",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "57648",
+      "radio_name": "Radio Romance",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/45879431-2022-03-16.png",
+      "radio_url": "http://centova.streaming-chile.com:8070/radiomaipu_live",
+      "genre": "Community",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "124697",
+      "radio_name": "Radio Romina",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/74844082-2023-12-29.png",
+      "radio_url": "http://sp1.streamingssl.com:8044/stream",
+      "genre": "Pop",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "105932",
+      "radio_name": "Radio RSMC",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/49108312-2022-03-21.png",
+      "radio_url": "http://sonicpanel.tucomunicas.cl:8004/stream",
+      "genre": "Decades",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "127301",
+      "radio_name": "Radio Rustika",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/66994651-2023-12-29.png",
+      "radio_url": "http://sonic.tvcontrolcp.com:8116/stream",
+      "genre": "Language",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "79419",
+      "radio_name": "Radio Sabor Tropical",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/59685159-2022-03-18.png",
+      "radio_url": "http://audio1.tustreaming.cl:7500/stream",
+      "genre": "Pop",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "89193",
+      "radio_name": "Radio Sago Osorno",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/61793302-2022-03-19.png",
+      "radio_url": "http://audio.divalstream.com:8004/stream/;",
+      "genre": "Talk",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "105224",
+      "radio_name": "Radio Sago Puerto Montt",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/96875193-2022-03-20.png",
+      "radio_url": "http://audio.divalstream.com:8006/stream/;",
+      "genre": "Talk",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "124764",
+      "radio_name": "Radio Salud",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/21479185-2023-12-29.png",
+      "radio_url": "http://sonic.streamingchilenos.com:9820/stream/;",
+      "genre": "Latin",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "65019",
+      "radio_name": "Radio San Bartolome",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/86941760-2022-03-17.png",
+      "radio_url": "http://archi-us.digitalproserver.com/san-bartolome-fm.aac",
+      "genre": "Language",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "87453",
+      "radio_name": "Radio San Gabriel",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/19774021-2022-03-19.png",
+      "radio_url": "http://archi-us.digitalproserver.com/san-gabriel-fm.aac",
+      "genre": "Community",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "124219",
+      "radio_name": "Radio San Ignacio 106.1 F.M",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/68757651-2023-12-29.png",
+      "radio_url": "http://centova.streaming-chile.com:8100/sanignacio",
+      "genre": "Pop",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "124220",
+      "radio_name": "Radio San Ignacio 106.1 F.M",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/24266310-2023-12-29.png",
+      "radio_url": "http://centova.streaming-chile.com:8100/sanignacio",
+      "genre": "Pop",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "89885",
+      "radio_name": "Radio San Joaquín",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/28831173-2022-03-19.png",
+      "radio_url": "http://espora.org:8000/radiosanjoaquin.mp3",
+      "genre": "Community",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "124713",
+      "radio_name": "Radio San Pablo Antofagasta 107.7",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/75410693-2023-12-29.png",
+      "radio_url": "http://stm3.srvif.com:8098/;",
+      "genre": "Religion",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "79430",
+      "radio_name": "Radio Sanfurgo",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/71957644-2022-03-18.png",
+      "radio_url": "http://176.31.241.17:7112/stream",
+      "genre": "Classical",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "73255",
+      "radio_name": "Radio Santa María",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/42412311-2022-03-18.png",
+      "radio_url": "http://archi-us.digitalproserver.com/santa-maria-am.aac",
+      "genre": "Talk",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100341",
+      "radio_name": "Radio Santa Rita",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/93752261-2022-03-20.png",
+      "radio_url": "http://sonic.portalfoxmix.cl:9872/stream/;",
+      "genre": "Religion",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100342",
+      "radio_name": "Radio Santiago AM 690",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/62897856-2022-03-20.png",
+      "radio_url": "http://audio4.tustreaming.cl:8130/stream",
+      "genre": "Other",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "78909",
+      "radio_name": "Radio Serrano",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/27745318-2022-03-18.png",
+      "radio_url": "http://sonic.portalfoxmix.club:8242/stream/;",
+      "genre": "Talk",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100343",
+      "radio_name": "Radio ShockFm",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/98529030-2022-03-20.png",
+      "radio_url": "http://168.195.128.187:9966/stream",
+      "genre": "Religion",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "104149",
+      "radio_name": "Radio Siente - Indie Rock-Pop",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/79873492-2022-03-20.png",
+      "radio_url": "http://mdstrm.com/audio/5de5597e52a9da4517903734/icecast.audio",
+      "genre": "Rock",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "104150",
+      "radio_name": "Radio Siente - Radio 2 Rock-Pop-Funk",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/80246983-2022-03-20.png",
+      "radio_url": "http://mdstrm.com/audio/5de5597e52a9da4517903734/icecast.audio",
+      "genre": "Other",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100345",
+      "radio_name": "Radio Simpatía",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/31075199-2022-03-20.png",
+      "radio_url": "http://radiolatina.info:9684/stream/;",
+      "genre": "Theme",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "97971",
+      "radio_name": "Radio Sinfonia Chile",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/48265692-2022-03-20.png",
+      "radio_url": "http://stream.zeno.fm/xqsnffv851zuv.aac",
+      "genre": "Other",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "113690",
+      "radio_name": "Radio Sinfonia Online",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/37822241-2022-07-11.png",
+      "radio_url": "http://5.9.65.9:8240/stream/;",
+      "genre": "Dance",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100103",
+      "radio_name": "Radio Sobredosis FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/63580092-2022-03-20.png",
+      "radio_url": "http://stream.zenolive.com/bccsy18t25quv",
+      "genre": "Decades",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "59857",
+      "radio_name": "Radio Sol",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/62889478-2022-03-16.png",
+      "radio_url": "http://us9.maindigitalstream.com:7389/stream",
+      "genre": "Pop",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "110039",
+      "radio_name": "Radio Sol - Classic",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/74143298-2022-03-21.png",
+      "radio_url": "http://107.182.234.197:7389/stream",
+      "genre": "Other",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100344",
+      "radio_name": "Radio Solo Por Gracia",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/40277145-2022-03-20.png",
+      "radio_url": "http://198.143.144.226:8204/stream/;",
+      "genre": "Religion",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "115169",
+      "radio_name": "Radio Somos Pichilemu",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/45971242-2022-11-07.png",
+      "radio_url": "http://chileservidores.cl:9300/stream/;",
+      "genre": "Latin",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100346",
+      "radio_name": "Radio Sónico",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/22757872-2022-03-20.png",
+      "radio_url": "http://streaming.comunicacioneschile.net/8054/stream",
+      "genre": "Dance",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "91305",
+      "radio_name": "Radio Sport Chile",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/45592387-2022-03-19.png",
+      "radio_url": "http://stream3.polarhost.cl/RadioSportChile",
+      "genre": "Talk",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "66595",
+      "radio_name": "Radio Stella Maris",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/93836109-2022-03-17.png",
+      "radio_url": "http://audio4.tustreaming.cl:7170/stream",
+      "genre": "Religion",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "64543",
+      "radio_name": "Radio Stellar FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/91581265-2022-03-17.png",
+      "radio_url": "http://streaming.comunicacioneschile.net:9376/stream/;",
+      "genre": "Pop",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "102254",
+      "radio_name": "Radio Stilo Discotheque",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/91685882-2022-03-20.png",
+      "radio_url": "http://sonic.portalfoxmix.cl:8266/stream/;",
+      "genre": "Decades",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "92908",
+      "radio_name": "Radio Studio80",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/33065889-2022-03-20.png",
+      "radio_url": "http://65.60.2.26:8120/stream/;",
+      "genre": "Decades",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "116626",
+      "radio_name": "Radio Sunrise Lounge",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/48844101-2022-11-19.png",
+      "radio_url": "http://sonic-cl.streaming-chile.com:8098/stream",
+      "genre": "Decades",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "66382",
+      "radio_name": "Radio Superandina",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/33585349-2022-03-17.png",
+      "radio_url": "http://atanua.broadcastchile.cl:8009/;",
+      "genre": "Talk",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "127625",
+      "radio_name": "Radio Supersonika fm",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/51128850-2023-12-29.png",
+      "radio_url": "http://unlimited1-us.dps.live/supersonikatv/supersonikatv.smil/playlist.m3u8",
+      "genre": "Pop",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100347",
+      "radio_name": "Radio Sur",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/95569848-2022-03-20.png",
+      "radio_url": "http://radiostreaming.cloudserverlatam.com:8082/live",
+      "genre": "Other",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "94687",
+      "radio_name": "Radio Sur FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/81451570-2022-03-20.png",
+      "radio_url": "http://ww3.radiosur.cl:5074/rsur",
+      "genre": "Decades",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "115015",
+      "radio_name": "Radio Talca Fm Online",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/99202102-2022-11-05.png",
+      "radio_url": "http://sonic.streamingchilenos.com:8096/stream/;",
+      "genre": "Decades",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100348",
+      "radio_name": "Radio Talcahuano",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/83823974-2022-03-20.png",
+      "radio_url": "http://sonando.us.digitalproserver.com:80/radiotalcahuano.aac",
+      "genre": "Community",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "114626",
+      "radio_name": "Radio Télé Misso",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/71205502-2022-11-07.png",
+      "radio_url": "http://stream.zeno.fm/s9s4zgdqp68uv",
+      "genre": "Religion",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100070",
+      "radio_name": "Radio Tele Radical",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/62462829-2022-03-20.png",
+      "radio_url": "http://streaming.viphosting.cl:8104/stream",
+      "genre": "Religion",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "94205",
+      "radio_name": "Radio Tiempos De Cambio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/71997514-2022-03-20.png",
+      "radio_url": "http://167.114.208.100:9892/;",
+      "genre": "Religion",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100349",
+      "radio_name": "Radio Tornagaleones",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/49532667-2022-03-20.png",
+      "radio_url": "http://tornagaleones.ddns.net:9000/stream",
+      "genre": "Pop",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "73103",
+      "radio_name": "Radio Trasandina",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/58850564-2022-03-18.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/OXIGENO.flv",
+      "genre": "Latin",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100350",
+      "radio_name": "Radio Trigal",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/73939453-2022-03-20.png",
+      "radio_url": "http://sonic.streamingchilenos.com:8104/;",
+      "genre": "Theme",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "89904",
+      "radio_name": "Radio Tropical Latina",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/09419040-2022-03-19.png",
+      "radio_url": "http://radio.mediadev.cl:8090/rtl_curico",
+      "genre": "Latin",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100351",
+      "radio_name": "Radio Tropikal Rancheras",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/85225870-2022-03-20.png",
+      "radio_url": "http://streaming.viphosting.cl:8034/stream",
+      "genre": "Talk",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "73363",
+      "radio_name": "Radio Tropikalisima",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/44612676-2022-03-18.png",
+      "radio_url": "http://audio1.tustreaming.cl:9850/stream/;",
+      "genre": "Other",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100352",
+      "radio_name": "Radio Tu Bendicion",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/38059541-2022-03-20.png",
+      "radio_url": "http://stm4.miradio.com.es:12050/;",
+      "genre": "Religion",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100353",
+      "radio_name": "Radio TVLael",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/41092675-2022-03-20.png",
+      "radio_url": "http://radio.nissireseaux.com:8007/live",
+      "genre": "Religion",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100354",
+      "radio_name": "Radio UACh",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/16182380-2022-03-20.png",
+      "radio_url": "http://centova.uach.cl:8000/stream",
+      "genre": "Classical",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "66381",
+      "radio_name": "Radio UBB",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/29703452-2022-03-17.png",
+      "radio_url": "http://146.83.195.22:8000/stream.ogg",
+      "genre": "Classical",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "79827",
+      "radio_name": "Radio UC",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/78493144-2022-03-19.png",
+      "radio_url": "http://146.155.190.111:80/;",
+      "genre": "Talk",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "79828",
+      "radio_name": "Radio UCentral",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/80404593-2022-03-19.png",
+      "radio_url": "http://unlimited3-cl.dps.live/ucentral/aac/icecast.audio",
+      "genre": "Community",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "61664",
+      "radio_name": "Radio UdeC",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/67533214-2022-03-16.png",
+      "radio_url": "http://audio.divalstream.com:8040/stream/;",
+      "genre": "Talk",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100355",
+      "radio_name": "Radio UdeSantiago",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/50516149-2022-03-20.png",
+      "radio_url": "http://rusach.janus.cl/playlist/stream.m3u8",
+      "genre": "Talk",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "79654",
+      "radio_name": "Radio UNACH",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/60329839-2022-03-19.png",
+      "radio_url": "http://streaming01.xhost.cl:8092/stream",
+      "genre": "Talk",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "97517",
+      "radio_name": "Radio Uniem",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/73675153-2022-03-20.png",
+      "radio_url": "http://sonic-cl.streaming-chile.com:8010/live",
+      "genre": "Religion",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "85557",
+      "radio_name": "Radio Universal FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/61093686-2022-03-19.png",
+      "radio_url": "http://archi-us.digitalproserver.com/universal-fm-villarrica.aac",
+      "genre": "Theme",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "66230",
+      "radio_name": "Radio Universal FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/45016663-2022-03-17.png",
+      "radio_url": "http://archi-us.digitalproserver.com/universal-fm-pitrufquen.aac",
+      "genre": "Language",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "82415",
+      "radio_name": "Radio Universal FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/79277425-2022-03-19.png",
+      "radio_url": "http://s01.azuracast.cl:8130/victoria",
+      "genre": "Theme",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "124702",
+      "radio_name": "Radio Universidad de Antofagasta",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/47720562-2023-12-29.png",
+      "radio_url": "http://107.182.234.197:7422/stream",
+      "genre": "Talk",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "65789",
+      "radio_name": "Radio Universidad de Chile",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/67638406-2022-03-17.png",
+      "radio_url": "http://streamuchile.teslati.com:80/liveruch",
+      "genre": "Talk",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "125468",
+      "radio_name": "Radio Universidad de Talca",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/29862027-2023-12-29.png",
+      "radio_url": "http://iradio.utalca.cl:8000/am",
+      "genre": "Community",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "92951",
+      "radio_name": "Radio Universo",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/43509857-2022-03-20.png",
+      "radio_url": "http://redirector.dps.live/universo/aac/icecast.audio",
+      "genre": "Pop",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "85553",
+      "radio_name": "Radio Universo",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/25552791-2022-03-19.png",
+      "radio_url": "http://unlimited4-us.dps.live/universo/aac/icecast.audio",
+      "genre": "Pop",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "84563",
+      "radio_name": "Radio Universo",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/10857791-2022-03-19.png",
+      "radio_url": "http://unlimited4-us.dps.live/universo/aac/icecast.audio",
+      "genre": "Theme",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "84123",
+      "radio_name": "Radio Universo",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/27867348-2022-03-19.png",
+      "radio_url": "http://unlimited4-us.dps.live/universo/aac/icecast.audio",
+      "genre": "Pop",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "85754",
+      "radio_name": "Radio Universo",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/06944518-2022-03-19.png",
+      "radio_url": "http://unlimited4-us.dps.live/universo/aac/icecast.audio",
+      "genre": "Pop",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "108146",
+      "radio_name": "Radio Uruguay CB",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/62616482-2022-03-21.png",
+      "radio_url": "http://stream.zeno.fm/kf00sgnm1k0uv",
+      "genre": "Other",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "56338",
+      "radio_name": "Radio Usach",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/77865464-2023-12-30.png",
+      "radio_url": "http://rusach2.janus.cl/playlist/stream.m3u8",
+      "genre": "Community",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "91328",
+      "radio_name": "Radio UVM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/40112960-2022-03-19.png",
+      "radio_url": "http://200.24.229.253:8020/;",
+      "genre": "Community",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "86011",
+      "radio_name": "Radio Vacaciones",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/32734303-2022-03-19.png",
+      "radio_url": "http://stream.playhosting.cl:8020/stream/;",
+      "genre": "Pop",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100356",
+      "radio_name": "Radio Valentin Letelier (RVL)",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/62708490-2022-03-20.png",
+      "radio_url": "http://audio.streaminghd.cl:9030/stream/;",
+      "genre": "Electronic",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "62516",
+      "radio_name": "Radio Valparaíso",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/23094991-2022-03-17.png",
+      "radio_url": "http://200.24.229.253:8250/;",
+      "genre": "Language",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "79680",
+      "radio_name": "Radio Ventisqueros",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/47821391-2022-03-19.png",
+      "radio_url": "http://archi-us.digitalproserver.com/ventisqueros-coyhaique.aac",
+      "genre": "Language",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "79695",
+      "radio_name": "Radio Vida Curicó",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/32686208-2022-03-19.png",
+      "radio_url": "http://audio3.tustreaming.cl:8052/stream",
+      "genre": "Religion",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "82463",
+      "radio_name": "Radio Vida Nueva",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/29462133-2022-03-19.png",
+      "radio_url": "http://stream.zeno.fm/raf79v3fmzzuv",
+      "genre": "Community",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100357",
+      "radio_name": "Radio ViñaFM ",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/99173429-2022-03-20.png",
+      "radio_url": "http://janus.vinafm.cl/playlist/stream.m3u8",
+      "genre": "Electronic",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100358",
+      "radio_name": "Radio Vip",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/49378399-2022-03-20.png",
+      "radio_url": "http://157.245.89.117:8010/stream",
+      "genre": "Dance",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "124243",
+      "radio_name": "Radio Visión 107.9",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/96707134-2023-12-29.png",
+      "radio_url": "http://stream.zeno.fm/jmrd0mv3g4tuv",
+      "genre": "Latin",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100359",
+      "radio_name": "Radio Voltaje",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/18700520-2022-03-20.png",
+      "radio_url": "http://sonic.portalfoxmix.club:8056/stream/;",
+      "genre": "Alternative",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "124758",
+      "radio_name": "Radio Voz de la Mujer",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/12558505-2023-12-29.png",
+      "radio_url": "http://freeuk21.listen2myradio.com:38018/;",
+      "genre": "Language",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "106384",
+      "radio_name": "Radio Web Amor de Cristo ",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/88630268-2022-03-21.png",
+      "radio_url": "http://stream.zenolive.com/0c56ubu76p8uv",
+      "genre": "Other",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "103084",
+      "radio_name": "Radio Week",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/10511547-2022-03-20.png",
+      "radio_url": "http://sonic.portalfoxmix.cl:8500/stream/;",
+      "genre": "Electronic",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100360",
+      "radio_name": "Radio X",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/71939329-2022-03-20.png",
+      "radio_url": "http://audio5.tustreaming.cl:8160/stream",
+      "genre": "Electronic",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "120213",
+      "radio_name": "Radio X FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/93872884-2023-12-29.png",
+      "radio_url": "http://stream10.usastreams.com:9322/stream",
+      "genre": "Talk",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "73637",
+      "radio_name": "Radio X Pucon",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/05134347-2022-03-18.png",
+      "radio_url": "http://audio5.tustreaming.cl:8160/stream",
+      "genre": "Electronic",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "98065",
+      "radio_name": "Radio Z",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/82923331-2022-03-20.png",
+      "radio_url": "http://198.204.228.202:8560/mp3",
+      "genre": "Decades",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100361",
+      "radio_name": "Radio Zeta",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/76386468-2022-03-20.png",
+      "radio_url": "http://unlimited1-us.dps.live/radioztv/radioztv.smil/playlist.m3u8",
+      "genre": "Pop",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "92794",
+      "radio_name": "Radio Zona Activa",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/06504416-2022-03-20.png",
+      "radio_url": "http://radio.tvstream.cl:8008/stream/;",
+      "genre": "Latin",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "120547",
+      "radio_name": "Radio89punto5",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/80238761-2023-12-29.png",
+      "radio_url": "http://us3freenew.listen2myradio.com:21295/;",
+      "genre": "Pop",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "58162",
+      "radio_name": "RadioActiva 92.5",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/76108003-2022-03-16.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ACTIVA.mp3",
+      "genre": "Pop",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "102315",
+      "radio_name": "RadioBitacora",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/55297541-2022-03-20.png",
+      "radio_url": "http://streamingsonicpro.com/8126/stream",
+      "genre": "Pop",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100362",
+      "radio_name": "RadioClassic80s",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/03947523-2022-03-20.png",
+      "radio_url": "http://167.114.208.100:9816/;",
+      "genre": "Decades",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "119569",
+      "radio_name": "RADIOFMC",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/31592894-2023-12-29.png",
+      "radio_url": "http://streaming.servicioswebmx.com:8044/stream",
+      "genre": "Latin",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "91349",
+      "radio_name": "RadioMenap",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/56341588-2022-03-19.png",
+      "radio_url": "http://sonicpanel.streaming10.net:8134/stream/;",
+      "genre": "Religion",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "119142",
+      "radio_name": "RadioMix - Online",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/46541309-2023-03-29.png",
+      "radio_url": "http://streaming.comunicacioneschile.net:8064/stream/;",
+      "genre": "Latin",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "108874",
+      "radio_name": "RadioMixElBosque",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/05986856-2022-03-21.png",
+      "radio_url": "http://stream.zeno.fm/nrubc19un2zuv",
+      "genre": "Other",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100269",
+      "radio_name": "RadioQuinta 106.5 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/10849388-2022-03-20.png",
+      "radio_url": "http://sonic.portalfoxmix.club:8098/stream/;",
+      "genre": "Community",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100363",
+      "radio_name": "Radioscura",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/66016528-2022-03-20.png",
+      "radio_url": "http://195.154.217.103:8283/stream/;",
+      "genre": "Decades",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "107303",
+      "radio_name": "Radiovivo",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/41610875-2022-03-21.png",
+      "radio_url": "http://stream.zeno.fm/gq2asbpc29duv.aac",
+      "genre": "Religion",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "86812",
+      "radio_name": "Raudal FM - Provincia De Quillota",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/60839592-2022-03-19.png",
+      "radio_url": "http://sonicpanel.mediostream.cl:8108/stream",
+      "genre": "Pop",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "101558",
+      "radio_name": "Rdbradio Vallenar",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/27529312-2022-03-20.png",
+      "radio_url": "http://sonic.streamingchilenos.com:8046/stream/;",
+      "genre": "Rock",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "98884",
+      "radio_name": "realPro Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/75689665-2022-03-20.png",
+      "radio_url": "http://192.99.18.164:9770/;",
+      "genre": "Decades",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100364",
+      "radio_name": "Recuerdos Retros",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/86129706-2022-03-20.png",
+      "radio_url": "http://sonic.portalfoxmix.cl:8226/stream/;",
+      "genre": "Decades",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "124244",
+      "radio_name": "Red Aleluya Chile",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/60047553-2023-12-29.png",
+      "radio_url": "http://servidor31.brlogic.com:7456/live",
+      "genre": "Language",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "59544",
+      "radio_name": "Red Geminis",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/12159718-2022-03-16.png",
+      "radio_url": "http://186.67.77.165:8002/live",
+      "genre": "Country",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "85291",
+      "radio_name": "Red Nacional de Emergencia",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/34346325-2022-03-19.png",
+      "radio_url": "http://audioplayer.wunderground.com:80/wb6ypf/Altadena.mp3",
+      "genre": "Talk",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "101131",
+      "radio_name": "Rescatando Clásicos",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/95589309-2022-03-20.png",
+      "radio_url": "http://192.99.18.164:9780/;",
+      "genre": "Rock",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "65489",
+      "radio_name": "Ritoque FM 107.9",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/80793174-2022-03-17.png",
+      "radio_url": "http://stream.zenolive.com/87wch5ygam8uv.aac",
+      "genre": "Rock",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "56339",
+      "radio_name": "Rock & Pop",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/61890619-2023-12-30.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_AND_POP.mp3",
+      "genre": "Pop",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "80497",
+      "radio_name": "Rock & Pop Chile",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/44980274-2022-03-19.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_AND_POP.flv",
+      "genre": "Pop",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "113197",
+      "radio_name": "Rock City Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/17956149-2022-11-05.png",
+      "radio_url": "http://stream.zeno.fm/snzwgyf2fkhvv",
+      "genre": "Rock",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "112769",
+      "radio_name": "Rock The Bones Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/09252868-2022-05-23.png",
+      "radio_url": "http://srv6.sonicpanel.cl:8278/stream",
+      "genre": "Alternative",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "90607",
+      "radio_name": "Rockaxis",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/24037181-2022-03-19.png",
+      "radio_url": "http://mdstrm.com/audio/5de7fdb07e2fde0798203821/live.m3u8",
+      "genre": "Rock",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "61410",
+      "radio_name": "Romántica",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/21170593-2022-03-16.png",
+      "radio_url": "http://unlimited5-us.dps.live/romantica/gotardis/audio/now/livestream1.m3u8",
+      "genre": "Easy Listening",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "85639",
+      "radio_name": "RTL Linares 95.3 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/45190254-2022-03-19.png",
+      "radio_url": "http://radio.mediadev.cl:8040/rtllinares",
+      "genre": "Caribbean",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "99874",
+      "radio_name": "Ruidos FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/57429133-2022-03-20.png",
+      "radio_url": "http://192.99.18.164:9880/;",
+      "genre": "Latin",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "103818",
+      "radio_name": "RX-Dio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/74587999-2022-03-20.png",
+      "radio_url": "http://stream.zeno.fm/apgtcb8fwy8uv",
+      "genre": "Decades",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "90272",
+      "radio_name": "Santa Cruz FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/57193828-2022-03-19.png",
+      "radio_url": "http://archi-us.digitalproserver.com/santa-cruz-fm.aac",
+      "genre": "Religion",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100365",
+      "radio_name": "Santiago Underground",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/82571835-2022-03-20.png",
+      "radio_url": "http://sonic.whitelabelservers.co.uk:8062/stream",
+      "genre": "Dance",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "67286",
+      "radio_name": "Santiago, Chile Cuerpo de Bomberos de Chillán",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/29507207-2022-03-17.png",
+      "radio_url": "http://broadcastify.cdnstream1.com/31702",
+      "genre": "Talk",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "118708",
+      "radio_name": "Sektor 131",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/25970350-2023-03-29.png",
+      "radio_url": "http://stream.zeno.fm/jlo9aqywbdqvv",
+      "genre": "Theme",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "109219",
+      "radio_name": "Semilla y Pan Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/44436398-2022-03-21.png",
+      "radio_url": "http://stream.zeno.fm/askyq77b2mruv",
+      "genre": "Other",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "91380",
+      "radio_name": "Sentidos FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/11445332-2022-03-19.png",
+      "radio_url": "http://168.195.128.187:8126/stream/;",
+      "genre": "Latin",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "92847",
+      "radio_name": "Ser FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/91855453-2022-03-20.png",
+      "radio_url": "http://radio.appradio.cl:8000/serfm",
+      "genre": "Other",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "109808",
+      "radio_name": "Shampoo Salsero",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/93401636-2022-03-21.png",
+      "radio_url": "http://stream.zeno.fm/44gmukxkkzzuv",
+      "genre": "Latin",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "109470",
+      "radio_name": "Sintonizados con Cristo Radio - IMPCH San Miguel",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/56763545-2022-03-21.png",
+      "radio_url": "http://stream.zeno.fm/aeuz3sba9yzuv",
+      "genre": "Religion",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "104866",
+      "radio_name": "Sirius Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/24698958-2022-03-20.png",
+      "radio_url": "http://stream.zeno.fm/gbcfxh4v44zuv",
+      "genre": "Other",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "80637",
+      "radio_name": "Solamente Rock & Metal Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/56922115-2022-03-19.png",
+      "radio_url": "http://sonic.mallocohosting.cl:8050/stream",
+      "genre": "Rock",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "109408",
+      "radio_name": "Solo Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/23379517-2022-03-21.png",
+      "radio_url": "http://stream.zeno.fm/7w966kvt5x8uv",
+      "genre": "Other",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "72159",
+      "radio_name": "Sonar 105.3 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/70065492-2022-03-17.png",
+      "radio_url": "http://mdstrm.com/audio/5c915724519bce27671c4d15/icecast.audio",
+      "genre": "Pop",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "83487",
+      "radio_name": "Súbela Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/56815585-2022-03-19.png",
+      "radio_url": "http://mdstrm.com/audio/5d013e4bc8a64d0da420ced6/live.m3u8",
+      "genre": "Pop",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "116689",
+      "radio_name": "Sunrise Online",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/88260700-2022-11-19.png",
+      "radio_url": "http://sonic-cl.streaming-chile.com:8044/stream",
+      "genre": "Decades",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "106753",
+      "radio_name": "Super45.fm",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/70742278-2022-03-21.png",
+      "radio_url": "http://s4.radio.co/s421105570/listen",
+      "genre": "Alternative",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "104223",
+      "radio_name": "SuperStereo Chile - SuperStereo2",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/43658733-2022-03-20.png",
+      "radio_url": "http://198.204.228.202:8157/aac_live",
+      "genre": "Other",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "118096",
+      "radio_name": "Sur FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/22017370-2023-02-07.png",
+      "radio_url": "http://stream.zeno.fm/mcsd4vm6f78uv",
+      "genre": "Decades",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "74950",
+      "radio_name": "Tele 13 Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/28933134-2022-03-18.png",
+      "radio_url": "http://mdstrm.com/audio/5c915613519bce27671c4caa/live.m3u8",
+      "genre": "Theme",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "79283",
+      "radio_name": "Teleangol Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/59667943-2022-03-18.png",
+      "radio_url": "http://unlimited1-us.dps.live/teleangolradio/teleangolradio.smil/playlist.m3u8",
+      "genre": "Jazz",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "80247",
+      "radio_name": "The Riff Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/98365071-2022-03-19.png",
+      "radio_url": "http://sonic.portalfoxmix.cl:8124/stream/;",
+      "genre": "Blues",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "90274",
+      "radio_name": "Top FM 95.1",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/95038640-2022-03-19.png",
+      "radio_url": "http://198.245.51.58:10995/topfm",
+      "genre": "Religion",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "89303",
+      "radio_name": "Tributo Valentina Online",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/06449927-2022-03-19.png",
+      "radio_url": "http://radio.tvstream.cl:8060/stream/;",
+      "genre": "Decades",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "98458",
+      "radio_name": "tvcanal5 Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/48377095-2022-03-20.png",
+      "radio_url": "http://109.169.15.20:24989/;",
+      "genre": "Pop",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100366",
+      "radio_name": "TXS Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/38603537-2022-03-20.png",
+      "radio_url": "http://radio.tvstream.cl:8148/stream/;",
+      "genre": "Talk",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100367",
+      "radio_name": "UCSC Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/64365705-2022-03-20.png",
+      "radio_url": "http://200.14.96.230:8067/;;",
+      "genre": "Classical",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "60290",
+      "radio_name": "UCV Radio 103.5 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/67106558-2022-03-16.png",
+      "radio_url": "http://sonando.us.digitalproserver.com/ucvradio",
+      "genre": "Pop",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100368",
+      "radio_name": "Ufroradio 89.3 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/86867912-2022-03-20.png",
+      "radio_url": "http://mdstrm.com/audio/5e7d00bf57988307b310abff/icecast.audio",
+      "genre": "Decades",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "74931",
+      "radio_name": "UMAG FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/89335050-2022-03-18.png",
+      "radio_url": "http://chileservidores.cl:9322/stream/;",
+      "genre": "Community",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "116319",
+      "radio_name": "Vamos A La Hípica",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/27899305-2022-11-09.png",
+      "radio_url": "http://audio1.tustreaming.cl:8165/stream",
+      "genre": "Talk",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "98315",
+      "radio_name": "Vamos FM On-Line",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/68336482-2022-03-20.png",
+      "radio_url": "http://stream.zenolive.com/gs5utnbwx2quv",
+      "genre": "Other",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100369",
+      "radio_name": "VC Online",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/80508358-2022-03-20.png",
+      "radio_url": "http://192.99.18.164:9954/;",
+      "genre": "Pop",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "104329",
+      "radio_name": "VIVA80",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/54542890-2022-03-20.png",
+      "radio_url": "http://stream.zeno.fm/xdg6pyxv44zuv",
+      "genre": "Decades",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "96434",
+      "radio_name": "Vivo Fm",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/47969563-2022-03-20.png",
+      "radio_url": "http://stream.zenolive.com/e74svbpc29duv",
+      "genre": "Alternative",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "95884",
+      "radio_name": "VLN Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/55495939-2022-03-20.png",
+      "radio_url": "http://sonando.us.digitalproserver.com:80/vln",
+      "genre": "Theme",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "102283",
+      "radio_name": "Vol.Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/42833213-2022-03-20.png",
+      "radio_url": "http://radio.volradio.cl:8000/volradio",
+      "genre": "Other",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100192",
+      "radio_name": "World Hits Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/43268152-2022-03-20.png",
+      "radio_url": "http://stream.zenolive.com/cpvysp4m4ceuv",
+      "genre": "Other",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100370",
+      "radio_name": "Zona4Fm",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/57998933-2022-03-20.png",
+      "radio_url": "http://audio4.tustreaming.cl:7520/zona4fm",
+      "genre": "Latin",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    },
+    {
+      "radio_id": "88751",
+      "radio_name": "ZonaDjsGroup",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/67170751-2022-03-19.png",
+      "radio_url": "http://sonic.portalfoxmix.club:8060/stream/;",
+      "genre": "Dance",
+      "country_id": "193",
+      "country_name": "Chile",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/3010-2022-01-22.gif"
+    }
+  ]
+}

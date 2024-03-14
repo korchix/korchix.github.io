@@ -1,0 +1,2016 @@
+{
+  "status": "ok",
+  "limit": 200,
+  "pages": 12,
+  "order": "ASC",
+  "total_radios": "2597",
+  "country_details": [
+    {
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    }
+  ],
+  "stations": [
+    {
+      "radio_id": "80486",
+      "radio_name": "RJM Radio - RJM Dance",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/35629916-2022-03-19.png",
+      "radio_url": "http://www.radioking.com/play/rjm-dance",
+      "genre": "Pop",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "80485",
+      "radio_name": "RJM Radio - RJM French",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/14045121-2022-03-19.png",
+      "radio_url": "http://www.radioking.com/play/top-tonic-france",
+      "genre": "Language",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "92085",
+      "radio_name": "RJM Radio - RJM Groove",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/27129480-2022-03-20.png",
+      "radio_url": "http://listen.radioking.com/radio/181675/stream/223462",
+      "genre": "Rock",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "80487",
+      "radio_name": "RJM Radio - RJM Lounge",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/78987268-2022-03-19.png",
+      "radio_url": "http://listen.radioking.com/radio/372103/stream/422206",
+      "genre": "Easy Listening",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "80488",
+      "radio_name": "RJM Radio - RJM Love",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/37100972-2022-03-19.png",
+      "radio_url": "http://www.radioking.com/play/the-river-of-calm",
+      "genre": "Language",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "80489",
+      "radio_name": "RJM Radio - RJM Pop",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/58205439-2022-03-19.png",
+      "radio_url": "http://www.radioking.com/play/hits-93-toronto",
+      "genre": "Pop",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "80490",
+      "radio_name": "RJM Radio - RJM RnB",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/17986730-2022-03-19.png",
+      "radio_url": "http://www.radioking.com/play/old-school-90-s-r-b",
+      "genre": "Language",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "105368",
+      "radio_name": "RJTH",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/15246310-2022-03-20.png",
+      "radio_url": "http://www.radioking.com/play/rjth",
+      "genre": "Electronic",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "90345",
+      "radio_name": "RKC - Radio Kaos Caribou",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/83981031-2022-03-19.png",
+      "radio_url": "http://rkc.ice.infomaniak.ch:80/stream",
+      "genre": "Pop",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "84278",
+      "radio_name": "RKH Radio Kol Hachalom",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/67439668-2022-03-19.png",
+      "radio_url": "http://radiokolhachalom.ice.infomaniak.ch/radiokolhachalom-high.mp3",
+      "genre": "Language",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "80160",
+      "radio_name": "RLV",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/46825883-2022-03-19.png",
+      "radio_url": "http://listen.radioking.com/radio/1743/stream/125",
+      "genre": "Decades",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "90601",
+      "radio_name": "RMJ 90.1",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/34032936-2022-03-19.png",
+      "radio_url": "http://stream.votreradiosurlenet.eu/rmj.mp3",
+      "genre": "Community",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "80492",
+      "radio_name": "RMJ Tropical",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/54849662-2022-03-19.png",
+      "radio_url": "http://www.hosting-serv.com:9140/;;",
+      "genre": "Community",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "105498",
+      "radio_name": "RMN Gourin",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/13108455-2022-03-20.png",
+      "radio_url": "http://stream.rmn.bzh:8000/livermn.mp3",
+      "genre": "Pop",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "105499",
+      "radio_name": "RMN Ploërmel",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/77199981-2022-03-20.png",
+      "radio_url": "http://bretagnetv.bzh/ploermel",
+      "genre": "Pop",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "105500",
+      "radio_name": "RMN Pontivy",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/50811152-2022-03-20.png",
+      "radio_url": "http://bretagnetv.bzh/pontivy",
+      "genre": "Pop",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "73258",
+      "radio_name": "RMV Radio Marne la Vallée",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/83604004-2022-03-18.png",
+      "radio_url": "http://rmv.amediacast.com/livehd",
+      "genre": "RnB",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "108704",
+      "radio_name": "RN7 Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/20900110-2022-03-21.png",
+      "radio_url": "http://87.98.183.19:9000/rn7.mp3",
+      "genre": "Decades",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "98002",
+      "radio_name": "RNB1",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/06737294-2022-03-20.png",
+      "radio_url": "http://listen.radioking.com/radio/181987/stream/223816",
+      "genre": "RnB",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "100905",
+      "radio_name": "Road FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/58059946-2022-03-20.png",
+      "radio_url": "http://manager2.creativradio.com:1090/;",
+      "genre": "Electronic",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "120608",
+      "radio_name": "Rock Station Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/33338274-2023-12-29.png",
+      "radio_url": "http://ecmanager2.pro-fhi.net:1420/;",
+      "genre": "Rock",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "111640",
+      "radio_name": "RocK-N-SounD Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/13546532-2022-04-15.png",
+      "radio_url": "http://www.net-webradio.fr:19210/;",
+      "genre": "Rock",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "66665",
+      "radio_name": "Rockenfolie Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/57573377-2022-03-17.png",
+      "radio_url": "http://player.rockenfolie.com:80/;;",
+      "genre": "Rock",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "85609",
+      "radio_name": "Rocking Chair",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/82101058-2022-03-19.png",
+      "radio_url": "http://sirius.shoutca.st:8820/stream/;",
+      "genre": "Dance",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "126680",
+      "radio_name": "ROCKLINE ACOUSTIC",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/48808902-2023-12-29.png",
+      "radio_url": "http://ice.creacast.com/rockline_classic",
+      "genre": "null",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "82374",
+      "radio_name": "Roots Legacy - Dub Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/72339504-2022-03-19.png",
+      "radio_url": "http://rootslegacy.fr:8080/;;",
+      "genre": "Electronic",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "89621",
+      "radio_name": "RPA Radio Pays dArles",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/50537951-2022-03-19.png",
+      "radio_url": "http://rparadiodupaysdarles.ice.infomaniak.ch/rparadiodupaysdarles-128-bak.mp3",
+      "genre": "Hip Hop",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "91370",
+      "radio_name": "RPG - Radio Pays de Guéret - 96.5 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/01838930-2022-03-19.png",
+      "radio_url": "http://radiopaysdegueret.ice.infomaniak.ch/radiopaysdegueret.mp3",
+      "genre": "Other",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "65803",
+      "radio_name": "RPL",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/06252337-2022-03-17.png",
+      "radio_url": "http://listen.radioking.com/radio/2966/stream/9128",
+      "genre": "Decades",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "109968",
+      "radio_name": "RPL Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/66336813-2022-03-21.png",
+      "radio_url": "http://listen.radioking.com/radio/2966/stream/9128",
+      "genre": "Other",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "92834",
+      "radio_name": "RPO 97 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/81726956-2022-03-20.png",
+      "radio_url": "http://listen.radioking.com/radio/348622/stream/397555",
+      "genre": "Community",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "119629",
+      "radio_name": "RSL Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/90276246-2023-12-29.png",
+      "radio_url": "http://rslradio.ice.infomaniak.ch/rslradio-128.mp3",
+      "genre": "Language",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "99235",
+      "radio_name": "RSTLSS",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/40370000-2022-03-20.png",
+      "radio_url": "http://stream.radiosolution.fr/rstlss.mp3",
+      "genre": "Language",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "57822",
+      "radio_name": "RTL",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/57869051-2022-03-16.png",
+      "radio_url": "http://streaming.radio.funradio.fr/rtl-1-44-128",
+      "genre": "Language",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "74752",
+      "radio_name": "RTL Réunion",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/51729246-2022-03-18.png",
+      "radio_url": "http://rtlreunion.ice.infomaniak.ch/rtlreunion-64.aac",
+      "genre": "Talk",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "62386",
+      "radio_name": "RTL2",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/00432994-2022-03-17.png",
+      "radio_url": "http://streaming.radio.rtl2.fr/rtl2-1-44-128",
+      "genre": "Theme",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "61194",
+      "radio_name": "RTS FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/20025701-2022-03-16.png",
+      "radio_url": "http://str0.creacast.com/rts-sete",
+      "genre": "Pop",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "109972",
+      "radio_name": "RTS FM Béziers",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/30264169-2022-03-21.png",
+      "radio_url": "http://sc.creacast.com/rts-beziers",
+      "genre": "Language",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "109975",
+      "radio_name": "RTS FM Montpellier",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/32428990-2022-03-21.png",
+      "radio_url": "http://sc.creacast.com/rts-montpellier",
+      "genre": "Pop",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "109977",
+      "radio_name": "RTS FM Narbonne",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/62245183-2022-03-21.png",
+      "radio_url": "http://sc.creacast.com:80/rts-narbonne",
+      "genre": "Pop",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "109979",
+      "radio_name": "RTS FM Nîmes",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/25494986-2022-03-21.png",
+      "radio_url": "http://sc.creacast.com/rts-nimes",
+      "genre": "Pop",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "109982",
+      "radio_name": "RTS FM Perpignan",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/56877945-2022-03-21.png",
+      "radio_url": "http://sc.creacast.com/rts-perpignan",
+      "genre": "Other",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "109984",
+      "radio_name": "RTS FM Toulouse",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/71618439-2022-03-21.png",
+      "radio_url": "http://sc.creacast.com/rts-toulouse",
+      "genre": "Language",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "124125",
+      "radio_name": "Rugby World Cup Live Audio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/41908876-2023-12-29.png",
+      "radio_url": "http://bcovlive-a.akamaihd.net/a0d3cf471fa4495684bc9ed5a9b6632a/eu-west-1/6068525061001/profile_0/chunklist_dvr.m3u8",
+      "genre": "Talk",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "106999",
+      "radio_name": "RV7 Caraïbes",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/02492184-2022-03-21.png",
+      "radio_url": "http://stream.zeno.fm/wyh0gy666p8uv",
+      "genre": "Caribbean",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "106998",
+      "radio_name": "RV7 MIX ",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/65771397-2022-03-21.png",
+      "radio_url": "http://stream.zeno.fm/q8bnbc81czzuv",
+      "genre": "Electronic",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "99321",
+      "radio_name": "RVI 101.4 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/35464560-2022-03-20.png",
+      "radio_url": "http://37.187.77.45:9105/xstream",
+      "genre": "Language",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "99207",
+      "radio_name": "RVLD",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/02032228-2022-03-20.png",
+      "radio_url": "http://rvld.ice.infomaniak.ch/rvld-983.mp3",
+      "genre": "Community",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "80532",
+      "radio_name": "RVR Radio Libre",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/41846203-2022-03-19.png",
+      "radio_url": "http://live.aurafm.org:7000/rvr-villerest",
+      "genre": "RnB",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "95178",
+      "radio_name": "RvS",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/14343062-2022-03-20.png",
+      "radio_url": "http://listen.radioking.com/radio/68122/stream/105853",
+      "genre": "Decades",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "104233",
+      "radio_name": "Salsa Peru",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/97994694-2022-03-20.png",
+      "radio_url": "http://sc10.conectarhosting.com:8786/stream/;",
+      "genre": "Latin",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "115858",
+      "radio_name": "Sanlimit Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/19132646-2022-11-08.png",
+      "radio_url": "http://stream.zeno.fm/tiyzsm5fowduv",
+      "genre": "Caribbean",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "123392",
+      "radio_name": "saRAvaDIO",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/92002848-2023-12-29.png",
+      "radio_url": "http://manager8.streamradio.fr:3350/stream",
+      "genre": "Pop",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "74558",
+      "radio_name": "Satellite FM Paris",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/85947899-2022-03-18.png",
+      "radio_url": "http://stream.zeno.fm/z5f6h818sd0uv",
+      "genre": "Theme",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "74559",
+      "radio_name": "Satellite FM Paris",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/56093531-2022-03-18.png",
+      "radio_url": "http://stream.zeno.fm/bm8rc818sd0uv.aac",
+      "genre": "Theme",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "99319",
+      "radio_name": "Sensation Rock",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/16339491-2022-03-20.png",
+      "radio_url": "http://sensationrock.ice.infomaniak.ch/sensationrock-128.aac",
+      "genre": "Rock",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "91466",
+      "radio_name": "Sensuelle Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/39156343-2022-03-19.png",
+      "radio_url": "http://listen.openstream.co/3119/audio",
+      "genre": "Decades",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "91510",
+      "radio_name": "Sensuelle Radio 80",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/08780249-2022-03-19.png",
+      "radio_url": "http://listen.openstream.co/3119/audio",
+      "genre": "Decades",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "109987",
+      "radio_name": "Sentimentale Moi",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/89201058-2022-03-21.png",
+      "radio_url": "http://listen.radioking.com/radio/149743/stream/468571",
+      "genre": "RnB",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "91680",
+      "radio_name": "Sépia Méditerranée",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/39053471-2022-03-19.png",
+      "radio_url": "http://radio4.pro-fhi.net:9163/stream/;",
+      "genre": "Latin",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "80567",
+      "radio_name": "Sequence FM Annecy",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/90269778-2022-03-19.png",
+      "radio_url": "http://163.172.37.18:8000/sequence-annecy.mp3",
+      "genre": "Pop",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "80568",
+      "radio_name": "Sequence FM Courchevel",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/51372105-2022-03-19.png",
+      "radio_url": "http://163.172.37.18:8000/sequence-courchevel.mp3",
+      "genre": "Pop",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "76237",
+      "radio_name": "Sirelazik",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/50484934-2022-03-18.png",
+      "radio_url": "http://planner.sirelazik.com:8080/stream",
+      "genre": "African",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "99190",
+      "radio_name": "Size Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/32712348-2022-03-20.png",
+      "radio_url": "http://stream.radiojar.com/atr1e8aswa5tv",
+      "genre": "RnB",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "122378",
+      "radio_name": "Sky FM ",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/46547958-2023-12-29.png",
+      "radio_url": "http://188.165.215.158:9104/stream",
+      "genre": "null",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "107596",
+      "radio_name": "Skylegend",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/07446206-2022-03-21.png",
+      "radio_url": "http://listen.radioking.com/radio/1743/stream/125",
+      "genre": "Decades",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "57047",
+      "radio_name": "Skyrock",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/05985765-2022-03-16.png",
+      "radio_url": "http://icecast.skyrock.net/s/natio_mp3_128k?tvr_name=yourplayer&tvr_section1=64",
+      "genre": "Hip Hop",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "122338",
+      "radio_name": "Slow Jams Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/02018541-2023-12-29.png",
+      "radio_url": "http://ice.creacast.com/slow_jamz",
+      "genre": "RnB",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "91665",
+      "radio_name": "Slowly Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/07458442-2022-03-19.png",
+      "radio_url": "http://igor.torontocast.com:2150/stream",
+      "genre": "Electronic",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "117233",
+      "radio_name": "SlyRadio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/43302697-2022-12-23.png",
+      "radio_url": "http://ecmanager5.pro-fhi.net:2300/stream",
+      "genre": "Pop",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "99173",
+      "radio_name": "So Funk",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/28698002-2022-03-20.png",
+      "radio_url": "http://51.91.58.205:8000/sofunk.m4a",
+      "genre": "Dance",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "80215",
+      "radio_name": "So Music Station Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/55602521-2022-03-19.png",
+      "radio_url": "http://listen.radioking.com/radio/96223/stream/134860",
+      "genre": "Language",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "91386",
+      "radio_name": "Sofaradios.fr - Jazzanova",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/50703800-2022-03-19.png",
+      "radio_url": "http://91.121.51.19:8042/;",
+      "genre": "Jazz",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "62756",
+      "radio_name": "Sol FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/36761458-2022-03-17.png",
+      "radio_url": "http://stric6.streamakaci.com/solfm64.mp3",
+      "genre": "Rock",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "64055",
+      "radio_name": "Soleil FM 96.3",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/58802070-2024-01-05.png",
+      "radio_url": "http://stunnel1.cyber-streaming.com:8120/stream/;",
+      "genre": "Language",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "85972",
+      "radio_name": "Soleil FM Montélimar",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/80995746-2022-03-19.png",
+      "radio_url": "http://radiosoleil.ice.infomaniak.ch/radiosoleil-32.mp3",
+      "genre": "Community",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "115860",
+      "radio_name": "SONINKARA 24",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/52794442-2022-11-08.png",
+      "radio_url": "http://s2.radio.co/sbc7a5fcc3/listen",
+      "genre": "Language",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "107462",
+      "radio_name": "Sono Dynamite Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/19632851-2022-03-21.png",
+      "radio_url": "http://manager6.streamradio.fr:1580/stream",
+      "genre": "Electronic",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "109990",
+      "radio_name": "Soul Addict Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/05273971-2022-03-21.png",
+      "radio_url": "http://listen.radioking.com/radio/380659/stream/431704",
+      "genre": "RnB",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "108999",
+      "radio_name": "SOUL RADIO Classic Soul",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/41050805-2022-03-21.png",
+      "radio_url": "http://listen.soulradio.eu:8200/eu",
+      "genre": "Other",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "74602",
+      "radio_name": "Soulmet Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/36739539-2022-03-18.png",
+      "radio_url": "http://91.121.59.45:10184/autodj",
+      "genre": "RnB",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "87882",
+      "radio_name": "Soulside Radio - BAR",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/14500264-2022-03-19.png",
+      "radio_url": "http://radio2.vip-radios.fm:8065/stream-128kmp3-BarSoulside",
+      "genre": "Electronic",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "74100",
+      "radio_name": "Soulside Radio - CAFÉ",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/03639790-2022-03-18.png",
+      "radio_url": "http://radio2.vip-radios.fm:8068/stream-128kmp3-CafeSoulside",
+      "genre": "Easy Listening",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "74099",
+      "radio_name": "SoulSide Radio - Club",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/24992619-2022-03-18.png",
+      "radio_url": "http://radio2.vip-radios.fm:8071/stream-64kaac-ClubSoulside",
+      "genre": "Dance",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "99225",
+      "radio_name": "Sound Garden Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/50254431-2022-03-20.png",
+      "radio_url": "http://listen.radioking.com/radio/212878/stream/255973",
+      "genre": "Community",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "98281",
+      "radio_name": "Source Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/52191651-2022-03-20.png",
+      "radio_url": "http://www.radioking.com/play/wavesradio/",
+      "genre": "RnB",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "109992",
+      "radio_name": "Souvenirs FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/77765410-2022-03-21.png",
+      "radio_url": "http://souvenirsfmsoustons.ice.infomaniak.ch/souvenirsfmsoustons-128.mp3",
+      "genre": "Pop",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "111024",
+      "radio_name": "SPEED RADIO ",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/18556066-2022-03-21.png",
+      "radio_url": "http://live.friendly-radio.fr:8000/radio",
+      "genre": "Electronic",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "119308",
+      "radio_name": "Speed Radio - Speed Eighties",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/95304273-2023-03-29.png",
+      "radio_url": "http://flux.speed-radio.com:8010/eighties",
+      "genre": "Decades",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "119309",
+      "radio_name": "Speed Radio - Speed Latino",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/23407281-2023-03-29.png",
+      "radio_url": "http://flux.speed-radio.com:8070/latino",
+      "genre": "Latin",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "119311",
+      "radio_name": "Speed Radio - Speed Lounge",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/12851057-2023-03-29.png",
+      "radio_url": "http://flux.speed-radio.com:8100/lounge",
+      "genre": "Easy Listening",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "119310",
+      "radio_name": "Speed Radio - Speed RAP - RNB",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/37971788-2023-03-29.png",
+      "radio_url": "http://flux.speed-radio.com:8090/rap",
+      "genre": "Hip Hop",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "70758",
+      "radio_name": "Spoon Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/39757119-2022-03-17.png",
+      "radio_url": "http://spoonradio.ice.infomaniak.ch:80/spoonradio-high.mp3",
+      "genre": "Rock",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "99946",
+      "radio_name": "Star Power Musique",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/37003065-2022-03-20.png",
+      "radio_url": "http://www.radioking.com/play/radiomorgane",
+      "genre": "Other",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "109995",
+      "radio_name": "Stars FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/33558921-2022-03-21.png",
+      "radio_url": "http://listen.radioking.com/radio/120337/stream/160393",
+      "genre": "Pop",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "104364",
+      "radio_name": "Stars Music Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/90066663-2022-03-20.png",
+      "radio_url": "http://www.radioking.com/play/starsmusicradio",
+      "genre": "Other",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "99261",
+      "radio_name": "Station Country",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/21185092-2022-03-20.png",
+      "radio_url": "http://stream2.hosting-quebec.ca:8030/radio.mp3",
+      "genre": "Country",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "92990",
+      "radio_name": "Stefline Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/12211487-2022-03-20.png",
+      "radio_url": "http://radioairplay.fr:1510/stream",
+      "genre": "Decades",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "68402",
+      "radio_name": "StereoChic Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/41714805-2022-03-17.png",
+      "radio_url": "http://listen.radioking.com/radio/2079/stream/6533",
+      "genre": "Dance",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "99337",
+      "radio_name": "Steweo - Mowno.com",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/81450119-2022-03-20.png",
+      "radio_url": "http://listen.radioking.com/radio/26746/stream/59470",
+      "genre": "Language",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "88155",
+      "radio_name": "STL FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/28355058-2022-03-19.png",
+      "radio_url": "http://radio12.pro-fhi.net:9072/stream",
+      "genre": "Dance",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "102230",
+      "radio_name": "Stone Rock Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/76542583-2022-03-20.png",
+      "radio_url": "http://hyades.shoutca.st:8251/stream2/;",
+      "genre": "Pop",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "104093",
+      "radio_name": "Stronger Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/60770960-2022-03-20.png",
+      "radio_url": "http://streaming.radio.co/s5ae7a619f/listen",
+      "genre": "Dance",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "109997",
+      "radio_name": "Studio55",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/08922196-2022-03-21.png",
+      "radio_url": "http://listen.radioking.com/radio/285715/stream/331726",
+      "genre": "Pop",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "60166",
+      "radio_name": "Styl FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/20988154-2022-03-16.png",
+      "radio_url": "http://95.154.228.120:8343/;",
+      "genre": "Pop",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "92881",
+      "radio_name": "Sud Mediterranee Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/81233805-2022-03-20.png",
+      "radio_url": "http://listen.radioking.com/radio/455/stream/62803",
+      "genre": "Country",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "99275",
+      "radio_name": "Sud Nivernais Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/48948215-2022-03-20.png",
+      "radio_url": "http://str0.creacast.com/sud-nivernais-radio",
+      "genre": "Language",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "65361",
+      "radio_name": "Sud Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/25361337-2022-03-17.png",
+      "radio_url": "http://str0.creacast.com/sudradio",
+      "genre": "Talk",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "61320",
+      "radio_name": "Sud Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/73358121-2022-03-16.png",
+      "radio_url": "http://ice.creacast.com/sudradio",
+      "genre": "Theme",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "65688",
+      "radio_name": "Sud Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/82755021-2022-03-17.png",
+      "radio_url": "http://str0.creacast.com/sudradio",
+      "genre": "Community",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "62913",
+      "radio_name": "Sud Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/15883341-2022-03-17.png",
+      "radio_url": "http://str0.creacast.com/sudradio",
+      "genre": "Region",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "110000",
+      "radio_name": "SUN  Cholet",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/72762499-2022-03-21.png",
+      "radio_url": "http://diffusion.lafrap.fr/webradio-cholet.mp3",
+      "genre": "Pop",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "110002",
+      "radio_name": "SUN - Classique",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/26522273-2022-03-21.png",
+      "radio_url": "http://diffusion.lafrap.fr/sun-classique.mp3",
+      "genre": "Classical",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "110004",
+      "radio_name": "SUN - Hip Hop",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/91175509-2022-03-21.png",
+      "radio_url": "http://diffusion.lafrap.fr/sun-hip-hop.mp3",
+      "genre": "Language",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "110007",
+      "radio_name": "SUN - Jazz",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/06844605-2022-03-21.png",
+      "radio_url": "http://diffusion.lafrap.fr/sun-jazz.mp3",
+      "genre": "Blues",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "110009",
+      "radio_name": "SUN - Junior",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/32457240-2022-03-21.png",
+      "radio_url": "http://diffusion.lafrap.fr/sun-junior.mp3",
+      "genre": "Pop",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "110011",
+      "radio_name": "SUN - Metal",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/05888520-2022-03-21.png",
+      "radio_url": "http://diffusion.lafrap.fr/sun-metal.mp3",
+      "genre": "Rock",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "110013",
+      "radio_name": "SUN - Nouvo",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/52163575-2022-03-21.png",
+      "radio_url": "http://diffusion.lafrap.fr/sun-nouvo.mp3",
+      "genre": "Pop",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "110016",
+      "radio_name": "SUN - Rock",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/46683017-2022-03-21.png",
+      "radio_url": "http://diffusion.lafrap.fr/sun-rock.mp3",
+      "genre": "Rock",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "110018",
+      "radio_name": "SUN - Saint-Nazaire",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/67171088-2022-03-21.png",
+      "radio_url": "http://diffusion.lafrap.fr:8000/webradio-saintnazaire.mp3",
+      "genre": "Region",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "110020",
+      "radio_name": "SUN - Soul & Funk",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/21962491-2022-03-21.png",
+      "radio_url": "http://diffusion.lafrap.fr/sun-soul.funk.mp3",
+      "genre": "RnB",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "110023",
+      "radio_name": "SUN - Sport",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/11925142-2022-03-21.png",
+      "radio_url": "http://diffusion.lafrap.fr/sunsport.mp3",
+      "genre": "Other",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "122402",
+      "radio_name": "Sun FM Music ",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/14875429-2023-12-29.png",
+      "radio_url": "http://stream.vestaradio.com/SUNFMMUSIC",
+      "genre": "null",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "57718",
+      "radio_name": "SUN Nantes",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/29981411-2022-03-16.png",
+      "radio_url": "http://streaming.prun.net:8000/sunhd.mp3",
+      "genre": "Pop",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "87088",
+      "radio_name": "SunAlpes Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/56407913-2022-03-19.png",
+      "radio_url": "http://funalpesradio.ice.infomaniak.ch/funalpes.mp3",
+      "genre": "Dance",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "96387",
+      "radio_name": "SunFM83",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/93926530-2022-03-20.png",
+      "radio_url": "http://ftp2.vestaradio.com/SunFM83/;",
+      "genre": "Pop",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "108808",
+      "radio_name": "Sunlight Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/83010113-2022-03-21.png",
+      "radio_url": "http://radio10.pro-fhi.net:9086/live",
+      "genre": "Pop",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "95184",
+      "radio_name": "Sunrise to Sunset",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/21824394-2022-03-20.png",
+      "radio_url": "http://listen.radionomy.com/sunrisetosunset",
+      "genre": "Decades",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "107656",
+      "radio_name": "Sunshine Radio ",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/67170058-2022-03-21.png",
+      "radio_url": "http://sunshine.ice.infomaniak.ch/sunshine-aac96.aac",
+      "genre": "Pop",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "80847",
+      "radio_name": "Super 8 Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/68044008-2022-03-19.png",
+      "radio_url": "http://listen.radioking.com/radio/243574/stream/287707",
+      "genre": "Electronic",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "86047",
+      "radio_name": "Superloustic",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/81905621-2022-03-19.png",
+      "radio_url": "http://radio6.pro-fhi.net/live/SUPERLOUSTIC",
+      "genre": "Community",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "80240",
+      "radio_name": "SURF FM 102.3",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/38411418-2022-03-19.png",
+      "radio_url": "http://91.121.202.224:12340/;;",
+      "genre": "Language",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "91982",
+      "radio_name": "Sweet FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/78459956-2022-03-20.png",
+      "radio_url": "http://sweetfm-perche72.ice.infomaniak.ch/sweetfm-perche72-192.mp3",
+      "genre": "Pop",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "92540",
+      "radio_name": "Sweet FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/97430816-2022-03-20.png",
+      "radio_url": "http://sweetfm-haut-anjou.ice.infomaniak.ch/sweetfm-haut-anjou-192.mp3",
+      "genre": "Pop",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "82047",
+      "radio_name": "Sweet FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/59005195-2022-03-19.png",
+      "radio_url": "http://stream.sweetfm.fr:8000/backup-sss",
+      "genre": "Pop",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "82048",
+      "radio_name": "Sweet FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/28783135-2022-03-19.png",
+      "radio_url": "http://sweetfm-perche72.ice.infomaniak.ch/sweetfm-perche72-192.mp3",
+      "genre": "Talk",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "63634",
+      "radio_name": "Sweet FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/06869495-2022-03-17.png",
+      "radio_url": "http://sweetfm-blois.ice.infomaniak.ch/sweetfm-blois-192.mp3",
+      "genre": "Electronic",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "92053",
+      "radio_name": "Sweet FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/07822964-2022-03-20.png",
+      "radio_url": "http://stream.sweetfm.fr:8000/backup-aig",
+      "genre": "Easy Listening",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "92054",
+      "radio_name": "Sweet FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/75200686-2022-03-20.png",
+      "radio_url": "http://stream.sweetfm.fr:8000/backup-loupe",
+      "genre": "Language",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "92055",
+      "radio_name": "Sweet FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/03274740-2022-03-20.png",
+      "radio_url": "http://sweetfm-perche28.ice.infomaniak.ch/sweetfm-perche28-192.mp3",
+      "genre": "Language",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "92313",
+      "radio_name": "Sweet FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/68306255-2022-03-20.png",
+      "radio_url": "http://sweetfm-haut-anjou.ice.infomaniak.ch/sweetfm-haut-anjou-192.mp3",
+      "genre": "Language",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "65455",
+      "radio_name": "Sweet FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/70517893-2022-03-17.png",
+      "radio_url": "http://sweetfm-alencon.ice.infomaniak.ch/sweetfm-alencon-192.mp3",
+      "genre": "Talk",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "91826",
+      "radio_name": "Sweet FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/52370692-2022-03-20.png",
+      "radio_url": "http://sweetfm-lemans.ice.infomaniak.ch/sweetfm-lemans-192.mp3",
+      "genre": "Language",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "91827",
+      "radio_name": "Sweet FM ",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/34548995-2022-03-20.png",
+      "radio_url": "http://d3-soundcast-edge-1.infomaniak.ch/sweetfm-perche72-192.mp3",
+      "genre": "Pop",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "101821",
+      "radio_name": "Sweet FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/24287265-2022-03-20.png",
+      "radio_url": "http://sweetfm-sologne.ice.infomaniak.ch/sweetfm-sologne-192.mp3",
+      "genre": "Language",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "101822",
+      "radio_name": "Sweet FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/57657154-2022-03-20.png",
+      "radio_url": "http://sweetfm-aigle-verneuil.ice.infomaniak.ch/sweetfm-aigle-verneuil-192.mp3",
+      "genre": "Language",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "101823",
+      "radio_name": "Sweet FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/92024397-2022-03-20.png",
+      "radio_url": "http://sweetfm-sologne.ice.infomaniak.ch/sweetfm-sologne-192.mp3",
+      "genre": "Language",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "101824",
+      "radio_name": "Sweet FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/62853356-2022-03-20.png",
+      "radio_url": "http://sweetfm-blois.ice.infomaniak.ch/sweetfm-blois-192.mp3",
+      "genre": "Language",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "101825",
+      "radio_name": "Sweet FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/64503848-2022-03-20.png",
+      "radio_url": "http://sweetfm-rouen.ice.infomaniak.ch/sweetfm-rouen-192.mp3",
+      "genre": "Language",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "101827",
+      "radio_name": "Sweet FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/58338387-2022-03-20.png",
+      "radio_url": "http://sweetfm-vendome-montoire.ice.infomaniak.ch/sweetfm-vendome-montoire-192.mp3",
+      "genre": "Language",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "101828",
+      "radio_name": "Sweet FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/09596098-2022-03-20.png",
+      "radio_url": "http://sweetfm-vendome-montoire.ice.infomaniak.ch/sweetfm-vendome-montoire-192.mp3",
+      "genre": "Language",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "91085",
+      "radio_name": "Sweet FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/82898880-2022-03-19.png",
+      "radio_url": "http://d3-soundcast-edge-2.infomaniak.ch/sweetfm-blois-192.mp3",
+      "genre": "Community",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "56956",
+      "radio_name": "Swigg",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/00492881-2022-03-16.png",
+      "radio_url": "http://185.74.70.35/start-adofm-high.mp3",
+      "genre": "Pop",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "97020",
+      "radio_name": "Swigg - Swigg Classic",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/91025699-2022-03-20.png",
+      "radio_url": "http://swigg-classic-fr.ice.infomaniak.ch/swigg-classic-fr.mp3",
+      "genre": "Other",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "97021",
+      "radio_name": "Swigg - Swigg Rap FR",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/94418888-2022-03-20.png",
+      "radio_url": "http://swigg-fr.ice.infomaniak.ch/swigg-fr.mp3",
+      "genre": "Language",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "97022",
+      "radio_name": "Swigg - Swigg US",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/01716230-2022-03-20.png",
+      "radio_url": "http://swigg-us.ice.infomaniak.ch/swigg-us.mp3",
+      "genre": "Language",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "97019",
+      "radio_name": "Swigg - Swigg@Work",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/32848745-2022-03-20.png",
+      "radio_url": "http://swigg-work.ice.infomaniak.ch/swigg-work.mp3",
+      "genre": "Dance",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "93877",
+      "radio_name": "Swing FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/56478215-2022-03-20.png",
+      "radio_url": "http://swingfm.ice.infomaniak.ch/swingfm-128.mp3",
+      "genre": "Jazz",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "109713",
+      "radio_name": "Swoothradio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/19008013-2022-03-21.png",
+      "radio_url": "http://strw1.openstream.co/2438",
+      "genre": "Easy Listening",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "75011",
+      "radio_name": "SWR (Studec Reunion)",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/00112299-2022-03-18.png",
+      "radio_url": "http://studecwebradio.ice.infomaniak.ch/studecwebradio-96.aac",
+      "genre": "Decades",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "99271",
+      "radio_name": "SXM Flavor Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/56034941-2022-03-20.png",
+      "radio_url": "http://sonic01.instainternet.com:8330/stream",
+      "genre": "Language",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "106355",
+      "radio_name": "Take It",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/19224678-2022-03-21.png",
+      "radio_url": "http://s31.myradiostream.com:4196/;;",
+      "genre": "Other",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "113607",
+      "radio_name": "Take Now Tempo",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/49685251-2022-11-05.png",
+      "radio_url": "http://www.radioking.com/play/take-now-tempo1",
+      "genre": "Electronic",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "107297",
+      "radio_name": "Taliesin",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/36099296-2022-03-21.png",
+      "radio_url": "http://taliesin.out.airtime.pro:8000/taliesin_b",
+      "genre": "Region",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "72458",
+      "radio_name": "Tamil Olli India",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/48466948-2022-03-17.png",
+      "radio_url": "http://91.121.165.41:9035/stream.mp3",
+      "genre": "Indian",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "72603",
+      "radio_name": "Tamilarkural Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/46227024-2022-03-18.png",
+      "radio_url": "http://174.36.206.197:7006/stream/;",
+      "genre": "Pop",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "102662",
+      "radio_name": "Tavu Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/24000724-2022-03-20.png",
+      "radio_url": "http://www.radioking.com/play/tavu-radio",
+      "genre": "Theme",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "115369",
+      "radio_name": "techno importation",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/64151016-2022-11-08.png",
+      "radio_url": "http://stream.zeno.fm/w9qvew1lza8tv",
+      "genre": "Electronic",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "78495",
+      "radio_name": "Tekno1 Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/27732473-2022-03-18.png",
+      "radio_url": "http://cressida.shoutca.st:8591/;listen.mp3;",
+      "genre": "Electronic",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "64796",
+      "radio_name": "Tendance Ouest",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/96658986-2022-03-17.png",
+      "radio_url": "http://tendanceouest-alencon.ice.infomaniak.ch/alencon.mp3",
+      "genre": "Language",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "75088",
+      "radio_name": "Tendance Ouest - 80",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/89614174-2022-03-18.png",
+      "radio_url": "http://d3-soundcast-edge-6.infomaniak.ch/quatrevingt.mp3",
+      "genre": "Decades",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "75090",
+      "radio_name": "Tendance Ouest - Club",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/25977759-2022-03-18.png",
+      "radio_url": "http://tendanceouest-club.ice.infomaniak.ch/club.mp3",
+      "genre": "Electronic",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "75089",
+      "radio_name": "Tendance Ouest - Pop Rock",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/93065302-2022-03-18.png",
+      "radio_url": "http://tendanceouest-centremanche.ice.infomaniak.ch/saintlo.mp3",
+      "genre": "Pop",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "75091",
+      "radio_name": "Tendance Ouest - Urban",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/09787584-2022-03-18.png",
+      "radio_url": "http://tendanceouest-urban.ice.infomaniak.ch/urban.mp3",
+      "genre": "Pop",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "80921",
+      "radio_name": "Tendance Ouest Calvados",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/98955800-2022-03-19.png",
+      "radio_url": "http://tendanceouest-calvados.ice.infomaniak.ch/caen.mp3",
+      "genre": "Language",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "64272",
+      "radio_name": "Tendance Ouest Manche",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/72693125-2022-03-17.png",
+      "radio_url": "http://tendanceouest-centremanche.ice.infomaniak.ch/saintlo.mp3",
+      "genre": "Language",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "75092",
+      "radio_name": "Tendance Ouest Orne",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/91363891-2022-03-18.png",
+      "radio_url": "http://tendanceouest-alencon.ice.infomaniak.ch/alencon.mp3",
+      "genre": "Pop",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "80920",
+      "radio_name": "Tendance Ouest Rouen",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/03934010-2022-03-19.png",
+      "radio_url": "http://tendanceouest-rouen.ice.infomaniak.ch/rouen.mp3",
+      "genre": "Theme",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "108810",
+      "radio_name": "TERRE FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/66048456-2022-03-21.png",
+      "radio_url": "http://www.terrefm.com:8000/;",
+      "genre": "Jazz",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "62359",
+      "radio_name": "Terre Marine FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/52247198-2022-03-17.png",
+      "radio_url": "http://radio3.pro-fhi.net:9045/live",
+      "genre": "Community",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "88639",
+      "radio_name": "TFR Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/62052936-2022-03-19.png",
+      "radio_url": "http://ftp6.vestaradio.com:8000/14Radio/;",
+      "genre": "Theme",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "99372",
+      "radio_name": "THANX GOD RADIO PARIS",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/71615804-2022-03-20.png",
+      "radio_url": "http://listen.radioking.com/radio/36338/stream/72635",
+      "genre": "Language",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "80933",
+      "radio_name": "The Colorful Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/84564004-2022-03-19.png",
+      "radio_url": "http://91.121.59.45:8244/stream",
+      "genre": "Decades",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "116468",
+      "radio_name": "THE RCEI CHANNEL",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/88261174-2022-11-16.png",
+      "radio_url": "http://rceichannel2016.out.airtime.pro:8000/rceichannel2016_a",
+      "genre": "Religion",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "80944",
+      "radio_name": "Theme Radio 90.3",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/26116552-2022-03-19.png",
+      "radio_url": "http://213.186.61.62:9300/;",
+      "genre": "Language",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "99282",
+      "radio_name": "Thonon Alpes Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/46850057-2022-03-20.png",
+      "radio_url": "http://listen.radioking.com/radio/146030/stream/186781",
+      "genre": "Language",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "89301",
+      "radio_name": "Timbre FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/05595656-2022-03-19.png",
+      "radio_url": "http://5.39.86.216:8666/timbrefm",
+      "genre": "Community",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "110025",
+      "radio_name": "Tonic Radio - 100% Ladies",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/04222636-2022-03-21.png",
+      "radio_url": "http://tonicradio100ladies.ice.infomaniak.ch/tonicradio100ladies-128.mp3",
+      "genre": "Community",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "110027",
+      "radio_name": "Tonic Radio - 100% Lounge",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/31328098-2022-03-21.png",
+      "radio_url": "http://tonic100disco.ice.infomaniak.ch/tonic100disco-128.mp3",
+      "genre": "Easy Listening",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "110029",
+      "radio_name": "Tonic Radio - 100% Pop Rock",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/79092312-2022-03-21.png",
+      "radio_url": "http://100newwave.ice.infomaniak.ch/100poprock.mp3",
+      "genre": "Pop",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "110030",
+      "radio_name": "Tonic Radio - Avignon",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/10774938-2022-03-21.png",
+      "radio_url": "http://tonicradioavignon.ice.infomaniak.ch/tonicradioavignon.mp3",
+      "genre": "Pop",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "110032",
+      "radio_name": "Tonic Radio - Lyon et Région",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/27841807-2022-03-21.png",
+      "radio_url": "http://hit-sport.ice.infomaniak.ch/hit-sport-high.mp3?ver=395023",
+      "genre": "Talk",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "110035",
+      "radio_name": "Tonic Radio - Tonic Revolution Only Remix",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/76090675-2022-03-21.png",
+      "radio_url": "http://hitetsport.ice.infomaniak.ch/hitetsport.mp3",
+      "genre": "Pop",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "80124",
+      "radio_name": "Tonic Radio Bourgoin",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/07954850-2022-03-19.png",
+      "radio_url": "http://tonicradiobourgoin.ice.infomaniak.ch/tonicradiobourgoin.mp3",
+      "genre": "Pop",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "64164",
+      "radio_name": "Tonic Radio Charlon",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/69081017-2022-03-17.png",
+      "radio_url": "http://hit-sport.ice.infomaniak.ch/hit-sport-high.mp3",
+      "genre": "Pop",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "65539",
+      "radio_name": "Tonic Radio Lyon",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/69320344-2022-03-17.png",
+      "radio_url": "http://hit-sport.ice.infomaniak.ch/hit-sport-high.mp3",
+      "genre": "Pop",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "110034",
+      "radio_name": "Tonic Radio Marseille",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/74117684-2022-03-21.png",
+      "radio_url": "http://tonicradiohd.ice.infomaniak.ch/tonicradiohd-128.mp3",
+      "genre": "Pop",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "80977",
+      "radio_name": "Tonic Radio Villefranche",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/05239113-2022-03-19.png",
+      "radio_url": "http://tonicradiovillefranche.ice.infomaniak.ch/tonicradiovillefranche.mp3",
+      "genre": "Pop",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "110037",
+      "radio_name": "TOO RADIO 80s",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/72650676-2022-03-21.png",
+      "radio_url": "http://listen.radioking.com/radio/70804/stream/108661",
+      "genre": "Decades",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    },
+    {
+      "radio_id": "99885",
+      "radio_name": "TOP 80 radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/14364989-2022-03-20.png",
+      "radio_url": "http://stream.only1.fr:8050/stream",
+      "genre": "Decades",
+      "country_id": "168",
+      "country_name": "France",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
+    }
+  ]
+}

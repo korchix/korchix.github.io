@@ -1,0 +1,2016 @@
+{
+  "status": "ok",
+  "limit": 200,
+  "pages": 12,
+  "order": "ASC",
+  "total_radios": "2439",
+  "country_details": [
+    {
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    }
+  ],
+  "stations": [
+    {
+      "radio_id": "90761",
+      "radio_name": "Radio Villa Trinidad",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/16094997-2022-03-19.png",
+      "radio_url": "http://186.121.171.234:8000/;",
+      "genre": "Community",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "113949",
+      "radio_name": "Radio ViLo",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/25662217-2022-11-07.png",
+      "radio_url": "http://server7.hostradios.com:8498/stream",
+      "genre": "Talk",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "90533",
+      "radio_name": "Radio Vinilo 103.5",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/77633108-2022-03-19.png",
+      "radio_url": "http://serverssl.deradios.stream:8074/;",
+      "genre": "Decades",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "73624",
+      "radio_name": "Radio Vinilo 96.7",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/25301906-2022-03-18.png",
+      "radio_url": "http://184.107.187.146:9006/radiovinilo",
+      "genre": "Other",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "61472",
+      "radio_name": "Radio Vision 99.5 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/50683504-2022-03-16.png",
+      "radio_url": "http://cdn.instream.audio:9061/stream",
+      "genre": "Pop",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "113701",
+      "radio_name": "Radio Vision Manantial",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/85440951-2022-07-11.png",
+      "radio_url": "http://www.genexservicios.com:8142/stream/;",
+      "genre": "Religion",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "116349",
+      "radio_name": "Radio Viva",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/46398965-2022-11-09.png",
+      "radio_url": "http://200.58.106.247:8572/;",
+      "genre": "Latin",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100731",
+      "radio_name": "Radio VIVO 95.9",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/63473258-2022-03-20.png",
+      "radio_url": "http://alpha.radioplayer.com.ar:9332/radiovivo995",
+      "genre": "Other",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "79711",
+      "radio_name": "Radio Vos 90.1",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/84408592-2022-03-19.png",
+      "radio_url": "http://streaming01.shockmedia.com.ar:9200/stream/;",
+      "genre": "Pop",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "96108",
+      "radio_name": "Radio Vos 95.5",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/72338335-2022-03-20.png",
+      "radio_url": "http://alpha.radioplayer.com.ar:9106/radiovos955",
+      "genre": "Pop",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "64747",
+      "radio_name": "Radio Vox Fm",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/25984134-2022-03-17.png",
+      "radio_url": "http://streaming01.shockmedia.com.ar:7448/stream/;",
+      "genre": "Pop",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "115807",
+      "radio_name": "Radio Voz Tandil",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/79552995-2022-11-08.png",
+      "radio_url": "http://95.216.15.108:8000/;",
+      "genre": "Pop",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "101901",
+      "radio_name": "Radio Wasap",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/61645983-2022-03-20.png",
+      "radio_url": "http://stream.zeno.fm/b5q3dbe6zuquv",
+      "genre": "Decades",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "109644",
+      "radio_name": "Radio Wasserfalle",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/46146655-2022-03-21.png",
+      "radio_url": "http://radio.grupokairos.net:8068/;",
+      "genre": "Other",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "79743",
+      "radio_name": "Rádio Web Jornal O Correio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/57953318-2022-03-19.png",
+      "radio_url": "http://stream.zenolive.com/veerw5m8gwzuv.aac",
+      "genre": "Language",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "123882",
+      "radio_name": "Radio Weekend",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/57483469-2023-12-29.png",
+      "radio_url": "http://streaming5.locucionar.com:22710/stream",
+      "genre": "null",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "113703",
+      "radio_name": "Radio Wiki",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/36654515-2022-07-11.png",
+      "radio_url": "http://stream.zeno.fm/bums4m4xnwzuv",
+      "genre": "Other",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "115990",
+      "radio_name": "Radio Winners",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/80645174-2022-11-09.png",
+      "radio_url": "http://streamall.alsolnet.com:443/fmdecanuelashd",
+      "genre": "Pop",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "79769",
+      "radio_name": "Radio Wtango",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/25659933-2022-03-19.png",
+      "radio_url": "http://streaming.localhost.net.ar:8020/;",
+      "genre": "Language",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100604",
+      "radio_name": "Radio X102",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/46212760-2022-03-20.png",
+      "radio_url": "http://streaming2.locucionar.com:8156/stream",
+      "genre": "Other",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "120418",
+      "radio_name": "RADIO YALA",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/49433899-2023-12-29.png",
+      "radio_url": "http://server.laradio.online:8304/stream/;",
+      "genre": "Latin",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "90552",
+      "radio_name": "Radio Yguazú FM 99.9",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/61589959-2022-03-19.png",
+      "radio_url": "http://streaming.solucionesdf.com:8008/stream",
+      "genre": "Other",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "109257",
+      "radio_name": "Radio Z 107.3",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/59407283-2022-03-21.png",
+      "radio_url": "http://streamlov.alsolnet.com/radioz/live/playlist.m3u8",
+      "genre": "Community",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "92790",
+      "radio_name": "Radio Zero 102.1",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/26361343-2022-03-20.png",
+      "radio_url": "http://sonic1.veemesoft.com.ar:8190/stream/;",
+      "genre": "Pop",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "79782",
+      "radio_name": "Radio Zero 91.1",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/61762142-2022-03-19.png",
+      "radio_url": "http://104.131.4.100:8020/aac",
+      "genre": "Rock",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "96672",
+      "radio_name": "Radio Zeta 94.5",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/56856358-2022-03-20.png",
+      "radio_url": "http://server.ohradio.com.ar:9650/stream/;",
+      "genre": "Decades",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "125135",
+      "radio_name": "Radio Zeus",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/65612030-2023-12-29.png",
+      "radio_url": "http://masstreaming.online:8610/stream/;",
+      "genre": "Language",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "122332",
+      "radio_name": "Radio Zonica",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/16109221-2023-12-29.png",
+      "radio_url": "http://streamlky.alsolnet.com/radiozonica",
+      "genre": "Theme",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "74737",
+      "radio_name": "Radio Zonica",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/88745305-2022-03-18.png",
+      "radio_url": "http://streamlky.alsolnet.com:443/radiozonica",
+      "genre": "Community",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "82341",
+      "radio_name": "Radioactiva",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/51335310-2022-03-19.png",
+      "radio_url": "http://01.solumedia.com.ar:8534/;stream.aac",
+      "genre": "Pop",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100240",
+      "radio_name": "RadioD 101.3",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/68850792-2022-03-20.png",
+      "radio_url": "http://server.laradio.online:9003/live",
+      "genre": "Theme",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "57302",
+      "radio_name": "Radioeter",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/59636372-2022-03-16.png",
+      "radio_url": "http://streams.cloudcast.media:8110/listen.mp3",
+      "genre": "Talk",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "72273",
+      "radio_name": "Radiofiel 106.5",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/45795601-2022-03-17.png",
+      "radio_url": "http://server4.hostradios.com:8218/stream/;",
+      "genre": "Other",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "56417",
+      "radio_name": "Radiofónica",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/70101349-2023-12-30.png",
+      "radio_url": "http://radio02.ferozo.com:8628/stream/;",
+      "genre": "Pop",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "116426",
+      "radio_name": "Radiofónica",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/75762827-2022-11-16.png",
+      "radio_url": "http://stream.zeno.fm/ht3b5w79uqzuv",
+      "genre": "Other",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "119931",
+      "radio_name": "Radiogram",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/30466166-2023-12-29.png",
+      "radio_url": "http://stream.zeno.fm/0uzhp4sm8rhvv",
+      "genre": "Latin",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "89834",
+      "radio_name": "RadioMango PapaChango",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/21152414-2022-03-19.png",
+      "radio_url": "http://whsh4u-clients.com:9281/stream",
+      "genre": "Alternative",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "89177",
+      "radio_name": "RadioMix 106.9",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/38023243-2022-03-19.png",
+      "radio_url": "http://streaming01.shockmedia.com.ar:8144/stream/;",
+      "genre": "Pop",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "106493",
+      "radio_name": "RadioPhonic La Plata",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/00079695-2022-03-21.png",
+      "radio_url": "http://radiophonic.com.ar:8000/radiophonic.mp3",
+      "genre": "Decades",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "117143",
+      "radio_name": "RadioSonica",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/50673502-2022-12-20.png",
+      "radio_url": "http://alpha.radioplayer.com.ar:9110/radiosonica",
+      "genre": "null",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "115804",
+      "radio_name": "Radiosonica 98.5",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/57350897-2022-11-08.png",
+      "radio_url": "http://server2.nvradios.com:8232/radio.mp3/;",
+      "genre": "Pop",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "96398",
+      "radio_name": "RadioTEC",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/12029535-2022-03-20.png",
+      "radio_url": "http://streaming1.locucionar.com:14229/stream/;",
+      "genre": "Decades",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "103057",
+      "radio_name": "Radium FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/67044363-2022-03-20.png",
+      "radio_url": "http://streaming3.locucionar.com:17818/stream/;",
+      "genre": "Pop",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "104659",
+      "radio_name": "Radmeli OnLine",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/86640156-2022-03-20.png",
+      "radio_url": "http://stream.zeno.fm/qpd7rh1c3k0uv",
+      "genre": "Decades",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "113579",
+      "radio_name": "Raices",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/19347182-2022-11-05.png",
+      "radio_url": "http://stream.zeno.fm/0p0km3zgcc9uv",
+      "genre": "Alternative",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "104877",
+      "radio_name": "Random Music Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/10802970-2022-03-20.png",
+      "radio_url": "http://stream.zeno.fm/g36m9x0h0wzuv",
+      "genre": "Rock",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "66231",
+      "radio_name": "Ranquel 93.9 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/24960609-2022-03-17.png",
+      "radio_url": "http://vps-6de10815.vps.ovh.ca:8130/;",
+      "genre": "Theme",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "81322",
+      "radio_name": "RBD Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/87533875-2022-03-19.png",
+      "radio_url": "http://streaming.radiosenlinea.com.ar:8718/stream/;",
+      "genre": "Talk",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "79884",
+      "radio_name": "Rck FM 107.3",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/67739029-2022-03-19.png",
+      "radio_url": "http://cdn.instream.audio:8137/stream",
+      "genre": "Pop",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "90751",
+      "radio_name": "RCM 88 Radio Ciudad",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/22991840-2022-03-19.png",
+      "radio_url": "http://51.222.155.208:8084/;",
+      "genre": "Other",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "116340",
+      "radio_name": "Real politik",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/19504822-2022-11-09.png",
+      "radio_url": "http://01.solumedia.com.ar:8638/stream",
+      "genre": "Talk",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "123584",
+      "radio_name": "REC-Vorterix Santa Fe",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/21828622-2023-12-29.png",
+      "radio_url": "http://argentina.republicahosting.com:8278/live",
+      "genre": "Other",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "79908",
+      "radio_name": "Recuerdos FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/61902944-2022-03-19.png",
+      "radio_url": "http://servidor.i-live.com.ar:9710/;",
+      "genre": "Decades",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "97678",
+      "radio_name": "Recuerdos FM 97.9",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/29945639-2022-03-20.png",
+      "radio_url": "http://server10.veemesoft.com.ar:19512/;",
+      "genre": "Other",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "79909",
+      "radio_name": "RED 101 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/49655635-2022-03-19.png",
+      "radio_url": "http://stm3.srvif.com:7190/;",
+      "genre": "Pop",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "74836",
+      "radio_name": "Red 92",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/38019621-2022-03-18.png",
+      "radio_url": "http://s5.voscast.com:9246/stream",
+      "genre": "Other",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "64945",
+      "radio_name": "Red 92",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/15674865-2022-03-17.png",
+      "radio_url": "http://s5.voscast.com:9246/stream",
+      "genre": "Electronic",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "115834",
+      "radio_name": "Red Aleluya",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/95558278-2022-11-08.png",
+      "radio_url": "http://nl.digitalrm.pt:8050/stream",
+      "genre": "Community",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "74868",
+      "radio_name": "Red Ciudadana ",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/71321115-2022-03-18.png",
+      "radio_url": "http://cdn.instream.audio:9092/stream",
+      "genre": "Latin",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "124082",
+      "radio_name": "Red De La Costa",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/22164039-2023-12-29.png",
+      "radio_url": "http://radio02.ferozo.com:8607/;",
+      "genre": "Talk",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "60945",
+      "radio_name": "Red Panorama",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/90353955-2022-03-16.png",
+      "radio_url": "http://desatec.net:8706/stream/;",
+      "genre": "Language",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "115919",
+      "radio_name": "RED TL Rosario",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/05060813-2022-11-09.png",
+      "radio_url": "http://51.161.119.117:8158/stream",
+      "genre": "Latin",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "91278",
+      "radio_name": "Red Vision Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/52848601-2022-03-19.png",
+      "radio_url": "http://miestacion.turadioonline.com.ar:8138/stream/;",
+      "genre": "Theme",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "115840",
+      "radio_name": "Relatores",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/70387495-2022-11-08.png",
+      "radio_url": "http://web-ssl.relatores.com.ar/radio.mp3",
+      "genre": "Talk",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "90590",
+      "radio_name": "Renacer Regional",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/83142972-2022-03-19.png",
+      "radio_url": "http://streaming2.locucionar.com:9263/stream/;",
+      "genre": "Community",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "124325",
+      "radio_name": "RET FM ",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/36226256-2023-12-29.png",
+      "radio_url": "http://serverssl.deradios.stream:8182/stream/;",
+      "genre": "null",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "98045",
+      "radio_name": "Retro 99",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/47568481-2022-03-20.png",
+      "radio_url": "http://streaming.escuchanosonline.com:8154/stream/;",
+      "genre": "Decades",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "79944",
+      "radio_name": "Retro Classic FM Nova",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/99542492-2022-03-19.png",
+      "radio_url": "http://62.210.129.76:9314/stream/;",
+      "genre": "Decades",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "97223",
+      "radio_name": "Retro FM 106.7",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/13314930-2022-03-20.png",
+      "radio_url": "http://streaming.radiosenlinea.com.ar/8922/stream",
+      "genre": "Other",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "118144",
+      "radio_name": "Retro Vip",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/20269853-2023-02-07.png",
+      "radio_url": "http://server.laradio.online:8722/stream.mp3",
+      "genre": "null",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "88856",
+      "radio_name": "RetroMusic San Justo(SF)",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/05449287-2022-03-19.png",
+      "radio_url": "http://eu4.fastcast4u.com:5938/;",
+      "genre": "Other",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "91363",
+      "radio_name": "Retronet Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/00184278-2022-03-19.png",
+      "radio_url": "http://streaming.radiosenlinea.com.ar:8694/stream/;",
+      "genre": "Decades",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "89064",
+      "radio_name": "RF Radio Concordia",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/54492600-2022-03-19.png",
+      "radio_url": "http://radio.solumedia.com.ar:8078/stream",
+      "genre": "Other",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "88130",
+      "radio_name": "RG Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/37800242-2022-03-19.png",
+      "radio_url": "http://sp.sintonizapp.com:8020/live",
+      "genre": "Decades",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "63032",
+      "radio_name": "Riel FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/69535984-2022-03-17.png",
+      "radio_url": "http://streamconex.com:8122/stream",
+      "genre": "Community",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "116307",
+      "radio_name": "Rincón Gaucho FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/07256946-2022-11-09.png",
+      "radio_url": "http://dj91.hostingnuclear.com:9952/stream/;",
+      "genre": "Community",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "125516",
+      "radio_name": "Rincon Paraguayo",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/93225555-2023-12-29.png",
+      "radio_url": "http://104.238.205.177:8360/stream",
+      "genre": "Language",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "90598",
+      "radio_name": "Rincon Santafesino",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/73575645-2022-03-19.png",
+      "radio_url": "http://radiohd.net:7106/",
+      "genre": "Community",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "80479",
+      "radio_name": "Rio Fm 88.9",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/16451909-2022-03-19.png",
+      "radio_url": "http://209.133.216.3:7251/stream/;",
+      "genre": "Pop",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "84340",
+      "radio_name": "Ritual Música 103.7",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/01823857-2022-03-19.png",
+      "radio_url": "http://streamall.alsolnet.com:443/fmritual",
+      "genre": "Dance",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "123856",
+      "radio_name": "RKM Radio Solidaria",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/66071517-2023-12-29.png",
+      "radio_url": "http://www.genexservicios.com:8246/stream",
+      "genre": "Religion",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "115096",
+      "radio_name": "RM Joven Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/87617623-2022-11-05.png",
+      "radio_url": "http://01.solumedia.com.ar:8114/stream",
+      "genre": "Religion",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "101774",
+      "radio_name": "RMX Radio Mix",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/36367350-2022-03-20.png",
+      "radio_url": "http://freeuk24.listen2myradio.com:9532/;",
+      "genre": "Dance",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "111263",
+      "radio_name": "RN RADIO",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/24782838-2022-03-23.png",
+      "radio_url": "http://streaming.dinesat.com:7004/stream",
+      "genre": "Talk",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "105440",
+      "radio_name": "Rock & Blues Club",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/89503624-2022-03-20.png",
+      "radio_url": "http://stream.zeno.fm/augfuhfryhhvv",
+      "genre": "Blues",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "107444",
+      "radio_name": "ROCK & METAL Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/24930214-2022-03-21.png",
+      "radio_url": "http://stream.zeno.fm/xbvntqdrdg8uv",
+      "genre": "Rock",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "124089",
+      "radio_name": "Rock & Pop 87.9",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/93172428-2023-12-29.png",
+      "radio_url": "http://vps-6de10815.vps.ovh.ca:8033/stream",
+      "genre": "Pop",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "124058",
+      "radio_name": "Rock & Pop 88.5",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/40473989-2023-12-29.png",
+      "radio_url": "http://tolkien.republicahosting.net:8004/live",
+      "genre": "Pop",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "123940",
+      "radio_name": "Rock & Pop 90.3 ",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/94911783-2023-12-29.png",
+      "radio_url": "http://radio.streamingnacional.online:8346/stream",
+      "genre": "Pop",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "124123",
+      "radio_name": "Rock & Pop 90.9",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/28783244-2023-12-29.png",
+      "radio_url": "http://streaming2.locucionar.com:8153/stream",
+      "genre": "Pop",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "56223",
+      "radio_name": "Rock & Pop 95.9 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/72854156-2023-12-29.png",
+      "radio_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOPAAC.aac",
+      "genre": "Pop",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "116167",
+      "radio_name": "Rock and Play",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/90488523-2022-11-09.png",
+      "radio_url": "http://host.serviceinfinito.com.ar:8006/stream/;",
+      "genre": "Pop",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "115958",
+      "radio_name": "Rock and Pop Bahía Blanca",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/60019129-2022-11-09.png",
+      "radio_url": "http://radio01.ferozo.com:8114/stream",
+      "genre": "Pop",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "106198",
+      "radio_name": "RPM Hits Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/55833662-2022-03-21.png",
+      "radio_url": "http://radios.solumedia.com:6118/stream/;",
+      "genre": "Other",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "80516",
+      "radio_name": "RSC Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/72633838-2022-03-19.png",
+      "radio_url": "http://162.244.80.139:8131/autodj",
+      "genre": "Pop",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "116010",
+      "radio_name": "RSO 91.7 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/10645703-2022-11-09.png",
+      "radio_url": "http://186.4.100.138:8080/fm",
+      "genre": "Theme",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "124613",
+      "radio_name": "RT FM 88.1",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/09095853-2023-12-29.png",
+      "radio_url": "http://streaming01.shockmedia.com.ar:8624/stream/;",
+      "genre": "Talk",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "103228",
+      "radio_name": "Sabelo",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/37448974-2022-03-20.png",
+      "radio_url": "http://streaming3.locucionar.com:17140/stream/;",
+      "genre": "Theme",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "103270",
+      "radio_name": "Sabelo Salta",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/84681761-2022-03-20.png",
+      "radio_url": "http://streaming3.locucionar.com:17140/stream/;",
+      "genre": "Pop",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "67831",
+      "radio_name": "San Pedro FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/43263476-2022-03-17.png",
+      "radio_url": "http://streaming2.locucionar.com:8132/stream/;",
+      "genre": "Latin",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "95175",
+      "radio_name": "Santa Bárbara 106.5 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/48127794-2022-03-20.png",
+      "radio_url": "http://centova.hostradios.com:8160/stream/;",
+      "genre": "Pop",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "117197",
+      "radio_name": "Santiago & Copla 1120",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/74698249-2022-12-23.png",
+      "radio_url": "http://51.161.119.117:8144/stream",
+      "genre": "Latin",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "105007",
+      "radio_name": "Sboolx",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/41552007-2022-03-20.png",
+      "radio_url": "http://stream.zeno.fm/k4nnhhbsrg0uv",
+      "genre": "Other",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "92846",
+      "radio_name": "Sensaciones en El Aire",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/54325175-2022-03-20.png",
+      "radio_url": "http://questreaming.info:26034/stream/;",
+      "genre": "Other",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "124981",
+      "radio_name": "Sensation Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/44413889-2023-12-29.png",
+      "radio_url": "http://radio01.ferozo.com:8976/stream/;",
+      "genre": "Pop",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "82031",
+      "radio_name": "Sentimientos Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/99452428-2022-03-19.png",
+      "radio_url": "http://streaming2.locucionar.com:8988/stream/;",
+      "genre": "Latin",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "91529",
+      "radio_name": "Sentir Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/06267801-2022-03-19.png",
+      "radio_url": "http://radiosentir.sytes.net:443/stream",
+      "genre": "Decades",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "105935",
+      "radio_name": "Show Radio 101.1",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/57355644-2022-03-21.png",
+      "radio_url": "http://serverssl.deradios.stream:8104/;",
+      "genre": "Decades",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "84639",
+      "radio_name": "Sí 98.9",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/33099103-2022-03-19.png",
+      "radio_url": "http://server.laradio.online:8202/stream/;",
+      "genre": "Latin",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "98090",
+      "radio_name": "Siempre Radio 93.3",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/35531389-2022-03-20.png",
+      "radio_url": "http://alpha.radioplayer.com.ar:9226/siempreradio933",
+      "genre": "Rock",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "83074",
+      "radio_name": "Siente Mendoza Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/10611021-2022-03-19.png",
+      "radio_url": "http://sienteme.radioca.st:9147/stream/;",
+      "genre": "Latin",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "62209",
+      "radio_name": "Signos FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/86158290-2022-03-17.png",
+      "radio_url": "http://fmsignos.com.ar:8009/;",
+      "genre": "Language",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "110701",
+      "radio_name": "Signos FM 90.9",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/83434245-2022-03-21.png",
+      "radio_url": "http://162.210.192.29:9766/stream/;",
+      "genre": "Community",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "107202",
+      "radio_name": "Sinfonia fm Radio Online",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/49399755-2022-03-21.png",
+      "radio_url": "http://streaming01.shockmedia.com.ar:8688/stream/;",
+      "genre": "Pop",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "125484",
+      "radio_name": "SintoniaUNO",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/74442620-2023-12-29.png",
+      "radio_url": "http://stm4.xcast.com.br:8006/;",
+      "genre": "Language",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "92852",
+      "radio_name": "SIRUNER Radio Online",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/06818670-2022-03-20.png",
+      "radio_url": "http://streaming.uner.edu.ar/cedelu",
+      "genre": "Talk",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "90625",
+      "radio_name": "Skorpio FM 102.5",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/34142035-2022-03-19.png",
+      "radio_url": "http://st.produccionesdha.com:6842/;",
+      "genre": "Other",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "112131",
+      "radio_name": "Sky Classic",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/29038568-2022-05-15.png",
+      "radio_url": "http://sonicpanel.hostradios.com:8305/stream",
+      "genre": "null",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "115022",
+      "radio_name": "Skylab Tigre Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/09076187-2022-11-05.png",
+      "radio_url": "http://streaming.escuchanosonline.com:8564/stream/;",
+      "genre": "Pop",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "126829",
+      "radio_name": "Social Club 97.7",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/67834397-2023-12-29.png",
+      "radio_url": "http://streamlky.alsolnet.com/socialclubaudio",
+      "genre": "Latin",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "59677",
+      "radio_name": "Sol 91.5",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/53734310-2022-03-16.png",
+      "radio_url": "rtmp://59d52c5a5ce5e.streamlock.net/radio/fmsol.stream",
+      "genre": "Pop",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "105311",
+      "radio_name": "Sol FM 89.3",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/87031666-2022-03-20.png",
+      "radio_url": "http://alpha.radioplayer.com.ar:9124/fmsol893",
+      "genre": "Pop",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "115390",
+      "radio_name": "Solo Vinilo",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/25288195-2022-11-08.png",
+      "radio_url": "http://stream.zeno.fm/7p5tn0dfam8uv",
+      "genre": "Rock",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "95995",
+      "radio_name": "Somos FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/12529395-2022-03-20.png",
+      "radio_url": "http://streaming1.locucionar.com:13414/stream/;",
+      "genre": "Other",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "107017",
+      "radio_name": "Somos música 91.3",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/33284149-2022-03-21.png",
+      "radio_url": "http://server.laradio.online:9074/stream/;",
+      "genre": "Pop",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "83244",
+      "radio_name": "Somos Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/92328925-2022-03-19.png",
+      "radio_url": "http://ipanel.instream.audio:8002/stream",
+      "genre": "Community",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "110702",
+      "radio_name": "Sonar",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/19564540-2022-03-21.png",
+      "radio_url": "http://01.solumedia.com.ar:8574/stream",
+      "genre": "Other",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "57408",
+      "radio_name": "Sonic.FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/28395236-2022-03-16.png",
+      "radio_url": "http://streams.cloudcast.media:8000/listen.aac",
+      "genre": "Dance",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "108043",
+      "radio_name": "Sonica Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/86905197-2022-03-21.png",
+      "radio_url": "http://argentina.republicahosting.com:8050/live",
+      "genre": "Electronic",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "117661",
+      "radio_name": "Sonidera FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/45776981-2023-01-13.png",
+      "radio_url": "http://servidor1.hostradios.com:18146/stream",
+      "genre": "Latin",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "124046",
+      "radio_name": "Sonido Selecto",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/26725474-2023-12-29.png",
+      "radio_url": "http://radios.solumedia.com:6590/stream",
+      "genre": "Electronic",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "115172",
+      "radio_name": "Sonido UNO 90.7 ",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/09338956-2022-11-07.png",
+      "radio_url": "http://serverssl.deradios.stream:8100/stream/;",
+      "genre": "Latin",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "88840",
+      "radio_name": "Sonika Pehuajo",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/96120898-2022-03-19.png",
+      "radio_url": "http://streaming.escuchanosonline.com:8426/stream/;",
+      "genre": "Electronic",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "104041",
+      "radio_name": "Soomba 88.7",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/89635986-2022-03-20.png",
+      "radio_url": "http://srv2.voxon.top:7284/;;",
+      "genre": "Pop",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "84483",
+      "radio_name": "Sophia FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/60912457-2022-03-19.png",
+      "radio_url": "http://cdn.instream.audio:9136/stream",
+      "genre": "Alternative",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "104361",
+      "radio_name": "Soplo de Bendición Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/62659955-2022-03-20.png",
+      "radio_url": "http://stream.zeno.fm/kgbbb7bw5mzuv",
+      "genre": "Religion",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "93812",
+      "radio_name": "Sosteniendo Utopias",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/20591135-2022-03-20.png",
+      "radio_url": "http://01.solumedia.com.ar:8898/stream",
+      "genre": "Electronic",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "112003",
+      "radio_name": "Soul Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/03522148-2022-05-10.png",
+      "radio_url": "http://radios2.tecnosoul.com.ar:8000/soulradio",
+      "genre": "Pop",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "80684",
+      "radio_name": "SoundBox Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/84015590-2022-03-19.png",
+      "radio_url": "http://server.laradio.online:8102/stream/;",
+      "genre": "Electronic",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "103579",
+      "radio_name": "StationMix Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/83403094-2022-03-20.png",
+      "radio_url": "http://stream.zeno.fm/x3yrmq9u77zuv",
+      "genre": "Decades",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "91393",
+      "radio_name": "Status Web Rádio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/84128193-2022-03-19.png",
+      "radio_url": "http://streaming09.hstbr.net:8202/live",
+      "genre": "Dance",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "101550",
+      "radio_name": "Stereorey Argentina",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/20944770-2022-03-20.png",
+      "radio_url": "http://stream1.xdevel.com/audio0s975704-278/stream/icecast.audio",
+      "genre": "Decades",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "110703",
+      "radio_name": "Stop FM 89.1",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/36335366-2022-03-21.png",
+      "radio_url": "http://158.69.62.98:8010/stream/;",
+      "genre": "Pop",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "110704",
+      "radio_name": "Street FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/75705205-2022-03-21.png",
+      "radio_url": "http://135.181.119.151:8014/stream",
+      "genre": "Other",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "88162",
+      "radio_name": "Sunder Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/25698360-2022-03-19.png",
+      "radio_url": "http://streaming01.shockmedia.com.ar:9108/stream/;",
+      "genre": "Language",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "89755",
+      "radio_name": "Super 107.5",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/83507018-2022-03-19.png",
+      "radio_url": "http://media425.digitar.net:8000/delplatarosario.mp3",
+      "genre": "Theme",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "111652",
+      "radio_name": "Super Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/86216235-2022-04-15.png",
+      "radio_url": "http://radio13.servidorderadio.net:8410/stream/;",
+      "genre": "Decades",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "80400",
+      "radio_name": "Super Red Buena Voluntad",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/88816760-2022-03-19.png",
+      "radio_url": "http://streamserver3.radioproducciones.com:8120/stream",
+      "genre": "Community",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "107298",
+      "radio_name": "Supremacia Rock",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/18066906-2022-03-21.png",
+      "radio_url": "http://stream.zeno.fm/qkw3w3wphzzuv",
+      "genre": "Rock",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "80864",
+      "radio_name": "Surf & Rock Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/69581075-2022-03-19.png",
+      "radio_url": "http://51.161.119.117:8112/stream",
+      "genre": "Alternative",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "86586",
+      "radio_name": "Syrius FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/96108222-2022-03-19.png",
+      "radio_url": "http://dattavolt.com:8116/stream/;",
+      "genre": "Easy Listening",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "113285",
+      "radio_name": "TAFI YORK RADIO ONLINE",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/62609664-2022-11-05.png",
+      "radio_url": "http://chino.republicahosting.com:8577/live",
+      "genre": "null",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "96637",
+      "radio_name": "Tango Radio CAFF",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/45727882-2022-03-20.png",
+      "radio_url": "http://streams.radio.co/s6b80bc417/listen",
+      "genre": "Other",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "98404",
+      "radio_name": "Tanguera Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/62971653-2022-03-20.png",
+      "radio_url": "http://cdn.instream.audio:9093/stream",
+      "genre": "Dance",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100180",
+      "radio_name": "Target i-Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/73702053-2022-03-20.png",
+      "radio_url": "http://stream.zeno.fm/qbvkwqcna6mtv",
+      "genre": "Rock",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "109479",
+      "radio_name": "Taurino Radio WEB",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/69853226-2022-03-21.png",
+      "radio_url": "http://radio13.servidorderadio.net:9566/stream/;",
+      "genre": "Decades",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "80911",
+      "radio_name": "TEC RADIO",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/12583899-2022-03-19.png",
+      "radio_url": "http://stream.zenolive.com/64h3nxg0rvduv",
+      "genre": "Pop",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "104889",
+      "radio_name": "Terminal de Noticias Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/66664659-2022-03-20.png",
+      "radio_url": "http://stream.zenolive.com/dgwk7a00vd0uv",
+      "genre": "Theme",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "80246",
+      "radio_name": "Tetriz Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/41193536-2022-03-19.png",
+      "radio_url": "http://radio13.servidorderadio.net:8036/stream/;",
+      "genre": "Language",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "116041",
+      "radio_name": "The Box Disco",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/24912742-2022-11-09.png",
+      "radio_url": "http://server.ohradio.com.ar:8316/stream/;",
+      "genre": "Dance",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "89869",
+      "radio_name": "The Lider",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/49173608-2022-03-19.png",
+      "radio_url": "http://radiopanel.com.ar:8100/radio.mp3",
+      "genre": "Decades",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "73690",
+      "radio_name": "The Musical Box Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/52359593-2022-03-18.png",
+      "radio_url": "http://tmbradio.radioca.st/stream",
+      "genre": "Pop",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "116081",
+      "radio_name": "The Tiny Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/32893322-2022-11-09.png",
+      "radio_url": "http://stream.zeno.fm/yeeoonaqeiuvv",
+      "genre": "Decades",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "120419",
+      "radio_name": "Tiempo de Bolero",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/01394915-2023-12-29.png",
+      "radio_url": "http://radio.ddns.net:8086/live",
+      "genre": "Caribbean",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "65389",
+      "radio_name": "Tiempo FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/73354634-2022-03-17.png",
+      "radio_url": "http://alpha.radioplayer.com.ar:9198/fmtiempo1009",
+      "genre": "Language",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "84208",
+      "radio_name": "Tiempo FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/84671373-2022-03-19.png",
+      "radio_url": "http://radios.solumedia.com:6190/stream/;",
+      "genre": "Other",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "116134",
+      "radio_name": "Tigo Música",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/60480600-2022-11-09.png",
+      "radio_url": "http://servidor18-4.brlogic.com:7288/live",
+      "genre": "null",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "114114",
+      "radio_name": "TkdRadio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/27771151-2022-11-07.png",
+      "radio_url": "http://tkdradio.ddns.net:1905/;",
+      "genre": "Decades",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "125269",
+      "radio_name": "Todas las Voces",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/26025637-2023-12-29.png",
+      "radio_url": "http://radio02.ferozo.com:9762/stream/;",
+      "genre": "Community",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "87326",
+      "radio_name": "Todo Americano",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/05727623-2022-03-19.png",
+      "radio_url": "http://streaming.radiosenlinea.com.ar:8806/stream/;",
+      "genre": "Pop",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "80117",
+      "radio_name": "Todo esta al Reves Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/70963694-2022-03-19.png",
+      "radio_url": "http://62.210.129.76:9312/stream/;",
+      "genre": "Rock",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "115747",
+      "radio_name": "Todos Pasan",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/68907450-2022-11-08.png",
+      "radio_url": "http://https.nvradios.com/radio/9368//radio.mp3",
+      "genre": "Pop",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "87275",
+      "radio_name": "Top 104.9",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/75091904-2022-03-19.png",
+      "radio_url": "http://st.produccionesdha.com:6696/;",
+      "genre": "Dance",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "92769",
+      "radio_name": "Total FM 99.3",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/97179752-2022-03-20.png",
+      "radio_url": "http://www.totalfm.com.ar:9300/;",
+      "genre": "Other",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "105807",
+      "radio_name": "Trance Planet",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/78714546-2022-03-21.png",
+      "radio_url": "http://server.radiostreaming.com.ar:8386/stream/;",
+      "genre": "Electronic",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "96297",
+      "radio_name": "Tranformando Vidas Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/85418933-2022-03-20.png",
+      "radio_url": "http://stream.zenolive.com/e823mwcx20duv",
+      "genre": "Religion",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "85367",
+      "radio_name": "Transamerica",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/44842289-2022-03-19.png",
+      "radio_url": "http://radio.solumedia.com.ar:7133/stream",
+      "genre": "Pop",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "95665",
+      "radio_name": "Travolution Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/94370948-2022-03-20.png",
+      "radio_url": "http://streaming.solucionesdf.com:8010/autodj",
+      "genre": "Latin",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "87519",
+      "radio_name": "Trip Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/18266318-2022-03-19.png",
+      "radio_url": "http://streaming2.locucionar.com:8000/stream",
+      "genre": "Community",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "91421",
+      "radio_name": "Triscomedia Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/57097654-2022-03-19.png",
+      "radio_url": "http://ice.dant.com:4232/triscomedia/radio.mp3",
+      "genre": "Community",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "126121",
+      "radio_name": "Trishanku Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/28438410-2023-12-29.png",
+      "radio_url": "http://servidor19-2.brlogic.com:7012/live",
+      "genre": "Community",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "81012",
+      "radio_name": "TropiBox 107.1",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/24508025-2022-03-19.png",
+      "radio_url": "http://69.64.46.123:8015/autodj",
+      "genre": "Latin",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "116243",
+      "radio_name": "Trovadiccion Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/30994410-2022-11-09.png",
+      "radio_url": "http://cassini.shoutca.st:9137/live",
+      "genre": "Latin",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "80269",
+      "radio_name": "Tu Dial",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/78027550-2022-03-19.png",
+      "radio_url": "http://01.solumedia.com.ar:7585/stream",
+      "genre": "Pop",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "114329",
+      "radio_name": "Tu Lugar FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/36327613-2022-11-07.png",
+      "radio_url": "http://audiohd.sonidosenlared.com:3283/stream/;",
+      "genre": "Other",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "114604",
+      "radio_name": "Tu Radio FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/15830330-2022-11-07.png",
+      "radio_url": "http://01.solumedia.com.ar:8464/stream",
+      "genre": "Pop",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "113523",
+      "radio_name": "Tuan Radio Victoria",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/82329241-2022-07-03.png",
+      "radio_url": "http://109.169.23.22:6831/;",
+      "genre": "Pop",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "81982",
+      "radio_name": "Tucano FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/99301456-2022-03-19.png",
+      "radio_url": "http://144.217.192.196:8056/stream",
+      "genre": "Language",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "100857",
+      "radio_name": "Ultra Dance Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/05249119-2022-03-20.png",
+      "radio_url": "http://server.datalivehd.com:7100/;;",
+      "genre": "Decades",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "104374",
+      "radio_name": "UnDinamo",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/50438458-2022-03-20.png",
+      "radio_url": "http://cdn.instream.audio:9339/live",
+      "genre": "Other",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "125121",
+      "radio_name": "Unica FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/04405935-2023-12-29.png",
+      "radio_url": "http://server4.hostradios.com:8410/stream/;",
+      "genre": "Other",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "94922",
+      "radio_name": "Universidad 100.7",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/74520802-2022-03-20.png",
+      "radio_url": "http://miradioenlaweb.com:6256/;",
+      "genre": "Pop",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "83152",
+      "radio_name": "Universidad 580",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/21370971-2022-03-19.png",
+      "radio_url": "http://srtunc.lorini.net:30304/stream",
+      "genre": "Talk",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "110705",
+      "radio_name": "Universo FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/47378284-2022-03-21.png",
+      "radio_url": "http://168.197.48.9:8000/radio.mp3",
+      "genre": "Other",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "116153",
+      "radio_name": "Universo Fm 101.3",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/98626345-2022-11-09.png",
+      "radio_url": "http://streaming01.shockmedia.com.ar:8136/stream/;",
+      "genre": "Theme",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "116296",
+      "radio_name": "UP Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/71049451-2022-11-09.png",
+      "radio_url": "http://compactofm.hopto.org:7041/stream.mp3",
+      "genre": "Dance",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "106780",
+      "radio_name": "Urbana 97.3",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/52216555-2022-03-21.png",
+      "radio_url": "http://stream.zeno.fm/8assdze13s8uv",
+      "genre": "Pop",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "98822",
+      "radio_name": "Urbana 98.9",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/34574033-2022-03-20.png",
+      "radio_url": "http://stm28.hostingystreaming.net:12054/stream/;",
+      "genre": "Decades",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "89919",
+      "radio_name": "Urbana Perico",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/39168051-2022-03-19.png",
+      "radio_url": "http://01.solumedia.com.ar:8732/stream",
+      "genre": "Community",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    },
+    {
+      "radio_id": "105727",
+      "radio_name": "Urbana Play",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/61684244-2022-03-21.png",
+      "radio_url": "http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/60083afdba6eb40016c35954_720p/index.m3u8",
+      "genre": "Other",
+      "country_id": "222",
+      "country_name": "Argentina",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/8226-2022-01-22.gif"
+    }
+  ]
+}

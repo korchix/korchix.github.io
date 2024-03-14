@@ -1,0 +1,1206 @@
+{
+  "status": "ok",
+  "limit": 500,
+  "pages": 2,
+  "order": "ASC",
+  "total_radios": "619",
+  "country_details": [
+    {
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    }
+  ],
+  "stations": [
+    {
+      "radio_id": "75241",
+      "radio_name": "RRI - Pro2 Singaraja",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/87729415-2022-03-18.png",
+      "radio_url": "http://streaming.rri.co.id:9240/rrisingarajapro2.mp3",
+      "genre": "Other",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "75242",
+      "radio_name": "RRI - Pro2 Sintang",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/30003120-2022-03-18.png",
+      "radio_url": "http://streaming.rri.co.id:9123/rrisintangpro2.mp3",
+      "genre": "Other",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "75244",
+      "radio_name": "RRI - Pro2 Sorong",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/92539114-2022-03-18.png",
+      "radio_url": "http://streaming.rri.co.id:9217/rrisorongpro2.mp3",
+      "genre": "Other",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "75246",
+      "radio_name": "RRI - Pro2 Sumenep",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/31020918-2022-03-18.png",
+      "radio_url": "http://streaming.rri.co.id:9118/rrisumeneppro2.mp3",
+      "genre": "Other",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "75248",
+      "radio_name": "RRI - Pro2 Sungai Liat",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/39940967-2022-03-18.png",
+      "radio_url": "http://streaming.rri.co.id:9314/rrisngliatpro2.mp3",
+      "genre": "Other",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "90613",
+      "radio_name": "RRI - Pro2 Surabaya",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/37657790-2022-03-19.png",
+      "radio_url": "http://streaming.rri.co.id:9018/rrisurabayapro2.mp3",
+      "genre": "Other",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "75249",
+      "radio_name": "RRI - Pro2 Surakarta",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/15329043-2022-03-18.png",
+      "radio_url": "http://streaming.rri.co.id:9219/rrisurakartapro2.mp3",
+      "genre": "Other",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "75251",
+      "radio_name": "RRI - Pro2 Tahuna",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/94113045-2022-03-18.png",
+      "radio_url": "http://streaming.rri.co.id:9316/rritahunapro2.mp3",
+      "genre": "Other",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "75254",
+      "radio_name": "RRI - Pro2 Tanjung Pinang",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/82843177-2022-03-18.png",
+      "radio_url": "http://streaming.rri.co.id:9221/rritjpinangpro2.mp3",
+      "genre": "Other",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "75256",
+      "radio_name": "RRI - Pro2 Tarakan",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/15755350-2022-03-18.png",
+      "radio_url": "http://streaming.rri.co.id:9323/rritarakanpro2.mp3",
+      "genre": "Other",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "75258",
+      "radio_name": "RRI - Pro2 Ternate",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/94868323-2022-03-18.png",
+      "radio_url": "http://streaming.rri.co.id:9215/rriternatepro2.mp3",
+      "genre": "Other",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "75260",
+      "radio_name": "RRI - Pro2 Toli Toli",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/59907303-2022-03-18.png",
+      "radio_url": "http://streaming.rri.co.id:9324/rritolitolipro2.mp3",
+      "genre": "Other",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "75262",
+      "radio_name": "RRI - Pro2 Tual",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/75924238-2022-03-18.png",
+      "radio_url": "http://streaming.rri.co.id:9322/rritualpro2.mp3",
+      "genre": "Other",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "75264",
+      "radio_name": "RRI - Pro2 Wamena",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/58808508-2022-03-18.png",
+      "radio_url": "http://streaming.rri.co.id:9224/rriwamenapro2.mp3",
+      "genre": "Other",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "87648",
+      "radio_name": "RRI - Pro2 Yogyakarta",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/08208321-2022-03-19.png",
+      "radio_url": "http://streaming.rri.co.id:9017/rrijogjapro2.mp3",
+      "genre": "Other",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "63158",
+      "radio_name": "RRI - Pro3 - KBRN",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/38404218-2022-03-17.png",
+      "radio_url": "http://streaming.rri.co.id:9014/web-kbrn.mp3",
+      "genre": "Other",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "75168",
+      "radio_name": "RRI - Pro4 Ambon",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/47011430-2022-03-18.png",
+      "radio_url": "http://streaming.rri.co.id:9315/rriambonpro4.mp3",
+      "genre": "Community",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "75173",
+      "radio_name": "RRI - Pro4 Banda Aceh",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/47935504-2022-03-18.png",
+      "radio_url": "http://streaming.rri.co.id:9214/rribandaacehpro4.mp3",
+      "genre": "Community",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "81839",
+      "radio_name": "RRI - Pro4 Bandung",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/70946789-2022-03-19.png",
+      "radio_url": "http://streaming.rri.co.id:9015/rribandungpro4.mp3",
+      "genre": "Community",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "89051",
+      "radio_name": "RRI - Pro4 Banjamasin",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/62258520-2022-03-19.png",
+      "radio_url": "http://streaming.rri.co.id:9019/rribanjarmasinpro4.mp3",
+      "genre": "Community",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "75180",
+      "radio_name": "RRI - Pro4 Bengkulu",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/64653719-2022-03-18.png",
+      "radio_url": "http://streaming.rri.co.id:9311/rribengkulupro4.mp3",
+      "genre": "Community",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "92840",
+      "radio_name": "RRI - Pro4 Denpasar",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/67024957-2022-03-20.png",
+      "radio_url": "http://streaming.rri.co.id:9021/rridenpasarpro4.mp3",
+      "genre": "Community",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "64290",
+      "radio_name": "RRI - Pro4 Jakarta",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/31459229-2022-03-17.png",
+      "radio_url": "http://streaming.rri.co.id:9025/rrijakartapro4.mp3",
+      "genre": "Community",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "75198",
+      "radio_name": "RRI - Pro4 Jambi",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/32894419-2022-03-18.png",
+      "radio_url": "http://streaming.rri.co.id:9211/rrijambipro4.mp3",
+      "genre": "Community",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "75200",
+      "radio_name": "RRI - Pro4 Jayapura",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/19495066-2022-03-18.png",
+      "radio_url": "http://streaming.rri.co.id:9023/rrijayapurapro4.mp3",
+      "genre": "Community",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "75203",
+      "radio_name": "RRI - Pro4 Kupang",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/58090085-2022-03-18.png",
+      "radio_url": "http://streaming.rri.co.id:9213/rrikupangpro4.mp3",
+      "genre": "Community",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "75204",
+      "radio_name": "RRI - Pro4 Lampung",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/03757138-2022-03-18.png",
+      "radio_url": "http://streaming.rri.co.id:9112/rrilampungpro4.mp3",
+      "genre": "Community",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "88915",
+      "radio_name": "RRI - Pro4 Makassar",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/05092909-2022-03-19.png",
+      "radio_url": "http://streaming.rri.co.id:9022/rrimakasarpro4.mp3",
+      "genre": "Community",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "75207",
+      "radio_name": "RRI - Pro4 Manado",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/99838988-2022-03-18.png",
+      "radio_url": "http://streaming.rri.co.id:9040/rrimanadopro4.mp3",
+      "genre": "Community",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "75210",
+      "radio_name": "RRI - Pro4 Manokwari",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/62570494-2022-03-18.png",
+      "radio_url": "http://streaming.rri.co.id:9024/rrimanokwaripro4.mp3",
+      "genre": "Community",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "75211",
+      "radio_name": "RRI - Pro4 Medan",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/50833061-2022-03-18.png",
+      "radio_url": "http://streaming.rri.co.id:9011/rrimedanpro4.mp3",
+      "genre": "Community",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "75217",
+      "radio_name": "RRI - Pro4 Padang",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/80260640-2022-03-18.png",
+      "radio_url": "http://streaming.rri.co.id:9111/rripadangpro4.mp3",
+      "genre": "Community",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "82445",
+      "radio_name": "RRI - Pro4 Palembang",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/88838664-2022-03-19.png",
+      "radio_url": "http://streaming.rri.co.id:9013/rripalembangpro4.mp3",
+      "genre": "Community",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "75222",
+      "radio_name": "RRI - Pro4 Palu",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/49411071-2022-03-18.png",
+      "radio_url": "http://streaming.rri.co.id:9114/rripalupro4.mp3",
+      "genre": "Community",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "75224",
+      "radio_name": "RRI - Pro4 Pekanbaru",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/97877283-2022-03-18.png",
+      "radio_url": "http://streaming.rri.co.id:9012/rripekanbarupro4.mp3",
+      "genre": "Community",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "75227",
+      "radio_name": "RRI - Pro4 Pontianak",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/40040697-2022-03-18.png",
+      "radio_url": "http://streaming.rri.co.id:9212/rripontianakpro4.mp3",
+      "genre": "Community",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "75234",
+      "radio_name": "RRI - Pro4 Samarinda",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/11483801-2022-03-18.png",
+      "radio_url": "http://streaming.rri.co.id:9116/rrisamarindapro4.mp3",
+      "genre": "Community",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "86822",
+      "radio_name": "RRI - Pro4 Yogyakarta",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/55205656-2022-03-19.png",
+      "radio_url": "http://streaming.rri.co.id:9017/rrijogjapro4.mp3",
+      "genre": "Community",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "82024",
+      "radio_name": "RRI World Service - Voice of Indonesia",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/75037123-2022-03-19.png",
+      "radio_url": "http://streaming.rri.co.id:9125/voi.mp3",
+      "genre": "Community",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "113817",
+      "radio_name": "Rumah Sakit Haji Darjad Radio (RSHD)",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/75874001-2022-11-05.png",
+      "radio_url": "http://rshd.hopto.org:8000/live",
+      "genre": "Talk",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "113580",
+      "radio_name": "Rumah Tunanetra Indonesia (RTI)",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/32661111-2022-11-05.png",
+      "radio_url": "http://s1.rajamediautama.my.id:8430/rti",
+      "genre": "Community",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "125264",
+      "radio_name": "Rumah Tunanetra Indonesia YKTN Channel",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/54453429-2023-12-29.png",
+      "radio_url": "http://sr.gbm.or.id:8150/radio.mp3",
+      "genre": "Other",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "76106",
+      "radio_name": "Ruziqa TV Audio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/41967582-2022-03-18.png",
+      "radio_url": "http://u.klikhost.com:8000/ruziqa",
+      "genre": "Talk",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "86225",
+      "radio_name": "Sananta FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/71200034-2022-03-19.png",
+      "radio_url": "http://i.klikhost.com:8500/stream/;",
+      "genre": "Region",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "82030",
+      "radio_name": "SATRADIO",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/71552093-2022-03-19.png",
+      "radio_url": "http://sgp2.onlivestreaming.net:8585/stream",
+      "genre": "Region",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "60904",
+      "radio_name": "Seila 104.3 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/09210437-2022-03-16.png",
+      "radio_url": "http://stream.zeno.fm/wp7gz9u7cm0uv",
+      "genre": "Pop",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "90194",
+      "radio_name": "Sejahtera FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/22740342-2022-03-19.png",
+      "radio_url": "http://scg.streamingmurah.com:8094/stream",
+      "genre": "Community",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "61192",
+      "radio_name": "Serambi FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/85340886-2022-03-16.png",
+      "radio_url": "http://www.live.serambifm.com:8902/;",
+      "genre": "Theme",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "80370",
+      "radio_name": "She Radio 99.6",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/98128605-2022-03-19.png",
+      "radio_url": "http://c4.siar.us:8023/stream/;",
+      "genre": "Talk",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "76113",
+      "radio_name": "Shelter 95.3 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/08661717-2022-03-18.png",
+      "radio_url": "http://svara-stream.radioddns.net:8000/cirebon_sheltercirebon_mono",
+      "genre": "Pop",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "80387",
+      "radio_name": "Siaran Ichthus 96.5",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/40042963-2022-03-19.png",
+      "radio_url": "http://www.ichthusfm.com/streaming.php",
+      "genre": "Religion",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "113517",
+      "radio_name": "Siaran Radio Kesehatan (SRK)",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/99246087-2022-11-05.png",
+      "radio_url": "http://pu.klikhost.com:8202/stream/;",
+      "genre": "Pop",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "118008",
+      "radio_name": "Sinar Pelangi FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/18780634-2023-02-07.png",
+      "radio_url": "http://162.210.192.98:27059/;;",
+      "genre": "Community",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "82160",
+      "radio_name": "Sindo Trijaya FM Bandung",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/98678377-2022-03-19.png",
+      "radio_url": "http://stream.radbdg.net:8000/sindoradio.mp3",
+      "genre": "Other",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "80584",
+      "radio_name": "Sindo Trijaya FM Jakarta",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/40804531-2022-03-19.png",
+      "radio_url": "http://202.147.199.101:8000/;;",
+      "genre": "Talk",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "80023",
+      "radio_name": "Sindo Trijaya FM Semarang",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/35560242-2022-03-19.png",
+      "radio_url": "http://202.147.199.101:8000/;;",
+      "genre": "Talk",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "93745",
+      "radio_name": "Singosari FM Brebes",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/47542856-2022-03-20.png",
+      "radio_url": "http://78.129.224.21:27674/;",
+      "genre": "Theme",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "72403",
+      "radio_name": "SISnet Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/94034195-2022-03-17.png",
+      "radio_url": "http://i.klikhost.com:8716/stream/;",
+      "genre": "Other",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "107993",
+      "radio_name": "SKIPFM Palu",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/02592963-2022-03-21.png",
+      "radio_url": "http://freeuk21.listen2myradio.com:39068/;",
+      "genre": "Other",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "108750",
+      "radio_name": "Slow Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/26646943-2022-03-21.png",
+      "radio_url": "http://stream.zeno.fm/dpk2zq5np2zuv",
+      "genre": "Decades",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "82404",
+      "radio_name": "Smart FM Balikpapan",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/24427282-2022-03-19.png",
+      "radio_url": "http://listen.shoutcast.com/smart-balikpapan?type=.mp3",
+      "genre": "Theme",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "73461",
+      "radio_name": "Smart FM Jakarta",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/76153193-2022-03-18.png",
+      "radio_url": "http://streamingv2.shoutcast.com/smart-jakarta?type=.mp3",
+      "genre": "Talk",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "75131",
+      "radio_name": "Smart FM Makassar",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/86751207-2022-03-18.png",
+      "radio_url": "http://streamingv2.shoutcast.com:8000/smart-makasar",
+      "genre": "Talk",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "83079",
+      "radio_name": "Smart FM Manado",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/56418295-2022-03-19.png",
+      "radio_url": "http://streaming512.radionomy.com:80/smart-manado",
+      "genre": "Theme",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "82453",
+      "radio_name": "Smart FM Medan",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/60405605-2022-03-19.png",
+      "radio_url": "http://listen.shoutcast.com/smart-medan?type=.mp3",
+      "genre": "Other",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "83077",
+      "radio_name": "Smart FM Network - Banjarmasin",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/69299252-2022-03-19.png",
+      "radio_url": "http://streamingv2.shoutcast.com/smart-banjarmasin",
+      "genre": "Community",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "76116",
+      "radio_name": "Smart FM Pekanbaru",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/41000928-2022-03-18.png",
+      "radio_url": "http://streamingv2.shoutcast.com/smart-pekanbaru",
+      "genre": "Pop",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "75130",
+      "radio_name": "Smart FM Surabaya",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/46599030-2022-03-18.png",
+      "radio_url": "http://streamingv2.shoutcast.com/smart-surabaya",
+      "genre": "Talk",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "113136",
+      "radio_name": "Smart FM Yogyakarta",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/96687333-2022-11-05.png",
+      "radio_url": "http://65.108.124.70:8149/live",
+      "genre": "Other",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "80631",
+      "radio_name": "Soka Radio 102.1",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/70185182-2022-03-19.png",
+      "radio_url": "http://i.klikhost.com:8692/;",
+      "genre": "Pop",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "88544",
+      "radio_name": "Sonata 88.1 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/77170761-2022-03-19.png",
+      "radio_url": "http://svara-stream.radioddns.net:8000/bandung_studioeast",
+      "genre": "Theme",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "89650",
+      "radio_name": "Spark Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/03179731-2022-03-19.png",
+      "radio_url": "http://u.klikhost.com:7212/stream/;",
+      "genre": "Hip Hop",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "90258",
+      "radio_name": "Star Radio 107.3 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/12716486-2022-03-19.png",
+      "radio_url": "http://listen.staradio1073fm.net:8070/;;",
+      "genre": "Theme",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "80790",
+      "radio_name": "Strato FM 101.9",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/87123509-2022-03-19.png",
+      "radio_url": "http://streaming.stratofm.com:8300/stream/;",
+      "genre": "Language",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "121974",
+      "radio_name": "Suara Al Fattah",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/98366812-2023-12-29.png",
+      "radio_url": "http://scg.streamingmurah.com:8250/stream",
+      "genre": "Language",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "89991",
+      "radio_name": "Suara Edukasi",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/04636809-2022-03-19.png",
+      "radio_url": "http://118.98.221.84:8803/stream",
+      "genre": "Community",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "71964",
+      "radio_name": "Suara Giri 98.4 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/80359148-2022-03-17.png",
+      "radio_url": "http://streaming.girifm.com:8010/stream/;",
+      "genre": "Talk",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "76107",
+      "radio_name": "Suara Gracia FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/16576302-2022-03-18.png",
+      "radio_url": "http://pu.klikhost.com:8076/stream",
+      "genre": "Religion",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "74059",
+      "radio_name": "Suara Gratia FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/83565876-2022-03-18.png",
+      "radio_url": "http://suaragratiafm.japanserver.info:8959/;",
+      "genre": "Talk",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "90642",
+      "radio_name": "Suara Mahakam",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/16520361-2022-03-19.png",
+      "radio_url": "http://i.klikhost.com:8010/stream",
+      "genre": "Theme",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "71894",
+      "radio_name": "Suara Soneta Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/10761379-2022-03-17.png",
+      "radio_url": "http://a2.siar.us:8250/radio.mp3",
+      "genre": "Language",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "84151",
+      "radio_name": "Suara Surabaya FM 100",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/30313395-2022-03-19.png",
+      "radio_url": "http://c5.siar.us:8000/stream/;",
+      "genre": "Other",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "106035",
+      "radio_name": "Sukses Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/33183689-2022-03-21.png",
+      "radio_url": "http://pu.klikhost.com:8110/stream/;",
+      "genre": "Theme",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "80465",
+      "radio_name": "Sushi FM 99.1",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/61819204-2022-03-19.png",
+      "radio_url": "http://stream2.jejestreaming.com:9200/stream",
+      "genre": "Community",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "107954",
+      "radio_name": "Suska FM Pekanbaru",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/34543375-2022-03-21.png",
+      "radio_url": "http://i.klikhost.com:8102/stream/;",
+      "genre": "Community",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "122339",
+      "radio_name": "Swedish Chainsaw",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/52986749-2023-12-29.png",
+      "radio_url": "http://stream.zeno.fm/amo4rddvbkhvv",
+      "genre": "Rock",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "94663",
+      "radio_name": "Swiba Fm Karanganyar",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/27310191-2022-03-20.png",
+      "radio_url": "http://s5.alhastream.com:8180/radio",
+      "genre": "Region",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "108552",
+      "radio_name": "Synchronize Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/10591130-2022-03-21.png",
+      "radio_url": "http://45.130.229.164:9000/;",
+      "genre": "Pop",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "109328",
+      "radio_name": "Tangerang Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/41098304-2022-03-21.png",
+      "radio_url": "http://radio.tangerangkab.go.id:8000/;",
+      "genre": "Community",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "105715",
+      "radio_name": "Telstar FM Makassar",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/38148134-2022-03-21.png",
+      "radio_url": "http://telstarfm.indostreamserver.com:8174/stream/;",
+      "genre": "Other",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "103846",
+      "radio_name": "The Arbol Online Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/80778983-2022-03-20.png",
+      "radio_url": "http://stream.zeno.fm/x10p7sdvt4zuv",
+      "genre": "Classical",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "81271",
+      "radio_name": "The Beat Radio Bali",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/65792469-2022-03-19.png",
+      "radio_url": "http://c1.siar.us:8030/stream",
+      "genre": "Easy Listening",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "126728",
+      "radio_name": "The Christmas Carol",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/82095409-2023-12-29.png",
+      "radio_url": "http://stream.zeno.fm/phzjtpo1bvrvv",
+      "genre": "Theme",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "76118",
+      "radio_name": "TOP FM 95.1 Bumiayu",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/08558349-2022-03-18.png",
+      "radio_url": "http://streaming.topfm951.net:9510/stream",
+      "genre": "Other",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "89423",
+      "radio_name": "Top Fm Padangpanjang",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/11682096-2022-03-19.png",
+      "radio_url": "http://live.indostreamserver.com:8010/stream/;",
+      "genre": "Community",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "81002",
+      "radio_name": "Trax FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/94781727-2022-03-19.png",
+      "radio_url": "http://stream.radiojar.com/fr9zqhv80k8uv",
+      "genre": "Hip Hop",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "57273",
+      "radio_name": "Trax FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/60043019-2022-03-16.png",
+      "radio_url": "http://stream.radiojar.com/qv4muvhswk8uv",
+      "genre": "Pop",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "82062",
+      "radio_name": "Trax FM Jakarta",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/75714768-2022-03-19.png",
+      "radio_url": "http://stream.radiojar.com/rrqf78p3bnzuv",
+      "genre": "Pop",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "105453",
+      "radio_name": "Trend Digital Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/02549046-2022-03-20.png",
+      "radio_url": "http://ig.tokostreaming.com:8010/stream",
+      "genre": "Dance",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "81827",
+      "radio_name": "Trijaya FM Palembang",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/24204953-2022-03-19.png",
+      "radio_url": "http://svara-stream.radioddns.net:8000/semarang_trijayafm",
+      "genre": "Pop",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "98831",
+      "radio_name": "Tritara 106.1 fm",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/24263248-2022-03-20.png",
+      "radio_url": "http://radio.wow.net.id:8100/;",
+      "genre": "Religion",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "110497",
+      "radio_name": "U Radio Banyuwangi",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/66438596-2022-03-21.png",
+      "radio_url": "http://s7.alhastream.com:8400/radio",
+      "genre": "Pop",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "80277",
+      "radio_name": "Unisi 104.5 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/66028637-2022-03-19.png",
+      "radio_url": "http://202.162.32.23:8000/stream/3/;",
+      "genre": "Pop",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "91658",
+      "radio_name": "Up Radio Semarang",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/04196409-2022-03-19.png",
+      "radio_url": "http://112.78.39.218:8000/;",
+      "genre": "Pop",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "119996",
+      "radio_name": "URFAN RADIO",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/16362121-2023-12-29.png",
+      "radio_url": "http://stream.zeno.fm/1tozd0cybi3tv",
+      "genre": "Pop",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "118301",
+      "radio_name": "Utari Cilacap",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/09391434-2023-02-07.png",
+      "radio_url": "http://s2.eradio.my.id:8220/radio",
+      "genre": "Talk",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "95243",
+      "radio_name": "UTY FM Medari",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/45510356-2022-03-20.png",
+      "radio_url": "http://utyfmedari.us.myradio.web.id:8000/utyfmedari",
+      "genre": "Pop",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "81836",
+      "radio_name": "V Radio Jakarta",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/52175580-2022-03-19.png",
+      "radio_url": "http://202.147.199.100:8000/;",
+      "genre": "Pop",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "87104",
+      "radio_name": "Venus FM Makassar",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/09179639-2022-03-19.png",
+      "radio_url": "http://stream.zeno.fm/1n8mba13zqruv",
+      "genre": "Talk",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "118672",
+      "radio_name": "Vi-HOPE Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/60151302-2023-02-23.png",
+      "radio_url": "http://vihope.i.streaming.id:8090/vihope",
+      "genre": "Religion",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "82248",
+      "radio_name": "VIS FM Banyuwangi",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/04097794-2022-03-19.png",
+      "radio_url": "http://s4.vinhostmedia.com:8000/streamaac",
+      "genre": "Other",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "121973",
+      "radio_name": "Vision Radio 1",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/74062696-2023-12-29.png",
+      "radio_url": "http://cloudstream.klikhost.net/radio/8020/radio.mp3",
+      "genre": "Pop",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "110481",
+      "radio_name": "WaKe Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/61804520-2022-03-21.png",
+      "radio_url": "http://sv7.alhastream.com:8160/radio",
+      "genre": "Other",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "82085",
+      "radio_name": "Warna FM Padang",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/01685068-2022-03-19.png",
+      "radio_url": "http://warnafm.indostreamserver.com:8020/stream/;",
+      "genre": "Talk",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "86026",
+      "radio_name": "Yes Radio Cilacap",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/27619445-2022-03-19.png",
+      "radio_url": "http://c2.siar.us:8410/live",
+      "genre": "Theme",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "105593",
+      "radio_name": "YM Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/72840742-2022-03-21.png",
+      "radio_url": "http://u.klikhost.com:7928/stream",
+      "genre": "Religion",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "105472",
+      "radio_name": "Yobel FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/94879372-2022-03-20.png",
+      "radio_url": "http://sci.streamingmurah.com:8027/live",
+      "genre": "Religion",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "90866",
+      "radio_name": "Z 99.9 FM",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/08560182-2022-03-19.png",
+      "radio_url": "http://svara-stream.radioddns.net:8000/jakarta_z999fm_aac",
+      "genre": "Pop",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    },
+    {
+      "radio_id": "119792",
+      "radio_name": "Zona Music Indonesia Radio",
+      "radio_image": "https://visitdpstudio.net/radio_world/upload/20348881-2023-12-29.png",
+      "radio_url": "http://sv3.alhasmedia.com:8170/radio",
+      "genre": "Pop",
+      "country_id": "145",
+      "country_name": "Indonesia",
+      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/9783-2022-01-22.gif"
+    }
+  ]
+}
