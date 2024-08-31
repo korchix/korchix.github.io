@@ -1,17 +1,4 @@
-{
-  "status": "ok",
-  "limit": 500,
-  "pages": 5,
-  "order": "ASC",
-  "total_radios": "2597",
-  "country_details": [
-    {
-      "country_id": "168",
-      "country_name": "France",
-      "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
-    }
-  ],
-  "stations": [
+[
     {
       "radio_id": "119531",
       "radio_name": "Radio VINCI Autoroutes - Version HappyList",
@@ -5012,5 +4999,4 @@
       "country_name": "France",
       "country_flag": "https://visitdpstudio.net/radio_world/upload/category/6870-2022-01-22.png"
     }
-  ]
-}
+]
