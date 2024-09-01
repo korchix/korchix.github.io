@@ -1,5 +1,3295 @@
 [
     {
+        "radio_id": "9999999",
+        "radio_name": "Radio Nova",
+        "radio_image": "https://radiomap.eu/fr/images/nova.gif",
+        "radio_url": "https://novazz.ice.infomaniak.ch/novazz-128.mp3",
+        "genre": "Nantes",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Rire et Chansons",
+        "radio_image": "https://radiomap.eu/fr/images/rireetchansons.svg",
+        "radio_url": "https://scdn.nrjaudio.fm/fr/30401/aac_64.mp3?origine=radiomapeu&cdn_path=adswizz_lbs8",
+        "genre": "Nantes",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "M Radio",
+        "radio_image": "https://radiomap.eu/fr/images/m-radio.gif",
+        "radio_url": "http://mfm.ice.infomaniak.ch:80/mfm-128.mp3",
+        "genre": "Nantes",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Alouette",
+        "radio_image": "https://radiomap.eu/fr/images/alouette.gif",
+        "radio_url": "https://alouette-nantes.ice.infomaniak.ch/alouette-nantes-128.mp3",
+        "genre": "Nantes",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "France Musique",
+        "radio_image": "https://radiomap.eu/fr/images/rf_musique.svg",
+        "radio_url": "http://icecast.radiofrance.fr/francemusique-midfi.mp3",
+        "genre": "Nantes",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "RFM",
+        "radio_image": "https://radiomap.eu/fr/images/rfm.gif",
+        "radio_url": "https://ais-live.cloud-services.paris/rfm.mp3",
+        "genre": "Nantes",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "France Inter",
+        "radio_image": "https://radiomap.eu/fr/images/rf_inter.svg",
+        "radio_url": "http://icecast.radiofrance.fr/franceinter-midfi.mp3",
+        "genre": "Nantes",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Prun'",
+        "radio_image": "https://radiomap.eu/fr/images/prun.gif",
+        "radio_url": "https://www.prun.net/stream/",
+        "genre": "Nantes",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Orient",
+        "radio_image": "https://radiomap.eu/fr/images/orient.gif",
+        "radio_url": "https://stream.rcs.revma.com/7hnrkawf4p8uv.mp3",
+        "genre": "Nantes",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Alouette",
+        "radio_image": "https://radiomap.eu/fr/images/alouette.gif",
+        "radio_url": "https://alouette.ice.infomaniak.ch/alouette-high.mp3",
+        "genre": "Nantes",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "SUN",
+        "radio_image": "https://radiomap.eu/fr/images/sun-nantes.gif",
+        "radio_url": "https://diffusion.lafrap.fr/sunhd.mp3",
+        "genre": "Nantes",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio NTI",
+        "radio_image": "https://radiomap.eu/fr/images/nti.gif",
+        "radio_url": "https://proxy.webradio.tools/streaming.radionti.com:80/nti-128.mp3",
+        "genre": "Nantes",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "France Culture",
+        "radio_image": "https://radiomap.eu/fr/images/rf_culture.svg",
+        "radio_url": "http://icecast.radiofrance.fr/franceculture-midfi.mp3",
+        "genre": "Nantes",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Europe 2",
+        "radio_image": "https://radiomap.eu/fr/images/europe2.svg",
+        "radio_url": "https://ais-live.cloud-services.paris/europe2.mp3",
+        "genre": "Nantes",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "RCF Vend\u00e9e Radio Vatican",
+        "radio_image": "https://radiomap.eu/fr/images/rcf.gif",
+        "radio_url": "https://rcf.streamakaci.com/rcf85.mp3",
+        "genre": "Nantes",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Fip",
+        "radio_image": "https://radiomap.eu/fr/images/rf_fip.svg",
+        "radio_url": "http://icecast.radiofrance.fr/fip-midfi.mp3",
+        "genre": "Nantes",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Mouv'",
+        "radio_image": "https://radiomap.eu/fr/images/rf_mouv.svg",
+        "radio_url": "http://icecast.radiofrance.fr/mouv-midfi.mp3",
+        "genre": "Nantes",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Nostalgie",
+        "radio_image": "https://radiomap.eu/fr/images/nostalgie.svg",
+        "radio_url": "https://scdn.nrjaudio.fm/fr/30601/aac_64.mp3?origine=radiomapeu&cdn_path=adswizz_lbs8",
+        "genre": "Nantes",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "RTL 2",
+        "radio_image": "https://radiomap.eu/fr/../lu/images/rtl_fr2.gif",
+        "radio_url": "https://icecast.rtl.fr/rtl2-1-44-128",
+        "genre": "Nantes",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "AlterNantes FM",
+        "radio_image": "https://radiomap.eu/fr/images/alternantes.gif",
+        "radio_url": "http://diffusion.lafrap.fr/alternantes.mp3",
+        "genre": "Nantes",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "RCA",
+        "radio_image": "https://radiomap.eu/fr/images/rca.gif",
+        "radio_url": "http://rcanantes.ice.infomaniak.ch:80/rcanantes-192.mp3",
+        "genre": "Nantes",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "RMC",
+        "radio_image": "https://radiomap.eu/fr/../mc/images/rmc_fr.svg",
+        "radio_url": "https://audio.bfmtv.com/rmcradio_128.mp3",
+        "genre": "Nantes",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Hit West",
+        "radio_image": "https://radiomap.eu/fr/images/hitwest.gif",
+        "radio_url": "http://hitwest.ice.infomaniak.ch:80/hitwest-high.mp3",
+        "genre": "Nantes",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Euradio",
+        "radio_image": "https://radiomap.eu/fr/images/eu.gif",
+        "radio_url": "https://euradio44.ice.infomaniak.ch/euradio44-192.mp3",
+        "genre": "Nantes",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "France Bleu Loire Oc\u00e9an",
+        "radio_image": "https://radiomap.eu/fr/images/rf_bleu.svg",
+        "radio_url": "http://icecast.radiofrance.fr/fbloireocean-midfi.mp3",
+        "genre": "Nantes",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "NRJ",
+        "radio_image": "https://radiomap.eu/fr/images/nrj.svg",
+        "radio_url": "https://scdn.nrjaudio.fm/fr/30001/aac_64.mp3?origine=radiomapeu&cdn_path=adswizz_lbs8",
+        "genre": "Nantes",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Skyrock",
+        "radio_image": "https://radiomap.eu/fr/images/skyrock.gif",
+        "radio_url": "https://icecast.skyrock.net/s/natio_aac_128k",
+        "genre": "Nantes",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "France Bleu Armorique",
+        "radio_image": "https://radiomap.eu/fr/images/rf_bleu.svg",
+        "radio_url": "http://icecast.radiofrance.fr/fbarmorique-midfi.mp3",
+        "genre": "Nantes",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Fun Radio",
+        "radio_image": "https://radiomap.eu/fr/images/fun.svg",
+        "radio_url": "https://icecast.rtl.fr/fun-1-44-128",
+        "genre": "Nantes",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "RCF Vend\u00e9e Radio Vatican",
+        "radio_image": "https://radiomap.eu/fr/images/rcf.gif",
+        "radio_url": "https://rcf.streamakaci.com/rcf49.mp3",
+        "genre": "Nantes",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "RTL",
+        "radio_image": "https://radiomap.eu/fr/../lu/images/rtl_fr.svg",
+        "radio_url": "https://icecast.rtl.fr/rtl-1-44-128",
+        "genre": "Nantes",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Europe 1",
+        "radio_image": "https://radiomap.eu/fr/images/europe1.svg",
+        "radio_url": "https://ais-live.cloud-services.paris/europe1.mp3",
+        "genre": "Nantes",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Franceinfo",
+        "radio_image": "https://radiomap.eu/fr/images/rf_info.svg",
+        "radio_url": "http://icecast.radiofrance.fr/franceinfo-midfi.mp3",
+        "genre": "Nantes",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Ch\u00e9rie FM",
+        "radio_image": "https://radiomap.eu/fr/images/cherie.svg",
+        "radio_url": "https://scdn.nrjaudio.fm/fr/30201/aac_64.mp3?origine=radiomapeu&cdn_path=adswizz_lbs8",
+        "genre": "Nantes",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Classique",
+        "radio_image": "https://radiomap.eu/fr/images/classique.gif",
+        "radio_url": "http://radioclassique.ice.infomaniak.ch:80/radioclassique-high.mp3",
+        "genre": "Nantes",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Atlantis",
+        "radio_image": "https://radiomap.eu/fr/images/atlantis.gif",
+        "radio_url": "https://radio8.pro-fhi.net:19005/atlantis320",
+        "genre": "Nantes",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "BFM Business",
+        "radio_image": "https://radiomap.eu/fr/images/bfm-business.gif",
+        "radio_url": "https://audio.bfmtv.com/bfmbusiness_128.mp3",
+        "genre": "Nantes",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Vinci Autoroutes",
+        "radio_image": "https://radiomap.eu/fr/images/vinci_autoroutes.gif",
+        "radio_url": "https://ice.creacast.com/radio_vinci_autoroutes_1",
+        "genre": "Nantes",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "RCF en Bourgogne Radio Vatican",
+        "radio_image": "https://radiomap.eu/fr/images/rcf.gif",
+        "radio_url": "https://rcf.streamakaci.com/rcf21.mp3",
+        "genre": "Dijon",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Dijon Campus",
+        "radio_image": "https://radiomap.eu/fr/images/campus-dijon.gif",
+        "radio_url": "http://frequence.u-bourgogne.fr:8082/dijoncampus",
+        "genre": "Dijon",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Fr\u00e9quence Plus",
+        "radio_image": "https://radiomap.eu/fr/images/frequence-plus.gif",
+        "radio_url": "http://freqplus.ice.infomaniak.ch:80/freqplus-high.mp3",
+        "genre": "Dijon",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio FG",
+        "radio_image": "https://radiomap.eu/fr/images/fg.gif",
+        "radio_url": "http://radiofg.impek.com/fg",
+        "genre": "Dijon",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Shalom Bourgogne",
+        "radio_image": "https://radiomap.eu/fr/images/shalom_dijon.gif",
+        "radio_url": "https://listen.radioking.com/radio/4801/stream/12977",
+        "genre": "Dijon",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "France Bleu Bourgogne",
+        "radio_image": "https://radiomap.eu/fr/images/rf_bleu.svg",
+        "radio_url": "http://icecast.radiofrance.fr/fbbourgogne-midfi.mp3",
+        "genre": "Dijon",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "K6FM",
+        "radio_image": "https://radiomap.eu/fr/images/k6fm.gif",
+        "radio_url": "https://k6fm.ice.infomaniak.ch/k6fm-128.mp3",
+        "genre": "Dijon",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "France Maghreb 2",
+        "radio_image": "https://radiomap.eu/fr/images/francemaghreb2.gif",
+        "radio_url": "https://francemaghreb2.ice.infomaniak.ch/francemaghreb2-high.mp3",
+        "genre": "Dijon",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Jazz Radio",
+        "radio_image": "https://radiomap.eu/fr/images/jazz.svg",
+        "radio_url": "https://jazzradio.ice.infomaniak.ch/jazzradio-high.aac",
+        "genre": "Dijon",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Autoroute Info",
+        "radio_image": "https://radiomap.eu/fr/images/autorouteinfo.gif",
+        "radio_url": "https://media.autorouteinfo.fr/direct_nord.mp3",
+        "genre": "Dijon",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "SR 1",
+        "radio_image": "https://radiomap.eu/de/images/sr1.svg",
+        "radio_url": "https://liveradio.sr.de/sr/sr1/mp3/128/stream.mp3",
+        "genre": "Metz",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "O\u00fci FM",
+        "radio_image": "https://radiomap.eu/fr/images/oui.gif",
+        "radio_url": "http://ouifm.ice.infomaniak.ch:80/ouifm-high.mp3",
+        "genre": "Metz",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "SR 2 KulturRadio",
+        "radio_image": "https://radiomap.eu/de/images/sr2.svg",
+        "radio_url": "https://liveradio.sr.de/sr/sr2/mp3/128/stream.mp3",
+        "genre": "Metz",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "RTL Radio L\u00ebtzebuerg",
+        "radio_image": "https://radiomap.eu/lu/images/rtl.svg",
+        "radio_url": "https://shoutcast.rtl.lu/rtl",
+        "genre": "Metz",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "RPL Radio",
+        "radio_image": "https://radiomap.eu/fr/images/rpl892.gif",
+        "radio_url": "https://stream.votreradiosurlenet.eu/rpl.mp3",
+        "genre": "Metz",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "SWR3",
+        "radio_image": "https://radiomap.eu/de/images/swr3.svg",
+        "radio_url": "https://liveradio.swr.de/sw282p3/swr3/",
+        "genre": "Metz",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Direct FM",
+        "radio_image": "https://radiomap.eu/fr/images/direct.gif",
+        "radio_url": "http://directfm.ice.infomaniak.ch:80/directfm-128.mp3",
+        "genre": "Metz",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "RTL Radio",
+        "radio_image": "https://radiomap.eu/lu/images/rtl-ukw-deu.svg",
+        "radio_url": "https://rtlberlin.streamabc.net/rtlb-rtldeukw-mp3-128-2318218",
+        "genre": "Metz",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "SWR Kultur",
+        "radio_image": "https://radiomap.eu/de/images/swr-kultur.svg",
+        "radio_url": "https://liveradio.swr.de/sw282p3/swr2/",
+        "genre": "Metz",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "RCF Lorraine Radio Vatican",
+        "radio_image": "https://radiomap.eu/fr/images/rcf.gif",
+        "radio_url": "https://rcf.streamakaci.com/rcf57.mp3",
+        "genre": "Metz",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "LOR'FM",
+        "radio_image": "https://radiomap.eu/fr/images/lorfm.gif",
+        "radio_url": "http://lorfm.ice.infomaniak.ch:80/lorfm-128.mp3",
+        "genre": "Metz",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "SR 3 Saarlandwelle",
+        "radio_image": "https://radiomap.eu/de/images/sr3.svg",
+        "radio_url": "https://liveradio.sr.de/sr/sr3/mp3/128/stream.mp3",
+        "genre": "Metz",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "France Bleu Lorraine Nord",
+        "radio_image": "https://radiomap.eu/fr/images/rf_bleu.svg",
+        "radio_url": "http://icecast.radiofrance.fr/fblorrainenord-midfi.mp3",
+        "genre": "Metz",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "SWR1 Rheinland-Pfalz",
+        "radio_image": "https://radiomap.eu/de/images/swr1.svg",
+        "radio_url": "https://liveradio.swr.de/sw282p3/swr1rp/",
+        "genre": "Metz",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Sal\u00fc",
+        "radio_image": "https://radiomap.eu/de/images/salue.gif",
+        "radio_url": "https://internetradio.salue.de:8443/salue5",
+        "genre": "Metz",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "France Bleu Sud Lorraine",
+        "radio_image": "https://radiomap.eu/fr/images/rf_bleu.svg",
+        "radio_url": "http://icecast.radiofrance.fr/fbsudlorraine-midfi.mp3",
+        "genre": "Metz",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio 100,7",
+        "radio_image": "https://radiomap.eu/lu/images/1007.gif",
+        "radio_url": "http://100komma7.cast.addradio.de/100komma7/live/mp3/128/stream.mp3",
+        "genre": "Metz",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "RPR1.",
+        "radio_image": "https://radiomap.eu/de/images/rpr1.gif",
+        "radio_url": "https://streams.rpr1.de/rpr-simulcast-128-mp3",
+        "genre": "Metz",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Fun Radio",
+        "radio_image": "https://radiomap.eu/fr/images/fun.svg",
+        "radio_url": "http://195.154.167.153:10340/stream",
+        "genre": "Metz",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "SR 103.7 UnserDing",
+        "radio_image": "https://radiomap.eu/de/images/sr-unserding.svg",
+        "radio_url": "https://liveradio.sr.de/sr/ud/mp3/128/stream.mp3",
+        "genre": "Metz",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Deutschlandfunk",
+        "radio_image": "https://radiomap.eu/de/images/deutschlandfunk.svg",
+        "radio_url": "https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3",
+        "genre": "Metz",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Campus Lorraine",
+        "radio_image": "https://radiomap.eu/fr/images/campus-lorraine.gif",
+        "radio_url": "https://radiocampuslorraine.out.airtime.pro:443/radiocampuslorraine_b",
+        "genre": "Metz",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Sanef 107.7",
+        "radio_image": "https://radiomap.eu/fr/images/sanef.gif",
+        "radio_url": "http://sanef.ice.infomaniak.ch:80/sanef1077-est.mp3",
+        "genre": "Metz",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "80s80s Radio 90s90s Radio Absolut Bella Absolut HOT Absolut Germany Absolut Oldie Classics Absolut TOP AIDAradio Ballermann Radio Beats Radio Brillux Radio Nostalgie Radio Oldie Antenne Rock Antenne RTL Radio TOGGO Radio",
+        "radio_image": "https://radiomap.eu/de/images/80s80s.svg",
+        "radio_url": "https://80s80s.hoerradar.de/80s80s-mweb-mp3-hq",
+        "genre": "Metz",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "M\u00e9ga FM",
+        "radio_image": "https://radiomap.eu/fr/images/mega.gif",
+        "radio_url": "http://megafm.ice.infomaniak.ch:80/megafm-high.mp3",
+        "genre": "Orleans",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "RCF Loiret Radio Vatican",
+        "radio_image": "https://radiomap.eu/fr/images/rcf.gif",
+        "radio_url": "https://rcf.streamakaci.com/rcf45.mp3",
+        "genre": "Orleans",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Arc-en-Ciel",
+        "radio_image": "https://radiomap.eu/fr/images/arcenciel962.gif",
+        "radio_url": "https://ice.creacast.com/arcenciel45",
+        "genre": "Orleans",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Forum",
+        "radio_image": "https://radiomap.eu/fr/images/forum.gif",
+        "radio_url": "https://start-forum.ice.infomaniak.ch/start-forum-high.mp3",
+        "genre": "Orleans",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "France Bleu Orl\u00e9ans",
+        "radio_image": "https://radiomap.eu/fr/images/rf_bleu.svg",
+        "radio_url": "http://icecast.radiofrance.fr/fborleans-midfi.mp3",
+        "genre": "Orleans",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Vibration",
+        "radio_image": "https://radiomap.eu/fr/images/vibration.gif",
+        "radio_url": "https://vibration-high.ice.infomaniak.ch/vibration-high.mp3",
+        "genre": "Orleans",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "France Bleu Berry",
+        "radio_image": "https://radiomap.eu/fr/images/rf_bleu.svg",
+        "radio_url": "http://icecast.radiofrance.fr/fbberry-midfi.mp3",
+        "genre": "Orleans",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Intensit\u00e9",
+        "radio_image": "https://radiomap.eu/fr/images/intensite.gif",
+        "radio_url": "https://live.intensite.net/live.mp3",
+        "genre": "Orleans",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "TSF Jazz",
+        "radio_image": "https://radiomap.eu/fr/images/tsfjazz.gif",
+        "radio_url": "http://tsfjazz.ice.infomaniak.ch:80/tsfjazz-high.mp3",
+        "genre": "Orleans",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Grand Ciel",
+        "radio_image": "https://radiomap.eu/fr/images/grandciel.gif",
+        "radio_url": "https://ice.creacast.com/radio_grand_ciel",
+        "genre": "Orleans",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "RNE Radio Nacional",
+        "radio_image": "https://radiomap.eu/es/images/rne-nacional.svg",
+        "radio_url": "https://dispatcher.rndfnk.com/crtve/rne1/nav/mp3/high",
+        "genre": "Bayonne",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Gure Irratia",
+        "radio_image": "https://radiomap.eu/fr/images/gure.gif",
+        "radio_url": "https://hosting2.studioradiomedia.com:8007/stream",
+        "genre": "Bayonne",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "COPE Palmplona",
+        "radio_image": "https://radiomap.eu/es/images/cope.svg",
+        "radio_url": "https://wecast18-h-cloud.flumotion.com/copesedes/pamplona.mp3",
+        "genre": "Bayonne",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Hits 1 Radio",
+        "radio_image": "https://radiomap.eu/es/images/hits1.gif",
+        "radio_url": "https://ecmanager3.pro-fhi.net:2610/hits1studio",
+        "genre": "Bayonne",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "RNE Radio 5",
+        "radio_image": "https://radiomap.eu/es/images/rne-radio5.svg",
+        "radio_url": "https://dispatcher.rndfnk.com/crtve/rne5/nav/mp3/high",
+        "genre": "Bayonne",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Xiberoko Botza Irratia",
+        "radio_image": "https://radiomap.eu/fr/images/xiberoko-botza.gif",
+        "radio_url": "http://87.106.192.209:8001/xiberokobotza.mp3",
+        "genre": "Bayonne",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Lapurdi Irratia",
+        "radio_image": "https://radiomap.eu/fr/images/lapurdi.gif",
+        "radio_url": "https://direct.lapurdi.net/radio-lapurdi",
+        "genre": "Bayonne",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Bonne Humeur",
+        "radio_image": "https://radiomap.eu/fr/images/bonne-humeur.gif",
+        "radio_url": "https://s36.myradiostream.com/9146/listen.mp3",
+        "genre": "Bayonne",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "France Bleu Gascogne",
+        "radio_image": "https://radiomap.eu/fr/images/rf_bleu.svg",
+        "radio_url": "http://icecast.radiofrance.fr/fbgascogne-midfi.mp3",
+        "genre": "Bayonne",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "France Bleu Pays Basque",
+        "radio_image": "https://radiomap.eu/fr/images/rf_bleu.svg",
+        "radio_url": "http://icecast.radiofrance.fr/fbpaysbasque-midfi.mp3",
+        "genre": "Bayonne",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Sud Radio",
+        "radio_image": "https://radiomap.eu/fr/images/sud.gif",
+        "radio_url": "https://ice.creacast.com/sudradio",
+        "genre": "Bayonne",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "RNE Radio Nacional",
+        "radio_image": "https://radiomap.eu/es/images/rne-nacional.svg",
+        "radio_url": "https://dispatcher.rndfnk.com/crtve/rne1/eus/mp3/high",
+        "genre": "Bayonne",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Antxeta Irratia",
+        "radio_image": "https://radiomap.eu/es/images/antxeta.gif",
+        "radio_url": "https://streaming.antxetamedia.eus:8443/antxeta1",
+        "genre": "Bayonne",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Vinci Autoroutes",
+        "radio_image": "https://radiomap.eu/fr/images/vinci_autoroutes.gif",
+        "radio_url": "https://ice.creacast.com/radio_vinci_autoroutes_3",
+        "genre": "Bayonne",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "RNE Radio 5",
+        "radio_image": "https://radiomap.eu/es/images/rne-radio5.svg",
+        "radio_url": "https://dispatcher.rndfnk.com/crtve/rne5/don/mp3/high",
+        "genre": "Bayonne",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "RNE Radio Nacional",
+        "radio_image": "https://radiomap.eu/es/images/rne-nacional.svg",
+        "radio_url": "https://dispatcher.rndfnk.com/crtve/rne1/mad/mp3/high",
+        "genre": "Bayonne",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "SER Radio San Sebasti\u00e1n",
+        "radio_image": "https://radiomap.eu/es/images/ser.svg",
+        "radio_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SAN_SEBASTIAN.mp3",
+        "genre": "Bayonne",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio D\u00e9clic",
+        "radio_image": "https://radiomap.eu/fr/images/declic877.gif",
+        "radio_url": "http://ks39339.kimsufi.com/declic.mp3",
+        "genre": "Nancy",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "RCF Lorraine Radio Vatican",
+        "radio_image": "https://radiomap.eu/fr/images/rcf.gif",
+        "radio_url": "https://rcf.streamakaci.com/rcf54.mp3",
+        "genre": "Nancy",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Magnum La Radio",
+        "radio_image": "https://radiomap.eu/fr/images/magnum.gif",
+        "radio_url": "https://ice.creacast.com/magnum",
+        "genre": "Nancy",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Soleil \u0645\u0648\u0646\u062a \u0643\u0627\u0631\u0644\u0648 \u0627\u0644\u062f\u0648\u0644\u064a\u0629",
+        "radio_image": "https://radiomap.eu/fr/images/soleil.gif",
+        "radio_url": "http://radiosoleil.ice.infomaniak.ch/radiosoleil-128.mp3",
+        "genre": "Marseille",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Maritima",
+        "radio_image": "https://radiomap.eu/fr/images/maritima.gif",
+        "radio_url": "https://maritima936.ice.infomaniak.ch/maritima936-128.mp3",
+        "genre": "Marseille",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Gal\u00e8re",
+        "radio_image": "https://radiomap.eu/fr/images/galere.gif",
+        "radio_url": "https://live.radiogalere.org/galere.mp3",
+        "genre": "Marseille",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Dialogue RCF Radio Vatican",
+        "radio_image": "https://radiomap.eu/fr/images/rcf.gif",
+        "radio_url": "https://rcf.streamakaci.com/rcf13.mp3",
+        "genre": "Marseille",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Star",
+        "radio_image": "https://radiomap.eu/fr/images/star-marseille.gif",
+        "radio_url": "https://www.radioking.com/play/radio-star",
+        "genre": "Marseille",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "United Radio",
+        "radio_image": "https://radiomap.eu/fr/images/united.gif",
+        "radio_url": "http://adn13.fr:8080/unitedMBR",
+        "genre": "Marseille",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Gazelle",
+        "radio_image": "https://radiomap.eu/fr/images/gazelle.gif",
+        "radio_url": "https://stunnel1.cyber-streaming.com:9134/stream/1/",
+        "genre": "Marseille",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Kiss FM",
+        "radio_image": "https://radiomap.eu/fr/images/kissfm.gif",
+        "radio_url": "https://kissfm2.ice.infomaniak.ch:80/kissfm2-128.mp3",
+        "genre": "Marseille",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Diva FM",
+        "radio_image": "https://radiomap.eu/fr/images/diva.gif",
+        "radio_url": "https://sv1.vestaradio.com/DivaFm",
+        "genre": "Marseille",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "France Bleu Provence",
+        "radio_image": "https://radiomap.eu/fr/images/rf_bleu.svg",
+        "radio_url": "http://icecast.radiofrance.fr/fbprovence-midfi.mp3",
+        "genre": "Marseille",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Maritima",
+        "radio_image": "https://radiomap.eu/fr/images/maritima.gif",
+        "radio_url": "https://maritima1072.ice.infomaniak.ch/maritima1072-128.mp3",
+        "genre": "Marseille",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Vinci Autoroutes",
+        "radio_image": "https://radiomap.eu/fr/images/vinci_autoroutes.gif",
+        "radio_url": "https://ice.creacast.com/radio_vinci_autoroutes_6",
+        "genre": "Marseille",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "RNE Radio Nacional",
+        "radio_image": "https://radiomap.eu/es/images/rne-nacional.svg",
+        "radio_url": "https://dispatcher.rndfnk.com/crtve/rne1/cat/mp3/high",
+        "genre": "Marseille",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Esp\u00e9rance",
+        "radio_image": "https://radiomap.eu/fr/images/esperance.gif",
+        "radio_url": "https://bretagne5.streamakaci.com/esperance.mp3",
+        "genre": "Lyon",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "RCF Lyon Radio Vatican",
+        "radio_image": "https://radiomap.eu/fr/images/rcf.gif",
+        "radio_url": "https://rcf.streamakaci.com/rcf69.mp3",
+        "genre": "Lyon",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Virgin Radio",
+        "radio_image": "https://radiomap.eu/fr/../uk/images/virgin.svg",
+        "radio_url": "http://virageradio.ice.infomaniak.ch:80/virageradio-high.mp3",
+        "genre": "Lyon",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "C'Rock Radio",
+        "radio_image": "https://radiomap.eu/fr/images/crock.gif",
+        "radio_url": "http://stric6.streamakaci.com/crock.mp3",
+        "genre": "Lyon",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Lyon 1\u00e8re",
+        "radio_image": "https://radiomap.eu/fr/images/lyonpremiere.gif",
+        "radio_url": "http://lyon1ere.ice.infomaniak.ch:80/lyon1ere-high.mp3",
+        "genre": "Lyon",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Brume",
+        "radio_image": "https://radiomap.eu/fr/images/brume.gif",
+        "radio_url": "https://listen.radioking.com/radio/489875/stream/546695",
+        "genre": "Lyon",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Salam",
+        "radio_image": "https://radiomap.eu/fr/images/salam.gif",
+        "radio_url": "http://radiosalam.ice.infomaniak.ch:80/radiosalam-128.mp3",
+        "genre": "Lyon",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Pluriel",
+        "radio_image": "https://radiomap.eu/fr/images/pluriel.gif",
+        "radio_url": "https://rocket.streamradio.fr:8050/pluriel.web",
+        "genre": "Lyon",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Scoop",
+        "radio_image": "https://radiomap.eu/fr/images/scoop.gif",
+        "radio_url": "http://radioscooplyon.ice.infomaniak.ch:80/radioscoop-lyon-128.mp3",
+        "genre": "Lyon",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Juda\u00efca Lyon",
+        "radio_image": "https://radiomap.eu/fr/images/judaica-lyon.gif",
+        "radio_url": "http://judaica.ice.infomaniak.ch:80/judaica-high.mp3",
+        "genre": "Lyon",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Espace",
+        "radio_image": "https://radiomap.eu/fr/images/espacelyon.gif",
+        "radio_url": "http://radioespace.ice.infomaniak.ch:80/radioespace-high.mp3",
+        "genre": "Lyon",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Tonic Radio",
+        "radio_image": "https://radiomap.eu/fr/images/tonic.gif",
+        "radio_url": "https://hit-sport.ice.infomaniak.ch/hit-sport-high.mp3",
+        "genre": "Lyon",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "France Bleu Is\u00e8re",
+        "radio_image": "https://radiomap.eu/fr/images/rf_bleu.svg",
+        "radio_url": "http://icecast.radiofrance.fr/fbisere-midfi.mp3",
+        "genre": "Lyon",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio CapSao",
+        "radio_image": "https://radiomap.eu/fr/images/capsao.gif",
+        "radio_url": "https://capsaohdf.ice.infomaniak.ch/capsaohdf-128.aac",
+        "genre": "Lyon",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Sol FM",
+        "radio_image": "https://radiomap.eu/fr/images/solfm.gif",
+        "radio_url": "https://stric6.streamakaci.com/solfm64.mp3",
+        "genre": "Lyon",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "G\u00e9n\u00e9rations",
+        "radio_image": "https://radiomap.eu/fr/images/generations.gif",
+        "radio_url": "http://radiosun.ice.infomaniak.ch:80/radiosun-high.mp3",
+        "genre": "Lyon",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "France Bleu Pays de Savoie",
+        "radio_image": "https://radiomap.eu/fr/images/rf_bleu.svg",
+        "radio_url": "http://icecast.radiofrance.fr/fbpaysdesavoie-midfi.mp3",
+        "genre": "Lyon",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Impact FM",
+        "radio_image": "https://radiomap.eu/fr/images/impact.gif",
+        "radio_url": "http://impactfm.ice.infomaniak.ch:80/impactfm-128.mp3",
+        "genre": "Lyon",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Phare FM",
+        "radio_image": "https://radiomap.eu/fr/images/pharefm.gif",
+        "radio_url": "http://str0.creacast.com:80/pharefm",
+        "genre": "Lyon",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Vinci Autoroutes",
+        "radio_image": "https://radiomap.eu/fr/images/vinci_autoroutes.gif",
+        "radio_url": "https://ice.creacast.com/radio_vinci_autoroutes_5",
+        "genre": "Lyon",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Autoroute Info",
+        "radio_image": "https://radiomap.eu/fr/images/autorouteinfo.gif",
+        "radio_url": "https://media.autorouteinfo.fr/direct_sud.mp3",
+        "genre": "Lyon",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio C Lab",
+        "radio_image": "https://radiomap.eu/fr/images/c-lab.gif",
+        "radio_url": "https://www.c-lab.fr/stream/",
+        "genre": "Rennes",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Caroline",
+        "radio_image": "https://radiomap.eu/fr/images/caroline.gif",
+        "radio_url": "http://radiocaroline.ice.infomaniak.ch/radiocaroline-128.mp3",
+        "genre": "Rennes",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Canal B",
+        "radio_image": "https://radiomap.eu/fr/images/canalb.gif",
+        "radio_url": "http://stream.levillage.org/canalb",
+        "genre": "Rennes",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Laser",
+        "radio_image": "https://radiomap.eu/fr/images/laser.gif",
+        "radio_url": "https://radiolasergui.radioca.st/stream",
+        "genre": "Rennes",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "RCF Bretagne Radio Vatican",
+        "radio_image": "https://radiomap.eu/fr/images/rcf.gif",
+        "radio_url": "https://rcf.streamakaci.com/rcf35.mp3",
+        "genre": "Rennes",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "France Bleu Mayenne",
+        "radio_image": "https://radiomap.eu/fr/images/rf_bleu.svg",
+        "radio_url": "http://icecast.radiofrance.fr/fbmayenne-midfi.mp3",
+        "genre": "Rennes",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio \u00c9vasion",
+        "radio_image": "https://radiomap.eu/fr/images/evasion35.gif",
+        "radio_url": "https://sv2.vestaradio.com/RadioEvasion",
+        "genre": "Rennes",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Univers",
+        "radio_image": "https://radiomap.eu/fr/images/univers.gif",
+        "radio_url": "http://sv3.vestaradio.com/RadioUnivers",
+        "genre": "Rennes",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Rennes",
+        "radio_image": "https://radiomap.eu/fr/images/rennes.gif",
+        "radio_url": "https://stream4.vestaradio.com/RADIORENNES",
+        "genre": "Rennes",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "France Bleu Normandie",
+        "radio_image": "https://radiomap.eu/fr/images/rf_bleu.svg",
+        "radio_url": "http://icecast.radiofrance.fr/fbbassenormandie-midfi.mp3",
+        "genre": "Rennes",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Bretagne 5",
+        "radio_image": "https://radiomap.eu/fr/images/bretagne5.gif",
+        "radio_url": "http://bretagne5.streamakaci.com/bretagne5.mp3",
+        "genre": "Rennes",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "RCF Reims-Ardennes Radio Vatican",
+        "radio_image": "https://radiomap.eu/fr/images/rcf.gif",
+        "radio_url": "https://rcf.streamakaci.com/rcf51r.mp3",
+        "genre": "Reims",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Contact",
+        "radio_image": "https://radiomap.eu/fr/images/contact.gif",
+        "radio_url": "https://radio-contact.ice.infomaniak.ch/radio-contact-high.mp3",
+        "genre": "Reims",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio 3 D\u00e8s",
+        "radio_image": "https://radiomap.eu/fr/images/3des.gif",
+        "radio_url": "http://serveur2.wanastream.com:63000/;stream.mp3",
+        "genre": "Reims",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Primitive",
+        "radio_image": "https://radiomap.eu/fr/images/primitive.gif",
+        "radio_url": "https://www.radioprimitive.fr/live.mp3",
+        "genre": "Reims",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio 8",
+        "radio_image": "https://radiomap.eu/fr/images/radio8.gif",
+        "radio_url": "http://radio8.ice.infomaniak.ch:80/radio8-128.mp3",
+        "genre": "Reims",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "France Bleu Champagne-Ardenne",
+        "radio_image": "https://radiomap.eu/fr/images/rf_bleu.svg",
+        "radio_url": "http://icecast.radiofrance.fr/fbchampagne-midfi.mp3",
+        "genre": "Reims",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Graffiti's",
+        "radio_image": "https://radiomap.eu/fr/images/graffitis.gif",
+        "radio_url": "http://92.243.28.151:8006/;stream.mp3",
+        "genre": "Reims",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Champagne FM",
+        "radio_image": "https://radiomap.eu/fr/images/champagne.gif",
+        "radio_url": "https://epernay.ice.infomaniak.ch:80/epernay-128.mp3",
+        "genre": "Reims",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Champagne FM",
+        "radio_image": "https://radiomap.eu/fr/images/champagne.gif",
+        "radio_url": "https://reims.ice.infomaniak.ch:80/reims-128.mp3",
+        "genre": "Reims",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Champagne FM",
+        "radio_image": "https://radiomap.eu/fr/images/champagne.gif",
+        "radio_url": "https://rethel.ice.infomaniak.ch:80/rethel-128.mp3",
+        "genre": "Reims",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "RJR - Radio Jeunes Reims",
+        "radio_image": "https://radiomap.eu/fr/images/rjr.gif",
+        "radio_url": "http://stream.rjrradio.fr/rjr.mp3",
+        "genre": "Reims",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "G\u00e9n\u00e9rations",
+        "radio_image": "https://radiomap.eu/fr/images/generations.gif",
+        "radio_url": "http://generationfm.ice.infomaniak.ch:80/generationfm-high.mp3",
+        "genre": "Paris",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Yvelines Radio Marmite FM",
+        "radio_image": "https://radiomap.eu/fr/images/yvelines.gif",
+        "radio_url": "http://yvelinesradio884fm.ice.infomaniak.ch:80/yvelinesradio884fm-96.aac",
+        "genre": "Paris",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio France Internationale",
+        "radio_image": "https://radiomap.eu/fr/images/rfi.svg",
+        "radio_url": "https://rfimonde64k.ice.infomaniak.ch/rfimonde-64.mp3",
+        "genre": "Paris",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Chante France",
+        "radio_image": "https://radiomap.eu/fr/images/chantefrance.gif",
+        "radio_url": "http://stream.chantefrance.com/stream_chante_france.mp3",
+        "genre": "Paris",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "\u00c9vasion FM",
+        "radio_image": "https://radiomap.eu/fr/images/evasion.gif",
+        "radio_url": "http://stream.evasionfm.com/stream.mp3",
+        "genre": "Paris",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Tropiques FM",
+        "radio_image": "https://radiomap.eu/fr/images/tropiques.gif",
+        "radio_url": "http://www.radioking.com/play/tropiques-fm",
+        "genre": "Paris",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio MBS",
+        "radio_image": "https://radiomap.eu/fr/images/mbs.gif",
+        "radio_url": "http://stream1.radiombs.fr/mbs",
+        "genre": "Paris",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Aligre FM Cause Commune",
+        "radio_image": "https://radiomap.eu/fr/images/aligre.gif",
+        "radio_url": "https://stream3.vestaradio.com/aligrefmradio",
+        "genre": "Paris",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Urban Hit",
+        "radio_image": "https://radiomap.eu/fr/images/urbanhit.gif",
+        "radio_url": "http://onlyrai.ice.infomaniak.ch:80/onlyrai-high.mp3",
+        "genre": "Paris",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio RCJ Radio Shalom Radio-J Juda\u00efques FM",
+        "radio_image": "https://radiomap.eu/fr/images/rcj.gif",
+        "radio_url": "https://ice.creacast.com/radio-rcj",
+        "genre": "Paris",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Courtoisie",
+        "radio_image": "https://radiomap.eu/fr/images/courtoisie.gif",
+        "radio_url": "https://ice.creacast.com/radio-courtoisie",
+        "genre": "Paris",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Oxyg\u00e8ne",
+        "radio_image": "https://radiomap.eu/fr/images/oxygene-melun.gif",
+        "radio_url": "https://ice.creacast.com/oxy-meaux",
+        "genre": "Paris",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "RVVS Top Italia Radio",
+        "radio_image": "https://radiomap.eu/fr/images/rvvs.gif",
+        "radio_url": "https://rvvs.ice.infomaniak.ch/rvvs-64.aac",
+        "genre": "Paris",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Voltage",
+        "radio_image": "https://radiomap.eu/fr/images/voltage.gif",
+        "radio_url": "https://start-voltage.ice.infomaniak.ch/start-voltage-high.mp3",
+        "genre": "Paris",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Ado",
+        "radio_image": "https://radiomap.eu/fr/images/ado.gif",
+        "radio_url": "https://start-adofm.ice.infomaniak.ch/start-adofm-high.mp3",
+        "genre": "Paris",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "idFM Radio",
+        "radio_image": "https://radiomap.eu/fr/images/id.gif",
+        "radio_url": "https://live.idfm98.fr:8000/idfm",
+        "genre": "Paris",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Sensations",
+        "radio_image": "https://radiomap.eu/fr/images/sensations.gif",
+        "radio_url": "https://sensations.ice.infomaniak.ch/sensations.mp3",
+        "genre": "Paris",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "R\u00e1dio Alfa",
+        "radio_image": "https://radiomap.eu/fr/images/alfa.svg",
+        "radio_url": "https://stream.rcs.revma.com/amrbkhqtkm0uv",
+        "genre": "Paris",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Espace FM",
+        "radio_image": "https://radiomap.eu/fr/images/espace.gif",
+        "radio_url": "http://www.radioking.com/play/espace-fm",
+        "genre": "Paris",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Latina",
+        "radio_image": "https://radiomap.eu/fr/images/latina.gif",
+        "radio_url": "https://start-latina.ice.infomaniak.ch/start-latina-high.mp3",
+        "genre": "Paris",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Notre-Dame Fr\u00e9quence Protestante",
+        "radio_image": "https://radiomap.eu/fr/images/rnd.gif",
+        "radio_url": "http://windu.radionotredame.net/RadioNotreDame-Fm.mp3",
+        "genre": "Paris",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Fr\u00e9quence Paris Plurielle",
+        "radio_image": "https://radiomap.eu/fr/images/fpp1063.gif",
+        "radio_url": "http://radio.toile-libre.org:8000/fpp.mp3",
+        "genre": "Paris",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Beur FM",
+        "radio_image": "https://radiomap.eu/fr/images/beur.gif",
+        "radio_url": "https://beurfm.ice.infomaniak.ch/beurfm-high.mp3",
+        "genre": "Paris",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "France Bleu 107.1",
+        "radio_image": "https://radiomap.eu/fr/images/rf_bleu.svg",
+        "radio_url": "http://icecast.radiofrance.fr/fb1071-midfi.mp3",
+        "genre": "Paris",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Africa Radio",
+        "radio_image": "https://radiomap.eu/fr/images/africa.gif",
+        "radio_url": "http://african1paris.ice.infomaniak.ch:80/african1paris-128.mp3",
+        "genre": "Paris",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Sanef 107.7",
+        "radio_image": "https://radiomap.eu/fr/images/sanef.gif",
+        "radio_url": "http://sanef.ice.infomaniak.ch:80/sanef1077-idf.mp3",
+        "genre": "Paris",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "BBC Radio 4",
+        "radio_image": "https://radiomap.eu/uk/images/bbc_radio4.svg",
+        "radio_url": "Audio source not found",
+        "genre": "Paris",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Kaolin FM",
+        "radio_image": "https://radiomap.eu/fr/images/kaolin.gif",
+        "radio_url": "https://hosting2.studioradiomedia.com:8026/stream.mp3",
+        "genre": "Limoges",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Vassivi\u00e8re",
+        "radio_image": "https://radiomap.eu/fr/images/vassiviere.gif",
+        "radio_url": "http://radiovassiviere.ice.infomaniak.ch:80/radiovassiviere-128.aac",
+        "genre": "Limoges",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Beaub\u2019 FM",
+        "radio_image": "https://radiomap.eu/fr/images/beaub.gif",
+        "radio_url": "http://beaubfm2.ice.infomaniak.ch:80/beaubfm2-96.mp3",
+        "genre": "Limoges",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Flash FM",
+        "radio_image": "https://radiomap.eu/fr/images/flash899.gif",
+        "radio_url": "http://flashfm2.ice.infomaniak.ch/flashfm2-128.mp3",
+        "genre": "Limoges",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "France Bleu P\u00e9rigord",
+        "radio_image": "https://radiomap.eu/fr/images/rf_bleu.svg",
+        "radio_url": "http://icecast.radiofrance.fr/fbperigord-midfi.mp3",
+        "genre": "Limoges",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Alouette",
+        "radio_image": "https://radiomap.eu/fr/images/alouette.gif",
+        "radio_url": "https://alouette-nantes.ice.infomaniak.ch/alouette-limoges-128.mp3",
+        "genre": "Limoges",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "France Bleu Creuse",
+        "radio_image": "https://radiomap.eu/fr/images/rf_bleu.svg",
+        "radio_url": "http://icecast.radiofrance.fr/fbcreuse-midfi.mp3",
+        "genre": "Limoges",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "RTF - Radio Trouble F\u00eate",
+        "radio_image": "https://radiomap.eu/fr/images/rtf.gif",
+        "radio_url": "https://str2b.openstream.co/1680",
+        "genre": "Limoges",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Open FM",
+        "radio_image": "https://radiomap.eu/fr/images/openfm.gif",
+        "radio_url": "http://radioopenfm.ice.infomaniak.ch:80/radioopenfm.mp3",
+        "genre": "Limoges",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "RCF Email Limousin Radio Vatican",
+        "radio_image": "https://radiomap.eu/fr/images/rcf.gif",
+        "radio_url": "https://rcf.streamakaci.com/rcf87.mp3",
+        "genre": "Limoges",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Jazz Radio Swing FM",
+        "radio_image": "https://radiomap.eu/fr/images/swing.gif",
+        "radio_url": "http://swingfm.ice.infomaniak.ch:80/swingfm-128.mp3",
+        "genre": "Limoges",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "France Bleu Limousin",
+        "radio_image": "https://radiomap.eu/fr/images/rf_bleu.svg",
+        "radio_url": "http://icecast.radiofrance.fr/fblimousin-midfi.mp3",
+        "genre": "Limoges",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "RTS",
+        "radio_image": "https://radiomap.eu/fr/images/rts.gif",
+        "radio_url": "https://sc.creacast.com/rts-montpellier",
+        "genre": "Montpellier",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Aviva",
+        "radio_image": "https://radiomap.eu/fr/images/aviva.gif",
+        "radio_url": "https://stream-ssl.radios-arra.fr:8443/radioaviva",
+        "genre": "Montpellier",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "France Bleu Gard Loz\u00e8re",
+        "radio_image": "https://radiomap.eu/fr/images/rf_bleu.svg",
+        "radio_url": "http://icecast.radiofrance.fr/fbgardlozere-midfi.mp3",
+        "genre": "Montpellier",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "RCF Maguelone H\u00e9rault Radio Vatican",
+        "radio_image": "https://radiomap.eu/fr/images/rcf.gif",
+        "radio_url": "https://rcf.streamakaci.com/rcf34.mp3",
+        "genre": "Montpellier",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Clapas",
+        "radio_image": "https://radiomap.eu/fr/images/clapas.gif",
+        "radio_url": "http://stations.radioclapas.fr/radio/8130/radio.mp3",
+        "genre": "Montpellier",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "France Bleu H\u00e9rault",
+        "radio_image": "https://radiomap.eu/fr/images/rf_bleu.svg",
+        "radio_url": "http://icecast.radiofrance.fr/fbherault-midfi.mp3",
+        "genre": "Montpellier",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Campus Montpellier",
+        "radio_image": "https://radiomap.eu/fr/images/campus-montpellier.gif",
+        "radio_url": "https://stream.radiocampusmontpellier.fr/rcm_direct",
+        "genre": "Montpellier",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio One",
+        "radio_image": "https://radiomap.eu/fr/images/one.gif",
+        "radio_url": "https://radioone.ice.infomaniak.ch/radioone-96.mp3",
+        "genre": "Montpellier",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Raje",
+        "radio_image": "https://radiomap.eu/fr/images/raje.gif",
+        "radio_url": "https://rajenimes.ice.infomaniak.ch/rajenimes-128.mp3",
+        "genre": "Montpellier",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Cap FM",
+        "radio_image": "https://radiomap.eu/fr/images/cap-agde.gif",
+        "radio_url": "https://capfm.ice.infomaniak.ch:80/capfm-128.aac",
+        "genre": "Montpellier",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Vinci Autoroutes",
+        "radio_image": "https://radiomap.eu/fr/images/vinci_autoroutes.gif",
+        "radio_url": "https://ice.creacast.com/radio_vinci_autoroutes_4",
+        "genre": "Montpellier",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "RNE Radio 5",
+        "radio_image": "https://radiomap.eu/es/images/rne-radio5.svg",
+        "radio_url": "https://dispatcher.rndfnk.com/crtve/rne5/bcn/mp3/high",
+        "genre": "Montpellier",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "SER R\u00e0dio Barcelona",
+        "radio_image": "https://radiomap.eu/es/images/ser.svg",
+        "radio_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_BARCELONA.mp3",
+        "genre": "Montpellier",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "COPE Catalunya",
+        "radio_image": "https://radiomap.eu/es/images/cope.svg",
+        "radio_url": "http://barcelona-copesedes-rrcast.flumotion.com/copesedes/barcelona.mp3",
+        "genre": "Montpellier",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "RCF Puy-de-D\u00f4me Radio Vatican",
+        "radio_image": "https://radiomap.eu/fr/images/rcf.gif",
+        "radio_url": "https://rcf.streamakaci.com/rcf63.mp3",
+        "genre": "Clermont-Ferrand",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Fusion FM",
+        "radio_image": "https://radiomap.eu/fr/images/fusion.gif",
+        "radio_url": "http://fusionfm.ice.infomaniak.ch:80/fusionfm-128.aac",
+        "genre": "Clermont-Ferrand",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio RVA",
+        "radio_image": "https://radiomap.eu/fr/images/rva.gif",
+        "radio_url": "http://rva.ice.infomaniak.ch:80/rva-high.mp3",
+        "genre": "Clermont-Ferrand",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Totem",
+        "radio_image": "https://radiomap.eu/fr/images/totem.gif",
+        "radio_url": "https://aratotem.ice.infomaniak.ch/aveyron.mp3",
+        "genre": "Clermont-Ferrand",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Campus Clermont-Fd.",
+        "radio_image": "https://radiomap.eu/fr/images/campus-clermont.gif",
+        "radio_url": "https://live.radio-campus.org:8002/clermont-ferrand",
+        "genre": "Clermont-Ferrand",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Le Chantier Radio",
+        "radio_image": "https://radiomap.eu/fr/images/chantier.gif",
+        "radio_url": "https://www.radioking.com/play/lechantier-radio/182095",
+        "genre": "Clermont-Ferrand",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Scoop",
+        "radio_image": "https://radiomap.eu/fr/images/scoop.gif",
+        "radio_url": "http://radioscoopclermont-ferrand.ice.infomaniak.ch:80/radioscoop-clermont-128.mp3",
+        "genre": "Clermont-Ferrand",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Arverne",
+        "radio_image": "https://radiomap.eu/fr/images/arverne.gif",
+        "radio_url": "http://radioarverne.ice.infomaniak.ch:80/arverne.mp3",
+        "genre": "Clermont-Ferrand",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "France Bleu Pays d'Auvergne",
+        "radio_image": "https://radiomap.eu/fr/images/rf_bleu.svg",
+        "radio_url": "http://icecast.radiofrance.fr/fbpaysdauvergne-midfi.mp3",
+        "genre": "Clermont-Ferrand",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Kiss Kiss",
+        "radio_image": "https://radiomap.eu/it/images/kisskiss.gif",
+        "radio_url": "https://ice08.fluidstream.net/KissKiss.mp3",
+        "genre": "Nice",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "RCN",
+        "radio_image": "https://radiomap.eu/fr/images/chalom-nitsan.gif",
+        "radio_url": "http://rcnradiochalomcotedazur.ice.infomaniak.ch:80/rcnradiochalomcotedazur-128.mp3",
+        "genre": "Nice",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio AS",
+        "radio_image": "https://radiomap.eu/fr/images/as.gif",
+        "radio_url": "https://vps.cbad.fr/rasweb",
+        "genre": "Nice",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Kiss FM",
+        "radio_image": "https://radiomap.eu/fr/images/kissfm.gif",
+        "radio_url": "https://kissfm.ice.infomaniak.ch:80/kissfm-128.mp3",
+        "genre": "Nice",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Cannes Radio",
+        "radio_image": "https://radiomap.eu/fr/images/cannes.gif",
+        "radio_url": "https://stream.rcs.revma.com/2ykc70sauwzuv.mp3",
+        "genre": "Nice",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Maria Radio Vaticana",
+        "radio_image": "https://radiomap.eu/it/images/maria.gif",
+        "radio_url": "https://dreamsiteradiocp5.com/proxy/rmitalia?mp=/stream",
+        "genre": "Nice",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Agora C\u00f4te d'Azur Radio France Internationale",
+        "radio_image": "https://radiomap.eu/fr/images/agora.gif",
+        "radio_url": "http://agoracotedazur.ice.infomaniak.ch:80/agoracotedazur.mp3",
+        "genre": "Nice",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "France Bleu Azur",
+        "radio_image": "https://radiomap.eu/fr/images/rf_bleu.svg",
+        "radio_url": "http://icecast.radiofrance.fr/fbazur-midfi.mp3",
+        "genre": "Nice",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Monaco",
+        "radio_image": "https://radiomap.eu/mc/images/monaco.svg",
+        "radio_url": "http://radiomonaco.ice.infomaniak.ch:80/radiomonaco-128.mp3",
+        "genre": "Nice",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "RCF Nice C\u00f4te d\u2019Azur Radio Vatican",
+        "radio_image": "https://radiomap.eu/fr/images/rcf.gif",
+        "radio_url": "https://rcf.streamakaci.com/rcf06.mp3",
+        "genre": "Nice",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Nice Radio",
+        "radio_image": "https://radiomap.eu/fr/images/nice.gif",
+        "radio_url": "https://niceradio.ice.infomaniak.ch:80/niceradio.mp3",
+        "genre": "Nice",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Fr\u00e9quence K",
+        "radio_image": "https://radiomap.eu/fr/images/frequence-k.gif",
+        "radio_url": "http://frequencek.ice.infomaniak.ch:80/frequencek-128.mp3",
+        "genre": "Nice",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Emotion",
+        "radio_image": "https://radiomap.eu/fr/images/emotion.gif",
+        "radio_url": "http://radioemotion.ice.infomaniak.ch:80/radioemotion-128.mp3",
+        "genre": "Nice",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Riviera Radio BBC World Service",
+        "radio_image": "https://radiomap.eu/mc/images/riviera.gif",
+        "radio_url": "https://rivieraradio.ice.infomaniak.ch/rivieraradio-high.mp3",
+        "genre": "Nice",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Monte Carlo",
+        "radio_image": "https://radiomap.eu/it/../mc/images/rmc_it.svg",
+        "radio_url": "https://icy.unitedradio.it/RMC.aac",
+        "genre": "Nice",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Vinci Autoroutes",
+        "radio_image": "https://radiomap.eu/fr/images/vinci_autoroutes.gif",
+        "radio_url": "https://ice.creacast.com/radio_vinci_autoroutes_7",
+        "genre": "Nice",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "RCF Bordeaux Radio Vatican",
+        "radio_image": "https://radiomap.eu/fr/images/rcf.gif",
+        "radio_url": "https://rcf.streamakaci.com/rcf33.mp3",
+        "genre": "Bordeaux",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Enjoy 33",
+        "radio_image": "https://radiomap.eu/fr/images/enjoy33.gif",
+        "radio_url": "http://radiotrg.ice.infomaniak.ch:80/radiotrg-high.mp3",
+        "genre": "Bordeaux",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Paul Bert",
+        "radio_image": "https://radiomap.eu/fr/images/paulbert.gif",
+        "radio_url": "https://rocket.streamradio.fr:8012/stream",
+        "genre": "Bordeaux",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Aquitaine Radio Live",
+        "radio_image": "https://radiomap.eu/fr/images/arl.gif",
+        "radio_url": "https://arlaquitaineradiolive.ice.infomaniak.ch:80/arlaquitaineradiolive-128.mp3",
+        "genre": "Bordeaux",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "France Bleu Gironde",
+        "radio_image": "https://radiomap.eu/fr/images/rf_bleu.svg",
+        "radio_url": "http://icecast.radiofrance.fr/fbgironde-midfi.mp3",
+        "genre": "Bordeaux",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "WIT FM",
+        "radio_image": "https://radiomap.eu/fr/images/wit.gif",
+        "radio_url": "https://start-witfm.ice.infomaniak.ch:80/start-witfm-high.mp3",
+        "genre": "Bordeaux",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Forever",
+        "radio_image": "https://radiomap.eu/fr/images/forever.gif",
+        "radio_url": "https://forever-bordeaux.ice.infomaniak.ch/forever-bordeaux-192.mp3",
+        "genre": "Bordeaux",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Blackbox",
+        "radio_image": "https://radiomap.eu/fr/images/blackbox.gif",
+        "radio_url": "https://start-blackbox.ice.infomaniak.ch:80/start-blackbox-high.mp3",
+        "genre": "Bordeaux",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Vinci Autoroutes",
+        "radio_image": "https://radiomap.eu/fr/images/vinci_autoroutes.gif",
+        "radio_url": "https://ice.creacast.com/radio_vinci_autoroutes_2",
+        "genre": "Bordeaux",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "FM \u00c9vangile 66",
+        "radio_image": "https://radiomap.eu/fr/images/evangelie66.gif",
+        "radio_url": "https://stream-ssl.radios-arra.fr:8443/fmevangile66",
+        "genre": "Perpignan",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "CCMA CatM\u00fasica",
+        "radio_image": "https://radiomap.eu/es/images/ccma-musica.gif",
+        "radio_url": "http://shoutcast.ccma.cat/ccma/catalunyamusicaHD.mp3",
+        "genre": "Perpignan",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "RTS",
+        "radio_image": "https://radiomap.eu/fr/images/rts.gif",
+        "radio_url": "https://sc.creacast.com/rts-perpignan",
+        "genre": "Perpignan",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "RNE Radio 5",
+        "radio_image": "https://radiomap.eu/es/images/rne-radio5.svg",
+        "radio_url": "https://dispatcher.rndfnk.com/crtve/rne5/ger/mp3/high",
+        "genre": "Perpignan",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Grand Sud FM",
+        "radio_image": "https://radiomap.eu/fr/images/grandsud.gif",
+        "radio_url": "http://grandsudfm.ice.infomaniak.ch:80/grandsudfm-128.mp3",
+        "genre": "Perpignan",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "100% Radio",
+        "radio_image": "https://radiomap.eu/fr/images/100p.gif",
+        "radio_url": "https://100radio-perpignan.ice.infomaniak.ch/100radio-perpignan-128.mp3",
+        "genre": "Perpignan",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "CCMA Catalunya Informaci\u00f3",
+        "radio_image": "https://radiomap.eu/es/images/ccma-informacio.gif",
+        "radio_url": "http://shoutcast.ccma.cat/ccma/catalunyainformacioHD.mp3",
+        "genre": "Perpignan",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Flaix FM",
+        "radio_image": "https://radiomap.eu/es/images/flaix.svg",
+        "radio_url": "https://flaixfm.streaming-pro.com:8001/flaixfm.mp3",
+        "genre": "Perpignan",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "France Bleu Roussillon",
+        "radio_image": "https://radiomap.eu/fr/images/rf_bleu.svg",
+        "radio_url": "http://icecast.radiofrance.fr/fbroussillon-midfi.mp3",
+        "genre": "Perpignan",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Littoral FM",
+        "radio_image": "https://radiomap.eu/fr/images/littoral.gif",
+        "radio_url": "http://littoralfmperpignan.ice.infomaniak.ch:80/littoralfmperpignan.mp3",
+        "genre": "Perpignan",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "CCMA iCat",
+        "radio_image": "https://radiomap.eu/es/images/ccma-icat.gif",
+        "radio_url": "http://shoutcast.ccma.cat/ccma/icatHD.mp3",
+        "genre": "Perpignan",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "R\u00e0dio Flaixbac",
+        "radio_image": "https://radiomap.eu/es/images/flaixbac.svg",
+        "radio_url": "https://flaixbac.streaming-pro.com:8005/flaixbac.mp3",
+        "genre": "Perpignan",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "SER Catalunya",
+        "radio_image": "https://radiomap.eu/es/images/ser.svg",
+        "radio_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_CAT.mp3",
+        "genre": "Perpignan",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "CCMA Catalunya R\u00e0dio",
+        "radio_image": "https://radiomap.eu/es/images/ccma-catalunya.gif",
+        "radio_url": "http://shoutcast.ccma.cat/ccma/catalunyaradioHD.mp3",
+        "genre": "Perpignan",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Pyr\u00e9n\u00e9es FM",
+        "radio_image": "https://radiomap.eu/fr/images/pyrenees.gif",
+        "radio_url": "http://antenne.pyreneesfm.com/direct.mp3",
+        "genre": "Perpignan",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "SER R\u00e0dio Girona",
+        "radio_image": "https://radiomap.eu/es/images/ser.svg",
+        "radio_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_GIRONA.mp3",
+        "genre": "Perpignan",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Sud Radio",
+        "radio_image": "https://radiomap.eu/be/images/sud.gif",
+        "radio_url": "https://stream.ceit.be/sudradio-hainaut",
+        "genre": "Lille",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "France Bleu Nord",
+        "radio_image": "https://radiomap.eu/fr/images/rf_bleu.svg",
+        "radio_url": "http://icecast.radiofrance.fr/fbnord-midfi.mp3",
+        "genre": "Lille",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Horizon",
+        "radio_image": "https://radiomap.eu/fr/images/horizon-bethune.gif",
+        "radio_url": "http://horizonradio-bethunelens.ice.infomaniak.ch:80/horizonradio-bethunelens-128",
+        "genre": "Lille",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "VRT Klara",
+        "radio_image": "https://radiomap.eu/be/images/vrt_klara.svg",
+        "radio_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KLARA_128.mp3",
+        "genre": "Lille",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "RTBF Tipik",
+        "radio_image": "https://radiomap.eu/be/images/rtbf_tipik.svg",
+        "radio_url": "https://radios.rtbf.be/pure-64.aac",
+        "genre": "Lille",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "RTBF La Premi\u00e8re",
+        "radio_image": "https://radiomap.eu/be/images/rtbf_lapremiere.svg",
+        "radio_url": "http://radios.rtbf.be/laprem1ere-128.mp3",
+        "genre": "Lille",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Galaxie FM",
+        "radio_image": "https://radiomap.eu/fr/images/galaxie.gif",
+        "radio_url": "https://listen.radioking.com/radio/15684/stream/29075",
+        "genre": "Lille",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "VRT Radio 1",
+        "radio_image": "https://radiomap.eu/be/images/vrt_radio1.svg",
+        "radio_url": "https://icecast.vrtcdn.be/radio1-high.mp3",
+        "genre": "Lille",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "RCF Nord de France Radio Vatican",
+        "radio_image": "https://radiomap.eu/fr/images/rcf.gif",
+        "radio_url": "https://rcf.streamakaci.com/rcf59.mp3",
+        "genre": "Lille",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Fun Radio",
+        "radio_image": "https://radiomap.eu/be/../fr/images/fun.svg",
+        "radio_url": "https://funradiobe.ice.infomaniak.ch/funradiobe-high.mp3",
+        "genre": "Lille",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Metropolys",
+        "radio_image": "https://radiomap.eu/fr/images/metropolys.gif",
+        "radio_url": "https://sc.creacast.com/metropolys",
+        "genre": "Lille",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "VRT Radio 2",
+        "radio_image": "https://radiomap.eu/be/images/vrt_radio2.svg",
+        "radio_url": "https://icecast.vrtcdn.be/ra2ovl-high.mp3",
+        "genre": "Lille",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "RCV RPL",
+        "radio_image": "https://radiomap.eu/fr/images/rcv.gif",
+        "radio_url": "https://www.radioking.fr/play/rcv99fm",
+        "genre": "Lille",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "RDL",
+        "radio_image": "https://radiomap.eu/fr/images/rdl.gif",
+        "radio_url": "http://radiobruaysis.ice.infomaniak.ch:80/radiobruaysis-128.mp3",
+        "genre": "Lille",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Mona FM",
+        "radio_image": "https://radiomap.eu/fr/images/mona.gif",
+        "radio_url": "http://monafm.ice.infomaniak.ch:80/monafm-high.mp3",
+        "genre": "Lille",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "VRT Radio 2",
+        "radio_image": "https://radiomap.eu/be/images/vrt_radio2.svg",
+        "radio_url": "https://icecast.vrtcdn.be/ra2wvl-high.mp3",
+        "genre": "Lille",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Nostalgie",
+        "radio_image": "https://radiomap.eu/be/images/nostalgie-wa.svg",
+        "radio_url": "https://stream.rcs.revma.com/5gd04cwptg0uv",
+        "genre": "Lille",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Contact",
+        "radio_image": "https://radiomap.eu/be/images/contact.gif",
+        "radio_url": "https://radiocontact.ice.infomaniak.ch/radiocontact-mp3-128.mp3",
+        "genre": "Lille",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "VRT MNM",
+        "radio_image": "https://radiomap.eu/be/images/vrt_mnm.svg",
+        "radio_url": "https://icecast.vrtcdn.be/mnm-high.mp3",
+        "genre": "Lille",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "RTBF VivaCit\u00e9 Hainaut",
+        "radio_image": "https://radiomap.eu/be/images/rtbf_vivacite.svg",
+        "radio_url": "http://radios.rtbf.be/vivahainaut-128.mp3",
+        "genre": "Lille",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "VRT Studio Brussel",
+        "radio_image": "https://radiomap.eu/be/images/vrt_stubru.svg",
+        "radio_url": "https://icecast.vrtcdn.be/stubru-high.mp3",
+        "genre": "Lille",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "RTBF Musiq3",
+        "radio_image": "https://radiomap.eu/be/images/rtbf_musiq3.svg",
+        "radio_url": "http://radios.rtbf.be/musiq3-128.mp3",
+        "genre": "Lille",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Qmusic",
+        "radio_image": "https://radiomap.eu/be/images/qmusic.svg",
+        "radio_url": "https://streams.radio.dpgmedia.cloud/redirect/qmusic_be/mp3?source=radiomapeu&player=rp_external",
+        "genre": "Lille",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "JOE",
+        "radio_image": "https://radiomap.eu/be/images/joe.svg",
+        "radio_url": "https://streams.radio.dpgmedia.cloud/redirect/joe_fm/mp3?source=radiomapeu&player=rp_external",
+        "genre": "Lille",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "RTBF Classic 21",
+        "radio_image": "https://radiomap.eu/be/images/rtbf_classic21.svg",
+        "radio_url": "http://radios.rtbf.be/classic21-128.mp3",
+        "genre": "Lille",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Campus Lille",
+        "radio_image": "https://radiomap.eu/fr/images/campus-lille.gif",
+        "radio_url": "http://radiocampuslille.ice.infomaniak.ch:80/radiocampuslille-128",
+        "genre": "Lille",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "NRJ",
+        "radio_image": "https://radiomap.eu/be/../fr/images/nrj.svg",
+        "radio_url": "https://stream.rcs.revma.com/xh00fwuptg0uv",
+        "genre": "Lille",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Sanef 107.7",
+        "radio_image": "https://radiomap.eu/fr/images/sanef.gif",
+        "radio_url": "http://sanef.ice.infomaniak.ch:80/sanef1077-nord.mp3",
+        "genre": "Lille",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Kerne",
+        "radio_image": "https://radiomap.eu/fr/images/kerne.gif",
+        "radio_url": "http://radiokerne.ice.infomaniak.ch:80/radiokerne-192.mp3",
+        "genre": "Quimper",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Oc\u00e9ane FM",
+        "radio_image": "https://radiomap.eu/fr/images/oceane.gif",
+        "radio_url": "https://oceanefm.ice.infomaniak.ch:80/oceanefm-128.mp3",
+        "genre": "Quimper",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "RCF Bretagne Radio Vatican",
+        "radio_image": "https://radiomap.eu/fr/images/rcf.gif",
+        "radio_url": "https://rcf.streamakaci.com/rcf29.mp3",
+        "genre": "Quimper",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "France Bleu Breizh Izel",
+        "radio_image": "https://radiomap.eu/fr/images/rf_bleu.svg",
+        "radio_url": "http://icecast.radiofrance.fr/fbbreizizel-midfi.mp3",
+        "genre": "Quimper",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Neptune",
+        "radio_image": "https://radiomap.eu/fr/images/neptune.gif",
+        "radio_url": "https://radios.infini.fr:8443/neptune",
+        "genre": "Quimper",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "100% Radio",
+        "radio_image": "https://radiomap.eu/fr/images/100p.gif",
+        "radio_url": "https://100radio-toulouse.ice.infomaniak.ch/100radio-toulouse-128.mp3",
+        "genre": "Toulouse",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "France Bleu Occitanie",
+        "radio_image": "https://radiomap.eu/fr/images/rf_bleu.svg",
+        "radio_url": "http://icecast.radiofrance.fr/fbtoulouse-midfi.mp3",
+        "genre": "Toulouse",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Toulouse FM",
+        "radio_image": "https://radiomap.eu/fr/images/toulouse-fm.gif",
+        "radio_url": "https://mmradios.ice.infomaniak.ch/toulousefm.mp3",
+        "genre": "Toulouse",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Pr\u00e9sence",
+        "radio_image": "https://radiomap.eu/fr/images/presence.gif",
+        "radio_url": "https://live.radiopresence.com/radio-presence",
+        "genre": "Toulouse",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "R\u00e0dio Occit\u00e0nia",
+        "radio_image": "https://radiomap.eu/fr/images/occitania.gif",
+        "radio_url": "https://www.comequip.eu/Radio-Occitania",
+        "genre": "Toulouse",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "100% Radio",
+        "radio_image": "https://radiomap.eu/fr/images/100p.gif",
+        "radio_url": "https://100radio-montauban.ice.infomaniak.ch/100radio-montauban-128.mp3",
+        "genre": "Toulouse",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Axe Sud",
+        "radio_image": "https://radiomap.eu/fr/images/axesud.gif",
+        "radio_url": "https://radiostream.comequip.eu/radio-code.php?server=195.154.113.85&port=8004&mount=stream",
+        "genre": "Toulouse",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Rai Radio 1",
+        "radio_image": "https://radiomap.eu/it/images/rai_radio1.svg",
+        "radio_url": "http://icestreaming.rai.it/1.mp3",
+        "genre": "ajaccio",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "RCF Corsica Radio Vatican",
+        "radio_image": "https://radiomap.eu/fr/images/rcf.gif",
+        "radio_url": "https://rcf.streamakaci.com/rcf20.mp3",
+        "genre": "ajaccio",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Rai Radio 2",
+        "radio_image": "https://radiomap.eu/it/images/rai_radio2.svg",
+        "radio_url": "http://icestreaming.rai.it/2.mp3",
+        "genre": "ajaccio",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "France Bleu RCFM",
+        "radio_image": "https://radiomap.eu/fr/images/rf_bleu.svg",
+        "radio_url": "http://icecast.radiofrance.fr/fbfrequenzamora-midfi.mp3",
+        "genre": "ajaccio",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Rai Radio 3",
+        "radio_image": "https://radiomap.eu/it/images/rai_radio3.svg",
+        "radio_url": "http://icestreaming.rai.it/3.mp3",
+        "genre": "ajaccio",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "eight.",
+        "radio_image": "https://radiomap.eu/fr/images/eight.gif",
+        "radio_url": "https://stream.zeno.fm/wmr5tr574v8uv",
+        "genre": "ajaccio",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Alta Frequenza",
+        "radio_image": "https://radiomap.eu/fr/images/alta-frequenza.gif",
+        "radio_url": "http://altafrequenza.ice.infomaniak.ch:80/altafrequenza-128.mp3",
+        "genre": "ajaccio",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Alouette",
+        "radio_image": "https://radiomap.eu/fr/images/alouette.gif",
+        "radio_url": "https://alouette-finistere.ice.infomaniak.ch/alouette-finistere-128.mp3",
+        "genre": "Brest",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Arvorig FM",
+        "radio_image": "https://radiomap.eu/fr/images/arvorig.gif",
+        "radio_url": "https://arvorig-fm.online.radiobreizh.bzh/live.mp3",
+        "genre": "Brest",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Bonheur",
+        "radio_image": "https://radiomap.eu/fr/images/bonheur.gif",
+        "radio_url": "https://radiobonheur.ice.infomaniak.ch:80/radiobonheur-128-1.mp3",
+        "genre": "Brest",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Pays de L\u00e9on",
+        "radio_image": "https://radiomap.eu/fr/images/paysdeleon.gif",
+        "radio_url": "https://radiopaysdeleon.ice.infomaniak.ch/radiopaysdeleon.mp3",
+        "genre": "Brest",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio U",
+        "radio_image": "https://radiomap.eu/fr/images/u-brest.gif",
+        "radio_url": "https://icecast.infini.fr:8443/radiou.mp3",
+        "genre": "Brest",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Fr\u00e9quence Mutine",
+        "radio_image": "https://radiomap.eu/fr/images/frequence-mutine.gif",
+        "radio_url": "https://radios.infini.fr:8443/mutine",
+        "genre": "Brest",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "SWR4",
+        "radio_image": "https://radiomap.eu/de/images/swr4.svg",
+        "radio_url": "https://liveradio.swr.de/sw282p3/swr4fr/",
+        "genre": "Strasbourg",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "EST FM",
+        "radio_image": "https://radiomap.eu/fr/images/est.gif",
+        "radio_url": "https://ice.creacast.com/estfm_hq.mp3",
+        "genre": "Strasbourg",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Arc-en-Ciel Radio En Construction",
+        "radio_image": "https://radiomap.eu/fr/images/arcenciel907.gif",
+        "radio_url": "https://ice.creacast.com/arcencielweb",
+        "genre": "Strasbourg",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Top Music",
+        "radio_image": "https://radiomap.eu/fr/images/topmusic.gif",
+        "radio_url": "https://ice.creacast.com/topmusic1",
+        "genre": "Strasbourg",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "DKL Libert\u00e9",
+        "radio_image": "https://radiomap.eu/fr/images/dkl-liberte.gif",
+        "radio_url": "http://radioliberte.ice.infomaniak.ch:80/radioliberte-128.mp3",
+        "genre": "Strasbourg",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio RBS",
+        "radio_image": "https://radiomap.eu/fr/images/rbs.gif",
+        "radio_url": "https://www.radioking.com/play/radio-rbs-1",
+        "genre": "Strasbourg",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "SWR1 Baden-W\u00fcrttemberg",
+        "radio_image": "https://radiomap.eu/de/images/swr1.svg",
+        "radio_url": "https://liveradio.swr.de/sw282p3/swr1bw/",
+        "genre": "Strasbourg",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Accent 4",
+        "radio_image": "https://radiomap.eu/fr/images/accent4.gif",
+        "radio_url": "https://ice.creacast.com/accent4",
+        "genre": "Strasbourg",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "SWR4",
+        "radio_image": "https://radiomap.eu/de/images/swr4.svg",
+        "radio_url": "https://liveradio.swr.de/sw282p3/swr4ka/",
+        "genre": "Strasbourg",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Regenbogen",
+        "radio_image": "https://radiomap.eu/de/images/regenbogen.gif",
+        "radio_url": "http://streams.regenbogen.de/rr-mannheim-128-mp3",
+        "genre": "Strasbourg",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "die neue welle",
+        "radio_image": "https://radiomap.eu/de/images/dieneuewelle.gif",
+        "radio_url": "https://dieneuewelle-ais-edge-3001-fra-eco-cdn.cast.addradio.de/dieneuewelle/simulcast/high/stream.mp3",
+        "genre": "Strasbourg",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "France Bleu Alsace",
+        "radio_image": "https://radiomap.eu/fr/images/rf_bleu.svg",
+        "radio_url": "http://icecast.radiofrance.fr/fbalsace-midfi.mp3",
+        "genre": "Strasbourg",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Radio Juda\u00efca Strasbourg",
+        "radio_image": "https://radiomap.eu/fr/images/judaica-strasbourg.gif",
+        "radio_url": "http://radiojudaicastrasbourg.ice.infomaniak.ch:80/radiojudaicastrasbourg-128.mp3",
+        "genre": "Strasbourg",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "DKL Dreyeckland",
+        "radio_image": "https://radiomap.eu/fr/images/dkl-dreyeckland.gif",
+        "radio_url": "https://stream.rcs.revma.com/aguwyw7fkzzuv.mp3",
+        "genre": "Strasbourg",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
+        "radio_id": "9999999",
+        "radio_name": "Hitradio Ohr",
+        "radio_image": "https://radiomap.eu/de/images/hitradioohr.gif",
+        "radio_url": "https://stream.hitradio-ohr.de/hitradio_ohr",
+        "genre": "Strasbourg",
+        "country_id": "222",
+        "country_name": "France",
+        "country_flag": "https://worldradiomap.com/2013/flags/46/fr.png"
+    },
+    {
       "radio_id": "119531",
       "radio_name": "Radio VINCI Autoroutes - Version HappyList",
       "radio_image": "https://visitdpstudio.net/radio_world/upload/47563282-2023-12-29.png",
