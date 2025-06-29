@@ -2,7 +2,7 @@
   "promotional_ads": {
     "active": true,
     "rotation_enabled": true,
-    "rotation_interval": 5, // seconds between rotations
+    "rotation_interval": 2,
     "ads": [
       {
         "id": "iptv_banner_1",
