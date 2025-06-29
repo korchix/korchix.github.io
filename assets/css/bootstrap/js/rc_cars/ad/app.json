@@ -1,6 +1,6 @@
 {
   "promotional_ads": {
-    "active": false,
+    "active": true,
     "rotation_enabled": true,
     "rotation_interval": 4,
     "ads": [
