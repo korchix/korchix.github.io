@@ -5,6 +5,12 @@
     "rotation_interval": 4,
     "ads": [
       {
+        "id": "iptv_banner_1",
+        "type": "banner",
+        "image_url": "https://raw.githubusercontent.com/korchix/korchix.github.io/refs/heads/master/assets/css/bootstrap/js/rc_cars/ad/ip_banner.png",
+        "target_url": "https://qa.iptvplayer.stream?source=rcapp"
+      },
+      {
         "id": "iptv_text_1", 
         "type": "text",
         "title": "Premium IPTV Streaming",
