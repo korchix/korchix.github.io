@@ -6,25 +6,25 @@
         "id": "banner_1",
         "type": "banner",
         "image_url": "https://raw.githubusercontent.com/korchix/korchix.github.io/refs/heads/master/assets/css/bootstrap/js/rc_cars/ad/banner_1.png",
-        "target_url": "https://qa.iptvplayer.stream?source=rcappb1"
+        "target_url": "https://iptvplayer.stream?source=rcappb1"
       },
       {
         "id": "banner_2",
         "type": "banner",
         "image_url": "https://raw.githubusercontent.com/korchix/korchix.github.io/refs/heads/master/assets/css/bootstrap/js/rc_cars/ad/banner_2.png",
-        "target_url": "https://qa.iptvplayer.stream?source=rcappb2"
+        "target_url": "https://iptvplayer.stream?source=rcappb2"
       },
       {
         "id": "banner_3",
         "type": "banner",
         "image_url": "https://raw.githubusercontent.com/korchix/korchix.github.io/refs/heads/master/assets/css/bootstrap/js/rc_cars/ad/banner_3.png",
-        "target_url": "https://qa.iptvplayer.stream?source=rcappb3"
+        "target_url": "https://iptvplayer.stream?source=rcappb3"
       },
       {
         "id": "banner_4",
         "type": "banner",
         "image_url": "https://raw.githubusercontent.com/korchix/korchix.github.io/refs/heads/master/assets/css/bootstrap/js/rc_cars/ad/banner_4.png",
-        "target_url": "https://qa.iptvplayer.stream?source=rcappb4"
+        "target_url": "https://iptvplayer.stream?source=rcappb4"
       }
     ]
   }
