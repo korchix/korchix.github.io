@@ -1,22 +1,30 @@
 {
   "promotional_ads": {
     "active": true,
-    "rotation_enabled": true,
-    "rotation_interval": 4,
     "ads": [
       {
-        "id": "iptv_banner_1",
+        "id": "banner_1",
         "type": "banner",
-        "image_url": "https://raw.githubusercontent.com/korchix/korchix.github.io/refs/heads/master/assets/css/bootstrap/js/rc_cars/ad/ip_banner.png",
-        "target_url": "https://qa.iptvplayer.stream?source=rcapp"
+        "image_url": "https://raw.githubusercontent.com/korchix/korchix.github.io/refs/heads/master/assets/css/bootstrap/js/rc_cars/ad/banner_1.png",
+        "target_url": "https://qa.iptvplayer.stream?source=rcappb1"
       },
       {
-        "id": "iptv_text_1", 
-        "type": "text",
-        "title": "Premium IPTV Streaming",
-        "subtitle": "Movies, Sports & Live TV worldwide",
-        "target_url": "https://qa.iptvplayer.stream?source=rcapp",
-        "cta_text": "Watch Now"
+        "id": "banner_2",
+        "type": "banner",
+        "image_url": "https://raw.githubusercontent.com/korchix/korchix.github.io/refs/heads/master/assets/css/bootstrap/js/rc_cars/ad/banner_2.png",
+        "target_url": "https://qa.iptvplayer.stream?source=rcappb2"
+      },
+      {
+        "id": "banner_3",
+        "type": "banner",
+        "image_url": "https://raw.githubusercontent.com/korchix/korchix.github.io/refs/heads/master/assets/css/bootstrap/js/rc_cars/ad/banner_3.png",
+        "target_url": "https://qa.iptvplayer.stream?source=rcappb3"
+      },
+      {
+        "id": "banner_4",
+        "type": "banner",
+        "image_url": "https://raw.githubusercontent.com/korchix/korchix.github.io/refs/heads/master/assets/css/bootstrap/js/rc_cars/ad/banner_4.png",
+        "target_url": "https://qa.iptvplayer.stream?source=rcappb4"
       }
     ]
   }
