@@ -1,10 +1,26 @@
 {
-  "promotional_ad": {
+  "promotional_ads": {
     "active": true,
-    "type": "text",
-    "title": "Premium Streaming Platform",
-    "subtitle": "Movies, sports & entertainment worldwide",
-    "target_url": "https://iptvplayer.stream",
-    "cta_text": "Explore Now"
+    "rotation_enabled": true,
+    "rotation_interval": 5, // seconds between rotations
+    "ads": [
+      {
+        "id": "iptv_banner_1",
+        "type": "banner",
+        "image_url": "https://raw.githubusercontent.com/korchix/korchix.github.io/refs/heads/master/assets/css/bootstrap/js/rc_cars/ad/ip_banner.png",
+        "target_url": "https://iptvplayer.stream?source=rcapp"
+      },
+      {
+        "id": "iptv_text_1", 
+        "type": "text",
+        "title": "Premium IPTV Streaming",
+        "subtitle": "Movies, Sports & Live TV worldwide",
+        "target_url": "https://iptvplayer.stream?source=rcapp",
+        "cta_text": "Watch Now"
+      }
+    ]
   }
 }
+
+
+
