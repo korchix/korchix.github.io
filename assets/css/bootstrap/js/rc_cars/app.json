@@ -1,0 +1,10 @@
+{
+  "promotional_ad": {
+    "active": true,
+    "type": "text",
+    "title": "Premium Streaming Platform",
+    "subtitle": "Movies, sports & entertainment worldwide",
+    "target_url": "https://iptvplayer.stream",
+    "cta_text": "Explore Now"
+  }
+}
