@@ -1,6 +1,6 @@
 {
   "promotional_ads": {
-    "active": true,
+    "active": false,
     "ads": [
       {
         "id": "banner_1",
@@ -29,6 +29,3 @@
     ]
   }
 }
-
-
-
