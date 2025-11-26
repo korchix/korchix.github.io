@@ -1,6 +1,6 @@
 {
-  "min_version": "1.1.0",
-  "latest_version": "1.1.0",
+  "min_version": "1.0.0",
+  "latest_version": "1.0.0",
   "force_update": false,
   "update_url": "https://play.google.com/store/apps/details?id=com.example.tiktok_downloader",
   "update_message_en": "A new version is available with important improvements.",
