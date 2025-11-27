@@ -4,5 +4,10 @@
   "force_update": false,
   "update_url": "https://play.google.com/store/apps/details?id=com.korchix.tiktok_downloader",
   "update_message_en": "A new version is available with important improvements.",
-  "update_message_ar": "يتوفر إصدار جديد مع تحسينات مهمة."
+  "update_message_ar": "يتوفر إصدار جديد مع تحسينات مهمة.",
+  "update_message_de": "Eine neue Version mit wichtigen Verbesserungen ist verfügbar.",
+  "update_message_fr": "Une nouvelle version avec des améliorations importantes est disponible.",
+  "update_message_es": "Una nueva versión con mejoras importantes está disponible.",
+  "update_message_pt": "Uma nova versão com melhorias importantes está disponível.",
+  "update_message_ru": "Доступна новая версия с важными улучшениями."
 }
