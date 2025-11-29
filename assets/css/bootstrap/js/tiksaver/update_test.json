@@ -1,7 +1,7 @@
 {
-  "min_version": "1.0.2",
+  "min_version": "1.0.3",
   "latest_version": "1.0.3",
-  "force_update": false,
+  "force_update": true,
   "update_url": "https://play.google.com/store/apps/details?id=com.korchix.tiktok_downloader",
   "update_message_en": "A new version is available with important improvements.",
   "update_message_ar": "يتوفر إصدار جديد مع تحسينات مهمة.",
