@@ -1,0 +1,23 @@
+{
+  "android": {
+    "min_version": "1.0.3",
+    "latest_version": "1.0.3",
+    "force_update": false,
+    "update_url": "https://play.google.com/store/apps/details?id=com.korchix.tiktok_downloader"
+  },
+  "ios": {
+    "min_version": "1.0.0",
+    "latest_version": "1.0.1",
+    "force_update": false,
+    "update_url": "https://apps.apple.com/app/id6755959315"
+  },
+  "messages": {
+    "en": "A new version is available with bug fixes and improvements.",
+    "ar": "يتوفر إصدار جديد مع إصلاحات وتحسينات.",
+    "de": "Eine neue Version mit Fehlerbehebungen und Verbesserungen ist verfügbar.",
+    "fr": "Une nouvelle version avec des corrections est disponible.",
+    "es": "Una nueva versión con correcciones está disponible.",
+    "pt": "Uma nova versão com correções está disponível.",
+    "ru": "Доступна новая версия с исправлениями."
+  }
+}
