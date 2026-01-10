@@ -1,9 +1,9 @@
 {
   "android": {
-    "min_version": "1.0.5",
-    "latest_version": "1.0.5",
-    "force_update": false,
-    "update_url": "https://play.google.com/store/apps/details?id=com.korchix.tiktok_downloader"
+    "min_version": "1.0.6",
+    "latest_version": "1.0.6",
+    "force_update": true,
+    "update_url": "https://play.google.com/store/apps/details?id=tmate.snaptik.tt_video_downloader.nowatermark.video.downloader"
   },
   "ios": {
     "min_version": "1.0.3",
