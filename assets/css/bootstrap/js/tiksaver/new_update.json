@@ -1,7 +1,7 @@
 {
   "android": {
-    "min_version": "1.0.6",
-    "latest_version": "1.0.6",
+    "min_version": "1.0.9",
+    "latest_version": "1.0.9",
     "force_update": true,
     "update_url": "https://fastvideodl.com/tiktok-video-downloader"
   },
